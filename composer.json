@@ -9,7 +9,7 @@
         }
     ],
     "require-dev": {
-        "sokil/php-isocodes": "^4.0",
+        "sokil/php-isocodes": " 4.0.x-dev",
         "phpunit/phpunit": "^9.5"
     },
     "scripts": {
