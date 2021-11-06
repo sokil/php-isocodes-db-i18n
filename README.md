@@ -1,4 +1,4 @@
-# I18n files and database to PHP-ISOCODES library
+# I18n files and database for PHP-ISOCODES library
 
 :1234: Database version: iso-codes-4.6.0-1-gd490b2a4 from 2021-03-17 16:34
 
