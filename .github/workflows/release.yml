@@ -29,5 +29,5 @@ jobs:
           author: Dmytro Sokil <dmytro.sokil@gmail.com>
           commit-message: Database update
           title: Database update
-          base: "3.0"
+          base: "4.0"
           branch: "github-actions-release"
