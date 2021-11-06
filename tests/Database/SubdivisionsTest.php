@@ -76,7 +76,7 @@ class SubdivisionsTest extends TestCase
         );
 
         $this->assertEquals(
-            'Respublika Krym',
+            'Avtonomna Respublika Krym',
             $subDivision->getName()
         );
 
