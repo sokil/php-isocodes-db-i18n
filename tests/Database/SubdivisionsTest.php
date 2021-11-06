@@ -13,7 +13,7 @@ class SubdivisionsTest extends TestCase
 {
     public function subDivisionsDatabaseProvider(): array
     {
-        $isoCodes = new IsoCodesFactory();
+        $isoCodes = new IsoCodesFactory(BASE_DIRECTORY);
 
         return [
             'non_partitioned' => [

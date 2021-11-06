@@ -12,7 +12,7 @@ class CountriesTest extends TestCase
 {
     public function testIterator(): void
     {
-        $isoCodes = new IsoCodesFactory();
+        $isoCodes = new IsoCodesFactory(BASE_DIRECTORY);
         $countries = $isoCodes->getCountries();
         foreach ($countries as $country) {
             $this->assertInstanceOf(
@@ -27,7 +27,7 @@ class CountriesTest extends TestCase
 
     public function testGetByAlpha2(): void
     {
-        $isoCodes = new IsoCodesFactory();
+        $isoCodes = new IsoCodesFactory(BASE_DIRECTORY);
 
         $countries = $isoCodes->getCountries();
         $country = $countries->getByAlpha2('UA');
@@ -70,7 +70,7 @@ class CountriesTest extends TestCase
 
     public function testGetByAlpha3(): void
     {
-        $isoCodes = new IsoCodesFactory();
+        $isoCodes = new IsoCodesFactory(BASE_DIRECTORY);
 
         $countries = $isoCodes->getCountries();
         $country = $countries->getByAlpha3('UKR');
@@ -108,7 +108,7 @@ class CountriesTest extends TestCase
      */
     public function testGetByNumericCode($code): void
     {
-        $isoCodes = new IsoCodesFactory();
+        $isoCodes = new IsoCodesFactory(BASE_DIRECTORY);
 
         $countries = $isoCodes->getCountries();
         $country = $countries->getByNumericCode($code);
@@ -133,7 +133,7 @@ class CountriesTest extends TestCase
     {
         $this->expectException(\TypeError::class);
 
-        $isoCodes = new IsoCodesFactory();
+        $isoCodes = new IsoCodesFactory(BASE_DIRECTORY);
 
         $countries = $isoCodes->getCountries();
         $country = $countries->getByNumericCode('kek');
@@ -141,7 +141,7 @@ class CountriesTest extends TestCase
 
     public function testGetByNumericCodeLeadingZeroes(): void
     {
-        $isoCodes = new IsoCodesFactory();
+        $isoCodes = new IsoCodesFactory(BASE_DIRECTORY);
 
         $countries = $isoCodes->getCountries();
         $country = $countries->getByNumericCode('036');

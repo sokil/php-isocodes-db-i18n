@@ -13,7 +13,7 @@ class LanguagesTest extends TestCase
 {
     public function languageDatabaseProvider()
     {
-        $isoCodes = new IsoCodesFactory();
+        $isoCodes = new IsoCodesFactory(BASE_DIRECTORY);
 
         return [
             'non_partitioned' => [

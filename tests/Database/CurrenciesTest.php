@@ -12,7 +12,7 @@ class CurrenciesTest extends TestCase
 {
     public function testIterator(): void
     {
-        $isoCodes = new IsoCodesFactory();
+        $isoCodes = new IsoCodesFactory(BASE_DIRECTORY);
         $currencies = $isoCodes->getCurrencies();
         foreach ($currencies as $currency) {
             $this->assertInstanceOf(
@@ -24,7 +24,7 @@ class CurrenciesTest extends TestCase
 
     public function testGetByLetterCode(): void
     {
-        $isoCodes = new IsoCodesFactory();
+        $isoCodes = new IsoCodesFactory(BASE_DIRECTORY);
 
         $currencies = $isoCodes->getCurrencies();
 
@@ -69,7 +69,7 @@ class CurrenciesTest extends TestCase
      */
     public function testGetByNumericCode($code): void
     {
-        $isoCodes = new IsoCodesFactory();
+        $isoCodes = new IsoCodesFactory(BASE_DIRECTORY);
 
         $currencies = $isoCodes->getCurrencies();
         $currency = $currencies->getByNumericCode($code);
@@ -87,7 +87,7 @@ class CurrenciesTest extends TestCase
 
     public function testGetByNumericCodeLeadingZeroes(): void
     {
-        $isoCodes = new IsoCodesFactory();
+        $isoCodes = new IsoCodesFactory(BASE_DIRECTORY);
 
         $currencies = $isoCodes->getCurrencies();
         $currency = $currencies->getByNumericCode('051');

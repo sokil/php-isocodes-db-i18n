@@ -12,7 +12,7 @@ class ScriptsTest extends TestCase
 {
     public function testIterator(): void
     {
-        $isoCodes = new IsoCodesFactory();
+        $isoCodes = new IsoCodesFactory(BASE_DIRECTORY);
 
         $scripts = $isoCodes->getScripts();
 
@@ -26,7 +26,7 @@ class ScriptsTest extends TestCase
 
     public function testGetByAlpha4(): void
     {
-        $isoCodes = new IsoCodesFactory();
+        $isoCodes = new IsoCodesFactory(BASE_DIRECTORY);
 
         $scripts = $isoCodes->getScripts();
         $script = $scripts->getByAlpha4('Aghb');
@@ -59,7 +59,7 @@ class ScriptsTest extends TestCase
 
     public function testGetByNumericCode(): void
     {
-        $isoCodes = new IsoCodesFactory();
+        $isoCodes = new IsoCodesFactory(BASE_DIRECTORY);
 
         $scripts = $isoCodes->getScripts();
         $script = $scripts->getByNumericCode('239');

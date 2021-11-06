@@ -12,7 +12,7 @@ class HistoricCountriesTest extends TestCase
 {
     public function testIterator(): void
     {
-        $isoCodes = new IsoCodesFactory();
+        $isoCodes = new IsoCodesFactory(BASE_DIRECTORY);
 
         $countries = $isoCodes->getHistoricCountries();
 
@@ -26,7 +26,7 @@ class HistoricCountriesTest extends TestCase
 
     public function testGetByAlpha4(): void
     {
-        $isoCodes = new IsoCodesFactory();
+        $isoCodes = new IsoCodesFactory(BASE_DIRECTORY);
 
         $countries = $isoCodes->getHistoricCountries();
         $country = $countries->getByAlpha4('ZRCD');
@@ -73,7 +73,7 @@ class HistoricCountriesTest extends TestCase
         putenv('LC_ALL=uk_UA.UTF-8');
         setlocale(LC_ALL, 'uk_UA.UTF-8');
 
-        $isoCodes = new IsoCodesFactory();
+        $isoCodes = new IsoCodesFactory(BASE_DIRECTORY);
 
         $countries = $isoCodes->getHistoricCountries();
         $country = $countries->getByAlpha4('ZRCD');
@@ -91,7 +91,7 @@ class HistoricCountriesTest extends TestCase
 
     public function testGetByAlpha3(): void
     {
-        $isoCodes = new IsoCodesFactory();
+        $isoCodes = new IsoCodesFactory(BASE_DIRECTORY);
 
         $countries = $isoCodes->getHistoricCountries();
         $country = $countries->getByAlpha3('ZAR');
@@ -113,7 +113,7 @@ class HistoricCountriesTest extends TestCase
         putenv('LC_ALL=uk_UA.UTF-8');
         setlocale(LC_ALL, 'uk_UA.UTF-8');
 
-        $isoCodes = new IsoCodesFactory();
+        $isoCodes = new IsoCodesFactory(BASE_DIRECTORY);
 
         $countries = $isoCodes->getHistoricCountries();
         $country = $countries->getByAlpha3('ZAR');
@@ -131,7 +131,7 @@ class HistoricCountriesTest extends TestCase
 
     public function testGetByNumericCode(): void
     {
-        $isoCodes = new IsoCodesFactory();
+        $isoCodes = new IsoCodesFactory(BASE_DIRECTORY);
 
         $countries = $isoCodes->getHistoricCountries();
         $country = $countries->getByNumericCode('180');
@@ -153,7 +153,7 @@ class HistoricCountriesTest extends TestCase
         putenv('LC_ALL=uk_UA.UTF-8');
         setlocale(LC_ALL, 'uk_UA.UTF-8');
 
-        $isoCodes = new IsoCodesFactory();
+        $isoCodes = new IsoCodesFactory(BASE_DIRECTORY);
 
         $countries = $isoCodes->getHistoricCountries();
         $country = $countries->getByNumericCode('180');
