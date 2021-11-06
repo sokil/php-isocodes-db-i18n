@@ -86,7 +86,7 @@ class SubdivisionsTest extends TestCase
         );
 
         $this->assertEquals(
-            'Autonomous republic',
+            'Republic',
             $subDivision->getType()
         );
 
