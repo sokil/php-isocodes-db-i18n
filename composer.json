@@ -8,6 +8,10 @@
             "email": "dmytro.sokil@gmail.com"
         }
     ],
+    "require": {
+        "php": ">=7.1",
+        "ext-json": "*"
+    },
     "require-dev": {
         "sokil/php-isocodes": " 4.0.x-dev",
         "phpunit/phpunit": "^9.5"
