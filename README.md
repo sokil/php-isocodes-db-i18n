@@ -1,6 +1,6 @@
 # I18n files and database for PHP-ISOCODES library
 
-:1234: Database version: v4.8.0-26-gf4b9c87 from 2021-12-02 04:20
+:1234: Database version: v4.8.0-29-ge291e84 from 2021-12-04 15:53
 
 Database updated at 2-nd day of every month.
 
