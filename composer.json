@@ -17,8 +17,6 @@
         "phpunit/phpunit": "^9.5"
     },
     "scripts": {
-        "test": "./vendor/bin/phpunit",
-        "release": "./bin/release.sh",
-        "update_iso_codes_db": "./bin/update_iso_codes_db.sh"
+        "test": "./vendor/bin/phpunit"
     }
 }

@@ -16,21 +16,17 @@
 CURRENT_DIR=$(dirname $(readlink -f $0))
 PROJECT_DIR=$(dirname $CURRENT_DIR)
 
+TMP_BUILD_DIR=${1:-/tmp/iso-codes-build}
+
 # Prepare build dir
-if [[ -z $1 ]]; then
-    TMP_BUILD_DIR="/tmp/iso-codes-build"
-else
-    TMP_BUILD_DIR=$1
+if [[ ! -d $TMP_BUILD_DIR ]]; then
+    # if not exists, create
+    mkdir -p $TMP_BUILD_DIR
+fi
 
-    if [[ ! -d $TMP_BUILD_DIR ]]; then
-        # if not exists, create
-        mkdir -p $TMP_BUILD_DIR
-    fi
-
-    if [[ ! -w $TMP_BUILD_DIR ]]; then
-        echo -e "[Release] Passed base directory \033[0;31m${TMP_BUILD_DIR}\033[0m is not writable"
-        exit 1
-    fi
+if [[ ! -w $TMP_BUILD_DIR ]]; then
+    echo -e "[Release] Passed base directory \033[0;31m${TMP_BUILD_DIR}\033[0m is not writable"
+    exit 1
 fi
 
 echo -e "[Release] Build directory is \033[0;31m${TMP_BUILD_DIR}\033[0m"
@@ -53,7 +49,7 @@ if [[ ! -d ${PROJECT_DIR}/vendor ]]; then
 fi
 
 # update database
-$PROJECT_DIR/vendor/sokil/php-isocodes/bin/update_iso_codes_db.sh $PROJECT_DIR $TMP_BUILD_DIR
+$PROJECT_DIR/vendor/sokil/php-isocodes/bin/update_iso_codes_db.sh all $PROJECT_DIR $TMP_BUILD_DIR
 if [[ $? -ne 0 ]]; then
   echo "[Release]  Error when updating database"
   exit 1
