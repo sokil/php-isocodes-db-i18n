@@ -13,7 +13,7 @@
         "ext-json": "*"
     },
     "require-dev": {
-        "sokil/php-isocodes": " 4.0.x-dev",
+        "sokil/php-isocodes": "^4.0.1",
         "phpunit/phpunit": "^9.5"
     },
     "scripts": {
