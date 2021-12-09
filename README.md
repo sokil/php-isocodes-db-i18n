@@ -33,5 +33,5 @@ use just "sokil/php-isocodes" library and tune update of database and i18n by yo
 composer require sokil/php-isocodes
 ```
 
-To setup manual update please read [instruction](https://github.com/sokil/php-isocodes#manual-database-update).
+To setup manual update please read [instruction](https://github.com/sokil/php-isocodes#library-with-manual-database-update).
 
