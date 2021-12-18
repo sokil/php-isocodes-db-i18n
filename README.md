@@ -17,13 +17,13 @@ Details about library you may find in [sokil/php-isocodes](https://github.com/so
 To install "sokil/php-isocodes" library with full database and i18n files:
 
 ```
-composer require sokil/php-isocodes-db-i18n
+composer require sokil/php-isocodes sokil/php-isocodes-db-i18n
 ```
 
 You may also install "sokil/php-isocodes" with only database (no i18n will be available):
 
 ```
-composer require sokil/php-isocodes-db-only
+composer require sokil/php-isocodes sokil/php-isocodes-db-only
 ```
 
 Database and internationalisation files updated at 2-nd day of every month. If you prefer to update more often, you may
