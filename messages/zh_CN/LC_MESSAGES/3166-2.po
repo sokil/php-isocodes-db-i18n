@@ -11,14 +11,15 @@
 # LI Daobing <lidaobing@gmail.com>, 2007-2009, 2019.
 # Boyuan Yang <073plan@gmail.com>, 2019, 2020, 2021.
 # tao wang <tonywang5@163.com>, 2020.
+# Dingzhong Chen <wsxy162@gmail.com>, 2021.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-2\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2021-08-27 13:34+0200\n"
-"PO-Revision-Date: 2021-08-27 18:09+0000\n"
-"Last-Translator: Boyuan Yang <073plan@gmail.com>\n"
+"PO-Revision-Date: 2021-12-27 13:53+0000\n"
+"Last-Translator: Dingzhong Chen <wsxy162@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://hosted.weblate.org/projects/iso-"
 "codes/iso-3166-2/zh_Hans/>\n"
 "Language: zh_CN\n"
@@ -26,7 +27,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.8.1-dev\n"
+"X-Generator: Weblate 4.10.1\n"
 
 #. Name for AD-02
 msgid "Canillo"
@@ -64,7 +65,7 @@ msgstr "阿吉曼"
 
 #. Name for AE-AZ
 msgid "Abū Z̧aby"
-msgstr ""
+msgstr "阿布扎比"
 
 #. Name for AE-DU
 msgid "Dubayy"
@@ -159,10 +160,8 @@ msgid "Khōst"
 msgstr "霍斯特省"
 
 #. Name for AF-KNR
-#, fuzzy
-#| msgid "Kunar"
 msgid "Kunaṟ"
-msgstr "库纳尔省"
+msgstr "库纳尔"
 
 #. Name for AF-LAG
 msgid "Laghmān"
@@ -335,7 +334,7 @@ msgstr "科泰克省"
 
 #. Name for AM-LO
 msgid "Loṙi"
-msgstr ""
+msgstr "洛里省"
 
 #. Name for AM-SH
 #, fuzzy

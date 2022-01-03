@@ -12,7 +12,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2018-01-17 22:10+0100\n"
-"PO-Revision-Date: 2021-12-04 23:16+0000\n"
+"PO-Revision-Date: 2021-12-08 00:51+0000\n"
 "Last-Translator: Azamat H. Hackimov <azamat.hackimov@gmail.com>\n"
 "Language-Team: Russian <https://hosted.weblate.org/projects/iso-codes/"
 "iso-639-5/ru/>\n"
@@ -141,14 +141,12 @@ msgid "Chamic languages"
 msgstr "чамские языки"
 
 #. Name for cpe
-#, fuzzy
 msgid "Creoles and pidgins, English‑based"
-msgstr "Контактные языки на английской основе"
+msgstr "контактные языки на английской основе"
 
 #. Name for cpf
-#, fuzzy
 msgid "Creoles and pidgins, French‑based"
-msgstr "Контактные языки на французской основе"
+msgstr "контактные языки на французской основе"
 
 #. Name for cpp
 msgid "Creoles and pidgins, Portuguese-based"
@@ -347,13 +345,12 @@ msgid "Malayo-Polynesian languages"
 msgstr "малайско-полинезийские языки"
 
 #. Name for pqe
-#, fuzzy
 msgid "Eastern Malayo-Polynesian languages"
-msgstr "центрально-восточные малайско-полинезийские языки"
+msgstr "восточные малайско-полинезийские языки"
 
 #. Name for pqw
 msgid "Western Malayo-Polynesian languages"
-msgstr ""
+msgstr "западные малайско-полинезийские языки"
 
 #. Name for pra
 msgid "Prakrit languages"
@@ -368,9 +365,8 @@ msgid "Romance languages"
 msgstr "группа романских языков"
 
 #. Name for sai
-#, fuzzy
 msgid "South American Indian languages"
-msgstr "Индейские языки"
+msgstr "южноамериканские индейские языки"
 
 #. Name for sal
 msgid "Salishan languages"
@@ -409,9 +405,8 @@ msgid "Songhai languages"
 msgstr "сонгайские языки"
 
 #. Name for sqj
-#, fuzzy
 msgid "Albanian languages"
-msgstr "Диалекты албанского языка"
+msgstr "албанские языки"
 
 #. Name for ssa
 msgid "Nilo-Saharan languages"

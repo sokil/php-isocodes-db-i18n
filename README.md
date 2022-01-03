@@ -4,7 +4,7 @@
 [![Total Downloads](http://img.shields.io/packagist/dt/sokil/php-isocodes-db-i18n.svg?1)](https://packagist.org/packages/sokil/php-isocodes-db-i18n)
 [![Daily Downloads](https://poser.pugx.org/sokil/php-isocodes-db-i18n/d/daily)](https://packagist.org/packages/sokil/php-isocodes-db-i18n/stats)
 
-:1234: Database version: v4.8.0-32-gab0e5b6 from 2021-12-05 10:14
+:1234: Database version: v4.9.0 from 2022-01-03 20:34
 
 Database updated at 2-nd day of every month.
 
