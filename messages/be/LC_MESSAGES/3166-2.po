@@ -5,7 +5,7 @@
 # This file is distributed under the same license as the iso-codes package.
 # .
 # Copyright ©
-# Viktar Vauchkevich <victorenator@gmail.com>, 2018, 2019, 2020.
+# Viktar Vauchkevich <victorenator@gmail.com>, 2018, 2019, 2020, 2021.
 # Serge Karpesh <skarpiesz@gmail.com>, 2020.
 msgid ""
 msgstr ""
@@ -13,7 +13,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2021-08-27 13:34+0200\n"
-"PO-Revision-Date: 2020-09-24 20:41+0000\n"
+"PO-Revision-Date: 2021-12-06 10:53+0000\n"
 "Last-Translator: Viktar Vauchkevich <victorenator@gmail.com>\n"
 "Language-Team: Belarusian <https://hosted.weblate.org/projects/iso-codes/"
 "iso-3166-2/be/>\n"
@@ -23,7 +23,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
 "%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.3-dev\n"
+"X-Generator: Weblate 4.10-dev\n"
 
 #. Name for AD-02
 msgid "Canillo"
@@ -54,14 +54,12 @@ msgid "Escaldes-Engordany"
 msgstr "Эскальдэс-Энгардань"
 
 #. Name for AE-AJ
-#, fuzzy
-#| msgid "'Ajmān"
 msgid "‘Ajmān"
 msgstr "Аджман"
 
 #. Name for AE-AZ
 msgid "Abū Z̧aby"
-msgstr ""
+msgstr "Абу-Дабі"
 
 #. Name for AE-DU
 msgid "Dubayy"
@@ -156,8 +154,6 @@ msgid "Khōst"
 msgstr "Хост"
 
 #. Name for AF-KNR
-#, fuzzy
-#| msgid "Kunar"
 msgid "Kunaṟ"
 msgstr "Кунар"
 
@@ -302,8 +298,6 @@ msgid "Vlorë"
 msgstr "Влёра"
 
 #. Name for AM-AG
-#, fuzzy
-#| msgid "Aragacotn"
 msgid "Aragac̣otn"
 msgstr "Арагацотн"
 
@@ -320,8 +314,6 @@ msgid "Erevan"
 msgstr "Ерэван"
 
 #. Name for AM-GR
-#, fuzzy
-#| msgid "Gegarkunik'"
 msgid "Geġark'unik'"
 msgstr "Гехаркунік"
 
@@ -331,11 +323,9 @@ msgstr "Катайк"
 
 #. Name for AM-LO
 msgid "Loṙi"
-msgstr ""
+msgstr "Лоры"
 
 #. Name for AM-SH
-#, fuzzy
-#| msgid "Sirak"
 msgid "Širak"
 msgstr "Шырак"
 
@@ -344,14 +334,10 @@ msgid "Syunik'"
 msgstr "Сюнік"
 
 #. Name for AM-TV
-#, fuzzy
-#| msgid "Tavus"
 msgid "Tavuš"
 msgstr "Тавуш"
 
 #. Name for AM-VD
-#, fuzzy
-#| msgid "Vayoc Jor"
 msgid "Vayoć Jor"
 msgstr "Ваёцдзор"
 
@@ -372,8 +358,6 @@ msgid "Cabinda"
 msgstr "Кабінда"
 
 #. Name for AO-CCU
-#, fuzzy
-#| msgid "Cuando-Cubango"
 msgid "Cuando Cubango"
 msgstr "Кванда-Кубанга"
 
@@ -382,14 +366,10 @@ msgid "Cunene"
 msgstr "Куненэ"
 
 #. Name for AO-CNO
-#, fuzzy
-#| msgid "Cuanza Norte"
 msgid "Cuanza-Norte"
 msgstr "Паўночная Кванза"
 
 #. Name for AO-CUS
-#, fuzzy
-#| msgid "Cuanza Sul"
 msgid "Cuanza-Sul"
 msgstr "Паўднёвая Кванза"
 
@@ -402,14 +382,10 @@ msgid "Huíla"
 msgstr "Уіла"
 
 #. Name for AO-LNO
-#, fuzzy
-#| msgid "Lunda Norte"
 msgid "Lunda-Norte"
 msgstr "Паўночная Лунда"
 
 #. Name for AO-LSU
-#, fuzzy
-#| msgid "Lunda Sul"
 msgid "Lunda-Sul"
 msgstr "Паўднёвая Лунда"
 
@@ -454,8 +430,6 @@ msgid "San Luis"
 msgstr "Сан-Луіс"
 
 #. Name for AR-E
-#, fuzzy
-#| msgid "Entre Rios"
 msgid "Entre Ríos"
 msgstr "Энтрэ-Рыас"
 
@@ -496,8 +470,6 @@ msgid "Formosa"
 msgstr "Фармоса"
 
 #. Name for AR-Q
-#, fuzzy
-#| msgid "Neuquen"
 msgid "Neuquén"
 msgstr "Неўкен"
 
@@ -510,8 +482,6 @@ msgid "Santa Fe"
 msgstr "Санта-Фэ"
 
 #. Name for AR-T
-#, fuzzy
-#| msgid "Tucuman"
 msgid "Tucumán"
 msgstr "Тукуман"
 
@@ -664,8 +634,6 @@ msgid "Cəbrayıl"
 msgstr "Джэбраільскі раён"
 
 #. Name for AZ-CAL
-#, fuzzy
-#| msgid "Cəlilabab"
 msgid "Cəlilabad"
 msgstr "Джалілабадскі раён"
 
@@ -954,10 +922,8 @@ msgid "Barguna"
 msgstr "Баргуна"
 
 #. Name for BD-03
-#, fuzzy
-#| msgid "Fgura"
 msgid "Bogura"
-msgstr "Фгура"
+msgstr "Багура"
 
 #. Name for BD-04
 msgid "Brahmanbaria"
@@ -968,8 +934,6 @@ msgid "Bagerhat"
 msgstr "Багерхат"
 
 #. Name for BD-06, Name for BD-A
-#, fuzzy
-#| msgid "Barisal"
 msgid "Barishal"
 msgstr "Барысал"
 
@@ -978,10 +942,8 @@ msgid "Bhola"
 msgstr "Бхола"
 
 #. Name for BD-08
-#, fuzzy
-#| msgid "Comilla"
 msgid "Cumilla"
-msgstr "Камілла"
+msgstr "Кумілла"
 
 #. Name for BD-09
 msgid "Chandpur"

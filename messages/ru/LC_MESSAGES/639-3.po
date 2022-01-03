@@ -13,14 +13,15 @@
 # Yuri Kozlov <yuray@id.ru>, 2004-2005.
 # Dmitry Sivachenko <trtrmitya@gmail.com>, 2015.
 # yurayko <yuray@komyakino.ru>, 2018.
+# Azamat H. Hackimov <azamat.hackimov@gmail.com>, 2021.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_639-3\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2018-01-17 22:10+0100\n"
-"PO-Revision-Date: 2018-11-03 08:37+0000\n"
-"Last-Translator: yurayko <yuray@komyakino.ru>\n"
+"PO-Revision-Date: 2021-12-08 00:51+0000\n"
+"Last-Translator: Azamat H. Hackimov <azamat.hackimov@gmail.com>\n"
 "Language-Team: Russian <https://hosted.weblate.org/projects/iso-codes/"
 "iso-639-3/ru/>\n"
 "Language: ru\n"
@@ -29,7 +30,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
 "%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 3.3-dev\n"
+"X-Generator: Weblate 4.10-dev\n"
 
 #. Name for aaa
 msgid "Ghotuo"
@@ -50,11 +51,11 @@ msgstr "Сомали"
 
 #. Name for aae
 msgid "Arbëreshë Albanian"
-msgstr ""
+msgstr "арберешский диалект албанского"
 
 #. Inverted name for aae
 msgid "Albanian, Arbëreshë"
-msgstr ""
+msgstr "албанский, арберешский диалект"
 
 #. Name for aaf
 #, fuzzy
@@ -94,27 +95,27 @@ msgstr ""
 
 #. Name for aao
 msgid "Algerian Saharan Arabic"
-msgstr ""
+msgstr "диалект алжирской Сахары арабского"
 
 #. Inverted name for aao
 msgid "Arabic, Algerian Saharan"
-msgstr ""
+msgstr "арабский, диалект алжирской Сахары"
 
 #. Name for aap
 msgid "Pará Arára"
-msgstr ""
+msgstr "паранский арара"
 
 #. Inverted name for aap
 msgid "Arára, Pará"
-msgstr ""
+msgstr "арара, Пара"
 
 #. Name for aaq
 msgid "Eastern Abnaki"
-msgstr ""
+msgstr "восточный абенаки"
 
 #. Inverted name for aaq
 msgid "Abnaki, Eastern"
-msgstr ""
+msgstr "абенаки, восточный"
 
 #. Name for aar
 msgid "Afar"
@@ -2251,9 +2252,8 @@ msgid "Alugu"
 msgstr "Телугу"
 
 #. Name for auc
-#, fuzzy
 msgid "Waorani"
-msgstr "Гуарани"
+msgstr "ваорани"
 
 #. Name for aud
 msgid "Anuta"
@@ -6785,9 +6785,8 @@ msgid "Tayo"
 msgstr "Гайо"
 
 #. Name for ckt
-#, fuzzy
 msgid "Chukot"
-msgstr "Чукотский"
+msgstr "чукотский"
 
 #. Name for cku
 #, fuzzy

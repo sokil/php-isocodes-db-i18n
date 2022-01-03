@@ -6,14 +6,15 @@
 #
 # Copyright ©
 # Boyuan Yang <073plan@gmail.com>, 2021.
+# Dingzhong Chen <wsxy162@gmail.com>, 2021.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_639-5\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2018-01-17 22:10+0100\n"
-"PO-Revision-Date: 2021-08-27 18:09+0000\n"
-"Last-Translator: Boyuan Yang <073plan@gmail.com>\n"
+"PO-Revision-Date: 2021-12-27 13:53+0000\n"
+"Last-Translator: Dingzhong Chen <wsxy162@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://hosted.weblate.org/projects/iso-"
 "codes/iso-639-5/zh_Hans/>\n"
 "Language: zh_Hans\n"
@@ -21,23 +22,23 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.8.1-dev\n"
+"X-Generator: Weblate 4.10.1\n"
 
 #. Name for aav
 msgid "Austro-Asiatic languages"
-msgstr ""
+msgstr "南亚语系"
 
 #. Name for afa
 msgid "Afro-Asiatic languages"
-msgstr ""
+msgstr "亚非语系"
 
 #. Name for alg
 msgid "Algonquian languages"
-msgstr ""
+msgstr "阿尔冈昆语族"
 
 #. Name for alv
 msgid "Atlantic-Congo languages"
-msgstr ""
+msgstr "大西洋—刚果语族"
 
 #. Name for apa
 msgid "Apache languages"
