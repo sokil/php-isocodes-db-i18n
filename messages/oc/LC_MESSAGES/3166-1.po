@@ -7,14 +7,14 @@
 # Copyright ©
 # Alastair McKinstry <mckinstry@debian.org>, 2002.
 # Joan Luc Labòrda <laborde@crpp.u-bordeaux.fr>, 2002.
-# Quentin PAGÈS <quentinantonin@free.fr>, 2021.
+# Quentin PAGÈS <quentinantonin@free.fr>, 2021, 2022.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-1\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2021-08-25 00:34+0200\n"
-"PO-Revision-Date: 2021-12-11 21:10+0000\n"
+"PO-Revision-Date: 2022-01-06 18:54+0000\n"
 "Last-Translator: Quentin PAGÈS <quentinantonin@free.fr>\n"
 "Language-Team: Occitan <https://hosted.weblate.org/projects/iso-codes/"
 "iso-3166-1/oc/>\n"
@@ -23,7 +23,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 4.10-dev\n"
+"X-Generator: Weblate 4.10.1\n"
 
 #. Name for ABW
 msgid "Aruba"
@@ -112,7 +112,7 @@ msgstr "Australia"
 
 #. Name for AUT
 msgid "Austria"
-msgstr "Austria"
+msgstr "Àustria"
 
 #. Official name for AUT
 msgid "Republic of Austria"
