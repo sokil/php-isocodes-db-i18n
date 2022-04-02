@@ -6,14 +6,15 @@
 # Copyright ©
 # Dr. Tobias Quathamer <toddy@debian.org>, 2007.
 # TANIGUCHI Yasuaki <yasuakit+weblate@gmail.com>, 2021.
+# Deleted User <noreply+42563@weblate.org>, 2022.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_15924\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2018-01-17 22:10+0100\n"
-"PO-Revision-Date: 2021-08-04 17:47+0000\n"
-"Last-Translator: TANIGUCHI Yasuaki <yasuakit+weblate@gmail.com>\n"
+"PO-Revision-Date: 2022-03-31 04:08+0000\n"
+"Last-Translator: Deleted User <noreply+42563@weblate.org>\n"
 "Language-Team: Japanese <https://hosted.weblate.org/projects/iso-codes/"
 "iso-15924/ja/>\n"
 "Language: ja\n"
@@ -21,7 +22,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.8-dev\n"
+"X-Generator: Weblate 4.12-dev\n"
 
 #. Name for Adlm
 msgid "Adlam"
@@ -667,11 +668,11 @@ msgstr "新タイ・ルー文字"
 
 #. Name for Taml
 msgid "Tamil"
-msgstr "タミール文字"
+msgstr "タミル文字"
 
 #. Name for Tang
 msgid "Tangut"
-msgstr ""
+msgstr "西夏文字"
 
 #. Name for Tavt
 #, fuzzy
@@ -687,9 +688,8 @@ msgid "Tengwar"
 msgstr "テングワール文字"
 
 #. Name for Tfng
-#, fuzzy
 msgid "Tifinagh (Berber)"
-msgstr "ティフナグ文字 (ベルベル文字)"
+msgstr "ティフナグ文字（ベルベル文字）"
 
 #. Name for Tglg
 msgid "Tagalog (Baybayin, Alibata)"

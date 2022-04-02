@@ -8,14 +8,15 @@
 # Wei-Lun Chao <bluebat@member.fsf.org>, 2010.
 # Louies <louies0623@gmail.com>, 2019.
 # marklin0913da248e4cdada422a <marklin0913@protonmail.com>, 2020.
+# Jack Liu <ywp033319@gmail.com>, 2022.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-2\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2021-08-27 13:34+0200\n"
-"PO-Revision-Date: 2020-10-12 15:26+0000\n"
-"Last-Translator: marklin0913da248e4cdada422a <marklin0913@protonmail.com>\n"
+"PO-Revision-Date: 2022-02-22 02:55+0000\n"
+"Last-Translator: Jack Liu <ywp033319@gmail.com>\n"
 "Language-Team: Chinese (Traditional) <https://hosted.weblate.org/projects/"
 "iso-codes/iso-3166-2/zh_Hant/>\n"
 "Language: zh_TW\n"
@@ -23,35 +24,31 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.3-dev\n"
+"X-Generator: Weblate 4.11-dev\n"
 
 #. Name for AD-02
-#, fuzzy
 msgid "Canillo"
-msgstr "Canillo"
+msgstr "卡尼略"
 
 #. Name for AD-03
-#, fuzzy
 msgid "Encamp"
-msgstr "Encamp"
+msgstr "恩坎普"
 
 #. Name for AD-04
 msgid "La Massana"
 msgstr "馬薩納語"
 
 #. Name for AD-05
-#, fuzzy
 msgid "Ordino"
-msgstr "Ordino"
+msgstr "奧爾迪諾"
 
 #. Name for AD-06
 msgid "Sant Julià de Lòria"
-msgstr ""
+msgstr "聖胡利婭-德洛里亞"
 
 #. Name for AD-07
-#, fuzzy
 msgid "Andorra la Vella"
-msgstr "安道爾 la Vella"
+msgstr "安道爾城"
 
 #. Name for AD-08
 #, fuzzy

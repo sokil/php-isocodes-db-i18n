@@ -11,14 +11,15 @@
 # Takuro Ashie <ashie@homa.ne.jp>, 2001.
 # IIDA Yosiaki <iida@gnu.org>, 2004-2005.
 # TANIGUCHI Yasuaki <yasuakit+weblate@gmail.com>, 2021.
+# ht1722 <taichi_19990611@yahoo.co.jp>, 2022.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_639-3\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2018-01-17 22:10+0100\n"
-"PO-Revision-Date: 2021-08-04 17:47+0000\n"
-"Last-Translator: TANIGUCHI Yasuaki <yasuakit+weblate@gmail.com>\n"
+"PO-Revision-Date: 2022-03-31 04:08+0000\n"
+"Last-Translator: ht1722 <taichi_19990611@yahoo.co.jp>\n"
 "Language-Team: Japanese <https://hosted.weblate.org/projects/iso-codes/"
 "iso-639-3/ja/>\n"
 "Language: ja\n"
@@ -26,7 +27,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.8-dev\n"
+"X-Generator: Weblate 4.12-dev\n"
 
 #. Name for aaa
 msgid "Ghotuo"
@@ -39211,9 +39212,8 @@ msgid "Seeku"
 msgstr "セリクプ語"
 
 #. Name for sot
-#, fuzzy
 msgid "Southern Sotho"
-msgstr "南サーミ語"
+msgstr "南ソト語"
 
 # 国国は「Sotho ソト語」
 # USMARCは-SSO
@@ -39228,9 +39228,8 @@ msgstr "ソト語, 南"
 # マイペディア「レソト」の項に「ソト語」
 # ニッポニカ「ソト族 (Sotho)」の項
 #. Name for sou
-#, fuzzy
 msgid "Southern Thai"
-msgstr "ソト語, 南"
+msgstr "南タイ語"
 
 # 国国は「Sotho ソト語」
 # USMARCは-SSO
@@ -39243,13 +39242,12 @@ msgstr "ソト語, 南"
 
 #. Name for sov
 msgid "Sonsorol"
-msgstr ""
+msgstr "ソンソロール語"
 
 # 国国
 #. Name for sow
-#, fuzzy
 msgid "Sowanda"
-msgstr "サンダウェ語"
+msgstr "ソワンダ語"
 
 # 国国
 # KDE訳は「スロバキア語」

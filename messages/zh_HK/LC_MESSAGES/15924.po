@@ -6,30 +6,31 @@
 # Copyright ©
 # Dr. Tobias Quathamer <toddy@debian.org>, 2007.
 # Walter Cheuk <wwycheuk@gmail.com>, 2019.
+# Jack Liu <ywp033319@gmail.com>, 2022.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_15924\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2018-01-17 22:10+0100\n"
-"PO-Revision-Date: 2019-09-26 07:28+0000\n"
-"Last-Translator: Walter Cheuk <wwycheuk@gmail.com>\n"
-"Language-Team: Chinese (Hong Kong) <https://hosted.weblate.org/projects/iso-"
-"codes/iso-15924/zh_Hant_HK/>\n"
+"PO-Revision-Date: 2022-02-22 02:55+0000\n"
+"Last-Translator: Jack Liu <ywp033319@gmail.com>\n"
+"Language-Team: Chinese (Traditional, Hong Kong) <https://hosted.weblate.org/"
+"projects/iso-codes/iso-15924/zh_Hant_HK/>\n"
 "Language: zh_HK\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 3.9-dev\n"
+"X-Generator: Weblate 4.11-dev\n"
 
 #. Name for Adlm
 msgid "Adlam"
-msgstr ""
+msgstr "阿德拉姆語"
 
 #. Name for Afak
 msgid "Afaka"
-msgstr ""
+msgstr "阿法卡文"
 
 #. Name for Aghb
 msgid "Caucasian Albanian"
