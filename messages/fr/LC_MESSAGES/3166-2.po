@@ -10,19 +10,20 @@
 # Grégoire Colbert <gregus@linux-mandrake.com>, 2001.
 # Christian Perrier <bubulle@debian.org>, 2007-2012.
 # Alban Vidal <alban.vidal@zordhak.fr>, 2017.
-# ButterflyOfFire <ButterflyOfFire@protonmail.com>, 2019.
+# ButterflyOfFire <ButterflyOfFire@protonmail.com>, 2019, 2022.
 # Xavier Gouardes <xavier.gouardes.dekra@gmail.com>, 2019.
 # Julien Humbert <julroy67@gmail.com>, 2020.
 # J. Lavoie <j.lavoie@net-c.ca>, 2020.
 # Christophe <2cadz@adiczion.net>, 2020.
+# verdy_p <verdyp@gmail.com>, 2022.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-2\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2021-08-27 13:34+0200\n"
-"PO-Revision-Date: 2020-11-13 18:28+0000\n"
-"Last-Translator: Christophe <2cadz@adiczion.net>\n"
+"PO-Revision-Date: 2022-03-16 13:55+0000\n"
+"Last-Translator: verdy_p <verdyp@gmail.com>\n"
 "Language-Team: French <https://hosted.weblate.org/projects/iso-codes/"
 "iso-3166-2/fr/>\n"
 "Language: fr\n"
@@ -30,7 +31,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 4.4-dev\n"
+"X-Generator: Weblate 4.12-dev\n"
 
 #. Name for AD-02
 msgid "Canillo"
@@ -338,7 +339,7 @@ msgstr "Kotayk"
 
 #. Name for AM-LO
 msgid "Loṙi"
-msgstr ""
+msgstr "Lori"
 
 #. Name for AM-SH
 #, fuzzy
@@ -357,10 +358,8 @@ msgid "Tavuš"
 msgstr "Tavush"
 
 #. Name for AM-VD
-#, fuzzy
-#| msgid "Vayoc Jor"
 msgid "Vayoć Jor"
-msgstr "Vayots' Dzor"
+msgstr "Vayots’ Dzor"
 
 #. Name for AO-BGO
 msgid "Bengo"
@@ -389,16 +388,12 @@ msgid "Cunene"
 msgstr "Cunene"
 
 #. Name for AO-CNO
-#, fuzzy
-#| msgid "Cuanza Norte"
 msgid "Cuanza-Norte"
-msgstr "Cuanza Norte"
+msgstr "Cuanza-Nord"
 
 #. Name for AO-CUS
-#, fuzzy
-#| msgid "Cuanza Sul"
 msgid "Cuanza-Sul"
-msgstr "Cuanza Sul"
+msgstr "Cuanza-Sud"
 
 #. Name for AO-HUA
 msgid "Huambo"
@@ -409,16 +404,12 @@ msgid "Huíla"
 msgstr "Huila"
 
 #. Name for AO-LNO
-#, fuzzy
-#| msgid "Lunda Norte"
 msgid "Lunda-Norte"
-msgstr "Lunda Norte"
+msgstr "Lunda-Nord"
 
 #. Name for AO-LSU
-#, fuzzy
-#| msgid "Lunda Sul"
 msgid "Lunda-Sul"
-msgstr "Lunda Sul"
+msgstr "Lunda-Sud"
 
 #. Name for AO-LUA
 msgid "Luanda"
@@ -461,10 +452,8 @@ msgid "San Luis"
 msgstr "San Luis"
 
 #. Name for AR-E
-#, fuzzy
-#| msgid "Entre Rios"
 msgid "Entre Ríos"
-msgstr "Entre Ríos"
+msgstr "Entre-Ríos"
 
 #. Name for AR-F, Name for ES-LO, Name for ES-RI
 msgid "La Rioja"
@@ -503,10 +492,8 @@ msgid "Formosa"
 msgstr "Formosa"
 
 #. Name for AR-Q
-#, fuzzy
-#| msgid "Neuquen"
 msgid "Neuquén"
-msgstr "Neuquen"
+msgstr "Neuquén"
 
 #. Name for AR-R, Name for UY-RN
 msgid "Río Negro"
@@ -961,10 +948,8 @@ msgid "Barguna"
 msgstr "Laguna"
 
 #. Name for BD-03
-#, fuzzy
-#| msgid "Fgura"
 msgid "Bogura"
-msgstr "Fgura"
+msgstr "Bogura"
 
 #. Name for BD-04
 msgid "Brahmanbaria"
@@ -975,8 +960,6 @@ msgid "Bagerhat"
 msgstr "Bagerhat"
 
 #. Name for BD-06, Name for BD-A
-#, fuzzy
-#| msgid "Barisal"
 msgid "Barishal"
 msgstr "Barisal"
 
@@ -985,8 +968,6 @@ msgid "Bhola"
 msgstr "Bhola"
 
 #. Name for BD-08
-#, fuzzy
-#| msgid "Comilla"
 msgid "Cumilla"
 msgstr "Comilla"
 
@@ -995,10 +976,8 @@ msgid "Chandpur"
 msgstr "Chandpur"
 
 #. Name for BD-10, Name for BD-B
-#, fuzzy
-#| msgid "Chhattisgarh"
 msgid "Chattogram"
-msgstr "Chhattisgarh"
+msgstr "Chittagong"
 
 #. Name for BD-11
 msgid "Cox's Bazar"
@@ -1046,29 +1025,23 @@ msgstr "Jamalpur"
 
 #. Name for BD-22
 msgid "Jashore"
-msgstr ""
+msgstr "Jessore"
 
 #. Name for BD-23
 msgid "Jhenaidah"
 msgstr "Jhenaidah"
 
 #. Name for BD-24
-#, fuzzy
-#| msgid "Jaipurhat"
 msgid "Joypurhat"
 msgstr "Jaipurhat"
 
 #. Name for BD-25
-#, fuzzy
-#| msgid "Jhalakati"
 msgid "Jhalakathi"
 msgstr "Jhalakati"
 
 #. Name for BD-26
-#, fuzzy
-#| msgid "Kishorganj"
 msgid "Kishoreganj"
-msgstr "Kishorganj"
+msgstr "Kishoreganj"
 
 #. Name for BD-27, Name for BD-D
 msgid "Khulna"
@@ -1079,8 +1052,6 @@ msgid "Kurigram"
 msgstr "Kurigram"
 
 #. Name for BD-29
-#, fuzzy
-#| msgid "Khagrachari"
 msgid "Khagrachhari"
 msgstr "Khagrachari"
 
@@ -1145,8 +1116,6 @@ msgid "Natore"
 msgstr "Natore"
 
 #. Name for BD-45
-#, fuzzy
-#| msgid "Nawabganj"
 msgid "Chapai Nawabganj"
 msgstr "Nawabganj"
 
@@ -1227,10 +1196,8 @@ msgid "Thakurgaon"
 msgstr "Thakurgaon"
 
 #. Name for BE-BRU
-#, fuzzy
-#| msgid "Bruxelles-Capitale, Région de;Brussels Hoofdstedelijk Gewest"
 msgid "Brussels Hoofdstedelijk Gewest"
-msgstr "Bruxelles-Capitale, Région de"
+msgstr "Région de Bruxelles-Capitale"
 
 #. Name for BE-VAN
 msgid "Antwerpen"
@@ -1602,7 +1569,7 @@ msgstr "Smolyan"
 
 #. Name for BG-22
 msgid "Sofia (stolitsa)"
-msgstr ""
+msgstr "Sofia-ville"
 
 #. Name for BG-23
 msgid "Sofia"
@@ -2700,7 +2667,7 @@ msgstr "Zurich"
 
 #. Name for CI-AB
 msgid "Abidjan"
-msgstr ""
+msgstr "Abidjan"
 
 #. Name for CI-BS
 #, fuzzy
@@ -4908,7 +4875,7 @@ msgstr "Burgos"
 
 #. Name for ES-C
 msgid "A Coruña [La Coruña]"
-msgstr ""
+msgstr "La Corogne"
 
 #. Name for ES-CA
 msgid "Cádiz"
@@ -5138,11 +5105,12 @@ msgstr "Zamora"
 
 #. Name for ET-AA
 msgid "Addis Ababa"
-msgstr ""
+msgstr "Addis-Abeba"
 
 #. Name for ET-AF
+#, fuzzy
 msgid "Afar"
-msgstr ""
+msgstr "Afar"
 
 #. Name for ET-AM
 #, fuzzy
@@ -16113,7 +16081,6 @@ msgid "Chelyabinskaya oblast'"
 msgstr "Tchéliabinsk"
 
 #. Name for RU-CHU
-#, fuzzy
 msgid "Chukotskiy avtonomnyy okrug"
 msgstr "Tchoukotka"
 
@@ -20562,10 +20529,8 @@ msgid "Virginia"
 msgstr "Virginie"
 
 #. Name for US-VI
-#, fuzzy
-#| msgid "Virgin Islands"
 msgid "Virgin Islands, U.S."
-msgstr "Îles Vierges"
+msgstr "Îles Vierges des États-Unis"
 
 #. Name for US-VT
 msgid "Vermont"

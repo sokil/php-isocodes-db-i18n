@@ -11,14 +11,14 @@
 # Serge Karpesh <skarpiesz@gmail.com>, 2020.
 # tao wang <tonywang5@163.com>, 2020.
 # Eleanor <5abbwfw5@mailer.me>, 2021.
-# Joe Bennett <joe@assimtech.com>, 2021.
+# Joe Bennett <joe@assimtech.com>, 2021, 2022.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-2\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2021-08-27 13:34+0200\n"
-"PO-Revision-Date: 2021-11-29 23:10+0000\n"
+"PO-Revision-Date: 2022-03-16 13:55+0000\n"
 "Last-Translator: Joe Bennett <joe@assimtech.com>\n"
 "Language-Team: English <https://hosted.weblate.org/projects/iso-codes/"
 "iso-3166-2/en/>\n"
@@ -27,7 +27,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.10-dev\n"
+"X-Generator: Weblate 4.12-dev\n"
 
 #. Name for AD-02
 msgid "Canillo"
@@ -6742,9 +6742,8 @@ msgid "Luton"
 msgstr "Luton"
 
 #. Name for GB-MAN, Name for JM-12
-#, fuzzy
 msgid "Manchester"
-msgstr "Manche"
+msgstr "Manchester"
 
 #. Name for GB-MDB
 msgid "Middlesbrough"
@@ -15236,10 +15235,8 @@ msgid "Southland"
 msgstr "Southland"
 
 #. Name for NZ-TAS
-#, fuzzy
-#| msgid "Tasmania"
 msgid "Tasman"
-msgstr "Tasmania"
+msgstr "Tasman"
 
 #. Name for NZ-TKI
 msgid "Taranaki"
