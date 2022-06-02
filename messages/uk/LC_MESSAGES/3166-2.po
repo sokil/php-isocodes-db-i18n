@@ -12,7 +12,7 @@ msgstr ""
 "Project-Id-Version: iso_3166-2\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2021-08-27 13:34+0200\n"
+"POT-Creation-Date: 2022-06-01 15:01+0200\n"
 "PO-Revision-Date: 2021-08-28 18:34+0000\n"
 "Last-Translator: Yuri Chornoivan <yurchor@ukr.net>\n"
 "Language-Team: Ukrainian <https://hosted.weblate.org/projects/iso-codes/"
@@ -21,8 +21,8 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
-"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
 "X-Generator: Weblate 4.8.1-dev\n"
 
 #. Name for AD-02
@@ -4886,7 +4886,7 @@ msgid "Tigrai"
 msgstr "Тиграй"
 
 #. Name for FI-01
-msgid "Ahvenanmaan maakunta"
+msgid "Åland"
 msgstr "Аландські острови"
 
 #. Name for FI-02
@@ -4906,7 +4906,7 @@ msgid "Kainuu"
 msgstr "Каїнуу"
 
 #. Name for FI-06
-msgid "Egentliga Tavastland"
+msgid "Kanta-Häme"
 msgstr "Власне Тавастія"
 
 #. Name for FI-07
@@ -4926,7 +4926,7 @@ msgid "Lappi"
 msgstr "Лаппі"
 
 #. Name for FI-11
-msgid "Birkaland"
+msgid "Pirkanmaa"
 msgstr "Бірка"
 
 #. Name for FI-12
@@ -4934,31 +4934,31 @@ msgid "Pohjanmaa"
 msgstr "Остроботнія"
 
 #. Name for FI-13
-msgid "Norra Karelen"
+msgid "Pohjois-Karjala"
 msgstr "Північна Карелія"
 
 #. Name for FI-14
-msgid "Norra Österbotten"
+msgid "Pohjois-Pohjanmaa"
 msgstr "Північна Остроботнія"
 
 #. Name for FI-15
-msgid "Norra Savolax"
+msgid "Pohjois-Savo"
 msgstr "Північна Саво"
 
 #. Name for FI-16
-msgid "Päijänne-Tavastland"
+msgid "Päijät-Häme"
 msgstr "Пяйянне-Тавастія"
 
 #. Name for FI-17
-msgid "Satakunda"
+msgid "Satakunta"
 msgstr "Сатакунда"
 
 #. Name for FI-18
-msgid "Nyland"
+msgid "Uusimaa"
 msgstr "Нюланд"
 
 #. Name for FI-19
-msgid "Egentliga Finland"
+msgid "Varsinais-Suomi"
 msgstr "Власне Фінляндія"
 
 #. Name for FJ-01
@@ -5829,6 +5829,12 @@ msgstr "Зовнішні Гебриди"
 msgid "Enfield"
 msgstr "Енфілд"
 
+#. Name for GB-ENG
+#, fuzzy
+#| msgid "Long Island"
+msgid "England"
+msgstr "Лонг-Айленд"
+
 #. Name for GB-ERW
 msgid "East Renfrewshire"
 msgstr "Східний Ренфрушир"
@@ -6085,6 +6091,12 @@ msgstr "Норфолк"
 msgid "Nottingham"
 msgstr "Ноттінгем"
 
+#. Name for GB-NIR
+#, fuzzy
+#| msgid "New Ireland"
+msgid "Northern Ireland"
+msgstr "Нова Ірландія"
+
 #. Name for GB-NLK
 msgid "North Lanarkshire"
 msgstr "Північний Ланаркшир"
@@ -6212,6 +6224,12 @@ msgstr "Південний Ейршир"
 #. Name for GB-SCB
 msgid "Scottish Borders"
 msgstr "Шотландські кордони"
+
+#. Name for GB-SCT
+#, fuzzy
+#| msgid "Southland"
+msgid "Scotland"
+msgstr "Саутленд"
 
 #. Name for GB-SFK
 msgid "Suffolk"
@@ -6380,6 +6398,10 @@ msgstr "Валсолл"
 #. Name for GB-WLN
 msgid "West Lothian"
 msgstr "Західний Лотіан"
+
+#. Name for GB-WLS
+msgid "Wales [Cymru GB-CYM]"
+msgstr ""
 
 #. Name for GB-WLV
 msgid "Wolverhampton"

@@ -20,7 +20,7 @@ msgstr ""
 "Project-Id-Version: iso_4217\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2018-01-17 22:10+0100\n"
+"POT-Creation-Date: 2022-06-01 15:01+0200\n"
 "PO-Revision-Date: 2007-08-07 03:33+0100\n"
 "Last-Translator: Ivan Masár <helix84@centrum.sk>\n"
 "Language-Team: Slovak <sk-i18n@lists.linux.sk>\n"
@@ -71,7 +71,9 @@ msgid "Aruban Florin"
 msgstr "arubský gulden"
 
 #. Name for AZN
-msgid "Azerbaijanian Manat"
+#, fuzzy
+#| msgid "Azerbaijanian Manat"
+msgid "Azerbaijan Manat"
 msgstr "Azerbajdžanský manat"
 
 #. Name for BAM
@@ -112,6 +114,10 @@ msgstr "brunejský dolár"
 msgid "Boliviano"
 msgstr "boliviano"
 
+#. Name for BOV
+msgid "Mvdol"
+msgstr ""
+
 #. Name for BRL
 msgid "Brazilian Real"
 msgstr "brazílsky real"
@@ -147,9 +153,25 @@ msgstr "kanadský dolár"
 msgid "Congolese Franc"
 msgstr "komorský frank"
 
+#. Name for CHE
+#, fuzzy
+#| msgid "Euro"
+msgid "WIR Euro"
+msgstr "euro"
+
 #. Name for CHF
 msgid "Swiss Franc"
 msgstr "švajčiarsky frank"
+
+#. Name for CHW
+#, fuzzy
+#| msgid "Rwanda Franc"
+msgid "WIR Franc"
+msgstr "rwandský frank"
+
+#. Name for CLF
+msgid "Unidad de Fomento"
+msgstr ""
 
 #. Name for CLP
 msgid "Chilean Peso"
@@ -163,6 +185,10 @@ msgstr "čínsky jüan"
 #. Name for COP
 msgid "Colombian Peso"
 msgstr "kolumbijské peso"
+
+#. Name for COU
+msgid "Unidad de Valor Real"
+msgstr ""
 
 #. Name for CRC
 msgid "Costa Rican Colon"
@@ -251,7 +277,9 @@ msgid "Dalasi"
 msgstr "dalasi"
 
 #. Name for GNF
-msgid "Guinea Franc"
+#, fuzzy
+#| msgid "Guinea Franc"
+msgid "Guinean Franc"
 msgstr "guinejský frank"
 
 #. Name for GTQ
@@ -334,7 +362,9 @@ msgid "Riel"
 msgstr ""
 
 #. Name for KMF
-msgid "Comoro Franc"
+#, fuzzy
+#| msgid "Comoro Franc"
+msgid "Comorian Franc"
 msgstr "komorský frank"
 
 #. Name for KPW
@@ -359,9 +389,8 @@ msgid "Tenge"
 msgstr "leone"
 
 #. Name for LAK
-#, fuzzy
-msgid "Kip"
-msgstr "kip"
+msgid "Lao Kip"
+msgstr ""
 
 #. Name for LBP
 msgid "Lebanese Pound"
@@ -413,7 +442,7 @@ msgstr ""
 msgid "Pataca"
 msgstr "pataca"
 
-#. Name for MRO
+#. Name for MRU
 msgid "Ouguiya"
 msgstr ""
 
@@ -434,6 +463,10 @@ msgstr "malawijská kwacha"
 #. Name for MXN
 msgid "Mexican Peso"
 msgstr "mexické peso"
+
+#. Name for MXV
+msgid "Mexican Unidad de Inversion (UDI)"
+msgstr ""
 
 #. Name for MYR
 msgid "Malaysian Ringgit"
@@ -551,7 +584,7 @@ msgstr "singapurský dolár"
 msgid "Saint Helena Pound"
 msgstr "libra Ostrova Svätej Heleny"
 
-#. Name for SLL
+#. Name for SLE, Name for SLL
 msgid "Leone"
 msgstr "leone"
 
@@ -569,7 +602,7 @@ msgstr "surinamský dolár"
 msgid "South Sudanese Pound"
 msgstr "libanonská libra"
 
-#. Name for STD
+#. Name for STN
 msgid "Dobra"
 msgstr ""
 
@@ -640,16 +673,30 @@ msgstr "ugandský šiling"
 msgid "US Dollar"
 msgstr "americký dolár"
 
+#. Name for USN
+#, fuzzy
+#| msgid "US Dollar"
+msgid "US Dollar (Next day)"
+msgstr "americký dolár"
+
+#. Name for UYI
+msgid "Uruguay Peso en Unidades Indexadas (UI)"
+msgstr ""
+
 #. Name for UYU
 msgid "Peso Uruguayo"
 msgstr "uruguajské peso"
+
+#. Name for UYW
+msgid "Unidad Previsional"
+msgstr ""
 
 #. Name for UZS
 msgid "Uzbekistan Sum"
 msgstr "uzbecký sum"
 
-#. Name for VEF
-msgid "Bolívar"
+#. Name for VED, Name for VES
+msgid "Bolívar Soberano"
 msgstr ""
 
 #. Name for VND

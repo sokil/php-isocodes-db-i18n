@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: iso_3166-2\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2021-08-27 13:34+0200\n"
+"POT-Creation-Date: 2022-06-01 15:01+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -4879,80 +4879,80 @@ msgid "Tigrai"
 msgstr ""
 
 #. Name for FI-01
-msgid "Ahvenanmaan maakunta"
-msgstr ""
+msgid "Åland"
+msgstr "Åland"
 
 #. Name for FI-02
 msgid "Etelä-Karjala"
-msgstr ""
+msgstr "Södra Karelen"
 
 #. Name for FI-03
 msgid "Etelä-Pohjanmaa"
-msgstr ""
+msgstr "Södra Österbotten"
 
 #. Name for FI-04
 msgid "Etelä-Savo"
-msgstr ""
+msgstr "Södra Savolax"
 
 #. Name for FI-05
 msgid "Kainuu"
-msgstr ""
+msgstr "Kajanaland"
 
 #. Name for FI-06
-msgid "Egentliga Tavastland"
-msgstr ""
+msgid "Kanta-Häme"
+msgstr "Egentliga Tavastland"
 
 #. Name for FI-07
 msgid "Keski-Pohjanmaa"
-msgstr ""
+msgstr "Mellersta Österbotten"
 
 #. Name for FI-08
 msgid "Keski-Suomi"
-msgstr ""
+msgstr "Mellersta Finland"
 
 #. Name for FI-09
 msgid "Kymenlaakso"
-msgstr ""
+msgstr "Kymmenedalen"
 
 #. Name for FI-10
 msgid "Lappi"
-msgstr ""
+msgstr "Lappland"
 
 #. Name for FI-11
-msgid "Birkaland"
-msgstr ""
+msgid "Pirkanmaa"
+msgstr "Birkaland"
 
 #. Name for FI-12
 msgid "Pohjanmaa"
-msgstr ""
+msgstr "Österbotten"
 
 #. Name for FI-13
-msgid "Norra Karelen"
-msgstr ""
+msgid "Pohjois-Karjala"
+msgstr "Norra Karelen"
 
 #. Name for FI-14
-msgid "Norra Österbotten"
-msgstr ""
+msgid "Pohjois-Pohjanmaa"
+msgstr "Norra Österbotten"
 
 #. Name for FI-15
-msgid "Norra Savolax"
-msgstr ""
+msgid "Pohjois-Savo"
+msgstr "Norra Savolax"
 
 #. Name for FI-16
-msgid "Päijänne-Tavastland"
-msgstr ""
+msgid "Päijät-Häme"
+msgstr "Päijänne-Tavastland"
 
 #. Name for FI-17
-msgid "Satakunda"
-msgstr ""
+msgid "Satakunta"
+msgstr "Satakunta"
 
 #. Name for FI-18
-msgid "Nyland"
-msgstr ""
+msgid "Uusimaa"
+msgstr "Nyland"
 
 #. Name for FI-19
-msgid "Egentliga Finland"
-msgstr ""
+msgid "Varsinais-Suomi"
+msgstr "Egentliga Finland"
 
 #. Name for FJ-01
 msgid "Ba"
@@ -5822,6 +5822,12 @@ msgstr ""
 msgid "Enfield"
 msgstr ""
 
+#. Name for GB-ENG
+#, fuzzy
+#| msgid "Åland"
+msgid "England"
+msgstr "Åland"
+
 #. Name for GB-ERW
 msgid "East Renfrewshire"
 msgstr ""
@@ -6078,6 +6084,10 @@ msgstr ""
 msgid "Nottingham"
 msgstr ""
 
+#. Name for GB-NIR
+msgid "Northern Ireland"
+msgstr ""
+
 #. Name for GB-NLK
 msgid "North Lanarkshire"
 msgstr ""
@@ -6204,6 +6214,10 @@ msgstr ""
 
 #. Name for GB-SCB
 msgid "Scottish Borders"
+msgstr ""
+
+#. Name for GB-SCT
+msgid "Scotland"
 msgstr ""
 
 #. Name for GB-SFK
@@ -6372,6 +6386,10 @@ msgstr ""
 
 #. Name for GB-WLN
 msgid "West Lothian"
+msgstr ""
+
+#. Name for GB-WLS
+msgid "Wales [Cymru GB-CYM]"
 msgstr ""
 
 #. Name for GB-WLV

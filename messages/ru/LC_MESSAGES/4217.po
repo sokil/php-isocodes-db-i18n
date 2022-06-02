@@ -13,7 +13,7 @@ msgstr ""
 "Project-Id-Version: iso_4217\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2018-01-17 22:10+0100\n"
+"POT-Creation-Date: 2022-06-01 15:01+0200\n"
 "PO-Revision-Date: 2018-11-04 09:23+0000\n"
 "Last-Translator: yurayko <yuray@komyakino.ru>\n"
 "Language-Team: Russian <https://hosted.weblate.org/projects/iso-codes/"
@@ -22,8 +22,8 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
-"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
 "X-Generator: Weblate 3.3-dev\n"
 "X-Bugs: Report translation errors to the Language-Team address.\n"
 
@@ -64,7 +64,9 @@ msgid "Aruban Florin"
 msgstr "Арубанский флорин"
 
 #. Name for AZN
-msgid "Azerbaijanian Manat"
+#, fuzzy
+#| msgid "Azerbaijanian Manat"
+msgid "Azerbaijan Manat"
 msgstr "Азербайджанский манат"
 
 #. Name for BAM
@@ -103,6 +105,10 @@ msgstr "Брунейский доллар"
 msgid "Boliviano"
 msgstr "Боливиано"
 
+#. Name for BOV
+msgid "Mvdol"
+msgstr ""
+
 #. Name for BRL
 msgid "Brazilian Real"
 msgstr "Бразильский реал"
@@ -135,9 +141,25 @@ msgstr "Канадский доллар"
 msgid "Congolese Franc"
 msgstr "Конголезский франк"
 
+#. Name for CHE
+#, fuzzy
+#| msgid "Euro"
+msgid "WIR Euro"
+msgstr "Евро"
+
 #. Name for CHF
 msgid "Swiss Franc"
 msgstr "Швейцарский франк"
+
+#. Name for CHW
+#, fuzzy
+#| msgid "Rwanda Franc"
+msgid "WIR Franc"
+msgstr "Франк Руанды"
+
+#. Name for CLF
+msgid "Unidad de Fomento"
+msgstr ""
 
 #. Name for CLP
 msgid "Chilean Peso"
@@ -150,6 +172,10 @@ msgstr "Китайский юань"
 #. Name for COP
 msgid "Colombian Peso"
 msgstr "Колумбийское песо"
+
+#. Name for COU
+msgid "Unidad de Valor Real"
+msgstr ""
 
 #. Name for CRC
 msgid "Costa Rican Colon"
@@ -232,7 +258,9 @@ msgid "Dalasi"
 msgstr "Даласи"
 
 #. Name for GNF
-msgid "Guinea Franc"
+#, fuzzy
+#| msgid "Guinea Franc"
+msgid "Guinean Franc"
 msgstr "Гвинейский франк"
 
 #. Name for GTQ
@@ -312,7 +340,9 @@ msgid "Riel"
 msgstr "Риель"
 
 #. Name for KMF
-msgid "Comoro Franc"
+#, fuzzy
+#| msgid "Comoro Franc"
+msgid "Comorian Franc"
 msgstr "Франк Комор"
 
 #. Name for KPW
@@ -336,8 +366,8 @@ msgid "Tenge"
 msgstr "Тенге"
 
 #. Name for LAK
-msgid "Kip"
-msgstr "Кип"
+msgid "Lao Kip"
+msgstr ""
 
 #. Name for LBP
 msgid "Lebanese Pound"
@@ -387,7 +417,7 @@ msgstr "Тугрик"
 msgid "Pataca"
 msgstr "Патака"
 
-#. Name for MRO
+#. Name for MRU
 msgid "Ouguiya"
 msgstr "Угия"
 
@@ -406,6 +436,10 @@ msgstr "Малавийская квача"
 #. Name for MXN
 msgid "Mexican Peso"
 msgstr "Мексиканское песо"
+
+#. Name for MXV
+msgid "Mexican Unidad de Inversion (UDI)"
+msgstr ""
 
 #. Name for MYR
 msgid "Malaysian Ringgit"
@@ -519,7 +553,7 @@ msgstr "Сингапурский доллар"
 msgid "Saint Helena Pound"
 msgstr "Фунт Святой Елены"
 
-#. Name for SLL
+#. Name for SLE, Name for SLL
 msgid "Leone"
 msgstr "Леоне"
 
@@ -535,7 +569,7 @@ msgstr "Суринамский доллар"
 msgid "South Sudanese Pound"
 msgstr "Фунт Южного Судана"
 
-#. Name for STD
+#. Name for STN
 msgid "Dobra"
 msgstr "Добра"
 
@@ -599,16 +633,32 @@ msgstr "Угандийский шиллинг"
 msgid "US Dollar"
 msgstr "Доллар США"
 
+#. Name for USN
+#, fuzzy
+#| msgid "US Dollar"
+msgid "US Dollar (Next day)"
+msgstr "Доллар США"
+
+#. Name for UYI
+msgid "Uruguay Peso en Unidades Indexadas (UI)"
+msgstr ""
+
 #. Name for UYU
 msgid "Peso Uruguayo"
 msgstr "Уругвайское песо"
+
+#. Name for UYW
+msgid "Unidad Previsional"
+msgstr ""
 
 #. Name for UZS
 msgid "Uzbekistan Sum"
 msgstr "Узбекский сум"
 
-#. Name for VEF
-msgid "Bolívar"
+#. Name for VED, Name for VES
+#, fuzzy
+#| msgid "Bolívar"
+msgid "Bolívar Soberano"
 msgstr "Боливар"
 
 #. Name for VND

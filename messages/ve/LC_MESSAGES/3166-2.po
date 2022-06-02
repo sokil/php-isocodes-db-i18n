@@ -12,7 +12,7 @@ msgstr ""
 "Project-Id-Version: iso_3166-2\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2021-08-27 13:34+0200\n"
+"POT-Creation-Date: 2022-06-01 15:01+0200\n"
 "PO-Revision-Date: 2002-11-13 22:07SAST\n"
 "Last-Translator: Fhatuwani Rambau <fhatuwani@translate.org.za>\n"
 "Language-Team: Venda <venda@translate.org.za>\n"
@@ -5453,7 +5453,7 @@ msgid "Tigrai"
 msgstr "Taiwan"
 
 #. Name for FI-01
-msgid "Ahvenanmaan maakunta"
+msgid "Åland"
 msgstr ""
 
 #. Name for FI-02
@@ -5473,7 +5473,7 @@ msgid "Kainuu"
 msgstr ""
 
 #. Name for FI-06
-msgid "Egentliga Tavastland"
+msgid "Kanta-Häme"
 msgstr ""
 
 #. Name for FI-07
@@ -5494,7 +5494,7 @@ msgstr ""
 
 #. Name for FI-11
 #, fuzzy
-msgid "Birkaland"
+msgid "Pirkanmaa"
 msgstr "Poland"
 
 #. Name for FI-12
@@ -5502,33 +5502,33 @@ msgid "Pohjanmaa"
 msgstr ""
 
 #. Name for FI-13
-msgid "Norra Karelen"
+msgid "Pohjois-Karjala"
 msgstr ""
 
 #. Name for FI-14
-msgid "Norra Österbotten"
+msgid "Pohjois-Pohjanmaa"
 msgstr ""
 
 #. Name for FI-15
-msgid "Norra Savolax"
+msgid "Pohjois-Savo"
 msgstr ""
 
 #. Name for FI-16
-msgid "Päijänne-Tavastland"
+msgid "Päijät-Häme"
 msgstr ""
 
 #. Name for FI-17
 #, fuzzy
-msgid "Satakunda"
+msgid "Satakunta"
 msgstr "Cambodia"
 
 #. Name for FI-18
 #, fuzzy
-msgid "Nyland"
+msgid "Uusimaa"
 msgstr "Swaziland"
 
 #. Name for FI-19
-msgid "Egentliga Finland"
+msgid "Varsinais-Suomi"
 msgstr ""
 
 #. Name for FJ-01
@@ -6494,6 +6494,11 @@ msgstr ""
 msgid "Enfield"
 msgstr ""
 
+#. Name for GB-ENG
+#, fuzzy
+msgid "England"
+msgstr "Solomon Islands"
+
 #. Name for GB-ERW
 #, fuzzy
 msgid "East Renfrewshire"
@@ -6764,6 +6769,11 @@ msgstr ""
 msgid "Nottingham"
 msgstr ""
 
+#. Name for GB-NIR
+#, fuzzy
+msgid "Northern Ireland"
+msgstr "New Zealand"
+
 #. Name for GB-NLK
 msgid "North Lanarkshire"
 msgstr ""
@@ -6903,6 +6913,11 @@ msgstr "South Africa"
 #. Name for GB-SCB
 msgid "Scottish Borders"
 msgstr ""
+
+#. Name for GB-SCT
+#, fuzzy
+msgid "Scotland"
+msgstr "Poland"
 
 #. Name for GB-SFK
 msgid "Suffolk"
@@ -7083,6 +7098,10 @@ msgstr ""
 
 #. Name for GB-WLN
 msgid "West Lothian"
+msgstr ""
+
+#. Name for GB-WLS
+msgid "Wales [Cymru GB-CYM]"
 msgstr ""
 
 #. Name for GB-WLV
