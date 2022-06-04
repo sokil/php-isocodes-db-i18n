@@ -11,14 +11,15 @@
 # Xabier Bilbao <xabidu@gmail.com>, 2008.
 # Osoitz <oelkoro@gmail.com>, 2019, 2020.
 # Gontzal Manuel Pujana Onaindia <thadahdenyse@gmail.com>, 2020.
+# Gorka Azkarate Zubiaur <gorkaazkarate@gmail.com>, 2022.
 msgid ""
 msgstr ""
 "Project-Id-Version: xd-ISO_639-eu\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2018-01-17 22:10+0100\n"
-"PO-Revision-Date: 2020-06-01 11:41+0000\n"
-"Last-Translator: Osoitz <oelkoro@gmail.com>\n"
+"POT-Creation-Date: 2022-06-01 15:01+0200\n"
+"PO-Revision-Date: 2022-05-21 09:15+0000\n"
+"Last-Translator: Gorka Azkarate Zubiaur <gorkaazkarate@gmail.com>\n"
 "Language-Team: Basque <https://hosted.weblate.org/projects/iso-codes/"
 "iso-639-2/eu/>\n"
 "Language: eu\n"
@@ -26,7 +27,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.1-dev\n"
+"X-Generator: Weblate 4.13-dev\n"
 
 #. Name for aar
 msgid "Afar"
@@ -293,13 +294,13 @@ msgid "Caddo"
 msgstr "Caddo"
 
 #. Name for cai
-#, fuzzy
 msgid "Central American Indian languages"
-msgstr "Mesoamerikar hizkuntzak"
+msgstr "Erdialdeko Amerikako jatorrizko hizkuntzak"
 
 #. Name for car
+#, fuzzy
 msgid "Galibi Carib"
-msgstr ""
+msgstr "Galibi Carib"
 
 #. Name for cat
 msgid "Catalan; Valencian"
@@ -354,18 +355,22 @@ msgid "Choctaw"
 msgstr "choctaw"
 
 #. Name for chp
+#, fuzzy
 msgid "Chipewyan; Dene Suline"
-msgstr ""
+msgstr "Chipewyan; Dene Suline"
 
 #. Name for chr
 msgid "Cherokee"
 msgstr "Txeroki"
 
 #. Name for chu
+#, fuzzy
 msgid ""
 "Church Slavic; Old Slavonic; Church Slavonic; Old Bulgarian; Old Church "
 "Slavonic"
 msgstr ""
+"Elizako eslaviar hizkuntza, Eliza Ortodoxoak zerabilen eslaviar hizkuntza, "
+"Bulgariera zaharra, Elizako hizkuntza eslaviar zaharra"
 
 #. Name for chv
 msgid "Chuvash"
@@ -378,6 +383,10 @@ msgstr "cheyennera"
 #. Name for cmc
 msgid "Chamic languages"
 msgstr "Chamic hizkuntzak"
+
+#. Name for cnr
+msgid "Montenegrin"
+msgstr ""
 
 #. Name for cop
 msgid "Coptic"
@@ -444,8 +453,9 @@ msgid "Land Dayak languages"
 msgstr "Dayak hizkuntzak"
 
 #. Name for del
+#, fuzzy
 msgid "Delaware"
-msgstr ""
+msgstr "lenape, leni, delaware"
 
 #. Name for den
 msgid "Slave (Athapascan)"
@@ -461,7 +471,7 @@ msgstr "dogribera"
 
 #. Name for din
 msgid "Dinka"
-msgstr ""
+msgstr "Dinka"
 
 #. Name for div
 msgid "Divehi; Dhivehi; Maldivian"
@@ -512,8 +522,9 @@ msgid "Greek, Modern (1453-)"
 msgstr "Greko modernoa (1453tik aurrera)"
 
 #. Name for elx
+#, fuzzy
 msgid "Elamite"
-msgstr ""
+msgstr "elamita, Elam-eko antzinako hizkuntza"
 
 #. Name for eng
 msgid "English"
@@ -545,7 +556,7 @@ msgstr "ewondera"
 
 #. Name for fan
 msgid "Fang"
-msgstr ""
+msgstr "fangera"
 
 #. Name for fao
 msgid "Faroese"
@@ -556,8 +567,9 @@ msgid "Persian"
 msgstr "Persiera"
 
 #. Name for fat
+#, fuzzy
 msgid "Fanti"
-msgstr ""
+msgstr "fantera"
 
 #. Name for fij
 msgid "Fijian"
@@ -616,12 +628,14 @@ msgid "Ga"
 msgstr "ga"
 
 #. Name for gay
+#, fuzzy
 msgid "Gayo"
-msgstr ""
+msgstr "gayoera"
 
 #. Name for gba
+#, fuzzy
 msgid "Gbaya"
-msgstr ""
+msgstr "gbaya hizkuntzak"
 
 #. Name for gem
 msgid "Germanic languages"

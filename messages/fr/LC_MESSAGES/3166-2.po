@@ -21,7 +21,7 @@ msgstr ""
 "Project-Id-Version: iso_3166-2\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2021-08-27 13:34+0200\n"
+"POT-Creation-Date: 2022-06-01 15:01+0200\n"
 "PO-Revision-Date: 2022-03-16 13:55+0000\n"
 "Last-Translator: verdy_p <verdyp@gmail.com>\n"
 "Language-Team: French <https://hosted.weblate.org/projects/iso-codes/"
@@ -5161,7 +5161,7 @@ msgid "Tigrai"
 msgstr "Tigré"
 
 #. Name for FI-01
-msgid "Ahvenanmaan maakunta"
+msgid "Åland"
 msgstr "Åland"
 
 #. Name for FI-02
@@ -5181,7 +5181,7 @@ msgid "Kainuu"
 msgstr "Kainuu"
 
 #. Name for FI-06
-msgid "Egentliga Tavastland"
+msgid "Kanta-Häme"
 msgstr ""
 
 #. Name for FI-07
@@ -5203,7 +5203,7 @@ msgstr "Laponie"
 #. Name for FI-11
 #, fuzzy
 #| msgid "Hordaland"
-msgid "Birkaland"
+msgid "Pirkanmaa"
 msgstr "Hordaland"
 
 #. Name for FI-12
@@ -5211,35 +5211,35 @@ msgid "Pohjanmaa"
 msgstr "Ostrobotnie"
 
 #. Name for FI-13
-msgid "Norra Karelen"
+msgid "Pohjois-Karjala"
 msgstr ""
 
 #. Name for FI-14
-msgid "Norra Österbotten"
+msgid "Pohjois-Pohjanmaa"
 msgstr ""
 
 #. Name for FI-15
-msgid "Norra Savolax"
+msgid "Pohjois-Savo"
 msgstr ""
 
 #. Name for FI-16
-msgid "Päijänne-Tavastland"
+msgid "Päijät-Häme"
 msgstr ""
 
 #. Name for FI-17
 #, fuzzy
 #| msgid "Satakunta"
-msgid "Satakunda"
+msgid "Satakunta"
 msgstr "Satakunta"
 
 #. Name for FI-18
 #, fuzzy
 #| msgid "Maryland"
-msgid "Nyland"
+msgid "Uusimaa"
 msgstr "Maryland"
 
 #. Name for FI-19
-msgid "Egentliga Finland"
+msgid "Varsinais-Suomi"
 msgstr ""
 
 #. Name for FJ-01
@@ -6144,6 +6144,12 @@ msgstr "Eilean Siar"
 msgid "Enfield"
 msgstr "Enfield"
 
+#. Name for GB-ENG
+#, fuzzy
+#| msgid "Long Island"
+msgid "England"
+msgstr "Long Island"
+
 #. Name for GB-ERW
 msgid "East Renfrewshire"
 msgstr "Renfrewshire oriental"
@@ -6408,6 +6414,12 @@ msgstr "Norfolk"
 msgid "Nottingham"
 msgstr "Nottingham"
 
+#. Name for GB-NIR
+#, fuzzy
+#| msgid "New Ireland"
+msgid "Northern Ireland"
+msgstr "Nouvelle-Irlande"
+
 #. Name for GB-NLK
 msgid "North Lanarkshire"
 msgstr "Lanarkshire septentrional"
@@ -6545,6 +6557,12 @@ msgstr "Ayrshire méridional"
 #| msgid "Scottish Borders, The"
 msgid "Scottish Borders"
 msgstr "Scottish Borders, les"
+
+#. Name for GB-SCT
+#, fuzzy
+#| msgid "Southland"
+msgid "Scotland"
+msgstr "Pays du Sud"
 
 #. Name for GB-SFK
 msgid "Suffolk"
@@ -6719,6 +6737,10 @@ msgstr "Walsall"
 #. Name for GB-WLN
 msgid "West Lothian"
 msgstr "Lothian occidental"
+
+#. Name for GB-WLS
+msgid "Wales [Cymru GB-CYM]"
+msgstr ""
 
 #. Name for GB-WLV
 msgid "Wolverhampton"

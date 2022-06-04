@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: iso_4217\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2018-01-17 22:10+0100\n"
+"POT-Creation-Date: 2022-06-01 15:01+0200\n"
 "PO-Revision-Date: 2013-08-18 00:06+0100\n"
 "Last-Translator: Hai-Nam Nguyen <hainam@jcisio.com>\n"
 "Language-Team: The MOST project <du-an-most@lists.hanoilug.org>\n"
@@ -62,7 +62,9 @@ msgid "Aruban Florin"
 msgstr "Đồng guin-đơn A-ru-ba"
 
 #. Name for AZN
-msgid "Azerbaijanian Manat"
+#, fuzzy
+#| msgid "Azerbaijanian Manat"
+msgid "Azerbaijan Manat"
 msgstr "Đồng Ma-nát Ai-xơ-bai-gianh"
 
 #. Name for BAM
@@ -103,6 +105,10 @@ msgstr "Đô-la Bơ-ru-nei"
 msgid "Boliviano"
 msgstr "Đồng Bo-li-vi-a-nô"
 
+#. Name for BOV
+msgid "Mvdol"
+msgstr ""
+
 #. Name for BRL
 msgid "Brazilian Real"
 msgstr "Đồng Rê-ăn Braxin"
@@ -137,9 +143,25 @@ msgstr "Đô-la Ca-na-đa"
 msgid "Congolese Franc"
 msgstr "Đồng Frăng Công-gô"
 
+#. Name for CHE
+#, fuzzy
+#| msgid "Euro"
+msgid "WIR Euro"
+msgstr "Đồng Eu-rô"
+
 #. Name for CHF
 msgid "Swiss Franc"
 msgstr "Đồng Frăng Thụy Sĩ"
+
+#. Name for CHW
+#, fuzzy
+#| msgid "Rwanda Franc"
+msgid "WIR Franc"
+msgstr "Đồng Frăng Rou-an-đa"
+
+#. Name for CLF
+msgid "Unidad de Fomento"
+msgstr ""
 
 #. Name for CLP
 msgid "Chilean Peso"
@@ -152,6 +174,10 @@ msgstr "Đồng Yu-an Ren-min-bi"
 #. Name for COP
 msgid "Colombian Peso"
 msgstr "Đồng Pê-sô Co-lom-bi-a"
+
+#. Name for COU
+msgid "Unidad de Valor Real"
+msgstr ""
 
 #. Name for CRC
 msgid "Costa Rican Colon"
@@ -238,7 +264,9 @@ msgid "Dalasi"
 msgstr "Đồng Đa-la-si"
 
 #. Name for GNF
-msgid "Guinea Franc"
+#, fuzzy
+#| msgid "Guinea Franc"
+msgid "Guinean Franc"
 msgstr "Đồng Frăng Ghi-ni"
 
 #. Name for GTQ
@@ -318,7 +346,9 @@ msgid "Riel"
 msgstr "Đồng Ri-en"
 
 #. Name for KMF
-msgid "Comoro Franc"
+#, fuzzy
+#| msgid "Comoro Franc"
+msgid "Comorian Franc"
 msgstr "Đồng Frăng Co-mo-rô"
 
 #. Name for KPW
@@ -342,8 +372,8 @@ msgid "Tenge"
 msgstr "Đồng Ten-ge"
 
 #. Name for LAK
-msgid "Kip"
-msgstr "Đồng Kip"
+msgid "Lao Kip"
+msgstr ""
 
 #. Name for LBP
 msgid "Lebanese Pound"
@@ -393,7 +423,7 @@ msgstr "Đồng Tu-gợ-ríc"
 msgid "Pataca"
 msgstr "Đồng Pa-ta-ca"
 
-#. Name for MRO
+#. Name for MRU
 msgid "Ouguiya"
 msgstr "Đồng Ou-gui-ya"
 
@@ -414,6 +444,10 @@ msgstr "Đồng Cơ-ouă-cha Dăm-bi-a"
 #. Name for MXN
 msgid "Mexican Peso"
 msgstr "Đồng Pê-sô Mê-hi-cô"
+
+#. Name for MXV
+msgid "Mexican Unidad de Inversion (UDI)"
+msgstr ""
 
 #. Name for MYR
 msgid "Malaysian Ringgit"
@@ -529,7 +563,7 @@ msgstr "Đô-la Xin-ga-po"
 msgid "Saint Helena Pound"
 msgstr "Đồng Bảng Xan He-le-na"
 
-#. Name for SLL
+#. Name for SLE, Name for SLL
 msgid "Leone"
 msgstr "Đồng Le-ô-ne"
 
@@ -547,7 +581,7 @@ msgstr "Đô-la Xu-ri-nam"
 msgid "South Sudanese Pound"
 msgstr "Đồng bảng Xu-đanh"
 
-#. Name for STD
+#. Name for STN
 msgid "Dobra"
 msgstr "Đồng Đóp-ra"
 
@@ -615,16 +649,30 @@ msgstr "Đồng Silinh U-gan-đa"
 msgid "US Dollar"
 msgstr "Đô-la Mỹ"
 
+#. Name for USN
+#, fuzzy
+#| msgid "US Dollar"
+msgid "US Dollar (Next day)"
+msgstr "Đô-la Mỹ"
+
+#. Name for UYI
+msgid "Uruguay Peso en Unidades Indexadas (UI)"
+msgstr ""
+
 #. Name for UYU
 msgid "Peso Uruguayo"
 msgstr "Đồng Pê-sô U-ru-guay"
+
+#. Name for UYW
+msgid "Unidad Previsional"
+msgstr ""
 
 #. Name for UZS
 msgid "Uzbekistan Sum"
 msgstr "Đồng Xum U-dơ-bê-ki-xtanh"
 
-#. Name for VEF
-msgid "Bolívar"
+#. Name for VED, Name for VES
+msgid "Bolívar Soberano"
 msgstr ""
 
 #. Name for VND

@@ -13,7 +13,7 @@ msgstr ""
 "Project-Id-Version: iso_3166-2\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2021-08-27 13:34+0200\n"
+"POT-Creation-Date: 2022-06-01 15:01+0200\n"
 "PO-Revision-Date: 2009-09-26 20:46+0300\n"
 "Last-Translator: Kęstutis Biliūnas <kebil@kaunas.init.lt>\n"
 "Language-Team: Lithuanian <komp_lt@konferencijos.lt>\n"
@@ -5250,7 +5250,7 @@ msgstr "Tigrajų regionas"
 
 #. Name for FI-01
 #, fuzzy
-msgid "Ahvenanmaan maakunta"
+msgid "Åland"
 msgstr "Alandų salos"
 
 #. Name for FI-02
@@ -5271,7 +5271,7 @@ msgid "Kainuu"
 msgstr ""
 
 #. Name for FI-06
-msgid "Egentliga Tavastland"
+msgid "Kanta-Häme"
 msgstr ""
 
 #. Name for FI-07
@@ -5293,7 +5293,7 @@ msgstr ""
 #. Name for FI-11
 #, fuzzy
 #| msgid "Hordaland"
-msgid "Birkaland"
+msgid "Pirkanmaa"
 msgstr "Hordalandas"
 
 #. Name for FI-12
@@ -5301,32 +5301,32 @@ msgid "Pohjanmaa"
 msgstr ""
 
 #. Name for FI-13
-msgid "Norra Karelen"
+msgid "Pohjois-Karjala"
 msgstr ""
 
 #. Name for FI-14
-msgid "Norra Österbotten"
+msgid "Pohjois-Pohjanmaa"
 msgstr ""
 
 #. Name for FI-15
-msgid "Norra Savolax"
+msgid "Pohjois-Savo"
 msgstr ""
 
 #. Name for FI-16
-msgid "Päijänne-Tavastland"
+msgid "Päijät-Häme"
 msgstr ""
 
 #. Name for FI-17
-msgid "Satakunda"
+msgid "Satakunta"
 msgstr ""
 
 #. Name for FI-18
 #, fuzzy
-msgid "Nyland"
+msgid "Uusimaa"
 msgstr "Rogalandas"
 
 #. Name for FI-19
-msgid "Egentliga Finland"
+msgid "Varsinais-Suomi"
 msgstr ""
 
 #. Name for FJ-01
@@ -6242,6 +6242,12 @@ msgstr ""
 msgid "Enfield"
 msgstr ""
 
+#. Name for GB-ENG
+#, fuzzy
+#| msgid "Highland"
+msgid "England"
+msgstr "Hailendas"
+
 #. Name for GB-ERW
 msgid "East Renfrewshire"
 msgstr "Rytų Renfruširas"
@@ -6510,6 +6516,12 @@ msgstr "Norfolkas"
 msgid "Nottingham"
 msgstr "Notingemas"
 
+#. Name for GB-NIR
+#, fuzzy
+#| msgid "New Ireland"
+msgid "Northern Ireland"
+msgstr "Naujoji Airija"
+
 #. Name for GB-NLK
 msgid "North Lanarkshire"
 msgstr "Šiaurės Lanarkširas"
@@ -6641,6 +6653,12 @@ msgstr "Pietų Eirširas"
 #| msgid "Scottish Borders, The"
 msgid "Scottish Borders"
 msgstr "Škotų Sienos"
+
+#. Name for GB-SCT
+#, fuzzy
+#| msgid "Southland"
+msgid "Scotland"
+msgstr "Sautlando regionas"
 
 #. Name for GB-SFK
 msgid "Suffolk"
@@ -6814,6 +6832,10 @@ msgstr "Velselis"
 #. Name for GB-WLN
 msgid "West Lothian"
 msgstr "Vakarų Lotianas"
+
+#. Name for GB-WLS
+msgid "Wales [Cymru GB-CYM]"
+msgstr ""
 
 #. Name for GB-WLV
 msgid "Wolverhampton"
