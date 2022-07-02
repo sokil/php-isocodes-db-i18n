@@ -16,14 +16,15 @@
 # Simon Picot <simonpicot06@gmail.com>, 2020.
 # Quentin PAGÈS <quentinantonin@free.fr>, 2020.
 # J. Lavoie <j.lavoie@net-c.ca>, 2020.
+# ButterflyOfFire <ButterflyOfFire@protonmail.com>, 2022.
 msgid ""
 msgstr ""
 "Project-Id-Version: fr\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2018-01-17 22:10+0100\n"
-"PO-Revision-Date: 2020-07-12 01:41+0000\n"
-"Last-Translator: J. Lavoie <j.lavoie@net-c.ca>\n"
+"PO-Revision-Date: 2022-06-18 08:17+0000\n"
+"Last-Translator: ButterflyOfFire <ButterflyOfFire@protonmail.com>\n"
 "Language-Team: French <https://hosted.weblate.org/projects/iso-codes/"
 "iso-639-3/fr/>\n"
 "Language: fr\n"
@@ -31,7 +32,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 4.2-dev\n"
+"X-Generator: Weblate 4.13-dev\n"
 
 #. Name for aaa
 msgid "Ghotuo"
@@ -1161,8 +1162,9 @@ msgid "Altai, Southern"
 msgstr "altaï méridional"
 
 #. Name for alu
+#, fuzzy
 msgid "'Are'are"
-msgstr "'are'are"
+msgstr "'Are'are"
 
 #. Name for alw
 msgid "Alaba-K’abeena"
@@ -9173,8 +9175,9 @@ msgid "Flaaitaal"
 msgstr "flaaitaal"
 
 #. Name for fmp
+#, fuzzy
 msgid "Fe'fe'"
-msgstr "fe'fe'"
+msgstr "Fe'fe'"
 
 #. Name for fmu
 msgid "Far Western Muria"
@@ -22156,7 +22159,7 @@ msgstr "nyangga"
 
 #. Name for nnz
 msgid "Nda'nda'"
-msgstr "nda'nda'"
+msgstr "Nda'nda'"
 
 #. Name for noa
 msgid "Woun Meu"
@@ -23933,8 +23936,9 @@ msgid "Wayampi"
 msgstr "wayampi"
 
 #. Name for oyy
+#, fuzzy
 msgid "Oya'oya"
-msgstr "oya'oya"
+msgstr "Oya'oya"
 
 #. Name for ozm
 msgid "Koonzime"

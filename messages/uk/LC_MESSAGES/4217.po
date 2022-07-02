@@ -5,14 +5,14 @@
 # .
 # Copyright ©
 # Maxim V. Dziumanenko <dziumanenko@gmail.com>, 2010.
-# Yuri Chornoivan <yurchor@ukr.net>, 2010, 2015, 2017, 2020.
+# Yuri Chornoivan <yurchor@ukr.net>, 2010, 2015, 2017, 2020, 2022.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_4217\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2022-06-01 15:01+0200\n"
-"PO-Revision-Date: 2020-04-05 12:38+0000\n"
+"PO-Revision-Date: 2022-06-02 18:17+0000\n"
 "Last-Translator: Yuri Chornoivan <yurchor@ukr.net>\n"
 "Language-Team: Ukrainian <https://hosted.weblate.org/projects/iso-codes/"
 "iso-4217/uk/>\n"
@@ -20,9 +20,9 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
-"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.0-dev\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 4.13-dev\n"
 "X-Bugs: Report translation errors to the Language-Team address.\n"
 
 #. Name for AED
@@ -62,8 +62,6 @@ msgid "Aruban Florin"
 msgstr "Арубський флорин"
 
 #. Name for AZN
-#, fuzzy
-#| msgid "Azerbaijanian Manat"
 msgid "Azerbaijan Manat"
 msgstr "Азербайджанський манат"
 
@@ -105,7 +103,7 @@ msgstr "Болівіано"
 
 #. Name for BOV
 msgid "Mvdol"
-msgstr ""
+msgstr "Болівійський мвдол"
 
 #. Name for BRL
 msgid "Brazilian Real"
@@ -140,24 +138,20 @@ msgid "Congolese Franc"
 msgstr "Конголезький франк"
 
 #. Name for CHE
-#, fuzzy
-#| msgid "Euro"
 msgid "WIR Euro"
-msgstr "Євро"
+msgstr "Євро WIR"
 
 #. Name for CHF
 msgid "Swiss Franc"
 msgstr "Швейцарський франк"
 
 #. Name for CHW
-#, fuzzy
-#| msgid "Rwanda Franc"
 msgid "WIR Franc"
-msgstr "Франк Руанди"
+msgstr "Франк WIR"
 
 #. Name for CLF
 msgid "Unidad de Fomento"
-msgstr ""
+msgstr "Умовна розрахункова одиниця (UF)"
 
 #. Name for CLP
 msgid "Chilean Peso"
@@ -173,7 +167,7 @@ msgstr "Колумбійське песо"
 
 #. Name for COU
 msgid "Unidad de Valor Real"
-msgstr ""
+msgstr "Одиниця дійсної вартості (UVR)"
 
 #. Name for CRC
 msgid "Costa Rican Colon"
@@ -256,8 +250,6 @@ msgid "Dalasi"
 msgstr "Даласі"
 
 #. Name for GNF
-#, fuzzy
-#| msgid "Guinea Franc"
 msgid "Guinean Franc"
 msgstr "Гвінейський франк"
 
@@ -338,8 +330,6 @@ msgid "Riel"
 msgstr "Ріель"
 
 #. Name for KMF
-#, fuzzy
-#| msgid "Comoro Franc"
 msgid "Comorian Franc"
 msgstr "Коморський франк"
 
@@ -365,7 +355,7 @@ msgstr "Тенге"
 
 #. Name for LAK
 msgid "Lao Kip"
-msgstr ""
+msgstr "Лаоський кіп"
 
 #. Name for LBP
 msgid "Lebanese Pound"
@@ -437,7 +427,7 @@ msgstr "Мексиканське песо"
 
 #. Name for MXV
 msgid "Mexican Unidad de Inversion (UDI)"
-msgstr ""
+msgstr "Мексиканська одиниця обміну (UDI)"
 
 #. Name for MYR
 msgid "Malaysian Ringgit"
@@ -632,14 +622,12 @@ msgid "US Dollar"
 msgstr "Долар США"
 
 #. Name for USN
-#, fuzzy
-#| msgid "US Dollar"
 msgid "US Dollar (Next day)"
-msgstr "Долар США"
+msgstr "Долар США (наступний день)"
 
 #. Name for UYI
 msgid "Uruguay Peso en Unidades Indexadas (UI)"
-msgstr ""
+msgstr "Одиниця індексування уругвайського песо (UI)"
 
 #. Name for UYU
 msgid "Peso Uruguayo"
@@ -647,17 +635,15 @@ msgstr "Уругвайське песо"
 
 #. Name for UYW
 msgid "Unidad Previsional"
-msgstr ""
+msgstr "Передбачувана одиниця (UYW)"
 
 #. Name for UZS
 msgid "Uzbekistan Sum"
 msgstr "Узбецький сум"
 
 #. Name for VED, Name for VES
-#, fuzzy
-#| msgid "Bolívar"
 msgid "Bolívar Soberano"
-msgstr "Болівар"
+msgstr "Суверенний болівар"
 
 #. Name for VND
 msgid "Dong"

@@ -11,14 +11,15 @@
 # Kristjan Räts <kristjanrats@gmail.com>, 2018, 2021.
 # Mihkel Tõnnov <mihhkel@gmail.com>, 2019.
 # Janar Leas <janar.leas@gmail.com>, 2020, 2021.
+# Priit Jõerüüt <hwlate@joeruut.com>, 2022.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_639-3\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2018-01-17 22:10+0100\n"
-"PO-Revision-Date: 2021-02-01 13:41+0000\n"
-"Last-Translator: Janar Leas <janar.leas@gmail.com>\n"
+"PO-Revision-Date: 2022-06-02 18:17+0000\n"
+"Last-Translator: Priit Jõerüüt <hwlate@joeruut.com>\n"
 "Language-Team: Estonian <https://hosted.weblate.org/projects/iso-codes/"
 "iso-639-3/et/>\n"
 "Language: et\n"
@@ -26,7 +27,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.5-dev\n"
+"X-Generator: Weblate 4.13-dev\n"
 
 #. Name for aaa
 msgid "Ghotuo"
@@ -1117,14 +1118,12 @@ msgid "Amblong"
 msgstr ""
 
 #. Name for aln
-#, fuzzy
 msgid "Gheg Albanian"
-msgstr "Albaania"
+msgstr "geegi"
 
 #. Inverted name for aln
-#, fuzzy
 msgid "Albanian, Gheg"
-msgstr "Albaania"
+msgstr "geegi"
 
 #. Name for alo
 msgid "Larike-Wakasihu"
@@ -1143,14 +1142,12 @@ msgid "Alutor"
 msgstr ""
 
 #. Name for als
-#, fuzzy
 msgid "Tosk Albanian"
-msgstr "Albaania"
+msgstr "toski"
 
 #. Inverted name for als
-#, fuzzy
 msgid "Albanian, Tosk"
-msgstr "Albaania"
+msgstr "toski"
 
 #. Name for alt
 msgid "Southern Altai"
@@ -2449,14 +2446,12 @@ msgid "Azha"
 msgstr "atša"
 
 #. Name for azb
-#, fuzzy
 msgid "South Azerbaijani"
-msgstr "Aserbaidžaani"
+msgstr "lõunaaserbaidžaani"
 
 #. Inverted name for azb
-#, fuzzy
 msgid "Azerbaijani, South"
-msgstr "Aserbaidžaani"
+msgstr "lõunaaserbaidžaani"
 
 #. Name for azd
 msgid "Eastern Durango Nahuatl"
@@ -2479,14 +2474,12 @@ msgid "Amuzgo, San Pedro Amuzgos"
 msgstr ""
 
 #. Name for azj
-#, fuzzy
 msgid "North Azerbaijani"
-msgstr "Aserbaidžaani"
+msgstr "põhjaaserbaidžaani"
 
 #. Inverted name for azj
-#, fuzzy
 msgid "Azerbaijani, North"
-msgstr "Aserbaidžaani"
+msgstr "põhjaaserbaidžaani"
 
 #. Name for azm
 msgid "Ipalapa Amuzgo"
@@ -3424,9 +3417,8 @@ msgid "Bhele"
 msgstr ""
 
 #. Name for bhz
-#, fuzzy
 msgid "Bada (Indonesia)"
-msgstr "Indoneesia"
+msgstr "bada"
 
 #. Name for bia
 msgid "Badimaya"
@@ -3981,9 +3973,8 @@ msgid "Bontok"
 msgstr "bontoki"
 
 #. Name for bnd
-#, fuzzy
 msgid "Banda (Indonesia)"
-msgstr "Indoneesia"
+msgstr "banda"
 
 #. Name for bne
 msgid "Bintauna"
@@ -4913,7 +4904,7 @@ msgstr "Bukiti malai"
 
 #. Inverted name for bvu
 msgid "Malay, Bukit"
-msgstr ""
+msgstr "Bukiti malai"
 
 #. Name for bvv
 msgid "Baniva"
@@ -7763,9 +7754,8 @@ msgid "Mazagway"
 msgstr ""
 
 #. Name for dlg
-#, fuzzy
 msgid "Dolgan"
-msgstr "Norra"
+msgstr "dolgaani"
 
 #. Name for dlk
 #, fuzzy
@@ -7773,9 +7763,8 @@ msgid "Dahalik"
 msgstr "Ääred"
 
 #. Name for dlm
-#, fuzzy
 msgid "Dalmatian"
-msgstr "Itaalia"
+msgstr "dalmaatsia"
 
 #. Name for dln
 #, fuzzy
@@ -7819,9 +7808,8 @@ msgid "Domaaki"
 msgstr ""
 
 #. Name for dml
-#, fuzzy
 msgid "Dameli"
-msgstr "Poola"
+msgstr "dameli"
 
 #. Name for dmm
 #, fuzzy
@@ -7883,9 +7871,8 @@ msgid "Ndendeule"
 msgstr ""
 
 #. Name for dng
-#, fuzzy
 msgid "Dungan"
-msgstr "Ungari"
+msgstr "tungani"
 
 #. Name for dni
 msgid "Lower Grand Valley Dani"
@@ -7902,9 +7889,8 @@ msgstr "Taani"
 
 # src/trans.h:27
 #. Name for dnk
-#, fuzzy
 msgid "Dengka"
-msgstr "Balti"
+msgstr "denka"
 
 #. Name for dnn
 msgid "Dzùùngoo"
@@ -7932,9 +7918,8 @@ msgid "Danu"
 msgstr "Vene"
 
 #. Name for dnw
-#, fuzzy
 msgid "Western Dani"
-msgstr "Ukraina"
+msgstr "läänedani"
 
 #. Inverted name for dnw
 msgid "Dani, Western"
@@ -7977,9 +7962,8 @@ msgid "Dogri (macrolanguage)"
 msgstr ""
 
 #. Name for dok
-#, fuzzy
 msgid "Dondo"
-msgstr "Otsi"
+msgstr "dondo"
 
 #. Name for dol
 msgid "Doso"
@@ -7995,9 +7979,8 @@ msgid "Dongo"
 msgstr "Ääred"
 
 #. Name for dop
-#, fuzzy
 msgid "Lukpa"
-msgstr "Paus"
+msgstr "lukpa"
 
 #. Name for doq
 msgid "Dominican Sign Language"
@@ -8045,9 +8028,8 @@ msgid "Papar"
 msgstr ""
 
 #. Name for drb
-#, fuzzy
 msgid "Dair"
-msgstr "Ääred"
+msgstr "dairi"
 
 #. Name for drc
 #, fuzzy
@@ -8055,18 +8037,16 @@ msgid "Minderico"
 msgstr "Otsi"
 
 #. Name for drd
-#, fuzzy
 msgid "Darmiya"
-msgstr "Ääred"
+msgstr "darmia"
 
 #. Name for dre
 msgid "Dolpo"
 msgstr ""
 
 #. Name for drg
-#, fuzzy
 msgid "Rungus"
-msgstr "Inglise"
+msgstr "runguse"
 
 #. Name for dri
 msgid "C'lela"
@@ -8125,9 +8105,8 @@ msgid "Lower Sorbian"
 msgstr "alamsorbi"
 
 #. Inverted name for dsb
-#, fuzzy
 msgid "Sorbian, Lower"
-msgstr "Saksa"
+msgstr "alamsorbi"
 
 #. Name for dse
 msgid "Dutch Sign Language"
@@ -8160,9 +8139,8 @@ msgid "Tadaksahak"
 msgstr ""
 
 #. Name for dta
-#, fuzzy
 msgid "Daur"
-msgstr "Türgi"
+msgstr "dahuri"
 
 #. Name for dtb
 msgid "Labuk-Kinabatangan Kadazan"
@@ -8221,9 +8199,8 @@ msgid "Kadazan Dusun"
 msgstr ""
 
 #. Inverted name for dtp
-#, fuzzy
 msgid "Dusun, Kadazan"
-msgstr "Horvaatia"
+msgstr "keskdusuni"
 
 #. Name for dtr
 msgid "Lotud"
@@ -8323,20 +8300,17 @@ msgid "Dusun Deyah"
 msgstr ""
 
 #. Name for duo
-#, fuzzy
 msgid "Dupaninan Agta"
-msgstr "Ukraina"
+msgstr "agta"
 
 #. Inverted name for duo
-#, fuzzy
 msgid "Agta, Dupaninan"
-msgstr "Ukraina"
+msgstr "agta"
 
 # src/trans.h:148
 #. Name for dup
-#, fuzzy
 msgid "Duano"
-msgstr "Asukoht"
+msgstr "duano"
 
 #. Name for duq
 msgid "Dusun Malang"
@@ -8389,9 +8363,8 @@ msgstr "Otsi"
 
 # src/trans.h:148
 #. Name for dwr
-#, fuzzy
 msgid "Dawro"
-msgstr "Asukoht"
+msgstr "dauro"
 
 #. Name for dws
 msgid "Dutton World Speedwords"

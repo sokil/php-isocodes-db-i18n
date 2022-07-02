@@ -16,14 +16,15 @@
 # Softcatalà <info@softcatala.org>, 2000-2001.
 # Jordi Mas i Hernàndez <jmas@softcatala.org>, 2017.
 # Joan Montané <joan@montane.cat>, 2019.
+# Sergi Almacellas Abellana <sergi@koolpi.com>, 2022.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_4217\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2022-06-01 15:01+0200\n"
-"PO-Revision-Date: 2019-01-24 08:04+0000\n"
-"Last-Translator: Joan Montané <joan@montane.cat>\n"
+"PO-Revision-Date: 2022-06-21 08:20+0000\n"
+"Last-Translator: Sergi Almacellas Abellana <sergi@koolpi.com>\n"
 "Language-Team: Catalan <https://hosted.weblate.org/projects/iso-codes/"
 "iso-4217/ca/>\n"
 "Language: ca\n"
@@ -31,7 +32,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.4\n"
+"X-Generator: Weblate 4.13.1-dev\n"
 "X-Bugs: Report translation errors to the Language-Team address.\n"
 
 #. Name for AED
@@ -265,8 +266,6 @@ msgid "Dalasi"
 msgstr "Dalasi"
 
 #. Name for GNF
-#, fuzzy
-#| msgid "Guinea Franc"
 msgid "Guinean Franc"
 msgstr "Franc de Guinea"
 
@@ -348,8 +347,6 @@ msgid "Riel"
 msgstr "Riel"
 
 #. Name for KMF
-#, fuzzy
-#| msgid "Comoro Franc"
 msgid "Comorian Franc"
 msgstr "Franc de les Comores"
 
@@ -664,10 +661,8 @@ msgid "Uzbekistan Sum"
 msgstr "Som d'Uzbekistan"
 
 #. Name for VED, Name for VES
-#, fuzzy
-#| msgid "Bolívar"
 msgid "Bolívar Soberano"
-msgstr "Bolívar"
+msgstr "Bolívar Sobirà"
 
 #. Name for VND
 msgid "Dong"

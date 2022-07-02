@@ -9,7 +9,7 @@
 # Alastair McKinstry <mckinstry@debian.org>, 2002.
 # Ji YongGang <jungle@soforge.com>, 2007.
 # LI Daobing <lidaobing@gmail.com>, 2007-2009, 2019.
-# Boyuan Yang <073plan@gmail.com>, 2019, 2020, 2021.
+# Boyuan Yang <073plan@gmail.com>, 2019, 2020, 2021, 2022.
 # tao wang <tonywang5@163.com>, 2020.
 # Dingzhong Chen <wsxy162@gmail.com>, 2021.
 msgid ""
@@ -18,16 +18,16 @@ msgstr ""
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2022-06-01 15:01+0200\n"
-"PO-Revision-Date: 2021-12-27 13:53+0000\n"
-"Last-Translator: Dingzhong Chen <wsxy162@gmail.com>\n"
-"Language-Team: Chinese (Simplified) <https://hosted.weblate.org/projects/iso-"
-"codes/iso-3166-2/zh_Hans/>\n"
+"PO-Revision-Date: 2022-06-02 18:17+0000\n"
+"Last-Translator: Boyuan Yang <073plan@gmail.com>\n"
+"Language-Team: Chinese (Simplified) <https://hosted.weblate.org/projects/"
+"iso-codes/iso-3166-2/zh_Hans/>\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.10.1\n"
+"X-Generator: Weblate 4.13-dev\n"
 
 #. Name for AD-02
 msgid "Canillo"
@@ -58,8 +58,6 @@ msgid "Escaldes-Engordany"
 msgstr "莱塞斯卡尔德-恩戈尔达"
 
 #. Name for AE-AJ
-#, fuzzy
-#| msgid "'Ajmān"
 msgid "‘Ajmān"
 msgstr "阿吉曼"
 
