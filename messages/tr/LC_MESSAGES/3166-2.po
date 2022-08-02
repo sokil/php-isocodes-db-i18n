@@ -10,14 +10,14 @@
 # Nilgün Belma Bugüner <nilgun@fide.org>, 2001.
 # Oguz Ersen <oguzersen@protonmail.com>, 2019.
 # Oğuz Ersen <oguzersen@protonmail.com>, 2019.
-# EminUZUN <eminuzunn@gmail.com>, 2020.
+# EminUZUN <eminuzunn@gmail.com>, 2020, 2022.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-2\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2022-06-01 15:01+0200\n"
-"PO-Revision-Date: 2020-08-11 14:33+0000\n"
+"PO-Revision-Date: 2022-07-20 10:23+0000\n"
 "Last-Translator: EminUZUN <eminuzunn@gmail.com>\n"
 "Language-Team: Turkish <https://hosted.weblate.org/projects/iso-codes/"
 "iso-3166-2/tr/>\n"
@@ -26,7 +26,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.2-dev\n"
+"X-Generator: Weblate 4.14-dev\n"
 
 #. Name for AD-02
 msgid "Canillo"
@@ -6240,7 +6240,7 @@ msgstr ""
 
 #. Name for GB-LND
 msgid "London, City of"
-msgstr ""
+msgstr "Londra Şehri"
 
 #. Name for GB-LUT
 msgid "Luton"

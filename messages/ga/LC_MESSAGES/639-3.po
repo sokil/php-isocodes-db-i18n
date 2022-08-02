@@ -20,7 +20,7 @@ msgstr ""
 "Project-Id-Version: iso_639-3\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2018-01-17 22:10+0100\n"
+"POT-Creation-Date: 2022-07-25 22:15+0200\n"
 "PO-Revision-Date: 2005-08-11 07:10-0500\n"
 "Last-Translator: Kevin Patrick Scannell <scannell@SLU.EDU>\n"
 "Language-Team: Irish <ga@li.org>\n"
@@ -427,12 +427,14 @@ msgstr ""
 msgid "Adangme"
 msgstr ""
 
+# have Nárú in corpus
 #. Name for adb
-msgid "Adabe"
-msgstr ""
+#, fuzzy
+msgid "Atauran"
+msgstr "Nárúis"
 
 #. Name for add
-msgid "Dzodinka"
+msgid "Lidzonka"
 msgstr ""
 
 # placename in Oll-liosta --kps
@@ -1002,15 +1004,6 @@ msgstr ""
 msgid "Airoran"
 msgstr "Cóiréis"
 
-#. Name for ais
-#, fuzzy
-msgid "Nataoran Amis"
-msgstr "Guaráinis"
-
-#. Inverted name for ais
-msgid "Amis, Nataoran"
-msgstr ""
-
 #. Name for ait
 msgid "Arikem"
 msgstr ""
@@ -1032,8 +1025,9 @@ msgid "Ali"
 msgstr ""
 
 #. Name for aja
-msgid "Aja (Sudan)"
-msgstr ""
+#, fuzzy
+msgid "Aja (South Sudan)"
+msgstr "Sáimis Theas"
 
 #. Name for ajg
 msgid "Aja (Benin)"
@@ -1058,13 +1052,10 @@ msgstr "Altaech (Eile)"
 msgid "Arabic, South Levantine"
 msgstr "Altaech (Eile)"
 
-#. Name for ajt
-msgid "Judeo-Tunisian Arabic"
-msgstr ""
-
-#. Inverted name for ajt
-msgid "Arabic, Judeo-Tunisian"
-msgstr ""
+#. Name for ajs
+#, fuzzy
+msgid "Algerian Jewish Sign Language"
+msgstr "Teangacha comharthaí"
 
 #. Name for aju
 msgid "Judeo-Moroccan Arabic"
@@ -1620,11 +1611,6 @@ msgstr ""
 msgid "Angoram"
 msgstr ""
 
-#. Name for aoh
-#, fuzzy
-msgid "Arma"
-msgstr "Aramais"
-
 #. Name for aoi
 msgid "Anindilyakwa"
 msgstr ""
@@ -1851,6 +1837,12 @@ msgstr ""
 msgid "Arigidi"
 msgstr ""
 
+# coined -kps
+#. Name for aqk
+#, fuzzy
+msgid "Aninka"
+msgstr "Gandais"
+
 #. Name for aqm
 msgid "Atohwaim"
 msgstr ""
@@ -2035,20 +2027,14 @@ msgstr ""
 msgid "Asmat, Casuarina Coast"
 msgstr ""
 
-#. Name for asd
-#, fuzzy
-msgid "Asas"
-msgstr "Asaimis"
-
 #. Name for ase
 #, fuzzy
 msgid "American Sign Language"
 msgstr "Teangacha comharthaí"
 
 #. Name for asf
-#, fuzzy
-msgid "Australian Sign Language"
-msgstr "Teangacha Astrálacha"
+msgid "Auslan"
+msgstr ""
 
 #. Name for asg
 msgid "Cishingini"
@@ -2722,14 +2708,6 @@ msgstr ""
 msgid "Ayu"
 msgstr ""
 
-#. Name for ayy
-msgid "Tayabas Ayta"
-msgstr ""
-
-#. Inverted name for ayy
-msgid "Ayta, Tayabas"
-msgstr ""
-
 #. Name for ayz
 #, fuzzy
 msgid "Mai Brat"
@@ -3043,14 +3021,6 @@ msgstr ""
 msgid "Befang"
 msgstr "Beangáilis"
 
-#. Name for bbz
-msgid "Babalia Creole Arabic"
-msgstr ""
-
-#. Inverted name for bbz
-msgid "Creole Arabic, Babalia"
-msgstr ""
-
 #. Name for bca
 msgid "Central Bai"
 msgstr ""
@@ -3113,11 +3083,11 @@ msgstr ""
 msgid "Bardi"
 msgstr "Bihairis"
 
-# coined -kps
+# have Navachóch in corpus
 #. Name for bck
 #, fuzzy
-msgid "Bunaba"
-msgstr "Bambáiris"
+msgid "Bunuba"
+msgstr "Navachóis"
 
 #. Name for bcl
 msgid "Central Bikol"
@@ -3227,7 +3197,7 @@ msgid "Bonggi"
 msgstr "Beangáilis"
 
 #. Name for bdh
-msgid "Baka (Sudan)"
+msgid "Baka (South Sudan)"
 msgstr ""
 
 # have Nárú in corpus
@@ -3236,11 +3206,10 @@ msgstr ""
 msgid "Burun"
 msgstr "Nárúis"
 
-# google
 #. Name for bdj
 #, fuzzy
-msgid "Bai"
-msgstr "Bihairis"
+msgid "Bai (South Sudan)"
+msgstr "Sáimis Theas"
 
 #. Name for bdk
 msgid "Budukh"
@@ -3868,12 +3837,6 @@ msgstr "Bambáiris"
 msgid "Bissa"
 msgstr "Bioslamais"
 
-# google
-#. Name for bic
-#, fuzzy
-msgid "Bikaru"
-msgstr "Bihairis"
-
 #. Name for bid
 msgid "Bidiyo"
 msgstr ""
@@ -3890,10 +3853,6 @@ msgstr ""
 #, fuzzy
 msgid "Biangai"
 msgstr "Beangáilis"
-
-#. Name for bij
-msgid "Vaghat-Ya-Bijim-Legeri"
-msgstr ""
 
 #. Name for bik
 msgid "Bikol"
@@ -4247,11 +4206,6 @@ msgstr ""
 msgid "Buol"
 msgstr ""
 
-#. Name for blg
-#, fuzzy
-msgid "Balau"
-msgstr "Malaeis"
-
 # Firefox
 #. Name for blh
 #, fuzzy
@@ -4283,7 +4237,7 @@ msgid "Biloxi"
 msgstr ""
 
 #. Name for blm
-msgid "Beli (Sudan)"
+msgid "Beli (South Sudan)"
 msgstr ""
 
 #. Name for bln
@@ -4324,10 +4278,11 @@ msgstr "Bealarúisis"
 msgid "Tai Dam"
 msgstr ""
 
+# Coimí in Oll-liosta --kps
 #. Name for blv
 #, fuzzy
-msgid "Bolo"
-msgstr "Volaifis"
+msgid "Kibala"
+msgstr "Coimí"
 
 #. Name for blw
 #, fuzzy
@@ -4377,7 +4332,7 @@ msgid "Limassa"
 msgstr ""
 
 #. Name for bmf
-msgid "Bom"
+msgid "Bom-Kim"
 msgstr ""
 
 #. Name for bmg
@@ -4726,14 +4681,16 @@ msgstr ""
 msgid "Daakaka"
 msgstr "Bambáiris"
 
-# coined -kps
-#. Name for bpb
-#, fuzzy
-msgid "Barbacoas"
-msgstr "Bambáiris"
+#. Name for bpc
+msgid "Mbuk"
+msgstr ""
 
 #. Name for bpd
 msgid "Banda-Banda"
+msgstr ""
+
+#. Name for bpe
+msgid "Bauni"
 msgstr ""
 
 # coined -kps
@@ -4978,7 +4935,7 @@ msgid "Braj"
 msgstr ""
 
 #. Name for brb
-msgid "Lave"
+msgid "Brao"
 msgstr ""
 
 #. Name for brc
@@ -4998,9 +4955,8 @@ msgid "Breton"
 msgstr "Briotáinis"
 
 #. Name for brf
-#, fuzzy
-msgid "Bera"
-msgstr "Gearmáinis"
+msgid "Bira"
+msgstr ""
 
 #. Name for brg
 #, fuzzy
@@ -5888,11 +5844,9 @@ msgstr "Bihairis"
 msgid "Bayono"
 msgstr ""
 
-# Firefox
 #. Name for bym
-#, fuzzy
-msgid "Bidyara"
-msgstr "Adhmarais"
+msgid "Bidjara"
+msgstr ""
 
 # google
 #. Name for byn
@@ -6300,11 +6254,6 @@ msgstr "Cinearuáindis"
 msgid "Carabayo"
 msgstr ""
 
-#. Name for cca
-#, fuzzy
-msgid "Cauca"
-msgstr "Hásais"
-
 # Firefox
 #. Name for ccc
 #, fuzzy
@@ -6391,12 +6340,6 @@ msgstr "Seisnis"
 #. Name for cdf
 msgid "Chiru"
 msgstr ""
-
-# Firefox
-#. Name for cdg
-#, fuzzy
-msgid "Chamari"
-msgstr "Seamóróis"
 
 #. Name for cdh
 msgid "Chambeali"
@@ -6491,6 +6434,17 @@ msgstr "Seicis"
 #. Name for cet
 msgid "Centúúm"
 msgstr ""
+
+#. Name for cey
+#, fuzzy
+msgid "Ekai Chin"
+msgstr "Beangáilis"
+
+# Firefox
+#. Inverted name for cey
+#, fuzzy
+msgid "Chin, Ekai"
+msgstr "Siuáingis"
 
 #. Name for cfa
 msgid "Dijim-Bwilim"
@@ -6823,6 +6777,11 @@ msgstr "Móháicis"
 msgid "Cibak"
 msgstr ""
 
+#. Name for ckm
+#, fuzzy
+msgid "Chakavian"
+msgstr "Slóivéinis"
+
 #. Name for ckn
 #, fuzzy
 msgid "Kaang Chin"
@@ -7103,6 +7062,24 @@ msgstr ""
 #, fuzzy
 msgid "Con"
 msgstr "Coirnis"
+
+#. Name for cnp
+#, fuzzy
+msgid "Northern Ping Chinese"
+msgstr "Sáimis Thuaidh"
+
+#. Inverted name for cnp
+#, fuzzy
+msgid "Chinese, Northern Ping"
+msgstr "Seipidis"
+
+#. Name for cnq
+msgid "Chung"
+msgstr ""
+
+#. Name for cnr
+msgid "Montenegrin"
+msgstr ""
 
 #. Name for cns
 msgid "Central Asmat"
@@ -7588,6 +7565,16 @@ msgstr ""
 msgid "Chinantec, Sochiapam"
 msgstr ""
 
+#. Name for csp
+#, fuzzy
+msgid "Southern Ping Chinese"
+msgstr "Sáimis Theas"
+
+#. Inverted name for csp
+#, fuzzy
+msgid "Chinese, Southern Ping"
+msgstr "Sáimis Theas"
+
 #. Name for csq
 #, fuzzy
 msgid "Croatia Sign Language"
@@ -7637,6 +7624,11 @@ msgstr ""
 #. Inverted name for csw
 msgid "Cree, Swampy"
 msgstr ""
+
+#. Name for csx
+#, fuzzy
+msgid "Cambodian Sign Language"
+msgstr "Teangacha comharthaí"
 
 #. Name for csy
 #, fuzzy
@@ -7750,6 +7742,10 @@ msgstr ""
 msgid "Chol"
 msgstr "Coirnis"
 
+#. Name for cty
+msgid "Moundadan Chetty"
+msgstr ""
+
 #. Name for ctz
 msgid "Zacatepec Chatino"
 msgstr ""
@@ -7773,10 +7769,6 @@ msgstr ""
 
 #. Inverted name for cuc
 msgid "Chinantec, Usila"
-msgstr ""
-
-#. Name for cug
-msgid "Cung"
 msgstr ""
 
 #. Name for cuh
@@ -7848,6 +7840,10 @@ msgstr ""
 
 #. Inverted name for cux
 msgid "Cuicatec, Tepeuxila"
+msgstr ""
+
+#. Name for cuy
+msgid "Cuitlatec"
 msgstr ""
 
 # Firefox
@@ -8398,10 +8394,6 @@ msgstr ""
 msgid "Ndra'ngith"
 msgstr ""
 
-#. Name for dgu
-msgid "Degaru"
-msgstr ""
-
 #. Name for dgw
 msgid "Daungwurrung"
 msgstr ""
@@ -8574,12 +8566,6 @@ msgstr "Hírí-Mótúis"
 msgid "Dimasa"
 msgstr ""
 
-# google
-#. Name for dit
-#, fuzzy
-msgid "Dirari"
-msgstr "Bihairis"
-
 # Firefox
 #. Name for diu
 #, fuzzy
@@ -8663,9 +8649,11 @@ msgstr ""
 msgid "Dogon, Jamsay"
 msgstr ""
 
+# my coinage --kps
 #. Name for djn
-msgid "Djauan"
-msgstr ""
+#, fuzzy
+msgid "Jawoyn"
+msgstr "Samóis"
 
 #. Name for djo
 #, fuzzy
@@ -8687,6 +8675,12 @@ msgstr ""
 #. Name for dka
 msgid "Dakpakha"
 msgstr ""
+
+# Firefox
+#. Name for dkg
+#, fuzzy
+msgid "Kadung"
+msgstr "Ndongais"
 
 #. Name for dkk
 msgid "Dakka"
@@ -8753,6 +8747,10 @@ msgstr ""
 
 #. Name for dme
 msgid "Dugwor"
+msgstr ""
+
+#. Name for dmf
+msgid "Medefaidrin"
 msgstr ""
 
 #. Name for dmg
@@ -8860,6 +8858,10 @@ msgstr "Beangáilis"
 
 #. Name for dnn
 msgid "Dzùùngoo"
+msgstr ""
+
+#. Name for dno
+msgid "Ndrulo"
 msgstr ""
 
 #. Name for dnr
@@ -9029,7 +9031,7 @@ msgid "Rungus"
 msgstr ""
 
 #. Name for dri
-msgid "C'lela"
+msgid "C'Lela"
 msgstr ""
 
 #. Name for drl
@@ -9055,10 +9057,6 @@ msgstr ""
 
 #. Name for drq
 msgid "Dura"
-msgstr ""
-
-#. Name for drr
-msgid "Dororo"
 msgstr ""
 
 #. Name for drs
@@ -9119,6 +9117,11 @@ msgstr "Veindis"
 #. Name for dsq
 msgid "Tadaksahak"
 msgstr ""
+
+#. Name for dsz
+#, fuzzy
+msgid "Mardin Sign Language"
+msgstr "Teangacha comharthaí"
 
 # have Nárú in corpus
 #. Name for dta
@@ -9233,10 +9236,6 @@ msgstr ""
 
 #. Name for duc
 msgid "Duna"
-msgstr ""
-
-#. Name for dud
-msgid "Hun-Saare"
 msgstr ""
 
 #. Name for due
@@ -9357,6 +9356,14 @@ msgstr ""
 msgid "Diri"
 msgstr "Hírí-Mótúis"
 
+#. Name for dwk
+msgid "Dawik Kui"
+msgstr ""
+
+#. Inverted name for dwk
+msgid "Kui, Dawik"
+msgstr ""
+
 #. Name for dwr
 #, fuzzy
 msgid "Dawro"
@@ -9379,6 +9386,14 @@ msgstr ""
 #, fuzzy
 msgid "Dhuwaya"
 msgstr "Cuainiáimis"
+
+#. Name for dwz
+msgid "Dewas Rai"
+msgstr ""
+
+#. Inverted name for dwz
+msgid "Rai, Dewas"
+msgstr ""
 
 #. Name for dya
 #, fuzzy
@@ -9430,7 +9445,7 @@ msgid "Dyula"
 msgstr ""
 
 #. Name for dyy
-msgid "Dyaabugay"
+msgid "Djabugay"
 msgstr ""
 
 #. Name for dza
@@ -9462,6 +9477,10 @@ msgstr "Seoinicis"
 #, fuzzy
 msgid "Karenggapa"
 msgstr "Ungáiris"
+
+#. Name for ebc
+msgid "Beginci"
+msgstr ""
 
 #. Name for ebg
 msgid "Ebughu"
@@ -9532,6 +9551,12 @@ msgstr ""
 msgid "Emilian"
 msgstr "Samóis"
 
+# Firefox
+#. Name for egm
+#, fuzzy
+msgid "Benamanga"
+msgstr "Lúba-Cataingis"
+
 #. Name for ego
 msgid "Eggon"
 msgstr ""
@@ -9539,6 +9564,11 @@ msgstr ""
 #. Name for egy
 msgid "Egyptian (Ancient)"
 msgstr "Éigiptis (Cianaosta)"
+
+#. Name for ehs
+#, fuzzy
+msgid "Miyakubo Sign Language"
+msgstr "Teangacha comharthaí"
 
 #. Name for ehu
 msgid "Ehueun"
@@ -9567,16 +9597,6 @@ msgstr ""
 #. Name for eka
 msgid "Ekajuk"
 msgstr ""
-
-#. Name for ekc
-#, fuzzy
-msgid "Eastern Karnic"
-msgstr "Freaslainnis"
-
-#. Inverted name for ekc
-#, fuzzy
-msgid "Karnic, Eastern"
-msgstr "Freaslainnis"
 
 #. Name for eke
 msgid "Ekit"
@@ -9728,6 +9748,16 @@ msgstr ""
 msgid "Emberá, Northern"
 msgstr "Seipidis"
 
+#. Name for emq
+#, fuzzy
+msgid "Eastern Minyag"
+msgstr "Freaslainnis"
+
+#. Inverted name for emq
+#, fuzzy
+msgid "Minyag, Eastern"
+msgstr "Freaslainnis"
+
 #. Name for ems
 msgid "Pacific Gulf Yupik"
 msgstr ""
@@ -9759,6 +9789,10 @@ msgstr ""
 
 #. Inverted name for emy
 msgid "Mayan, Epigraphic"
+msgstr ""
+
+#. Name for emz
+msgid "Mbessa"
 msgstr ""
 
 # google; An CT slender
@@ -9835,7 +9869,7 @@ msgid "Enu"
 msgstr ""
 
 #. Name for env
-msgid "Enwan (Edu State)"
+msgid "Enwan (Edo State)"
 msgstr ""
 
 #. Name for enw
@@ -10160,7 +10194,7 @@ msgstr "Faróis"
 # Firefox
 #. Name for fap
 #, fuzzy
-msgid "Palor"
+msgid "Paloor"
 msgstr "Páilis"
 
 #. Name for far
@@ -10248,6 +10282,10 @@ msgstr ""
 
 #. Name for fie
 msgid "Fyer"
+msgstr ""
+
+#. Name for fif
+msgid "Faifi"
 msgstr ""
 
 #. Name for fij
@@ -10772,8 +10810,9 @@ msgid "Kaytetye"
 msgstr ""
 
 #. Name for gbd
-msgid "Karadjeri"
-msgstr ""
+#, fuzzy
+msgid "Karajarri"
+msgstr "Canúiris"
 
 #. Name for gbe
 msgid "Niksek"
@@ -11076,6 +11115,11 @@ msgstr ""
 msgid "Gade"
 msgstr "Gandais"
 
+#. Name for gef
+#, fuzzy
+msgid "Gerai"
+msgstr "Gearmáinis"
+
 #. Name for geg
 #, fuzzy
 msgid "Gengle"
@@ -11162,9 +11206,8 @@ msgid "Gugadj"
 msgstr ""
 
 #. Name for gge
-#, fuzzy
-msgid "Guragone"
-msgstr "Aragóinis"
+msgid "Gurr-goni"
+msgstr ""
 
 #. Name for ggg
 msgid "Gurgula"
@@ -11263,7 +11306,7 @@ msgid "Kuke"
 msgstr ""
 
 #. Name for gia
-msgid "Kitja"
+msgid "Kija"
 msgstr ""
 
 # coined -kps
@@ -11283,6 +11326,10 @@ msgstr "Tamailis"
 msgid "Gidar"
 msgstr "Gandais"
 
+#. Name for gie
+msgid "Gaɓogbo"
+msgstr ""
+
 # google
 #. Name for gig
 #, fuzzy
@@ -11291,6 +11338,10 @@ msgstr "Seoirsis"
 
 #. Name for gih
 msgid "Githabul"
+msgstr ""
+
+#. Name for gii
+msgid "Girirra"
 msgstr ""
 
 # placename in OLT
@@ -11372,10 +11423,6 @@ msgstr ""
 msgid "Giziga, South"
 msgstr ""
 
-#. Name for gji
-msgid "Geji"
-msgstr ""
-
 #. Name for gjk
 msgid "Kachi Koli"
 msgstr ""
@@ -11407,6 +11454,10 @@ msgstr "Gúisearáitis"
 
 #. Name for gka
 msgid "Guya"
+msgstr ""
+
+#. Name for gkd
+msgid "Magɨ (Madang Province)"
 msgstr ""
 
 # google; An CT slender
@@ -11446,6 +11497,10 @@ msgstr ""
 msgid "Gaelic, Scottish"
 msgstr "Gaeilge na hAlban"
 
+#. Name for glb
+msgid "Belning"
+msgstr ""
+
 #. Name for glc
 msgid "Bon Gula"
 msgstr ""
@@ -11474,10 +11529,6 @@ msgstr "Sáimis Theas"
 #, fuzzy
 msgid "Pashai, Northwest"
 msgstr "Seipidis"
-
-#. Name for gli
-msgid "Guliguli"
-msgstr ""
 
 #. Name for glj
 msgid "Gula Iro"
@@ -11564,6 +11615,12 @@ msgstr ""
 msgid "Gimnime"
 msgstr ""
 
+# Firefox
+#. Name for gmr
+#, fuzzy
+msgid "Mirning"
+msgstr "Ndongais"
+
 #. Name for gmu
 #, fuzzy
 msgid "Gumalu"
@@ -11631,10 +11688,14 @@ msgstr "Heiréiróis"
 msgid "Gooniyandi"
 msgstr ""
 
+#. Name for gnj
+msgid "Ngen"
+msgstr ""
+
 # coined -kps
 #. Name for gnk
 #, fuzzy
-msgid "//Gana"
+msgid "ǁGana"
 msgstr "Gandais"
 
 #. Name for gnl
@@ -11795,6 +11856,12 @@ msgstr "Gotais"
 #, fuzzy
 msgid "Gavar"
 msgstr "Tatairis"
+
+# coined -kps
+#. Name for gov
+#, fuzzy
+msgid "Goo"
+msgstr "Congóis"
 
 #. Name for gow
 msgid "Gorowa"
@@ -12050,7 +12117,7 @@ msgstr ""
 
 #. Name for gue
 #, fuzzy
-msgid "Gurinji"
+msgid "Gurindji"
 msgstr "Guaráinis"
 
 #. Name for guf
@@ -12224,11 +12291,9 @@ msgstr "Maorais"
 msgid "Gwa"
 msgstr ""
 
-# Firefox
 #. Name for gwc
-#, fuzzy
-msgid "Kalami"
-msgstr "Páilis"
+msgid "Gawri"
+msgstr ""
 
 # coined -kps
 #. Name for gwd
@@ -12253,7 +12318,7 @@ msgid "Gwichʼin"
 msgstr ""
 
 #. Name for gwj
-msgid "/Gwi"
+msgid "ǀGwi"
 msgstr ""
 
 #. Name for gwm
@@ -12348,6 +12413,10 @@ msgstr ""
 msgid "Creole English, Guyanese"
 msgstr ""
 
+#. Name for gyo
+msgid "Gyalsumdo"
+msgstr ""
+
 #. Name for gyr
 #, fuzzy
 msgid "Guarayu"
@@ -12358,6 +12427,10 @@ msgstr "Guaráinis"
 #, fuzzy
 msgid "Gunya"
 msgstr "Cuainiáimis"
+
+#. Name for gyz
+msgid "Geji"
+msgstr ""
 
 # coined -kps
 #. Name for gza
@@ -12620,7 +12693,7 @@ msgid "Herero"
 msgstr "Heiréiróis"
 
 #. Name for hgm
-msgid "Hai//om"
+msgid "Haiǁom"
 msgstr ""
 
 #. Name for hgw
@@ -12739,8 +12812,16 @@ msgstr "Ciméiris"
 msgid "Hunde"
 msgstr "Hiondúis"
 
+#. Name for hkh
+msgid "Khah"
+msgstr ""
+
 #. Name for hkk
 msgid "Hunjara-Kaina Ke"
+msgstr ""
+
+#. Name for hkn
+msgid "Mel-Khaonh"
 msgstr ""
 
 #. Name for hks
@@ -12992,8 +13073,13 @@ msgstr ""
 msgid "Chhattisgarhi"
 msgstr ""
 
+#. Name for hng
+#, fuzzy
+msgid "Hungu"
+msgstr "Ungáiris"
+
 #. Name for hnh
-msgid "//Ani"
+msgid "ǁAni"
 msgstr ""
 
 #. Name for hni
@@ -13264,9 +13350,8 @@ msgid "Huambisa"
 msgstr "Hásais"
 
 #. Name for huc
-#, fuzzy
-msgid "=/Hua"
-msgstr "Hásais"
+msgid "ǂHua"
+msgstr ""
 
 #. Name for hud
 #, fuzzy
@@ -13443,6 +13528,16 @@ msgstr ""
 msgid "Armenian"
 msgstr "Airméinis"
 
+#. Name for hyw
+#, fuzzy
+msgid "Western Armenian"
+msgstr "Freaslainnis"
+
+#. Inverted name for hyw
+#, fuzzy
+msgid "Armenian, Western"
+msgstr "Freaslainnis"
+
 #. Name for iai
 msgid "Iaai"
 msgstr ""
@@ -13476,6 +13571,12 @@ msgstr ""
 #. Name for ibg
 msgid "Ibanag"
 msgstr ""
+
+# google
+#. Name for ibh
+#, fuzzy
+msgid "Bih"
+msgstr "Bihairis"
 
 #. Name for ibl
 #, fuzzy
@@ -13887,6 +13988,12 @@ msgstr ""
 msgid "Marsian"
 msgstr "Freaslainnis"
 
+# coined -kps
+#. Name for imt
+#, fuzzy
+msgid "Imotong"
+msgstr "Congóis"
+
 #. Name for imy
 #, fuzzy
 msgid "Milyan"
@@ -13997,7 +14104,7 @@ msgid "Irarutu"
 msgstr ""
 
 #. Name for iri
-msgid "Irigwe"
+msgid "Rigwe"
 msgstr ""
 
 #. Name for irk
@@ -14389,6 +14496,10 @@ msgstr "Aramais"
 msgid "Barikewa"
 msgstr "Bulgáiris"
 
+#. Name for jbm
+msgid "Bijim"
+msgstr ""
+
 #. Name for jbn
 msgid "Nafusi"
 msgstr ""
@@ -14443,10 +14554,6 @@ msgstr "Heiréiróis"
 
 #. Name for jee
 msgid "Jerung"
-msgstr ""
-
-#. Name for jeg
-msgid "Jeng"
 msgstr ""
 
 #. Name for jeh
@@ -14525,7 +14632,7 @@ msgid "Tol"
 msgstr ""
 
 #. Name for jid
-msgid "Bu"
+msgid "Bu (Kaduna State)"
 msgstr ""
 
 #. Name for jie
@@ -14533,8 +14640,9 @@ msgid "Jilbe"
 msgstr ""
 
 #. Name for jig
-msgid "Djingili"
-msgstr ""
+#, fuzzy
+msgid "Jingulu"
+msgstr "Súlúis"
 
 #. Name for jih
 msgid "sTodsde"
@@ -14624,6 +14732,11 @@ msgstr ""
 #, fuzzy
 msgid "Koro (India)"
 msgstr "Indinéisis"
+
+#. Name for jks
+#, fuzzy
+msgid "Amami Koniya Sign Language"
+msgstr "Teangacha comharthaí"
 
 #. Name for jku
 #, fuzzy
@@ -14800,8 +14913,9 @@ msgid "Jiru"
 msgstr ""
 
 #. Name for jrt
-msgid "Jorto"
-msgstr ""
+#, fuzzy
+msgid "Jakattoe"
+msgstr "Maraitis"
 
 #. Name for jru
 msgid "Japrería"
@@ -15683,11 +15797,6 @@ msgstr ""
 msgid "Kawe"
 msgstr ""
 
-#. Name for kgd
-#, fuzzy
-msgid "Kataang"
-msgstr "Catalóinis"
-
 # Coimí in Oll-liosta --kps
 #. Name for kge
 #, fuzzy
@@ -15854,14 +15963,8 @@ msgid "Lusi"
 msgstr ""
 
 #. Name for khm
-msgid "Central Khmer"
-msgstr "Ciméiris Láir"
-
-# de Bhaldraithe
-#. Inverted name for khm
-#, fuzzy
-msgid "Khmer, Central"
-msgstr "Coirdis"
+msgid "Khmer"
+msgstr ""
 
 #. Name for khn
 msgid "Khandesi"
@@ -16091,10 +16194,6 @@ msgstr ""
 msgid "Kisar"
 msgstr ""
 
-#. Name for kjf
-msgid "Khalaj"
-msgstr ""
-
 #. Name for kjg
 #, fuzzy
 msgid "Khmu"
@@ -16295,9 +16394,8 @@ msgid "Gugubera"
 msgstr ""
 
 #. Name for kkq
-#, fuzzy
-msgid "Kaiku"
-msgstr "Ciocúis"
+msgid "Kaeku"
+msgstr ""
 
 #. Name for kkr
 #, fuzzy
@@ -16335,7 +16433,7 @@ msgid "Kohin"
 msgstr "Coimí"
 
 #. Name for kky
-msgid "Guguyimidjir"
+msgid "Guugu Yimidhirr"
 msgstr ""
 
 #. Name for kkz
@@ -16381,12 +16479,7 @@ msgid "Kalumpang"
 msgstr ""
 
 #. Name for klj
-#, fuzzy
-msgid "Turkic Khalaj"
-msgstr "Teangacha iomadúla"
-
-#. Inverted name for klj
-msgid "Khalaj, Turkic"
+msgid "Khalaj"
 msgstr ""
 
 #. Name for klk
@@ -16449,9 +16542,8 @@ msgid "Maskelynes"
 msgstr ""
 
 #. Name for klw
-#, fuzzy
-msgid "Lindu"
-msgstr "Laidin"
+msgid "Tado"
+msgstr ""
 
 #. Name for klx
 msgid "Koluwawa"
@@ -16764,7 +16856,11 @@ msgid "Kodi"
 msgstr "Coimí"
 
 #. Name for koe
-msgid "Kacipo-Balesi"
+msgid "Kacipo-Bale Suri"
+msgstr ""
+
+#. Inverted name for koe
+msgid "Suri, Kacipo-Bale"
 msgstr ""
 
 #. Name for kof
@@ -17171,11 +17267,6 @@ msgstr "Ciméiris"
 msgid "Karelian"
 msgstr "Cairéailis"
 
-#. Name for krm
-#, fuzzy
-msgid "Krim"
-msgstr "Canúiris"
-
 #. Name for krn
 #, fuzzy
 msgid "Sapo"
@@ -17188,8 +17279,9 @@ msgid "Korop"
 msgstr "Congóis"
 
 #. Name for krr
-msgid "Kru'ng 2"
-msgstr ""
+#, fuzzy
+msgid "Krung"
+msgstr "Turcamáinis"
 
 #. Name for krs
 msgid "Gbaya (Sudan)"
@@ -17512,7 +17604,7 @@ msgid "Kango (Bas-Uélé District)"
 msgstr ""
 
 #. Name for ktz
-msgid "Ju/'hoan"
+msgid "Juǀʼhoan"
 msgstr ""
 
 # Firefox
@@ -17959,16 +18051,6 @@ msgstr ""
 msgid "Karen, Zayein"
 msgstr ""
 
-#. Name for kxl
-msgid "Nepali Kurux"
-msgstr ""
-
-# google; An CT slender
-#. Inverted name for kxl
-#, fuzzy
-msgid "Kurux, Nepali"
-msgstr "Neipealais"
-
 #. Name for kxm
 #, fuzzy
 msgid "Northern Khmer"
@@ -18027,10 +18109,6 @@ msgstr "Canúiris"
 #, fuzzy
 msgid "Koiwat"
 msgstr "Coimí"
-
-#. Name for kxu
-msgid "Kui (India)"
-msgstr ""
 
 #. Name for kxv
 #, fuzzy
@@ -18379,10 +18457,6 @@ msgstr "Bambáiris"
 msgid "Lango (Uganda)"
 msgstr ""
 
-#. Name for lak
-msgid "Laka (Nigeria)"
-msgstr ""
-
 # Firefox
 #. Name for lal
 #, fuzzy
@@ -18457,10 +18531,6 @@ msgstr ""
 msgid "Aribwatsa"
 msgstr ""
 
-#. Name for lba
-msgid "Lui"
-msgstr ""
-
 #. Name for lbb
 msgid "Label"
 msgstr ""
@@ -18521,9 +18591,8 @@ msgid "Lodhi"
 msgstr ""
 
 #. Name for lbn
-#, fuzzy
-msgid "Lamet"
-msgstr "Laidin"
+msgid "Rmeet"
+msgstr ""
 
 #. Name for lbo
 #, fuzzy
@@ -18569,9 +18638,11 @@ msgstr "Volapük"
 msgid "Lawangan"
 msgstr "Haváis"
 
+# coined -kps
 #. Name for lby
-msgid "Lamu-Lamu"
-msgstr ""
+#, fuzzy
+msgid "Lamalama"
+msgstr "Bambáiris"
 
 # OLT as "Latino" --kps, Laidínis in revision
 #. Name for lbz
@@ -18855,8 +18926,13 @@ msgid "Lega-Mwenga"
 msgstr ""
 
 #. Name for lgn
-msgid "Opuuo"
+msgid "T'apo"
 msgstr ""
+
+#. Name for lgo
+#, fuzzy
+msgid "Lango (South Sudan)"
+msgstr "Seipidis"
 
 # artificial
 #. Name for lgq
@@ -19234,11 +19310,6 @@ msgstr ""
 msgid "Lele (Chad)"
 msgstr ""
 
-#. Name for llo
-#, fuzzy
-msgid "Khlor"
-msgstr "Ciméiris"
-
 #. Name for llp
 #, fuzzy
 msgid "North Efate"
@@ -19396,11 +19467,6 @@ msgstr ""
 msgid "Lamboya"
 msgstr "Samóis"
 
-#. Name for lmz
-#, fuzzy
-msgid "Lumbee"
-msgstr "Burmais"
-
 #. Name for lna
 msgid "Langbashe"
 msgstr ""
@@ -19449,10 +19515,6 @@ msgstr "Liongáilis"
 
 #. Name for lnn
 msgid "Lorediakarkar"
-msgstr ""
-
-#. Name for lno
-msgid "Lango (Sudan)"
 msgstr ""
 
 # OLT as "Latino" --kps, Laidínis in revision
@@ -19641,6 +19703,10 @@ msgstr "Laideanóis"
 msgid "Lopit"
 msgstr ""
 
+#. Name for lqr
+msgid "Logir"
+msgstr ""
+
 # google
 #. Name for lra
 #, fuzzy
@@ -19728,6 +19794,16 @@ msgstr "Coimí"
 msgid "Lasgerdi"
 msgstr ""
 
+#. Name for lsb
+#, fuzzy
+msgid "Burundian Sign Language"
+msgstr "Teangacha comharthaí"
+
+#. Name for lsc
+#, fuzzy
+msgid "Albarradas Sign Language"
+msgstr "Teangacha comharthaí"
+
 #. Name for lsd
 #, fuzzy
 msgid "Lishana Deni"
@@ -19736,11 +19812,6 @@ msgstr "Liotuáinis"
 #. Name for lse
 msgid "Lusengo"
 msgstr ""
-
-#. Name for lsg
-#, fuzzy
-msgid "Lyons Sign Language"
-msgstr "Teangacha comharthaí"
 
 #. Name for lsh
 #, fuzzy
@@ -19763,6 +19834,11 @@ msgstr "Teangacha comharthaí"
 #, fuzzy
 msgid "Saamia"
 msgstr "Samóis"
+
+#. Name for lsn
+#, fuzzy
+msgid "Tibetan Sign Language"
+msgstr "Teangacha comharthaí"
 
 #. Name for lso
 #, fuzzy
@@ -19788,6 +19864,16 @@ msgstr "Laidin"
 msgid "Trinidad and Tobago Sign Language"
 msgstr "Teangacha comharthaí"
 
+#. Name for lsv
+#, fuzzy
+msgid "Sivia Sign Language"
+msgstr "Teangacha comharthaí"
+
+#. Name for lsw
+#, fuzzy
+msgid "Seychelles Sign Language"
+msgstr "Teangacha comharthaí"
+
 #. Name for lsy
 #, fuzzy
 msgid "Mauritian Sign Language"
@@ -19805,6 +19891,11 @@ msgstr ""
 #, fuzzy
 msgid "Latgalian"
 msgstr "Catalóinis"
+
+#. Name for lth
+#, fuzzy
+msgid "Thur"
+msgstr "Tuircis"
 
 #. Name for lti
 #, fuzzy
@@ -19954,6 +20045,10 @@ msgstr ""
 msgid "Maku'a"
 msgstr ""
 
+#. Name for lvi
+msgid "Lavi"
+msgstr ""
+
 #. Name for lvk
 msgid "Lavukaleve"
 msgstr ""
@@ -20012,6 +20107,11 @@ msgstr "Samóis"
 msgid "Luwo"
 msgstr ""
 
+#. Name for lws
+#, fuzzy
+msgid "Malawian Sign Language"
+msgstr "Teangacha Máigeacha"
+
 #. Name for lwt
 msgid "Lewotobi"
 msgstr ""
@@ -20023,6 +20123,11 @@ msgstr ""
 #. Name for lww
 msgid "Lewo"
 msgstr ""
+
+#. Name for lxm
+#, fuzzy
+msgid "Lakurumau"
+msgstr "Tamailis"
 
 #. Name for lya
 #, fuzzy
@@ -20602,7 +20707,7 @@ msgstr ""
 
 #. Name for mec
 #, fuzzy
-msgid "Mara"
+msgid "Marra"
 msgstr "Maraitis"
 
 #. Name for med
@@ -20669,7 +20774,7 @@ msgid "Malay, Kedah"
 msgstr ""
 
 #. Name for mep
-msgid "Miriwung"
+msgid "Miriwoong"
 msgstr ""
 
 #. Name for meq
@@ -20813,7 +20918,7 @@ msgstr "Iarúibis"
 
 #. Name for mfr
 #, fuzzy
-msgid "Marithiel"
+msgid "Marrithiyel"
 msgstr "Maraitis"
 
 #. Name for mfs
@@ -21920,7 +22025,7 @@ msgid "Mobilian"
 msgstr "Moldávais"
 
 #. Name for moe
-msgid "Montagnais"
+msgid "Innu"
 msgstr ""
 
 #. Name for mog
@@ -22014,12 +22119,13 @@ msgid "Mpoto"
 msgstr ""
 
 #. Name for mpb
-msgid "Mullukmulluk"
-msgstr ""
+#, fuzzy
+msgid "Malak Malak"
+msgstr "Malaeis"
 
 #. Name for mpc
 #, fuzzy
-msgid "Mangarayi"
+msgid "Mangarrayi"
 msgstr "Maraitis"
 
 #. Name for mpd
@@ -22834,10 +22940,6 @@ msgstr ""
 msgid "Mbara (Australia)"
 msgstr ""
 
-#. Name for mvm
-msgid "Muya"
-msgstr ""
-
 #. Name for mvn
 msgid "Minaveha"
 msgstr ""
@@ -23004,15 +23106,6 @@ msgstr ""
 
 #. Name for mww
 msgid "Hmong Daw"
-msgstr ""
-
-#. Name for mwx
-#, fuzzy
-msgid "Mediak"
-msgstr "Macadóinis"
-
-#. Name for mwy
-msgid "Mosiro"
 msgstr ""
 
 #. Name for mwz
@@ -23189,10 +23282,6 @@ msgstr "Malaeis"
 msgid "Mayeka"
 msgstr ""
 
-#. Name for myd
-msgid "Maramba"
-msgstr ""
-
 #. Name for mye
 msgid "Myene"
 msgstr ""
@@ -23212,10 +23301,6 @@ msgstr "Manainnis"
 #, fuzzy
 msgid "Makah"
 msgstr "Maraitis"
-
-#. Name for myi
-msgid "Mina (India)"
-msgstr ""
 
 #. Name for myj
 #, fuzzy
@@ -23525,9 +23610,11 @@ msgstr "Nárúis"
 msgid "Nakwi"
 msgstr ""
 
+# google
 #. Name for nay
-msgid "Narrinyeri"
-msgstr ""
+#, fuzzy
+msgid "Ngarrindjeri"
+msgstr "Bihairis"
 
 #. Name for naz
 msgid "Coatepec Nahuatl"
@@ -23587,7 +23674,7 @@ msgstr ""
 
 #. Name for nbj
 #, fuzzy
-msgid "Ngarinman"
+msgid "Ngarinyman"
 msgstr "Sairdínis"
 
 #. Name for nbk
@@ -23627,8 +23714,9 @@ msgid "Nggem"
 msgstr ""
 
 #. Name for nbr
-msgid "Numana-Nunku-Gbantu-Numbu"
-msgstr ""
+#, fuzzy
+msgid "Numana"
+msgstr "Gearmáinis"
 
 #. Name for nbs
 #, fuzzy
@@ -23732,7 +23820,7 @@ msgstr ""
 # coined -kps
 #. Name for nck
 #, fuzzy
-msgid "Nakara"
+msgid "Na-kara"
 msgstr "Bambáiris"
 
 #. Name for ncl
@@ -23757,9 +23845,15 @@ msgstr "Nárúis"
 msgid "Sibe"
 msgstr ""
 
-#. Name for ncp
-msgid "Ndaktup"
-msgstr ""
+#. Name for ncq
+#, fuzzy
+msgid "Northern Katang"
+msgstr "Sáimis Thuaidh"
+
+#. Inverted name for ncq
+#, fuzzy
+msgid "Katang, Northern"
+msgstr "Seipidis"
 
 #. Name for ncr
 msgid "Ncane"
@@ -24118,7 +24212,7 @@ msgid "Ngbaka Manza"
 msgstr ""
 
 #. Name for ngh
-msgid "N/u"
+msgid "Nǁng"
 msgstr ""
 
 #. Name for ngi
@@ -24145,10 +24239,6 @@ msgstr ""
 msgid "Ngwo"
 msgstr ""
 
-#. Name for ngo
-msgid "Ngoni"
-msgstr ""
-
 #. Name for ngp
 #, fuzzy
 msgid "Ngulu"
@@ -24167,8 +24257,9 @@ msgid "Gvoko"
 msgstr ""
 
 #. Name for ngt
-msgid "Ngeq"
-msgstr ""
+#, fuzzy
+msgid "Kriang"
+msgstr "Sangóis"
 
 #. Name for ngu
 msgid "Guerrero Nahuatl"
@@ -24387,9 +24478,11 @@ msgstr "Neipealais"
 msgid "Nek"
 msgstr ""
 
+# Firefox
 #. Name for nig
-msgid "Ngalakan"
-msgstr ""
+#, fuzzy
+msgid "Ngalakgan"
+msgstr "Liongáilis"
 
 #. Name for nih
 msgid "Nyiha (Tanzania)"
@@ -24766,6 +24859,11 @@ msgstr ""
 msgid "Nihali"
 msgstr "Neipealais"
 
+#. Name for nlm
+#, fuzzy
+msgid "Mankiyali"
+msgstr "Malaeis"
+
 #. Name for nlo
 msgid "Ngul"
 msgstr ""
@@ -24902,7 +25000,7 @@ msgid "Manangba"
 msgstr "Malagásais"
 
 #. Name for nmn
-msgid "!Xóõ"
+msgid "ǃXóõ"
 msgstr ""
 
 #. Name for nmo
@@ -25066,10 +25164,6 @@ msgstr ""
 #, fuzzy
 msgid "Narungga"
 msgstr "Nárúis"
-
-#. Name for nns
-msgid "Ningye"
-msgstr ""
 
 #. Name for nnt
 msgid "Nanticoke"
@@ -25301,6 +25395,10 @@ msgstr ""
 msgid "Naga, Puimei"
 msgstr ""
 
+#. Name for npx
+msgid "Noipx"
+msgstr ""
+
 # have Nárú in corpus
 #. Name for npy
 #, fuzzy
@@ -25323,6 +25421,10 @@ msgstr ""
 
 #. Inverted name for nqk
 msgid "Ede Nago, Kura"
+msgstr ""
+
+#. Name for nql
+msgid "Ngendelengo"
 msgstr ""
 
 # Firefox
@@ -25351,6 +25453,11 @@ msgstr "Laitvis"
 #, fuzzy
 msgid "Naga, Kyan-Karyaw"
 msgstr "Nárúis"
+
+#. Name for nqt
+#, fuzzy
+msgid "Nteng"
+msgstr "Sangóis"
 
 # have Nárú in corpus
 #. Name for nqy
@@ -25476,6 +25583,11 @@ msgstr "Sangóis"
 #. Inverted name for nsa
 msgid "Naga, Sangtam"
 msgstr ""
+
+#. Name for nsb
+#, fuzzy
+msgid "Lower Nossob"
+msgstr "Seirbis"
 
 #. Name for nsc
 msgid "Nshi"
@@ -25884,6 +25996,10 @@ msgstr ""
 msgid "Nawaru"
 msgstr "Nárúis"
 
+#. Name for nww
+msgid "Ndwewe"
+msgstr ""
+
 #. Name for nwx
 msgid "Middle Newar"
 msgstr ""
@@ -25964,12 +26080,6 @@ msgid "Ninggerum"
 msgstr ""
 
 # have Nárú in corpus
-#. Name for nxu
-#, fuzzy
-msgid "Narau"
-msgstr "Nárúis"
-
-# have Nárú in corpus
 #. Name for nxx
 #, fuzzy
 msgid "Nafri"
@@ -26008,10 +26118,11 @@ msgstr "Gearmáinis"
 msgid "Nyindu"
 msgstr ""
 
+# google
 #. Name for nyh
 #, fuzzy
-msgid "Nyigina"
-msgstr "Tigrinis"
+msgid "Nyikina"
+msgstr "Boisnis"
 
 #. Name for nyi
 msgid "Ama (Sudan)"
@@ -26060,7 +26171,7 @@ msgstr "Neipealais"
 # Firefox
 #. Name for nys
 #, fuzzy
-msgid "Nyunga"
+msgid "Nyungar"
 msgstr "Ndongais"
 
 #. Name for nyt
@@ -26099,6 +26210,10 @@ msgstr ""
 
 #. Name for nzb
 msgid "Njebi"
+msgstr ""
+
+#. Name for nzd
+msgid "Nzadi"
 msgstr ""
 
 #. Name for nzi
@@ -26240,6 +26355,16 @@ msgstr "Sínis"
 msgid "Occitan (post 1500)"
 msgstr "Ocatáinis (tar éis 1500); Proibhinsis"
 
+#. Name for ocm
+#, fuzzy
+msgid "Old Cham"
+msgstr "Tamailis"
+
+#. Inverted name for ocm
+#, fuzzy
+msgid "Cham, Old"
+msgstr "Tamailis"
+
 #. Name for oco
 #, fuzzy
 msgid "Old Cornish"
@@ -26361,6 +26486,10 @@ msgstr "Ungáiris"
 msgid "Oirata"
 msgstr ""
 
+#. Name for oie
+msgid "Okolie"
+msgstr ""
+
 #. Name for oin
 msgid "Inebu One"
 msgstr ""
@@ -26446,6 +26575,12 @@ msgstr ""
 #, fuzzy
 msgid "Okobo"
 msgstr "Oraimis"
+
+# coined -kps
+#. Name for okc
+#, fuzzy
+msgid "Kobo"
+msgstr "Congóis"
 
 # Sogdánach in OLT --kps
 #. Name for okd
@@ -26539,6 +26674,18 @@ msgstr "Cróitis"
 #. Name for okx
 msgid "Okpe (Northwestern Edo)"
 msgstr ""
+
+#. Name for okz
+#, fuzzy
+#| msgid "Central Khmer"
+msgid "Old Khmer"
+msgstr "Ciméiris Láir"
+
+# de Bhaldraithe
+#. Inverted name for okz
+#, fuzzy
+msgid "Khmer, Old"
+msgstr "Coirdis"
 
 #. Name for ola
 msgid "Walungge"
@@ -26677,6 +26824,17 @@ msgstr ""
 #, fuzzy
 msgid "Mon, Old"
 msgstr "Lochlainnis"
+
+# coined -kps
+#. Name for omy
+#, fuzzy
+msgid "Old Malay"
+msgstr "Gandais"
+
+#. Inverted name for omy
+#, fuzzy
+msgid "Malay, Old"
+msgstr "Mailéalaimis"
 
 #. Name for ona
 msgid "Ona"
@@ -26918,6 +27076,20 @@ msgstr "Corsaicis"
 msgid "Osing"
 msgstr "Óiséitis"
 
+# google
+#. Name for osn
+#, fuzzy
+#| msgid "Sundanese"
+msgid "Old Sundanese"
+msgstr "Sundais"
+
+# google
+#. Inverted name for osn
+#, fuzzy
+#| msgid "Sundanese"
+msgid "Sundanese, Old"
+msgstr "Sundais"
+
 #. Name for oso
 #, fuzzy
 msgid "Ososo"
@@ -27125,6 +27297,12 @@ msgstr "Úígiúiris"
 msgid "Ouma"
 msgstr ""
 
+#. Name for ovd
+#, fuzzy
+#| msgid "Italian"
+msgid "Elfdalian"
+msgstr "Iodáilis"
+
 #. Name for owi
 msgid "Owiniga"
 msgstr ""
@@ -27238,11 +27416,6 @@ msgstr ""
 msgid "Papasena"
 msgstr "Seapáinis"
 
-#. Name for pat
-#, fuzzy
-msgid "Papitalai"
-msgstr "Catalóinis"
-
 #. Name for pau
 msgid "Palauan"
 msgstr ""
@@ -27306,6 +27479,15 @@ msgstr ""
 
 #. Name for pbl
 msgid "Mak (Nigeria)"
+msgstr ""
+
+#. Name for pbm
+#, fuzzy
+msgid "Puebla Mazatec"
+msgstr "Sáimis Theas"
+
+#. Inverted name for pbm
+msgid "Mazatec, Puebla"
 msgstr ""
 
 #. Name for pbn
@@ -27628,7 +27810,7 @@ msgid "Pááfang"
 msgstr ""
 
 #. Name for pfe
-msgid "Peere"
+msgid "Pere"
 msgstr ""
 
 #. Name for pfl
@@ -27707,6 +27889,12 @@ msgstr ""
 #, fuzzy
 msgid "Phukha"
 msgstr "Suvais"
+
+# google
+#. Name for phj
+#, fuzzy
+msgid "Pahari"
+msgstr "Bihairis"
 
 #. Name for phk
 msgid "Phake"
@@ -27789,11 +27977,6 @@ msgstr ""
 #. Name for pih
 msgid "Pitcairn-Norfolk"
 msgstr ""
-
-#. Name for pii
-#, fuzzy
-msgid "Pini"
-msgstr "Hiondúis"
 
 #. Name for pij
 msgid "Pijao"
@@ -28003,12 +28186,6 @@ msgstr ""
 #. Inverted name for plo
 msgid "Popoluca, Oluta"
 msgstr ""
-
-# Firefox
-#. Name for plp
-#, fuzzy
-msgid "Palpa"
-msgstr "Páilis"
 
 # Firefox
 #. Name for plq
@@ -28232,6 +28409,12 @@ msgstr ""
 msgid "Pannei"
 msgstr "Páilis"
 
+# coined -kps
+#. Name for pnd
+#, fuzzy
+msgid "Mpinda"
+msgstr "Gandais"
+
 #. Name for pne
 #, fuzzy
 msgid "Western Penan"
@@ -28241,11 +28424,10 @@ msgstr "Freaslainnis"
 msgid "Penan, Western"
 msgstr ""
 
-# coined -kps
 #. Name for png
 #, fuzzy
-msgid "Pongu"
-msgstr "Congóis"
+msgid "Pangu"
+msgstr "Manainnis"
 
 #. Name for pnh
 msgid "Penrhyn"
@@ -28321,7 +28503,7 @@ msgid "Pinigura"
 msgstr ""
 
 #. Name for pnw
-msgid "Panytyima"
+msgid "Banyjima"
 msgstr ""
 
 # dicts have Féiníceach --kps
@@ -28521,10 +28703,6 @@ msgstr ""
 msgid "Malecite-Passamaquoddy"
 msgstr ""
 
-#. Name for prb
-msgid "Lua'"
-msgstr ""
-
 #. Name for prc
 #, fuzzy
 msgid "Parachi"
@@ -28642,7 +28820,7 @@ msgstr ""
 
 #. Name for psc
 #, fuzzy
-msgid "Persian Sign Language"
+msgid "Iranian Sign Language"
 msgstr "Teangacha comharthaí"
 
 #. Name for psd
@@ -28757,8 +28935,9 @@ msgid "Pataxó Hã-Ha-Hãe"
 msgstr ""
 
 #. Name for pti
-msgid "Pintiini"
-msgstr ""
+#, fuzzy
+msgid "Pindiini"
+msgstr "Hiondúis"
 
 #. Name for ptn
 #, fuzzy
@@ -28845,10 +29024,6 @@ msgstr ""
 
 #. Name for puj
 msgid "Punan Tubu"
-msgstr ""
-
-#. Name for puk
-msgid "Pu Ko"
 msgstr ""
 
 #. Name for pum
@@ -28993,16 +29168,14 @@ msgstr ""
 msgid "Pyen"
 msgstr ""
 
+#. Name for pzh
+msgid "Pazeh"
+msgstr ""
+
 #. Name for pzn
 #, fuzzy
-msgid "Para Naga"
+msgid "Jejara Naga"
 msgstr "Cara-Chalpáicis"
-
-# have Nárú in corpus
-#. Inverted name for pzn
-#, fuzzy
-msgid "Naga, Para"
-msgstr "Nárúis"
 
 #. Name for qua
 msgid "Quapaw"
@@ -29710,17 +29883,19 @@ msgstr ""
 msgid "Riang (India)"
 msgstr ""
 
-#. Name for rie
-msgid "Rien"
-msgstr ""
+#. Name for rib
+#, fuzzy
+msgid "Bribri Sign Language"
+msgstr "Teangacha comharthaí"
 
 #. Name for rif
 msgid "Tarifit"
 msgstr ""
 
 #. Name for ril
-msgid "Riang (Myanmar)"
-msgstr ""
+#, fuzzy
+msgid "Riang Lang"
+msgstr "Gailísis"
 
 # have Nárú in corpus
 #. Name for rim
@@ -29739,7 +29914,7 @@ msgid "Ribun"
 msgstr ""
 
 #. Name for rit
-msgid "Ritarungo"
+msgid "Ritharrngu"
 msgstr ""
 
 #. Name for riu
@@ -29799,7 +29974,7 @@ msgid "Rama"
 msgstr "Samóis"
 
 #. Name for rmb
-msgid "Rembarunga"
+msgid "Rembarrnga"
 msgstr ""
 
 #. Name for rmc
@@ -29951,6 +30126,11 @@ msgstr "Rómáinis"
 msgid "Marma"
 msgstr "Maraitis"
 
+#. Name for rnb
+#, fuzzy
+msgid "Brunca Sign Language"
+msgstr "Teangacha comharthaí"
+
 #. Name for rnd
 msgid "Ruund"
 msgstr ""
@@ -30093,10 +30273,10 @@ msgstr ""
 msgid "Romano-Serbian"
 msgstr "Rómáinis"
 
-#. Name for rsi
+#. Name for rsk
 #, fuzzy
-msgid "Rennellese Sign Language"
-msgstr "Teangacha comharthaí"
+msgid "Ruthenian"
+msgstr "Sáimis Theas"
 
 #. Name for rsl
 #, fuzzy
@@ -30106,6 +30286,11 @@ msgstr "Teangacha comharthaí"
 #. Name for rsm
 #, fuzzy
 msgid "Miriwoong Sign Language"
+msgstr "Teangacha comharthaí"
+
+#. Name for rsn
+#, fuzzy
+msgid "Rwandan Sign Language"
 msgstr "Teangacha comharthaí"
 
 #. Name for rtc
@@ -30241,6 +30426,11 @@ msgstr ""
 #. Name for rwk
 msgid "Rwa"
 msgstr ""
+
+#. Name for rwl
+#, fuzzy
+msgid "Ruwila"
+msgstr "Svahaílis"
 
 #. Name for rwm
 msgid "Amba (Uganda)"
@@ -30603,7 +30793,7 @@ msgid "Scots"
 msgstr "Béarla na hAlban"
 
 #. Name for scp
-msgid "Helambu Sherpa"
+msgid "Hyolmo"
 msgstr ""
 
 #. Name for scq
@@ -30618,6 +30808,16 @@ msgstr ""
 #, fuzzy
 msgid "Slavey, North"
 msgstr "Ndebele Thuaidh"
+
+#. Name for sct
+#, fuzzy
+msgid "Southern Katang"
+msgstr "Sáimis Theas"
+
+#. Inverted name for sct
+#, fuzzy
+msgid "Katang, Southern"
+msgstr "Seipidis"
 
 #. Name for scu
 msgid "Shumcho"
@@ -30697,10 +30897,6 @@ msgstr "Sindis"
 msgid "Saudi Arabian Sign Language"
 msgstr "Teangacha Sorbacha"
 
-#. Name for sdm
-msgid "Semandang"
-msgstr ""
-
 #. Name for sdn
 #, fuzzy
 msgid "Gallurese Sardinian"
@@ -30721,6 +30917,10 @@ msgstr ""
 
 #. Name for sdp
 msgid "Sherdukpen"
+msgstr ""
+
+#. Name for sdq
+msgid "Semandang"
 msgstr ""
 
 #. Name for sdr
@@ -31435,11 +31635,6 @@ msgstr "Síris"
 msgid "Seke (Nepal)"
 msgstr ""
 
-#. Name for skk
-#, fuzzy
-msgid "Sok"
-msgstr "Slóvaicis"
-
 # coined -kps
 #. Name for skm
 #, fuzzy
@@ -31654,12 +31849,6 @@ msgstr "Bihairis"
 msgid "Som"
 msgstr "Somáilis"
 
-# my coinage --kps
-#. Name for smd
-#, fuzzy
-msgid "Sama"
-msgstr "Samóis"
-
 #. Name for sme
 #, fuzzy
 msgid "Northern Sami"
@@ -31784,10 +31973,6 @@ msgstr ""
 msgid "Shona"
 msgstr "Seoinis"
 
-#. Name for snb
-msgid "Sebuyau"
-msgstr ""
-
 #. Name for snc
 msgid "Sinaugoro"
 msgstr ""
@@ -31813,12 +31998,6 @@ msgstr "Ndongais"
 #. Name for sng
 msgid "Sanga (Democratic Republic of Congo)"
 msgstr ""
-
-# Firefox
-#. Name for snh
-#, fuzzy
-msgid "Shinabo"
-msgstr "Seoinis"
 
 #. Name for sni
 #, fuzzy
@@ -31907,11 +32086,11 @@ msgstr "Samóis"
 msgid "Saniyo-Hiyewe"
 msgstr ""
 
-# have Nárú in corpus
+# Coimí in Oll-liosta --kps
 #. Name for snz
 #, fuzzy
-msgid "Sinsauru"
-msgstr "Nárúis"
+msgid "Kou"
+msgstr "Coimí"
 
 #. Name for soa
 #, fuzzy
@@ -32215,6 +32394,11 @@ msgstr ""
 #, fuzzy
 msgid "Squamish"
 msgstr "Spáinnis"
+
+#. Name for sqx
+#, fuzzy
+msgid "Kufr Qassem Sign Language (KQSL)"
+msgstr "Teangacha comharthaí"
 
 #. Name for sra
 msgid "Saruga"
@@ -32662,11 +32846,17 @@ msgstr ""
 msgid "Sundanese"
 msgstr "Sundais"
 
-# Suiméarach in dicts --kps
+#. Name for suo
+msgid "Bouni"
+msgstr ""
+
 #. Name for suq
-#, fuzzy
-msgid "Suri"
-msgstr "Suiméarais"
+msgid "Tirmaga-Chai Suri"
+msgstr ""
+
+#. Inverted name for suq
+msgid "Suri, Tirmaga-Chai"
+msgstr ""
 
 #. Name for sur
 msgid "Mwaghavul"
@@ -32889,7 +33079,7 @@ msgid "Sighu"
 msgstr "Úígiúiris"
 
 #. Name for sxg
-msgid "Shixing"
+msgid "Shuhi"
 msgstr ""
 
 #. Name for sxk
@@ -33064,6 +33254,11 @@ msgstr "Fulfuildis"
 msgid "Suabo"
 msgstr "Sangóis"
 
+#. Name for szs
+#, fuzzy
+msgid "Solomon Islands Sign Language"
+msgstr "Teangacha Sorbacha"
+
 #. Name for szv
 msgid "Isu (Fako Division)"
 msgstr ""
@@ -33073,6 +33268,10 @@ msgstr ""
 #, fuzzy
 msgid "Sawai"
 msgstr "Sasuatais"
+
+#. Name for szy
+msgid "Sakizaya"
+msgstr ""
 
 #. Name for taa
 #, fuzzy
@@ -33214,10 +33413,6 @@ msgstr ""
 msgid "Aikanã"
 msgstr "Acáinis"
 
-#. Name for tbb
-msgid "Tapeba"
-msgstr ""
-
 #. Name for tbc
 #, fuzzy
 msgid "Takia"
@@ -33248,8 +33443,9 @@ msgid "Tairora, North"
 msgstr ""
 
 #. Name for tbh
-msgid "Thurawal"
-msgstr ""
+#, fuzzy
+msgid "Dharawal"
+msgstr "Cannadais"
 
 # coined -kps
 #. Name for tbi
@@ -33701,6 +33897,10 @@ msgstr ""
 msgid "Tulishi"
 msgstr "Tuircis"
 
+#. Name for tez
+msgid "Tetserret"
+msgstr ""
+
 #. Name for tfi
 msgid "Tofin Gbe"
 msgstr ""
@@ -33859,7 +34059,7 @@ msgid "Thai"
 msgstr "Téalainnis"
 
 #. Name for thd
-msgid "Thayore"
+msgid "Kuuk Thaayorre"
 msgstr ""
 
 #. Name for the
@@ -33958,11 +34158,6 @@ msgstr ""
 #. Inverted name for thv
 msgid "Tamahaq, Tahaggart"
 msgstr ""
-
-#. Name for thw
-#, fuzzy
-msgid "Thudam"
-msgstr "Téalainnis"
 
 #. Name for thy
 #, fuzzy
@@ -34119,6 +34314,10 @@ msgstr "Sáimis Thuaidh"
 msgid "Tujia, Northern"
 msgstr "Seipidis"
 
+#. Name for tjj
+msgid "Tjungundji"
+msgstr ""
+
 #. Name for tjl
 #, fuzzy
 msgid "Tai Laing"
@@ -34138,6 +34337,10 @@ msgstr ""
 
 #. Inverted name for tjo
 msgid "Tamazight, Temacine"
+msgstr ""
+
+#. Name for tjp
+msgid "Tjupany"
 msgstr ""
 
 #. Name for tjs
@@ -34518,14 +34721,6 @@ msgstr ""
 msgid "Tunebo, Angosturas"
 msgstr ""
 
-#. Name for tne
-msgid "Tinoc Kallahan"
-msgstr ""
-
-#. Inverted name for tne
-msgid "Kallahan, Tinoc"
-msgstr ""
-
 #. Name for tng
 #, fuzzy
 msgid "Tobanga"
@@ -34660,6 +34855,10 @@ msgstr "Tongais (Maláiv)"
 
 #. Name for toj
 msgid "Tojolabal"
+msgstr ""
+
+#. Name for tok
+msgid "Toki Pona"
 msgstr ""
 
 #. Name for tol
@@ -35033,7 +35232,7 @@ msgid "Turoyo"
 msgstr ""
 
 #. Name for trv
-msgid "Taroko"
+msgid "Sediq"
 msgstr ""
 
 #. Name for trw
@@ -35487,6 +35686,10 @@ msgstr "Turcamáinis"
 msgid "Sedoa"
 msgstr "Veindis"
 
+#. Name for tvx
+msgid "Taivoan"
+msgstr ""
+
 #. Name for tvy
 msgid "Timor Pidgin"
 msgstr ""
@@ -35776,6 +35979,12 @@ msgstr ""
 msgid "Teke-Tyee"
 msgstr ""
 
+# Firefox
+#. Name for tyy
+#, fuzzy
+msgid "Tiyaa"
+msgstr "Cinearuáindis"
+
 #. Name for tyz
 msgid "Tày"
 msgstr ""
@@ -35933,6 +36142,11 @@ msgstr ""
 msgid "Ughele"
 msgstr ""
 
+#. Name for ugh
+#, fuzzy
+msgid "Kubachi"
+msgstr "Laidin"
+
 #. Name for ugn
 #, fuzzy
 msgid "Ugandan Sign Language"
@@ -35989,6 +36203,14 @@ msgstr ""
 msgid "Ukhwejo"
 msgstr ""
 
+#. Name for uki
+msgid "Kui (India)"
+msgstr ""
+
+#. Name for ukk
+msgid "Muak Sa-aak"
+msgstr ""
+
 #. Name for ukl
 #, fuzzy
 msgid "Ukrainian Sign Language"
@@ -36012,6 +36234,10 @@ msgstr ""
 
 #. Name for uku
 msgid "Ukue"
+msgstr ""
+
+#. Name for ukv
+msgid "Kuku"
 msgstr ""
 
 #. Name for ukw
@@ -36050,7 +36276,7 @@ msgstr "Liotuáinis"
 # also Fairsis (An CT)
 #. Name for ulk
 #, fuzzy
-msgid "Meriam"
+msgid "Meriam Mir"
 msgstr "Peirsis"
 
 #. Name for ull
@@ -36092,8 +36318,9 @@ msgid "Umbindhamu"
 msgstr ""
 
 #. Name for umg
-msgid "Umbuygamu"
-msgstr ""
+#, fuzzy
+msgid "Morrobalama"
+msgstr "Malaeis"
 
 #. Name for umi
 msgid "Ukit"
@@ -36160,6 +36387,11 @@ msgstr ""
 msgid "Ngarinyin"
 msgstr "Sairdínis"
 
+#. Name for uni
+#, fuzzy
+msgid "Uni"
+msgstr "Tamailis"
+
 #. Name for unk
 msgid "Enawené-Nawé"
 msgstr ""
@@ -36198,6 +36430,12 @@ msgstr ""
 #. Inverted name for unz
 msgid "Kaili, Unde"
 msgstr ""
+
+# coined -kps
+#. Name for uon
+#, fuzzy
+msgid "Kulon"
+msgstr "Congóis"
 
 #. Name for upi
 #, fuzzy
@@ -36337,6 +36575,10 @@ msgstr ""
 msgid "Uspanteco"
 msgstr "Esperanto"
 
+#. Name for uss
+msgid "us-Saare"
+msgstr ""
+
 #. Name for usu
 msgid "Uya"
 msgstr ""
@@ -36350,6 +36592,10 @@ msgstr "Óiséitis"
 #, fuzzy
 msgid "Ute-Southern Paiute"
 msgstr "Sáimis Theas"
+
+#. Name for uth
+msgid "ut-Hun"
+msgstr ""
 
 # my coinage --kps
 #. Name for utp
@@ -36369,10 +36615,6 @@ msgstr ""
 #, fuzzy
 msgid "Urum"
 msgstr "Urdais"
-
-#. Name for uun
-msgid "Kulon-Pazeh"
-msgstr ""
 
 #. Name for uur
 msgid "Ura (Vanuatu)"
@@ -36618,10 +36860,6 @@ msgstr ""
 msgid "Kariyarra"
 msgstr "Cinearuáindis"
 
-#. Name for vki
-msgid "Ija-Zuba"
-msgstr ""
-
 #. Name for vkj
 msgid "Kujarge"
 msgstr ""
@@ -36639,6 +36877,10 @@ msgstr ""
 #, fuzzy
 msgid "Kamakan"
 msgstr "Casaicis"
+
+#. Name for vkn
+msgid "Koro Nulu"
+msgstr ""
 
 #. Name for vko
 #, fuzzy
@@ -36666,6 +36908,11 @@ msgstr ""
 #, fuzzy
 msgid "Kurrama"
 msgstr "Cuainiáimis"
+
+#. Name for vkz
+#, fuzzy
+msgid "Koro Zuba"
+msgstr "Cóiréis"
 
 # Firefox
 #. Name for vlp
@@ -36925,11 +37172,9 @@ msgstr ""
 msgid "Wasco-Wishram"
 msgstr ""
 
-# coined -kps
 #. Name for wad
-#, fuzzy
-msgid "Wandamen"
-msgstr "Gandais"
+msgid "Wamesa"
+msgstr ""
 
 #. Name for wae
 #, fuzzy
@@ -36980,9 +37225,8 @@ msgid "Wapishana"
 msgstr ""
 
 #. Name for waq
-#, fuzzy
-msgid "Wageman"
-msgstr "Gearmáinis"
+msgid "Wagiman"
+msgstr ""
 
 #. Name for war
 msgid "Waray (Philippines)"
@@ -37081,10 +37325,15 @@ msgstr ""
 msgid "Wagdi"
 msgstr ""
 
+#. Name for wbs
+#, fuzzy
+msgid "West Bengal Sign Language"
+msgstr "Teangacha comharthaí"
+
 # my coinage --kps
 #. Name for wbt
 #, fuzzy
-msgid "Wanman"
+msgid "Warnman"
 msgstr "Samóis"
 
 #. Name for wbv
@@ -37124,6 +37373,12 @@ msgstr ""
 #, fuzzy
 msgid "Wadikali"
 msgstr "Bambáiris"
+
+#. Name for wdt
+#, fuzzy
+#| msgid "Venda"
+msgid "Wendat"
+msgstr "Veindis"
 
 #. Name for wdu
 msgid "Wadjigu"
@@ -37221,8 +37476,9 @@ msgid "Wagawaga"
 msgstr ""
 
 #. Name for wgg
-msgid "Wangganguru"
-msgstr ""
+#, fuzzy
+msgid "Wangkangurru"
+msgstr "Sangóis"
 
 #. Name for wgi
 msgid "Wahgi"
@@ -37293,7 +37549,7 @@ msgid "Wik-Keyangan"
 msgstr ""
 
 #. Name for wig
-msgid "Wik-Ngathana"
+msgid "Wik Ngathan"
 msgstr ""
 
 #. Name for wih
@@ -37370,6 +37626,10 @@ msgstr ""
 msgid "Kalanadi"
 msgstr "Malagásais"
 
+#. Name for wkr
+msgid "Keerray-Woorroong"
+msgstr ""
+
 #. Name for wku
 #, fuzzy
 msgid "Kunduvadi"
@@ -37405,6 +37665,10 @@ msgstr "Concáinis"
 #, fuzzy
 msgid "Kunbarlang"
 msgstr "Ungáiris"
+
+#. Name for wlh
+msgid "Welaun"
+msgstr ""
 
 #. Name for wli
 #, fuzzy
@@ -37490,6 +37754,16 @@ msgstr "Laideanóis"
 #. Name for wme
 msgid "Wambule"
 msgstr ""
+
+#. Name for wmg
+#, fuzzy
+msgid "Western Minyag"
+msgstr "Freaslainnis"
+
+#. Inverted name for wmg
+#, fuzzy
+msgid "Minyag, Western"
+msgstr "Freaslainnis"
 
 #. Name for wmh
 msgid "Waima'a"
@@ -37601,7 +37875,7 @@ msgid "Wanyi"
 msgstr ""
 
 #. Name for woa
-msgid "Tyaraity"
+msgid "Kuwema"
 msgstr ""
 
 #. Name for wob
@@ -37690,24 +37964,18 @@ msgstr ""
 msgid "Maco"
 msgstr "Maorais"
 
-#. Name for wra
-msgid "Warapu"
-msgstr ""
-
+# Firefox
 #. Name for wrb
-msgid "Warluwara"
-msgstr ""
-
-#. Name for wrd
-msgid "Warduji"
-msgstr ""
+#, fuzzy
+msgid "Waluwarra"
+msgstr "Cinearuáindis"
 
 #. Name for wrg
 msgid "Warungu"
 msgstr ""
 
 #. Name for wrh
-msgid "Wiradhuri"
+msgid "Wiradjuri"
 msgstr ""
 
 #. Name for wri
@@ -37934,10 +38202,6 @@ msgstr ""
 msgid "Wardandi"
 msgstr "Hiondúis"
 
-#. Name for wya
-msgid "Wyandot"
-msgstr ""
-
 #. Name for wyb
 msgid "Wangaaybuwan-Ngiyambaa"
 msgstr ""
@@ -37949,6 +38213,10 @@ msgstr "Turcamáinis"
 
 #. Name for wym
 msgid "Wymysorys"
+msgstr ""
+
+#. Name for wyn
+msgid "Wyandot"
 msgstr ""
 
 #. Name for wyr
@@ -38021,7 +38289,7 @@ msgid "Kalmyk"
 msgstr "Cuainiáimis"
 
 #. Name for xam
-msgid "/Xam"
+msgid "ǀXam"
 msgstr ""
 
 # Firefox
@@ -38154,9 +38422,8 @@ msgid "Kambiwá"
 msgstr ""
 
 #. Name for xby
-#, fuzzy
-msgid "Batyala"
-msgstr "Catalóinis"
+msgid "Batjala"
+msgstr ""
 
 #. Name for xcb
 msgid "Cumbric"
@@ -38253,6 +38520,16 @@ msgstr ""
 msgid "Edomite"
 msgstr ""
 
+#. Name for xdo
+#, fuzzy
+msgid "Kwandu"
+msgstr "Sangóis"
+
+#. Name for xdq
+#, fuzzy
+msgid "Kaitag"
+msgstr "Tatairis"
+
 #. Name for xdy
 #, fuzzy
 msgid "Malayic Dayak"
@@ -38272,7 +38549,7 @@ msgid "Hdi"
 msgstr "Hiondúis"
 
 #. Name for xeg
-msgid "//Xegwi"
+msgid "ǁXegwi"
 msgstr ""
 
 #. Name for xel
@@ -38381,6 +38658,17 @@ msgstr ""
 #, fuzzy
 msgid "Khetrani"
 msgstr "Ciméiris"
+
+#. Name for xhm
+#, fuzzy
+msgid "Middle Khmer (1400 to 1850 CE)"
+msgstr "Meán-Bhéarla (1100-1500)"
+
+#. Inverted name for xhm
+#, fuzzy
+#| msgid "English, Middle (1100-1500)"
+msgid "Khmer, Middle (1400 to 1850 CE)"
+msgstr "Meán-Bhéarla (1100-1500)"
 
 #. Name for xho
 msgid "Xhosa"
@@ -38509,9 +38797,11 @@ msgstr "Teangacha comharthaí"
 msgid "Kajali"
 msgstr "Páilis"
 
+# placename in corpus --kps
 #. Name for xkk
-msgid "Kaco'"
-msgstr ""
+#, fuzzy
+msgid "Kachok"
+msgstr "Caismíris"
 
 #. Name for xkl
 msgid "Mainstream Kenyah"
@@ -38678,7 +38968,7 @@ msgid "Mengaka"
 msgstr ""
 
 #. Name for xmh
-msgid "Kuku-Muminh"
+msgid "Kugu-Muminh"
 msgstr ""
 
 #. Name for xmj
@@ -38770,10 +39060,12 @@ msgstr "Malagásais"
 msgid "Malagasy, Tsimihety"
 msgstr ""
 
+# KDE
 #. Name for xmx
 #, fuzzy
-msgid "Maden"
-msgstr "Manainnis"
+#| msgid "Swati"
+msgid "Salawati"
+msgstr "Sasuatais"
 
 #. Name for xmy
 msgid "Mayaguduna"
@@ -38819,11 +39111,21 @@ msgstr "Cuainiáimis"
 msgid "Ngarigu"
 msgstr "Nárúis"
 
+#. Name for xnj
+msgid "Ngoni (Tanzania)"
+msgstr ""
+
 # coined -kps
 #. Name for xnk
 #, fuzzy
 msgid "Nganakarti"
 msgstr "Bambáiris"
+
+# google
+#. Name for xnm
+#, fuzzy
+msgid "Ngumbarl"
+msgstr "Bihairis"
 
 #. Name for xnn
 #, fuzzy
@@ -38837,6 +39139,10 @@ msgstr "Seipidis"
 
 #. Name for xno
 msgid "Anglo-Norman"
+msgstr ""
+
+#. Name for xnq
+msgid "Ngoni (Mozambique)"
 msgstr ""
 
 #. Name for xnr
@@ -38922,11 +39228,31 @@ msgstr "Concáinis"
 msgid "Pirriya"
 msgstr "Oirísis"
 
+#. Name for xpb
+#, fuzzy
+msgid "Northeastern Tasmanian"
+msgstr "Sáimis Thuaidh"
+
+#. Inverted name for xpb
+#, fuzzy
+msgid "Tasmanian, Northeastern"
+msgstr "Seipidis"
+
 # placename in Oll-liosta --kps
 #. Name for xpc
 #, fuzzy
 msgid "Pecheneg"
 msgstr "Seisnis"
+
+#. Name for xpd
+#, fuzzy
+msgid "Oyster Bay Tasmanian"
+msgstr "Rómáinis"
+
+#. Inverted name for xpd
+#, fuzzy
+msgid "Tasmanian, Oyster Bay"
+msgstr "Rómáinis"
 
 #. Name for xpe
 msgid "Liberia Kpelle"
@@ -38936,11 +39262,31 @@ msgstr ""
 msgid "Kpelle, Liberia"
 msgstr ""
 
+#. Name for xpf
+#, fuzzy
+msgid "Southeast Tasmanian"
+msgstr "Seipidis"
+
+#. Inverted name for xpf
+#, fuzzy
+msgid "Tasmanian, Southeast"
+msgstr "Seipidis"
+
 # also Fairsis (An CT)
 #. Name for xpg
 #, fuzzy
 msgid "Phrygian"
 msgstr "Peirsis"
+
+#. Name for xph
+#, fuzzy
+msgid "North Midlands Tasmanian"
+msgstr "Seipidis"
+
+#. Inverted name for xph
+#, fuzzy
+msgid "Tasmanian, North Midlands"
+msgstr "Seipidis"
 
 #. Name for xpi
 #, fuzzy
@@ -38957,6 +39303,15 @@ msgstr ""
 
 #. Inverted name for xpk
 msgid "Pano, Kulina"
+msgstr ""
+
+#. Name for xpl
+#, fuzzy
+msgid "Port Sorell Tasmanian"
+msgstr "Rómáinis"
+
+#. Inverted name for xpl
+msgid "Tasmanian, Port Sorell"
 msgstr ""
 
 #. Name for xpm
@@ -39002,10 +39357,48 @@ msgstr "Cuainiáimis"
 msgid "Punic"
 msgstr "Painseáibis"
 
+#. Name for xpv
+#, fuzzy
+msgid "Northern Tasmanian"
+msgstr "Sáimis Thuaidh"
+
+#. Inverted name for xpv
+#, fuzzy
+msgid "Tasmanian, Northern"
+msgstr "Seipidis"
+
+#. Name for xpw
+#, fuzzy
+msgid "Northwestern Tasmanian"
+msgstr "Sáimis Thuaidh"
+
+#. Inverted name for xpw
+#, fuzzy
+msgid "Tasmanian, Northwestern"
+msgstr "Seipidis"
+
+#. Name for xpx
+#, fuzzy
+msgid "Southwestern Tasmanian"
+msgstr "Seipidis"
+
+#. Inverted name for xpx
+#, fuzzy
+msgid "Tasmanian, Southwestern"
+msgstr "Seipidis"
+
 #. Name for xpy
 #, fuzzy
 msgid "Puyo"
 msgstr "Paistis"
+
+#. Name for xpz
+msgid "Bruny Island Tasmanian"
+msgstr ""
+
+#. Inverted name for xpz
+msgid "Tasmanian, Bruny Island"
+msgstr ""
 
 # google
 #. Name for xqa
@@ -39058,12 +39451,6 @@ msgstr "Aramais"
 #, fuzzy
 msgid "Arin"
 msgstr "Airméinis"
-
-# Firefox
-#. Name for xrq
-#, fuzzy
-msgid "Karranga"
-msgstr "Cinearuáindis"
 
 #. Name for xrr
 msgid "Raetic"
@@ -39120,6 +39507,11 @@ msgstr "Samóis"
 #. Name for xsi
 msgid "Sio"
 msgstr ""
+
+#. Name for xsj
+#, fuzzy
+msgid "Subi"
+msgstr "Seirbis"
 
 #. Name for xsl
 #, fuzzy
@@ -39329,11 +39721,6 @@ msgstr ""
 #. Inverted name for xty
 msgid "Mixtec, Yoloxochitl"
 msgstr ""
-
-#. Name for xtz
-#, fuzzy
-msgid "Tasmanian"
-msgstr "Rómáinis"
 
 # Firefox
 #. Name for xua
@@ -40011,8 +40398,8 @@ msgstr ""
 
 #. Name for yin
 #, fuzzy
-msgid "Yinchia"
-msgstr "Sindis"
+msgid "Riang Lai"
+msgstr "Beangáilis"
 
 #. Name for yip
 #, fuzzy
@@ -40548,6 +40935,11 @@ msgstr ""
 msgid "Yugoslavian Sign Language"
 msgstr "Teangacha Astrálacha"
 
+#. Name for ysm
+#, fuzzy
+msgid "Myanmar Sign Language"
+msgstr "Teangacha comharthaí"
+
 #. Name for ysn
 #, fuzzy
 msgid "Sani"
@@ -41006,6 +41398,12 @@ msgstr ""
 msgid "Zari"
 msgstr "Maorais"
 
+# coined -kps
+#. Name for zba
+#, fuzzy
+msgid "Balaibalan"
+msgstr "Bambáiris"
+
 #. Name for zbc
 #, fuzzy
 msgid "Central Berawan"
@@ -41036,6 +41434,10 @@ msgstr ""
 msgid "Batui"
 msgstr "Bascais"
 
+#. Name for zbu
+msgid "Bu (Bauchi State)"
+msgstr ""
+
 #. Name for zbw
 #, fuzzy
 msgid "West Berawan"
@@ -41052,6 +41454,15 @@ msgstr ""
 
 #. Inverted name for zca
 msgid "Zapotec, Coatecas Altas"
+msgstr ""
+
+#. Name for zcd
+#, fuzzy
+msgid "Las Delicias Zapotec"
+msgstr "Sínis"
+
+#. Inverted name for zcd
+msgid "Zapotec, Las Delicias"
 msgstr ""
 
 #. Name for zch
@@ -41212,11 +41623,6 @@ msgstr "Máltais"
 msgid "Zinza"
 msgstr ""
 
-#. Name for zir
-#, fuzzy
-msgid "Ziriya"
-msgstr "Oirísis"
-
 # Firefox
 #. Name for ziw
 #, fuzzy
@@ -41300,6 +41706,10 @@ msgstr "Airméinis"
 msgid "Khazar"
 msgstr "Casaicis"
 
+#. Name for zla
+msgid "Zula"
+msgstr ""
+
 # Firefox
 #. Name for zlj
 #, fuzzy
@@ -41381,9 +41791,11 @@ msgstr ""
 msgid "Mandandanyi"
 msgstr ""
 
+# Firefox
 #. Name for zml
-msgid "Madngele"
-msgstr ""
+#, fuzzy
+msgid "Matngala"
+msgstr "Liongáilis"
 
 #. Name for zmm
 msgid "Marimanindji"

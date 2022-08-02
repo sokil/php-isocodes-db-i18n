@@ -14,7 +14,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2022-06-01 15:01+0200\n"
-"PO-Revision-Date: 2022-06-09 11:41+0000\n"
+"PO-Revision-Date: 2022-07-16 12:17+0000\n"
 "Last-Translator: Pander <pander@users.sourceforge.net>\n"
 "Language-Team: Dutch <https://hosted.weblate.org/projects/iso-codes/iso-4217/"
 "nl/>\n"
@@ -23,7 +23,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.13-dev\n"
+"X-Generator: Weblate 4.14-dev\n"
 
 #. Name for AED
 msgid "UAE Dirham"
@@ -31,11 +31,11 @@ msgstr "VAE-dirham"
 
 #. Name for AFN
 msgid "Afghani"
-msgstr "Afghani"
+msgstr "afghani"
 
 #. Name for ALL
 msgid "Lek"
-msgstr "Lek"
+msgstr "lek"
 
 #. Name for AMD
 msgid "Armenian Dram"
@@ -91,7 +91,7 @@ msgstr "Burundese frank"
 
 #. Name for BMD
 msgid "Bermudian Dollar"
-msgstr "Bermuda-dollar"
+msgstr "Bermudaanse dollar"
 
 #. Name for BND
 msgid "Brunei Dollar"
@@ -139,7 +139,7 @@ msgstr "Kongolese franc"
 
 #. Name for CHE
 msgid "WIR Euro"
-msgstr "WIR euro"
+msgstr "WIR-euro"
 
 #. Name for CHF
 msgid "Swiss Franc"
@@ -147,7 +147,7 @@ msgstr "Zwitserse frank"
 
 #. Name for CHW
 msgid "WIR Franc"
-msgstr "WIR frank"
+msgstr "WIR-frank"
 
 #. Name for CLF
 msgid "Unidad de Fomento"
@@ -271,7 +271,7 @@ msgstr "Hondurese lempira"
 
 #. Name for HRK
 msgid "Kuna"
-msgstr "Kuna"
+msgstr "kuna"
 
 #. Name for HTG
 msgid "Gourde"
@@ -395,7 +395,7 @@ msgstr "Macedonische denar"
 
 #. Name for MMK
 msgid "Kyat"
-msgstr "Kyat"
+msgstr "kyat"
 
 #. Name for MNT
 msgid "Tugrik"
@@ -427,7 +427,7 @@ msgstr "Mexicaanse peso"
 
 #. Name for MXV
 msgid "Mexican Unidad de Inversion (UDI)"
-msgstr "Mexicaanse unidad de inversion"
+msgstr "Mexicaanse unidad de inversion (UDI)"
 
 #. Name for MYR
 msgid "Malaysian Ringgit"
@@ -471,7 +471,7 @@ msgstr "Panamaanse balboa"
 
 #. Name for PEN
 msgid "Sol"
-msgstr "Sol"
+msgstr "sol"
 
 #. Name for PGK
 msgid "Kina"
@@ -599,7 +599,7 @@ msgstr "Turkse lire"
 
 #. Name for TTD
 msgid "Trinidad and Tobago Dollar"
-msgstr "Trinidad en Tobago dollar"
+msgstr "Trinidad en Tobagodollar"
 
 #. Name for TWD
 msgid "New Taiwan Dollar"
@@ -619,7 +619,7 @@ msgstr "Ugandese shilling"
 
 #. Name for USD
 msgid "US Dollar"
-msgstr "US-dollar"
+msgstr "Amerikaanse dollar"
 
 #. Name for USN
 msgid "US Dollar (Next day)"
