@@ -12,7 +12,7 @@ msgstr ""
 "Project-Id-Version: iso_639-3\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2018-01-17 22:10+0100\n"
+"POT-Creation-Date: 2022-07-25 22:15+0200\n"
 "PO-Revision-Date: 2002-01-05 19:35+0000\n"
 "Last-Translator: Alastair McKinstry <mckinstry@debian.org>\n"
 "Language-Team: Macedonian\n"
@@ -409,11 +409,12 @@ msgid "Adangme"
 msgstr ""
 
 #. Name for adb
-msgid "Adabe"
-msgstr ""
+#, fuzzy
+msgid "Atauran"
+msgstr "Бугарски"
 
 #. Name for add
-msgid "Dzodinka"
+msgid "Lidzonka"
 msgstr ""
 
 #. Name for ade
@@ -947,15 +948,6 @@ msgstr ""
 msgid "Airoran"
 msgstr "Корејски"
 
-#. Name for ais
-#, fuzzy
-msgid "Nataoran Amis"
-msgstr "Бугарски"
-
-#. Inverted name for ais
-msgid "Amis, Nataoran"
-msgstr ""
-
 #. Name for ait
 msgid "Arikem"
 msgstr ""
@@ -975,7 +967,7 @@ msgid "Ali"
 msgstr ""
 
 #. Name for aja
-msgid "Aja (Sudan)"
+msgid "Aja (South Sudan)"
 msgstr ""
 
 #. Name for ajg
@@ -999,14 +991,10 @@ msgstr ""
 msgid "Arabic, South Levantine"
 msgstr ""
 
-#. Name for ajt
+#. Name for ajs
 #, fuzzy
-msgid "Judeo-Tunisian Arabic"
-msgstr "Арапски"
-
-#. Inverted name for ajt
-msgid "Arabic, Judeo-Tunisian"
-msgstr ""
+msgid "Algerian Jewish Sign Language"
+msgstr "Корејски"
 
 #. Name for aju
 #, fuzzy
@@ -1523,11 +1511,6 @@ msgstr "Бугарски"
 msgid "Angoram"
 msgstr ""
 
-#. Name for aoh
-#, fuzzy
-msgid "Arma"
-msgstr "Арапски"
-
 #. Name for aoi
 msgid "Anindilyakwa"
 msgstr ""
@@ -1742,6 +1725,11 @@ msgstr ""
 msgid "Arigidi"
 msgstr ""
 
+#. Name for aqk
+#, fuzzy
+msgid "Aninka"
+msgstr "Словенечки"
+
 #. Name for aqm
 msgid "Atohwaim"
 msgstr ""
@@ -1919,16 +1907,12 @@ msgstr ""
 msgid "Asmat, Casuarina Coast"
 msgstr ""
 
-#. Name for asd
-msgid "Asas"
-msgstr ""
-
 #. Name for ase
 msgid "American Sign Language"
 msgstr ""
 
 #. Name for asf
-msgid "Australian Sign Language"
+msgid "Auslan"
 msgstr ""
 
 #. Name for asg
@@ -2574,14 +2558,6 @@ msgstr ""
 msgid "Ayu"
 msgstr ""
 
-#. Name for ayy
-msgid "Tayabas Ayta"
-msgstr ""
-
-#. Inverted name for ayy
-msgid "Ayta, Tayabas"
-msgstr ""
-
 #. Name for ayz
 #, fuzzy
 msgid "Mai Brat"
@@ -2883,14 +2859,6 @@ msgstr "Бугарски"
 msgid "Befang"
 msgstr ""
 
-#. Name for bbz
-msgid "Babalia Creole Arabic"
-msgstr ""
-
-#. Inverted name for bbz
-msgid "Creole Arabic, Babalia"
-msgstr ""
-
 #. Name for bca
 msgid "Central Bai"
 msgstr ""
@@ -2949,8 +2917,8 @@ msgstr "Таи"
 
 #. Name for bck
 #, fuzzy
-msgid "Bunaba"
-msgstr "Баскиски"
+msgid "Bunuba"
+msgstr "Естонски"
 
 #. Name for bcl
 msgid "Central Bikol"
@@ -3053,7 +3021,7 @@ msgid "Bonggi"
 msgstr "Романски"
 
 #. Name for bdh
-msgid "Baka (Sudan)"
+msgid "Baka (South Sudan)"
 msgstr ""
 
 #. Name for bdi
@@ -3061,9 +3029,8 @@ msgid "Burun"
 msgstr ""
 
 #. Name for bdj
-#, fuzzy
-msgid "Bai"
-msgstr "Таи"
+msgid "Bai (South Sudan)"
+msgstr ""
 
 #. Name for bdk
 #, fuzzy
@@ -3660,11 +3627,6 @@ msgstr ""
 msgid "Bissa"
 msgstr "Баскиски"
 
-#. Name for bic
-#, fuzzy
-msgid "Bikaru"
-msgstr "Таи"
-
 #. Name for bid
 #, fuzzy
 msgid "Bidiyo"
@@ -3682,10 +3644,6 @@ msgstr ""
 #, fuzzy
 msgid "Biangai"
 msgstr "Таи"
-
-#. Name for bij
-msgid "Vaghat-Ya-Bijim-Legeri"
-msgstr ""
 
 #. Name for bik
 msgid "Bikol"
@@ -4019,11 +3977,6 @@ msgstr ""
 msgid "Buol"
 msgstr ""
 
-#. Name for blg
-#, fuzzy
-msgid "Balau"
-msgstr "Баскиски"
-
 #. Name for blh
 msgid "Kuwaa"
 msgstr ""
@@ -4053,7 +4006,7 @@ msgid "Biloxi"
 msgstr "Таи"
 
 #. Name for blm
-msgid "Beli (Sudan)"
+msgid "Beli (South Sudan)"
 msgstr ""
 
 #. Name for bln
@@ -4091,8 +4044,9 @@ msgid "Tai Dam"
 msgstr ""
 
 #. Name for blv
-msgid "Bolo"
-msgstr ""
+#, fuzzy
+msgid "Kibala"
+msgstr "Маорски"
 
 #. Name for blw
 msgid "Balangao"
@@ -4141,7 +4095,7 @@ msgid "Limassa"
 msgstr ""
 
 #. Name for bmf
-msgid "Bom"
+msgid "Bom-Kim"
 msgstr ""
 
 #. Name for bmg
@@ -4473,12 +4427,16 @@ msgstr ""
 msgid "Daakaka"
 msgstr "Баскиски"
 
-#. Name for bpb
-msgid "Barbacoas"
+#. Name for bpc
+msgid "Mbuk"
 msgstr ""
 
 #. Name for bpd
 msgid "Banda-Banda"
+msgstr ""
+
+#. Name for bpe
+msgid "Bauni"
 msgstr ""
 
 #. Name for bpg
@@ -4705,7 +4663,7 @@ msgid "Braj"
 msgstr ""
 
 #. Name for brb
-msgid "Lave"
+msgid "Brao"
 msgstr ""
 
 #. Name for brc
@@ -4725,9 +4683,8 @@ msgid "Breton"
 msgstr "Бретонски"
 
 #. Name for brf
-#, fuzzy
-msgid "Bera"
-msgstr "Германски"
+msgid "Bira"
+msgstr ""
 
 #. Name for brg
 #, fuzzy
@@ -5605,9 +5562,8 @@ msgid "Bayono"
 msgstr ""
 
 #. Name for bym
-#, fuzzy
-msgid "Bidyara"
-msgstr "Таи"
+msgid "Bidjara"
+msgstr ""
 
 #. Name for byn
 #, fuzzy
@@ -6000,10 +5956,6 @@ msgstr "Каталански"
 msgid "Carabayo"
 msgstr "Маорски"
 
-#. Name for cca
-msgid "Cauca"
-msgstr ""
-
 #. Name for ccc
 msgid "Chamicuro"
 msgstr ""
@@ -6078,11 +6030,6 @@ msgstr "Чешки"
 #. Name for cdf
 msgid "Chiru"
 msgstr ""
-
-#. Name for cdg
-#, fuzzy
-msgid "Chamari"
-msgstr "Маорски"
 
 #. Name for cdh
 msgid "Chambeali"
@@ -6171,6 +6118,16 @@ msgstr "Чешки"
 #. Name for cet
 msgid "Centúúm"
 msgstr ""
+
+#. Name for cey
+#, fuzzy
+msgid "Ekai Chin"
+msgstr "Бугарски"
+
+#. Inverted name for cey
+#, fuzzy
+msgid "Chin, Ekai"
+msgstr "Кинески"
 
 #. Name for cfa
 msgid "Dijim-Bwilim"
@@ -6493,6 +6450,11 @@ msgstr ""
 msgid "Cibak"
 msgstr "Маорски"
 
+#. Name for ckm
+#, fuzzy
+msgid "Chakavian"
+msgstr "Словенечки"
+
 #. Name for ckn
 #, fuzzy
 msgid "Kaang Chin"
@@ -6768,6 +6730,24 @@ msgstr ""
 #, fuzzy
 msgid "Con"
 msgstr "Ирски"
+
+#. Name for cnp
+#, fuzzy
+msgid "Northern Ping Chinese"
+msgstr "Корејски"
+
+#. Inverted name for cnp
+#, fuzzy
+msgid "Chinese, Northern Ping"
+msgstr "Украински"
+
+#. Name for cnq
+msgid "Chung"
+msgstr ""
+
+#. Name for cnr
+msgid "Montenegrin"
+msgstr ""
 
 #. Name for cns
 msgid "Central Asmat"
@@ -7235,6 +7215,16 @@ msgstr ""
 msgid "Chinantec, Sochiapam"
 msgstr ""
 
+#. Name for csp
+#, fuzzy
+msgid "Southern Ping Chinese"
+msgstr "Украински"
+
+#. Inverted name for csp
+#, fuzzy
+msgid "Chinese, Southern Ping"
+msgstr "Украински"
+
 #. Name for csq
 msgid "Croatia Sign Language"
 msgstr ""
@@ -7277,6 +7267,11 @@ msgstr ""
 #. Inverted name for csw
 msgid "Cree, Swampy"
 msgstr ""
+
+#. Name for csx
+#, fuzzy
+msgid "Cambodian Sign Language"
+msgstr "Корејски"
 
 #. Name for csy
 #, fuzzy
@@ -7386,6 +7381,10 @@ msgstr ""
 msgid "Chol"
 msgstr "Ирски"
 
+#. Name for cty
+msgid "Moundadan Chetty"
+msgstr ""
+
 #. Name for ctz
 msgid "Zacatepec Chatino"
 msgstr ""
@@ -7408,10 +7407,6 @@ msgstr ""
 
 #. Inverted name for cuc
 msgid "Chinantec, Usila"
-msgstr ""
-
-#. Name for cug
-msgid "Cung"
 msgstr ""
 
 #. Name for cuh
@@ -7485,6 +7480,10 @@ msgstr ""
 
 #. Inverted name for cux
 msgid "Cuicatec, Tepeuxila"
+msgstr ""
+
+#. Name for cuy
+msgid "Cuitlatec"
 msgstr ""
 
 #. Name for cvg
@@ -8024,10 +8023,6 @@ msgstr ""
 msgid "Ndra'ngith"
 msgstr ""
 
-#. Name for dgu
-msgid "Degaru"
-msgstr ""
-
 #. Name for dgw
 msgid "Daungwurrung"
 msgstr ""
@@ -8197,11 +8192,6 @@ msgstr "Турски"
 msgid "Dimasa"
 msgstr "Баскиски"
 
-#. Name for dit
-#, fuzzy
-msgid "Dirari"
-msgstr "Таи"
-
 #. Name for diu
 #, fuzzy
 msgid "Diriku"
@@ -8282,7 +8272,7 @@ msgid "Dogon, Jamsay"
 msgstr ""
 
 #. Name for djn
-msgid "Djauan"
+msgid "Jawoyn"
 msgstr ""
 
 #. Name for djo
@@ -8306,6 +8296,11 @@ msgstr ""
 #. Name for dka
 msgid "Dakpakha"
 msgstr ""
+
+#. Name for dkg
+#, fuzzy
+msgid "Kadung"
+msgstr "Естонски"
 
 #. Name for dkk
 msgid "Dakka"
@@ -8370,6 +8365,10 @@ msgstr ""
 
 #. Name for dme
 msgid "Dugwor"
+msgstr ""
+
+#. Name for dmf
+msgid "Medefaidrin"
 msgstr ""
 
 #. Name for dmg
@@ -8471,6 +8470,10 @@ msgstr ""
 
 #. Name for dnn
 msgid "Dzùùngoo"
+msgstr ""
+
+#. Name for dno
+msgid "Ndrulo"
 msgstr ""
 
 #. Name for dnr
@@ -8631,7 +8634,7 @@ msgid "Rungus"
 msgstr "Англиски (Британски)"
 
 #. Name for dri
-msgid "C'lela"
+msgid "C'Lela"
 msgstr ""
 
 #. Name for drl
@@ -8659,10 +8662,6 @@ msgstr ""
 #, fuzzy
 msgid "Dura"
 msgstr "Маорски"
-
-#. Name for drr
-msgid "Dororo"
-msgstr ""
 
 #. Name for drs
 #, fuzzy
@@ -8721,6 +8720,11 @@ msgstr "Српски"
 #. Name for dsq
 msgid "Tadaksahak"
 msgstr ""
+
+#. Name for dsz
+#, fuzzy
+msgid "Mardin Sign Language"
+msgstr "Корејски"
 
 #. Name for dta
 #, fuzzy
@@ -8832,10 +8836,6 @@ msgstr ""
 
 #. Name for duc
 msgid "Duna"
-msgstr ""
-
-#. Name for dud
-msgid "Hun-Saare"
 msgstr ""
 
 #. Name for due
@@ -8951,6 +8951,14 @@ msgstr "Јулија"
 msgid "Diri"
 msgstr "Турски"
 
+#. Name for dwk
+msgid "Dawik Kui"
+msgstr ""
+
+#. Inverted name for dwk
+msgid "Kui, Dawik"
+msgstr ""
+
 #. Name for dwr
 #, fuzzy
 msgid "Dawro"
@@ -8971,6 +8979,14 @@ msgstr "Маорски"
 
 #. Name for dwy
 msgid "Dhuwaya"
+msgstr ""
+
+#. Name for dwz
+msgid "Dewas Rai"
+msgstr ""
+
+#. Inverted name for dwz
+msgid "Rai, Dewas"
 msgstr ""
 
 #. Name for dya
@@ -9023,7 +9039,7 @@ msgid "Dyula"
 msgstr ""
 
 #. Name for dyy
-msgid "Dyaabugay"
+msgid "Djabugay"
 msgstr ""
 
 #. Name for dza
@@ -9056,6 +9072,10 @@ msgstr ""
 #, fuzzy
 msgid "Karenggapa"
 msgstr "Корејски"
+
+#. Name for ebc
+msgid "Beginci"
+msgstr ""
 
 #. Name for ebg
 msgid "Ebughu"
@@ -9121,6 +9141,11 @@ msgstr ""
 msgid "Emilian"
 msgstr "Романски"
 
+#. Name for egm
+#, fuzzy
+msgid "Benamanga"
+msgstr "Хрватска"
+
 #. Name for ego
 msgid "Eggon"
 msgstr ""
@@ -9128,6 +9153,11 @@ msgstr ""
 #. Name for egy
 msgid "Egyptian (Ancient)"
 msgstr ""
+
+#. Name for ehs
+#, fuzzy
+msgid "Miyakubo Sign Language"
+msgstr "Корејски"
 
 #. Name for ehu
 msgid "Ehueun"
@@ -9153,16 +9183,6 @@ msgstr ""
 #. Name for eka
 msgid "Ekajuk"
 msgstr ""
-
-#. Name for ekc
-#, fuzzy
-msgid "Eastern Karnic"
-msgstr "Украински"
-
-#. Inverted name for ekc
-#, fuzzy
-msgid "Karnic, Eastern"
-msgstr "Украински"
 
 #. Name for eke
 msgid "Ekit"
@@ -9308,6 +9328,16 @@ msgstr ""
 msgid "Emberá, Northern"
 msgstr ""
 
+#. Name for emq
+#, fuzzy
+msgid "Eastern Minyag"
+msgstr "Украински"
+
+#. Inverted name for emq
+#, fuzzy
+msgid "Minyag, Eastern"
+msgstr "Украински"
+
 #. Name for ems
 msgid "Pacific Gulf Yupik"
 msgstr ""
@@ -9340,6 +9370,11 @@ msgstr ""
 #. Inverted name for emy
 msgid "Mayan, Epigraphic"
 msgstr ""
+
+#. Name for emz
+#, fuzzy
+msgid "Mbessa"
+msgstr "Маорски"
 
 #. Name for ena
 #, fuzzy
@@ -9414,7 +9449,7 @@ msgid "Enu"
 msgstr ""
 
 #. Name for env
-msgid "Enwan (Edu State)"
+msgid "Enwan (Edo State)"
 msgstr ""
 
 #. Name for enw
@@ -9718,7 +9753,7 @@ msgstr ""
 
 #. Name for fap
 #, fuzzy
-msgid "Palor"
+msgid "Paloor"
 msgstr "Полски"
 
 #. Name for far
@@ -9803,6 +9838,10 @@ msgstr ""
 
 #. Name for fie
 msgid "Fyer"
+msgstr ""
+
+#. Name for fif
+msgid "Faifi"
 msgstr ""
 
 #. Name for fij
@@ -10299,7 +10338,7 @@ msgstr ""
 
 #. Name for gbd
 #, fuzzy
-msgid "Karadjeri"
+msgid "Karajarri"
 msgstr "Маорски"
 
 #. Name for gbe
@@ -10586,6 +10625,11 @@ msgstr ""
 msgid "Gade"
 msgstr ""
 
+#. Name for gef
+#, fuzzy
+msgid "Gerai"
+msgstr "Германски"
+
 #. Name for geg
 #, fuzzy
 msgid "Gengle"
@@ -10670,9 +10714,8 @@ msgid "Gugadj"
 msgstr ""
 
 #. Name for gge
-#, fuzzy
-msgid "Guragone"
-msgstr "Бугарски"
+msgid "Gurr-goni"
+msgstr ""
 
 #. Name for ggg
 msgid "Gurgula"
@@ -10763,7 +10806,7 @@ msgid "Kuke"
 msgstr "Кинески"
 
 #. Name for gia
-msgid "Kitja"
+msgid "Kija"
 msgstr ""
 
 #. Name for gib
@@ -10779,6 +10822,10 @@ msgstr "Тамилски"
 msgid "Gidar"
 msgstr ""
 
+#. Name for gie
+msgid "Gaɓogbo"
+msgstr ""
+
 #. Name for gig
 #, fuzzy
 msgid "Goaria"
@@ -10786,6 +10833,10 @@ msgstr "Германски"
 
 #. Name for gih
 msgid "Githabul"
+msgstr ""
+
+#. Name for gii
+msgid "Girirra"
 msgstr ""
 
 #. Name for gil
@@ -10864,10 +10915,6 @@ msgstr ""
 msgid "Giziga, South"
 msgstr ""
 
-#. Name for gji
-msgid "Geji"
-msgstr ""
-
 #. Name for gjk
 msgid "Kachi Koli"
 msgstr ""
@@ -10898,6 +10945,10 @@ msgstr "Бугарски"
 
 #. Name for gka
 msgid "Guya"
+msgstr ""
+
+#. Name for gkd
+msgid "Magɨ (Madang Province)"
 msgstr ""
 
 #. Name for gke
@@ -10934,6 +10985,10 @@ msgstr ""
 msgid "Gaelic, Scottish"
 msgstr ""
 
+#. Name for glb
+msgid "Belning"
+msgstr ""
+
 #. Name for glc
 msgid "Bon Gula"
 msgstr ""
@@ -10961,10 +11016,6 @@ msgstr "Украински"
 #, fuzzy
 msgid "Pashai, Northwest"
 msgstr "Украински"
-
-#. Name for gli
-msgid "Guliguli"
-msgstr ""
 
 #. Name for glj
 msgid "Gula Iro"
@@ -11045,6 +11096,11 @@ msgstr ""
 msgid "Gimnime"
 msgstr ""
 
+#. Name for gmr
+#, fuzzy
+msgid "Mirning"
+msgstr "Естонски"
+
 #. Name for gmu
 #, fuzzy
 msgid "Gumalu"
@@ -11108,9 +11164,14 @@ msgstr "Еврејски"
 msgid "Gooniyandi"
 msgstr ""
 
-#. Name for gnk
-msgid "//Gana"
+#. Name for gnj
+msgid "Ngen"
 msgstr ""
+
+#. Name for gnk
+#, fuzzy
+msgid "ǁGana"
+msgstr "Германски"
 
 #. Name for gnl
 msgid "Gangulu"
@@ -11261,6 +11322,11 @@ msgstr ""
 #. Name for gou
 msgid "Gavar"
 msgstr ""
+
+#. Name for gov
+#, fuzzy
+msgid "Goo"
+msgstr "Македонски"
 
 #. Name for gow
 msgid "Gorowa"
@@ -11508,7 +11574,7 @@ msgstr ""
 
 #. Name for gue
 #, fuzzy
-msgid "Gurinji"
+msgid "Gurindji"
 msgstr "Бугарски"
 
 #. Name for guf
@@ -11678,9 +11744,8 @@ msgid "Gwa"
 msgstr ""
 
 #. Name for gwc
-#, fuzzy
-msgid "Kalami"
-msgstr "Валонски"
+msgid "Gawri"
+msgstr ""
 
 #. Name for gwd
 msgid "Gawwada"
@@ -11706,7 +11771,7 @@ msgid "Gwichʼin"
 msgstr ""
 
 #. Name for gwj
-msgid "/Gwi"
+msgid "ǀGwi"
 msgstr ""
 
 #. Name for gwm
@@ -11795,6 +11860,10 @@ msgstr ""
 msgid "Creole English, Guyanese"
 msgstr ""
 
+#. Name for gyo
+msgid "Gyalsumdo"
+msgstr ""
+
 #. Name for gyr
 #, fuzzy
 msgid "Guarayu"
@@ -11802,6 +11871,10 @@ msgstr "Бугарски"
 
 #. Name for gyy
 msgid "Gunya"
+msgstr ""
+
+#. Name for gyz
+msgid "Geji"
 msgstr ""
 
 #. Name for gza
@@ -12042,7 +12115,7 @@ msgid "Herero"
 msgstr "Еврејски"
 
 #. Name for hgm
-msgid "Hai//om"
+msgid "Haiǁom"
 msgstr ""
 
 #. Name for hgw
@@ -12150,8 +12223,16 @@ msgstr "Корејски"
 msgid "Hunde"
 msgstr ""
 
+#. Name for hkh
+msgid "Khah"
+msgstr ""
+
 #. Name for hkk
 msgid "Hunjara-Kaina Ke"
+msgstr ""
+
+#. Name for hkn
+msgid "Mel-Khaonh"
 msgstr ""
 
 #. Name for hks
@@ -12383,8 +12464,13 @@ msgstr ""
 msgid "Chhattisgarhi"
 msgstr ""
 
+#. Name for hng
+#, fuzzy
+msgid "Hungu"
+msgstr "Унгарски"
+
 #. Name for hnh
-msgid "//Ani"
+msgid "ǁAni"
 msgstr ""
 
 #. Name for hni
@@ -12634,7 +12720,7 @@ msgid "Huambisa"
 msgstr ""
 
 #. Name for huc
-msgid "=/Hua"
+msgid "ǂHua"
 msgstr ""
 
 #. Name for hud
@@ -12807,6 +12893,16 @@ msgstr ""
 msgid "Armenian"
 msgstr "Романски"
 
+#. Name for hyw
+#, fuzzy
+msgid "Western Armenian"
+msgstr "Украински"
+
+#. Inverted name for hyw
+#, fuzzy
+msgid "Armenian, Western"
+msgstr "Украински"
+
 #. Name for iai
 #, fuzzy
 msgid "Iaai"
@@ -12840,6 +12936,11 @@ msgstr ""
 #. Name for ibg
 msgid "Ibanag"
 msgstr ""
+
+#. Name for ibh
+#, fuzzy
+msgid "Bih"
+msgstr "Таи"
 
 #. Name for ibl
 #, fuzzy
@@ -13235,6 +13336,11 @@ msgstr ""
 msgid "Marsian"
 msgstr "Маорски"
 
+#. Name for imt
+#, fuzzy
+msgid "Imotong"
+msgstr "Македонски"
+
 #. Name for imy
 msgid "Milyan"
 msgstr ""
@@ -13344,7 +13450,7 @@ msgid "Irarutu"
 msgstr ""
 
 #. Name for iri
-msgid "Irigwe"
+msgid "Rigwe"
 msgstr ""
 
 #. Name for irk
@@ -13722,6 +13828,10 @@ msgstr "Арапски"
 msgid "Barikewa"
 msgstr "Бугарски"
 
+#. Name for jbm
+msgid "Bijim"
+msgstr ""
+
 #. Name for jbn
 msgid "Nafusi"
 msgstr ""
@@ -13776,10 +13886,6 @@ msgstr "Еврејски"
 
 #. Name for jee
 msgid "Jerung"
-msgstr ""
-
-#. Name for jeg
-msgid "Jeng"
 msgstr ""
 
 #. Name for jeh
@@ -13854,7 +13960,7 @@ msgid "Tol"
 msgstr ""
 
 #. Name for jid
-msgid "Bu"
+msgid "Bu (Kaduna State)"
 msgstr ""
 
 #. Name for jie
@@ -13862,8 +13968,9 @@ msgid "Jilbe"
 msgstr ""
 
 #. Name for jig
-msgid "Djingili"
-msgstr ""
+#, fuzzy
+msgid "Jingulu"
+msgstr "Јулија"
 
 #. Name for jih
 msgid "sTodsde"
@@ -13952,6 +14059,11 @@ msgstr "Корејски"
 #, fuzzy
 msgid "Koro (India)"
 msgstr "Естонски"
+
+#. Name for jks
+#, fuzzy
+msgid "Amami Koniya Sign Language"
+msgstr "Корејски"
 
 #. Name for jku
 #, fuzzy
@@ -14113,8 +14225,9 @@ msgid "Jiru"
 msgstr ""
 
 #. Name for jrt
-msgid "Jorto"
-msgstr ""
+#, fuzzy
+msgid "Jakattoe"
+msgstr "Маорски"
 
 #. Name for jru
 msgid "Japrería"
@@ -14953,11 +15066,6 @@ msgstr ""
 msgid "Kawe"
 msgstr "Корејски"
 
-#. Name for kgd
-#, fuzzy
-msgid "Kataang"
-msgstr "Каталански"
-
 #. Name for kge
 #, fuzzy
 msgid "Komering"
@@ -15113,13 +15221,8 @@ msgid "Lusi"
 msgstr "Таи"
 
 #. Name for khm
-msgid "Central Khmer"
+msgid "Khmer"
 msgstr ""
-
-#. Inverted name for khm
-#, fuzzy
-msgid "Khmer, Central"
-msgstr "Турски"
 
 #. Name for khn
 #, fuzzy
@@ -15343,10 +15446,6 @@ msgstr ""
 msgid "Kisar"
 msgstr "Корејски"
 
-#. Name for kjf
-msgid "Khalaj"
-msgstr ""
-
 #. Name for kjg
 msgid "Khmu"
 msgstr ""
@@ -15537,9 +15636,8 @@ msgid "Gugubera"
 msgstr ""
 
 #. Name for kkq
-#, fuzzy
-msgid "Kaiku"
-msgstr "Таи"
+msgid "Kaeku"
+msgstr ""
 
 #. Name for kkr
 msgid "Kir-Balar"
@@ -15574,7 +15672,7 @@ msgid "Kohin"
 msgstr "Таи"
 
 #. Name for kky
-msgid "Guguyimidjir"
+msgid "Guugu Yimidhirr"
 msgstr ""
 
 #. Name for kkz
@@ -15620,12 +15718,7 @@ msgid "Kalumpang"
 msgstr ""
 
 #. Name for klj
-#, fuzzy
-msgid "Turkic Khalaj"
-msgstr "Корејски"
-
-#. Inverted name for klj
-msgid "Khalaj, Turkic"
+msgid "Khalaj"
 msgstr ""
 
 #. Name for klk
@@ -15687,9 +15780,8 @@ msgid "Maskelynes"
 msgstr ""
 
 #. Name for klw
-#, fuzzy
-msgid "Lindu"
-msgstr "Хрватска"
+msgid "Tado"
+msgstr ""
 
 #. Name for klx
 msgid "Koluwawa"
@@ -15978,7 +16070,11 @@ msgid "Kodi"
 msgstr ""
 
 #. Name for koe
-msgid "Kacipo-Balesi"
+msgid "Kacipo-Bale Suri"
+msgstr ""
+
+#. Inverted name for koe
+msgid "Suri, Kacipo-Bale"
 msgstr ""
 
 #. Name for kof
@@ -16358,11 +16454,6 @@ msgstr "Грчки"
 msgid "Karelian"
 msgstr "Корејски"
 
-#. Name for krm
-#, fuzzy
-msgid "Krim"
-msgstr "Турски"
-
 #. Name for krn
 msgid "Sapo"
 msgstr ""
@@ -16372,8 +16463,9 @@ msgid "Korop"
 msgstr ""
 
 #. Name for krr
-msgid "Kru'ng 2"
-msgstr ""
+#, fuzzy
+msgid "Krung"
+msgstr "Украински"
 
 #. Name for krs
 msgid "Gbaya (Sudan)"
@@ -16673,7 +16765,7 @@ msgid "Kango (Bas-Uélé District)"
 msgstr ""
 
 #. Name for ktz
-msgid "Ju/'hoan"
+msgid "Juǀʼhoan"
 msgstr ""
 
 #. Name for kua
@@ -17092,14 +17184,6 @@ msgstr ""
 msgid "Karen, Zayein"
 msgstr ""
 
-#. Name for kxl
-msgid "Nepali Kurux"
-msgstr ""
-
-#. Inverted name for kxl
-msgid "Kurux, Nepali"
-msgstr ""
-
 #. Name for kxm
 msgid "Northern Khmer"
 msgstr ""
@@ -17149,10 +17233,6 @@ msgstr "Турски"
 
 #. Name for kxt
 msgid "Koiwat"
-msgstr ""
-
-#. Name for kxu
-msgid "Kui (India)"
 msgstr ""
 
 #. Name for kxv
@@ -17473,10 +17553,6 @@ msgstr ""
 msgid "Lango (Uganda)"
 msgstr ""
 
-#. Name for lak
-msgid "Laka (Nigeria)"
-msgstr ""
-
 #. Name for lal
 #, fuzzy
 msgid "Lalia"
@@ -17546,11 +17622,6 @@ msgstr ""
 msgid "Aribwatsa"
 msgstr ""
 
-#. Name for lba
-#, fuzzy
-msgid "Lui"
-msgstr "Таи"
-
 #. Name for lbb
 msgid "Label"
 msgstr ""
@@ -17606,9 +17677,8 @@ msgid "Lodhi"
 msgstr ""
 
 #. Name for lbn
-#, fuzzy
-msgid "Lamet"
-msgstr "Хрватска"
+msgid "Rmeet"
+msgstr ""
 
 #. Name for lbo
 #, fuzzy
@@ -17650,8 +17720,9 @@ msgid "Lawangan"
 msgstr ""
 
 #. Name for lby
-msgid "Lamu-Lamu"
-msgstr ""
+#, fuzzy
+msgid "Lamalama"
+msgstr "Каталански"
 
 #. Name for lbz
 #, fuzzy
@@ -17917,7 +17988,11 @@ msgid "Lega-Mwenga"
 msgstr ""
 
 #. Name for lgn
-msgid "Opuuo"
+msgid "T'apo"
+msgstr ""
+
+#. Name for lgo
+msgid "Lango (South Sudan)"
 msgstr ""
 
 #. Name for lgq
@@ -18276,10 +18351,6 @@ msgstr "Маорски"
 msgid "Lele (Chad)"
 msgstr ""
 
-#. Name for llo
-msgid "Khlor"
-msgstr ""
-
 #. Name for llp
 msgid "North Efate"
 msgstr ""
@@ -18415,10 +18486,6 @@ msgstr ""
 msgid "Lamboya"
 msgstr ""
 
-#. Name for lmz
-msgid "Lumbee"
-msgstr ""
-
 #. Name for lna
 msgid "Langbashe"
 msgstr ""
@@ -18463,10 +18530,6 @@ msgstr ""
 
 #. Name for lnn
 msgid "Lorediakarkar"
-msgstr ""
-
-#. Name for lno
-msgid "Lango (Sudan)"
 msgstr ""
 
 #. Name for lns
@@ -18632,6 +18695,10 @@ msgstr "Хрватска"
 msgid "Lopit"
 msgstr ""
 
+#. Name for lqr
+msgid "Logir"
+msgstr ""
+
 #. Name for lra
 #, fuzzy
 msgid "Rara Bakati'"
@@ -18715,6 +18782,16 @@ msgstr "Српски"
 msgid "Lasgerdi"
 msgstr ""
 
+#. Name for lsb
+#, fuzzy
+msgid "Burundian Sign Language"
+msgstr "Корејски"
+
+#. Name for lsc
+#, fuzzy
+msgid "Albarradas Sign Language"
+msgstr "Корејски"
+
 #. Name for lsd
 #, fuzzy
 msgid "Lishana Deni"
@@ -18722,10 +18799,6 @@ msgstr "Литвански"
 
 #. Name for lse
 msgid "Lusengo"
-msgstr ""
-
-#. Name for lsg
-msgid "Lyons Sign Language"
 msgstr ""
 
 #. Name for lsh
@@ -18746,6 +18819,11 @@ msgstr ""
 #, fuzzy
 msgid "Saamia"
 msgstr "Валонски"
+
+#. Name for lsn
+#, fuzzy
+msgid "Tibetan Sign Language"
+msgstr "Корејски"
 
 #. Name for lso
 msgid "Laos Sign Language"
@@ -18768,6 +18846,16 @@ msgstr "Маорски"
 msgid "Trinidad and Tobago Sign Language"
 msgstr ""
 
+#. Name for lsv
+#, fuzzy
+msgid "Sivia Sign Language"
+msgstr "Корејски"
+
+#. Name for lsw
+#, fuzzy
+msgid "Seychelles Sign Language"
+msgstr "Корејски"
+
 #. Name for lsy
 msgid "Mauritian Sign Language"
 msgstr ""
@@ -18784,6 +18872,11 @@ msgstr ""
 #, fuzzy
 msgid "Latgalian"
 msgstr "Каталански"
+
+#. Name for lth
+#, fuzzy
+msgid "Thur"
+msgstr "Турски"
 
 #. Name for lti
 #, fuzzy
@@ -18925,6 +19018,10 @@ msgstr ""
 msgid "Maku'a"
 msgstr ""
 
+#. Name for lvi
+msgid "Lavi"
+msgstr ""
+
 #. Name for lvk
 msgid "Lavukaleve"
 msgstr ""
@@ -18982,6 +19079,11 @@ msgstr "Хрватска"
 msgid "Luwo"
 msgstr ""
 
+#. Name for lws
+#, fuzzy
+msgid "Malawian Sign Language"
+msgstr "Корејски"
+
 #. Name for lwt
 msgid "Lewotobi"
 msgstr ""
@@ -18993,6 +19095,11 @@ msgstr ""
 #. Name for lww
 msgid "Lewo"
 msgstr ""
+
+#. Name for lxm
+#, fuzzy
+msgid "Lakurumau"
+msgstr "Тамилски"
 
 #. Name for lya
 msgid "Layakha"
@@ -19562,7 +19669,7 @@ msgstr ""
 
 #. Name for mec
 #, fuzzy
-msgid "Mara"
+msgid "Marra"
 msgstr "Маорски"
 
 #. Name for med
@@ -19625,7 +19732,7 @@ msgid "Malay, Kedah"
 msgstr ""
 
 #. Name for mep
-msgid "Miriwung"
+msgid "Miriwoong"
 msgstr ""
 
 #. Name for meq
@@ -19763,7 +19870,7 @@ msgstr ""
 
 #. Name for mfr
 #, fuzzy
-msgid "Marithiel"
+msgid "Marrithiyel"
 msgstr "Маорски"
 
 #. Name for mfs
@@ -20821,9 +20928,8 @@ msgid "Mobilian"
 msgstr "Хрватска"
 
 #. Name for moe
-#, fuzzy
-msgid "Montagnais"
-msgstr "Маорски"
+msgid "Innu"
+msgstr ""
 
 #. Name for mog
 #, fuzzy
@@ -20920,12 +21026,13 @@ msgid "Mpoto"
 msgstr "Македонски"
 
 #. Name for mpb
-msgid "Mullukmulluk"
-msgstr ""
+#, fuzzy
+msgid "Malak Malak"
+msgstr "KStep"
 
 #. Name for mpc
 #, fuzzy
-msgid "Mangarayi"
+msgid "Mangarrayi"
 msgstr "Маорски"
 
 #. Name for mpd
@@ -21719,10 +21826,6 @@ msgstr ""
 msgid "Mbara (Australia)"
 msgstr ""
 
-#. Name for mvm
-msgid "Muya"
-msgstr ""
-
 #. Name for mvn
 msgid "Minaveha"
 msgstr ""
@@ -21893,16 +21996,6 @@ msgstr "Маорски"
 msgid "Hmong Daw"
 msgstr ""
 
-#. Name for mwx
-#, fuzzy
-msgid "Mediak"
-msgstr "Македонски"
-
-#. Name for mwy
-#, fuzzy
-msgid "Mosiro"
-msgstr "Маорски"
-
 #. Name for mwz
 #, fuzzy
 msgid "Moingi"
@@ -22072,10 +22165,6 @@ msgstr ""
 msgid "Mayeka"
 msgstr ""
 
-#. Name for myd
-msgid "Maramba"
-msgstr ""
-
 #. Name for mye
 msgid "Myene"
 msgstr ""
@@ -22093,11 +22182,6 @@ msgstr "Маорски"
 #, fuzzy
 msgid "Makah"
 msgstr "Маорски"
-
-#. Name for myi
-#, fuzzy
-msgid "Mina (India)"
-msgstr "Естонски"
 
 #. Name for myj
 msgid "Mangayat"
@@ -22389,8 +22473,9 @@ msgid "Nakwi"
 msgstr "Естонски"
 
 #. Name for nay
-msgid "Narrinyeri"
-msgstr ""
+#, fuzzy
+msgid "Ngarrindjeri"
+msgstr "Маорски"
 
 #. Name for naz
 msgid "Coatepec Nahuatl"
@@ -22449,7 +22534,7 @@ msgstr ""
 
 #. Name for nbj
 #, fuzzy
-msgid "Ngarinman"
+msgid "Ngarinyman"
 msgstr "Македонски"
 
 #. Name for nbk
@@ -22487,8 +22572,9 @@ msgid "Nggem"
 msgstr ""
 
 #. Name for nbr
-msgid "Numana-Nunku-Gbantu-Numbu"
-msgstr ""
+#, fuzzy
+msgid "Numana"
+msgstr "Германски"
 
 #. Name for nbs
 msgid "Namibian Sign Language"
@@ -22586,7 +22672,7 @@ msgid "Nahuatl, Northern Puebla"
 msgstr ""
 
 #. Name for nck
-msgid "Nakara"
+msgid "Na-kara"
 msgstr ""
 
 #. Name for ncl
@@ -22609,9 +22695,15 @@ msgstr ""
 msgid "Sibe"
 msgstr ""
 
-#. Name for ncp
-msgid "Ndaktup"
-msgstr ""
+#. Name for ncq
+#, fuzzy
+msgid "Northern Katang"
+msgstr "Корејски"
+
+#. Inverted name for ncq
+#, fuzzy
+msgid "Katang, Northern"
+msgstr "Украински"
 
 #. Name for ncr
 msgid "Ncane"
@@ -22944,7 +23036,7 @@ msgid "Ngbaka Manza"
 msgstr ""
 
 #. Name for ngh
-msgid "N/u"
+msgid "Nǁng"
 msgstr ""
 
 #. Name for ngi
@@ -22972,11 +23064,6 @@ msgstr ""
 msgid "Ngwo"
 msgstr ""
 
-#. Name for ngo
-#, fuzzy
-msgid "Ngoni"
-msgstr "Естонски"
-
 #. Name for ngp
 #, fuzzy
 msgid "Ngulu"
@@ -22995,8 +23082,9 @@ msgid "Gvoko"
 msgstr ""
 
 #. Name for ngt
-msgid "Ngeq"
-msgstr ""
+#, fuzzy
+msgid "Kriang"
+msgstr "Германски"
 
 #. Name for ngu
 msgid "Guerrero Nahuatl"
@@ -23207,8 +23295,9 @@ msgid "Nek"
 msgstr ""
 
 #. Name for nig
-msgid "Ngalakan"
-msgstr ""
+#, fuzzy
+msgid "Ngalakgan"
+msgstr "Естонски"
 
 #. Name for nih
 msgid "Nyiha (Tanzania)"
@@ -23568,6 +23657,11 @@ msgstr ""
 msgid "Nihali"
 msgstr "Таи"
 
+#. Name for nlm
+#, fuzzy
+msgid "Mankiyali"
+msgstr "Таи"
+
 #. Name for nlo
 msgid "Ngul"
 msgstr ""
@@ -23692,7 +23786,7 @@ msgid "Manangba"
 msgstr ""
 
 #. Name for nmn
-msgid "!Xóõ"
+msgid "ǃXóõ"
 msgstr ""
 
 #. Name for nmo
@@ -23848,10 +23942,6 @@ msgstr ""
 
 #. Name for nnr
 msgid "Narungga"
-msgstr ""
-
-#. Name for nns
-msgid "Ningye"
 msgstr ""
 
 #. Name for nnt
@@ -24068,6 +24158,10 @@ msgstr ""
 msgid "Naga, Puimei"
 msgstr ""
 
+#. Name for npx
+msgid "Noipx"
+msgstr ""
+
 #. Name for npy
 msgid "Napu"
 msgstr ""
@@ -24086,6 +24180,10 @@ msgstr ""
 
 #. Inverted name for nqk
 msgid "Ede Nago, Kura"
+msgstr ""
+
+#. Name for nql
+msgid "Ngendelengo"
 msgstr ""
 
 #. Name for nqm
@@ -24110,6 +24208,11 @@ msgstr "Естонски"
 #, fuzzy
 msgid "Naga, Kyan-Karyaw"
 msgstr "Унгарски"
+
+#. Name for nqt
+#, fuzzy
+msgid "Nteng"
+msgstr "Македонски"
 
 #. Name for nqy
 #, fuzzy
@@ -24220,6 +24323,11 @@ msgstr "Естонски"
 #. Inverted name for nsa
 msgid "Naga, Sangtam"
 msgstr ""
+
+#. Name for nsb
+#, fuzzy
+msgid "Lower Nossob"
+msgstr "Српски"
 
 #. Name for nsc
 #, fuzzy
@@ -24604,6 +24712,10 @@ msgstr ""
 msgid "Nawaru"
 msgstr "Маорски"
 
+#. Name for nww
+msgid "Ndwewe"
+msgstr ""
+
 #. Name for nwx
 msgid "Middle Newar"
 msgstr ""
@@ -24677,10 +24789,6 @@ msgstr "Естонски"
 msgid "Ninggerum"
 msgstr ""
 
-#. Name for nxu
-msgid "Narau"
-msgstr ""
-
 #. Name for nxx
 #, fuzzy
 msgid "Nafri"
@@ -24718,8 +24826,8 @@ msgstr ""
 
 #. Name for nyh
 #, fuzzy
-msgid "Nyigina"
-msgstr "Турски"
+msgid "Nyikina"
+msgstr "Романски"
 
 #. Name for nyi
 msgid "Ama (Sudan)"
@@ -24766,7 +24874,7 @@ msgstr "Таи"
 
 #. Name for nys
 #, fuzzy
-msgid "Nyunga"
+msgid "Nyungar"
 msgstr "Естонски"
 
 #. Name for nyt
@@ -24803,6 +24911,10 @@ msgstr ""
 
 #. Name for nzb
 msgid "Njebi"
+msgstr ""
+
+#. Name for nzd
+msgid "Nzadi"
 msgstr ""
 
 #. Name for nzi
@@ -24937,6 +25049,16 @@ msgstr "Кинески"
 msgid "Occitan (post 1500)"
 msgstr ""
 
+#. Name for ocm
+#, fuzzy
+msgid "Old Cham"
+msgstr "Тамилски"
+
+#. Inverted name for ocm
+#, fuzzy
+msgid "Cham, Old"
+msgstr "Тамилски"
+
 #. Name for oco
 #, fuzzy
 msgid "Old Cornish"
@@ -25049,6 +25171,10 @@ msgstr "Унгарски"
 msgid "Oirata"
 msgstr "Триаголник"
 
+#. Name for oie
+msgid "Okolie"
+msgstr ""
+
 #. Name for oin
 msgid "Inebu One"
 msgstr ""
@@ -25123,6 +25249,10 @@ msgstr ""
 
 #. Name for okb
 msgid "Okobo"
+msgstr ""
+
+#. Name for okc
+msgid "Kobo"
 msgstr ""
 
 #. Name for okd
@@ -25209,6 +25339,16 @@ msgstr "Хрватски"
 #. Name for okx
 msgid "Okpe (Northwestern Edo)"
 msgstr ""
+
+#. Name for okz
+#, fuzzy
+msgid "Old Khmer"
+msgstr "Бретонски"
+
+#. Inverted name for okz
+#, fuzzy
+msgid "Khmer, Old"
+msgstr "Турски"
 
 #. Name for ola
 msgid "Walungge"
@@ -25340,6 +25480,16 @@ msgstr ""
 #. Inverted name for omx
 msgid "Mon, Old"
 msgstr ""
+
+#. Name for omy
+#, fuzzy
+msgid "Old Malay"
+msgstr "Валонски"
+
+#. Inverted name for omy
+#, fuzzy
+msgid "Malay, Old"
+msgstr "Маорски"
 
 #. Name for ona
 msgid "Ona"
@@ -25570,6 +25720,16 @@ msgstr "Триаголник"
 msgid "Osing"
 msgstr "Руски"
 
+#. Name for osn
+#, fuzzy
+msgid "Old Sundanese"
+msgstr "Јапонски"
+
+#. Inverted name for osn
+#, fuzzy
+msgid "Sundanese, Old"
+msgstr "Јапонски"
+
 #. Name for oso
 msgid "Ososo"
 msgstr ""
@@ -25764,6 +25924,12 @@ msgstr ""
 msgid "Ouma"
 msgstr ""
 
+#. Name for ovd
+#, fuzzy
+#| msgid "Italian"
+msgid "Elfdalian"
+msgstr "Италијански"
+
 #. Name for owi
 msgid "Owiniga"
 msgstr ""
@@ -25876,11 +26042,6 @@ msgstr "Унгарски"
 msgid "Papasena"
 msgstr "Унгарски"
 
-#. Name for pat
-#, fuzzy
-msgid "Papitalai"
-msgstr "Каталански"
-
 #. Name for pau
 msgid "Palauan"
 msgstr ""
@@ -25945,6 +26106,14 @@ msgstr "Маорски"
 
 #. Name for pbl
 msgid "Mak (Nigeria)"
+msgstr ""
+
+#. Name for pbm
+msgid "Puebla Mazatec"
+msgstr ""
+
+#. Inverted name for pbm
+msgid "Mazatec, Puebla"
 msgstr ""
 
 #. Name for pbn
@@ -26248,7 +26417,7 @@ msgid "Pááfang"
 msgstr ""
 
 #. Name for pfe
-msgid "Peere"
+msgid "Pere"
 msgstr ""
 
 #. Name for pfl
@@ -26326,6 +26495,11 @@ msgstr ""
 #, fuzzy
 msgid "Phukha"
 msgstr "Кинески"
+
+#. Name for phj
+#, fuzzy
+msgid "Pahari"
+msgstr "Таи"
 
 #. Name for phk
 msgid "Phake"
@@ -26408,11 +26582,6 @@ msgstr ""
 #. Name for pih
 msgid "Pitcairn-Norfolk"
 msgstr ""
-
-#. Name for pii
-#, fuzzy
-msgid "Pini"
-msgstr "Таи"
 
 #. Name for pij
 msgid "Pijao"
@@ -26611,11 +26780,6 @@ msgstr ""
 #. Inverted name for plo
 msgid "Popoluca, Oluta"
 msgstr ""
-
-#. Name for plp
-#, fuzzy
-msgid "Palpa"
-msgstr "Полски"
 
 #. Name for plq
 #, fuzzy
@@ -26816,6 +26980,11 @@ msgstr ""
 msgid "Pannei"
 msgstr "Полски"
 
+#. Name for pnd
+#, fuzzy
+msgid "Mpinda"
+msgstr "Валонски"
+
 #. Name for pne
 #, fuzzy
 msgid "Western Penan"
@@ -26827,7 +26996,7 @@ msgstr ""
 
 #. Name for png
 #, fuzzy
-msgid "Pongu"
+msgid "Pangu"
 msgstr "Македонски"
 
 #. Name for pnh
@@ -26901,7 +27070,7 @@ msgid "Pinigura"
 msgstr ""
 
 #. Name for pnw
-msgid "Panytyima"
+msgid "Banyjima"
 msgstr ""
 
 #. Name for pnx
@@ -27097,11 +27266,6 @@ msgstr ""
 msgid "Malecite-Passamaquoddy"
 msgstr ""
 
-#. Name for prb
-#, fuzzy
-msgid "Lua'"
-msgstr "Таи"
-
 #. Name for prc
 #, fuzzy
 msgid "Parachi"
@@ -27209,8 +27373,9 @@ msgid "Awyu, Asue"
 msgstr ""
 
 #. Name for psc
-msgid "Persian Sign Language"
-msgstr ""
+#, fuzzy
+msgid "Iranian Sign Language"
+msgstr "Корејски"
 
 #. Name for psd
 msgid "Plains Indian Sign Language"
@@ -27314,8 +27479,9 @@ msgid "Pataxó Hã-Ha-Hãe"
 msgstr ""
 
 #. Name for pti
-msgid "Pintiini"
-msgstr ""
+#, fuzzy
+msgid "Pindiini"
+msgstr "Таи"
 
 #. Name for ptn
 #, fuzzy
@@ -27399,10 +27565,6 @@ msgstr ""
 
 #. Name for puj
 msgid "Punan Tubu"
-msgstr ""
-
-#. Name for puk
-msgid "Pu Ko"
 msgstr ""
 
 #. Name for pum
@@ -27542,14 +27704,14 @@ msgstr ""
 msgid "Pyen"
 msgstr ""
 
+#. Name for pzh
+msgid "Pazeh"
+msgstr ""
+
 #. Name for pzn
 #, fuzzy
-msgid "Para Naga"
+msgid "Jejara Naga"
 msgstr "Унгарски"
-
-#. Inverted name for pzn
-msgid "Naga, Para"
-msgstr ""
 
 #. Name for qua
 msgid "Quapaw"
@@ -28221,17 +28383,19 @@ msgstr "XChat"
 msgid "Riang (India)"
 msgstr "Естонски"
 
-#. Name for rie
-msgid "Rien"
-msgstr ""
+#. Name for rib
+#, fuzzy
+msgid "Bribri Sign Language"
+msgstr "Корејски"
 
 #. Name for rif
 msgid "Tarifit"
 msgstr ""
 
 #. Name for ril
-msgid "Riang (Myanmar)"
-msgstr ""
+#, fuzzy
+msgid "Riang Lang"
+msgstr "Романски"
 
 #. Name for rim
 msgid "Nyaturu"
@@ -28246,7 +28410,7 @@ msgid "Ribun"
 msgstr ""
 
 #. Name for rit
-msgid "Ritarungo"
+msgid "Ritharrngu"
 msgstr ""
 
 #. Name for riu
@@ -28306,7 +28470,7 @@ msgstr "Романски"
 
 #. Name for rmb
 #, fuzzy
-msgid "Rembarunga"
+msgid "Rembarrnga"
 msgstr "Естонски"
 
 #. Name for rmc
@@ -28458,6 +28622,11 @@ msgstr "Романски"
 msgid "Marma"
 msgstr "Маорски"
 
+#. Name for rnb
+#, fuzzy
+msgid "Brunca Sign Language"
+msgstr "Корејски"
+
 #. Name for rnd
 msgid "Ruund"
 msgstr ""
@@ -28593,9 +28762,11 @@ msgstr ""
 msgid "Romano-Serbian"
 msgstr "Романски"
 
-#. Name for rsi
-msgid "Rennellese Sign Language"
-msgstr ""
+#. Name for rsk
+#, fuzzy
+#| msgid "Lithuanian"
+msgid "Ruthenian"
+msgstr "Литвански"
 
 #. Name for rsl
 msgid "Russian Sign Language"
@@ -28604,6 +28775,11 @@ msgstr ""
 #. Name for rsm
 #, fuzzy
 msgid "Miriwoong Sign Language"
+msgstr "Корејски"
+
+#. Name for rsn
+#, fuzzy
+msgid "Rwandan Sign Language"
 msgstr "Корејски"
 
 #. Name for rtc
@@ -28736,6 +28912,10 @@ msgstr ""
 
 #. Name for rwk
 msgid "Rwa"
+msgstr ""
+
+#. Name for rwl
+msgid "Ruwila"
 msgstr ""
 
 #. Name for rwm
@@ -29072,7 +29252,7 @@ msgid "Scots"
 msgstr ""
 
 #. Name for scp
-msgid "Helambu Sherpa"
+msgid "Hyolmo"
 msgstr ""
 
 #. Name for scq
@@ -29086,6 +29266,16 @@ msgstr ""
 #. Inverted name for scs
 msgid "Slavey, North"
 msgstr ""
+
+#. Name for sct
+#, fuzzy
+msgid "Southern Katang"
+msgstr "Украински"
+
+#. Inverted name for sct
+#, fuzzy
+msgid "Katang, Southern"
+msgstr "Украински"
 
 #. Name for scu
 msgid "Shumcho"
@@ -29160,10 +29350,6 @@ msgstr "Турски"
 msgid "Saudi Arabian Sign Language"
 msgstr ""
 
-#. Name for sdm
-msgid "Semandang"
-msgstr ""
-
 #. Name for sdn
 #, fuzzy
 msgid "Gallurese Sardinian"
@@ -29184,6 +29370,10 @@ msgstr ""
 
 #. Name for sdp
 msgid "Sherdukpen"
+msgstr ""
+
+#. Name for sdq
+msgid "Semandang"
 msgstr ""
 
 #. Name for sdr
@@ -29853,11 +30043,6 @@ msgstr "Српски"
 msgid "Seke (Nepal)"
 msgstr ""
 
-#. Name for skk
-#, fuzzy
-msgid "Sok"
-msgstr "Словачки"
-
 #. Name for skm
 #, fuzzy
 msgid "Kutong"
@@ -30055,10 +30240,6 @@ msgstr "Таи"
 msgid "Som"
 msgstr ""
 
-#. Name for smd
-msgid "Sama"
-msgstr ""
-
 #. Name for sme
 #, fuzzy
 msgid "Northern Sami"
@@ -30175,10 +30356,6 @@ msgstr ""
 msgid "Shona"
 msgstr "XChat"
 
-#. Name for snb
-msgid "Sebuyau"
-msgstr ""
-
 #. Name for snc
 msgid "Sinaugoro"
 msgstr ""
@@ -30203,11 +30380,6 @@ msgstr "Естонски"
 #. Name for sng
 msgid "Sanga (Democratic Republic of Congo)"
 msgstr ""
-
-#. Name for snh
-#, fuzzy
-msgid "Shinabo"
-msgstr "XChat"
 
 #. Name for sni
 msgid "Sensi"
@@ -30290,8 +30462,9 @@ msgid "Saniyo-Hiyewe"
 msgstr ""
 
 #. Name for snz
-msgid "Sinsauru"
-msgstr ""
+#, fuzzy
+msgid "Kou"
+msgstr "Турски"
 
 #. Name for soa
 #, fuzzy
@@ -30575,6 +30748,10 @@ msgstr ""
 #, fuzzy
 msgid "Squamish"
 msgstr "Шпански"
+
+#. Name for sqx
+msgid "Kufr Qassem Sign Language (KQSL)"
+msgstr ""
 
 #. Name for sra
 #, fuzzy
@@ -30997,10 +31174,17 @@ msgstr ""
 msgid "Sundanese"
 msgstr ""
 
+#. Name for suo
+msgid "Bouni"
+msgstr ""
+
 #. Name for suq
-#, fuzzy
-msgid "Suri"
-msgstr "Српски"
+msgid "Tirmaga-Chai Suri"
+msgstr ""
+
+#. Inverted name for suq
+msgid "Suri, Tirmaga-Chai"
+msgstr ""
 
 #. Name for sur
 msgid "Mwaghavul"
@@ -31207,7 +31391,7 @@ msgid "Sighu"
 msgstr ""
 
 #. Name for sxg
-msgid "Shixing"
+msgid "Shuhi"
 msgstr ""
 
 #. Name for sxk
@@ -31373,6 +31557,11 @@ msgstr "Словачки"
 msgid "Suabo"
 msgstr ""
 
+#. Name for szs
+#, fuzzy
+msgid "Solomon Islands Sign Language"
+msgstr "Корејски"
+
 #. Name for szv
 msgid "Isu (Fako Division)"
 msgstr ""
@@ -31381,6 +31570,10 @@ msgstr ""
 #, fuzzy
 msgid "Sawai"
 msgstr "Маорски"
+
+#. Name for szy
+msgid "Sakizaya"
+msgstr ""
 
 #. Name for taa
 #, fuzzy
@@ -31518,10 +31711,6 @@ msgstr ""
 msgid "Aikanã"
 msgstr "Српски"
 
-#. Name for tbb
-msgid "Tapeba"
-msgstr ""
-
 #. Name for tbc
 #, fuzzy
 msgid "Takia"
@@ -31550,8 +31739,9 @@ msgid "Tairora, North"
 msgstr ""
 
 #. Name for tbh
-msgid "Thurawal"
-msgstr ""
+#, fuzzy
+msgid "Dharawal"
+msgstr "Маорски"
 
 #. Name for tbi
 #, fuzzy
@@ -31983,6 +32173,10 @@ msgstr ""
 msgid "Tulishi"
 msgstr "Турски"
 
+#. Name for tez
+msgid "Tetserret"
+msgstr ""
+
 #. Name for tfi
 msgid "Tofin Gbe"
 msgstr ""
@@ -32135,7 +32329,7 @@ msgid "Thai"
 msgstr "Таи"
 
 #. Name for thd
-msgid "Thayore"
+msgid "Kuuk Thaayorre"
 msgstr ""
 
 #. Name for the
@@ -32228,11 +32422,6 @@ msgstr ""
 #. Inverted name for thv
 msgid "Tamahaq, Tahaggart"
 msgstr ""
-
-#. Name for thw
-#, fuzzy
-msgid "Thudam"
-msgstr "Таи"
 
 #. Name for thy
 #, fuzzy
@@ -32381,6 +32570,10 @@ msgstr ""
 msgid "Tujia, Northern"
 msgstr ""
 
+#. Name for tjj
+msgid "Tjungundji"
+msgstr ""
+
 #. Name for tjl
 #, fuzzy
 msgid "Tai Laing"
@@ -32400,6 +32593,10 @@ msgstr ""
 
 #. Inverted name for tjo
 msgid "Tamazight, Temacine"
+msgstr ""
+
+#. Name for tjp
+msgid "Tjupany"
 msgstr ""
 
 #. Name for tjs
@@ -32763,14 +32960,6 @@ msgstr ""
 msgid "Tunebo, Angosturas"
 msgstr ""
 
-#. Name for tne
-msgid "Tinoc Kallahan"
-msgstr ""
-
-#. Inverted name for tne
-msgid "Kallahan, Tinoc"
-msgstr ""
-
 #. Name for tng
 #, fuzzy
 msgid "Tobanga"
@@ -32892,6 +33081,10 @@ msgstr ""
 
 #. Name for toj
 msgid "Tojolabal"
+msgstr ""
+
+#. Name for tok
+msgid "Toki Pona"
 msgstr ""
 
 #. Name for tol
@@ -33252,7 +33445,7 @@ msgid "Turoyo"
 msgstr ""
 
 #. Name for trv
-msgid "Taroko"
+msgid "Sediq"
 msgstr ""
 
 #. Name for trw
@@ -33682,6 +33875,10 @@ msgstr ""
 msgid "Sedoa"
 msgstr "XChat"
 
+#. Name for tvx
+msgid "Taivoan"
+msgstr ""
+
 #. Name for tvy
 msgid "Timor Pidgin"
 msgstr ""
@@ -33944,6 +34141,10 @@ msgstr ""
 msgid "Teke-Tyee"
 msgstr ""
 
+#. Name for tyy
+msgid "Tiyaa"
+msgstr ""
+
 #. Name for tyz
 msgid "Tày"
 msgstr ""
@@ -34083,6 +34284,11 @@ msgstr ""
 msgid "Ughele"
 msgstr ""
 
+#. Name for ugh
+#, fuzzy
+msgid "Kubachi"
+msgstr "Хрватска"
+
 #. Name for ugn
 msgid "Ugandan Sign Language"
 msgstr ""
@@ -34136,6 +34342,14 @@ msgstr ""
 msgid "Ukhwejo"
 msgstr ""
 
+#. Name for uki
+msgid "Kui (India)"
+msgstr ""
+
+#. Name for ukk
+msgid "Muak Sa-aak"
+msgstr ""
+
 #. Name for ukl
 msgid "Ukrainian Sign Language"
 msgstr ""
@@ -34159,6 +34373,10 @@ msgstr ""
 
 #. Name for uku
 msgid "Ukue"
+msgstr ""
+
+#. Name for ukv
+msgid "Kuku"
 msgstr ""
 
 #. Name for ukw
@@ -34196,7 +34414,7 @@ msgstr "Литвански"
 
 #. Name for ulk
 #, fuzzy
-msgid "Meriam"
+msgid "Meriam Mir"
 msgstr "Српски"
 
 #. Name for ull
@@ -34238,8 +34456,9 @@ msgid "Umbindhamu"
 msgstr ""
 
 #. Name for umg
-msgid "Umbuygamu"
-msgstr ""
+#, fuzzy
+msgid "Morrobalama"
+msgstr "Маорски"
 
 #. Name for umi
 msgid "Ukit"
@@ -34300,6 +34519,11 @@ msgstr ""
 msgid "Ngarinyin"
 msgstr "Македонски"
 
+#. Name for uni
+#, fuzzy
+msgid "Uni"
+msgstr "Тамилски"
+
 #. Name for unk
 msgid "Enawené-Nawé"
 msgstr ""
@@ -34335,6 +34559,10 @@ msgstr ""
 
 #. Inverted name for unz
 msgid "Kaili, Unde"
+msgstr ""
+
+#. Name for uon
+msgid "Kulon"
 msgstr ""
 
 #. Name for upi
@@ -34466,6 +34694,10 @@ msgstr ""
 msgid "Uspanteco"
 msgstr "Есперанто"
 
+#. Name for uss
+msgid "us-Saare"
+msgstr ""
+
 #. Name for usu
 msgid "Uya"
 msgstr ""
@@ -34477,6 +34709,10 @@ msgstr "Триаголник"
 
 #. Name for ute
 msgid "Ute-Southern Paiute"
+msgstr ""
+
+#. Name for uth
+msgid "ut-Hun"
 msgstr ""
 
 #. Name for utp
@@ -34493,10 +34729,6 @@ msgstr ""
 
 #. Name for uum
 msgid "Urum"
-msgstr ""
-
-#. Name for uun
-msgid "Kulon-Pazeh"
 msgstr ""
 
 #. Name for uur
@@ -34734,10 +34966,6 @@ msgstr ""
 msgid "Kariyarra"
 msgstr ""
 
-#. Name for vki
-msgid "Ija-Zuba"
-msgstr ""
-
 #. Name for vkj
 #, fuzzy
 msgid "Kujarge"
@@ -34754,6 +34982,10 @@ msgstr ""
 
 #. Name for vkm
 msgid "Kamakan"
+msgstr ""
+
+#. Name for vkn
+msgid "Koro Nulu"
 msgstr ""
 
 #. Name for vko
@@ -34782,6 +35014,11 @@ msgstr ""
 #. Name for vku
 msgid "Kurrama"
 msgstr ""
+
+#. Name for vkz
+#, fuzzy
+msgid "Koro Zuba"
+msgstr "Корејски"
 
 #. Name for vlp
 #, fuzzy
@@ -35025,7 +35262,7 @@ msgid "Wasco-Wishram"
 msgstr ""
 
 #. Name for wad
-msgid "Wandamen"
+msgid "Wamesa"
 msgstr ""
 
 #. Name for wae
@@ -35079,8 +35316,8 @@ msgstr ""
 
 #. Name for waq
 #, fuzzy
-msgid "Wageman"
-msgstr "Германски"
+msgid "Wagiman"
+msgstr "Маорски"
 
 #. Name for war
 msgid "Waray (Philippines)"
@@ -35181,9 +35418,15 @@ msgstr ""
 msgid "Wagdi"
 msgstr ""
 
+#. Name for wbs
+#, fuzzy
+msgid "West Bengal Sign Language"
+msgstr "Корејски"
+
 #. Name for wbt
-msgid "Wanman"
-msgstr ""
+#, fuzzy
+msgid "Warnman"
+msgstr "Македонски"
 
 #. Name for wbv
 msgid "Wajarri"
@@ -35221,6 +35464,10 @@ msgstr ""
 #, fuzzy
 msgid "Wadikali"
 msgstr "Таи"
+
+#. Name for wdt
+msgid "Wendat"
+msgstr ""
 
 #. Name for wdu
 msgid "Wadjigu"
@@ -35315,8 +35562,9 @@ msgid "Wagawaga"
 msgstr ""
 
 #. Name for wgg
-msgid "Wangganguru"
-msgstr ""
+#, fuzzy
+msgid "Wangkangurru"
+msgstr "Унгарски"
 
 #. Name for wgi
 #, fuzzy
@@ -35386,7 +35634,7 @@ msgid "Wik-Keyangan"
 msgstr ""
 
 #. Name for wig
-msgid "Wik-Ngathana"
+msgid "Wik Ngathan"
 msgstr ""
 
 #. Name for wih
@@ -35462,6 +35710,10 @@ msgstr ""
 msgid "Kalanadi"
 msgstr "Корејски"
 
+#. Name for wkr
+msgid "Keerray-Woorroong"
+msgstr ""
+
 #. Name for wku
 #, fuzzy
 msgid "Kunduvadi"
@@ -35497,6 +35749,10 @@ msgstr "Корејски"
 #, fuzzy
 msgid "Kunbarlang"
 msgstr "Унгарски"
+
+#. Name for wlh
+msgid "Welaun"
+msgstr ""
 
 #. Name for wli
 #, fuzzy
@@ -35581,6 +35837,16 @@ msgstr "Хрватска"
 #. Name for wme
 msgid "Wambule"
 msgstr ""
+
+#. Name for wmg
+#, fuzzy
+msgid "Western Minyag"
+msgstr "Украински"
+
+#. Inverted name for wmg
+#, fuzzy
+msgid "Minyag, Western"
+msgstr "Украински"
 
 #. Name for wmh
 msgid "Waima'a"
@@ -35686,7 +35952,7 @@ msgid "Wanyi"
 msgstr ""
 
 #. Name for woa
-msgid "Tyaraity"
+msgid "Kuwema"
 msgstr ""
 
 #. Name for wob
@@ -35770,26 +36036,19 @@ msgstr ""
 msgid "Maco"
 msgstr "Маорски"
 
-#. Name for wra
-msgid "Warapu"
-msgstr ""
-
 #. Name for wrb
 #, fuzzy
-msgid "Warluwara"
+msgid "Waluwarra"
 msgstr "Маорски"
-
-#. Name for wrd
-msgid "Warduji"
-msgstr ""
 
 #. Name for wrg
 msgid "Warungu"
 msgstr ""
 
 #. Name for wrh
-msgid "Wiradhuri"
-msgstr ""
+#, fuzzy
+msgid "Wiradjuri"
+msgstr "Маорски"
 
 #. Name for wri
 msgid "Wariyangga"
@@ -36013,10 +36272,6 @@ msgstr ""
 msgid "Wardandi"
 msgstr "Арапски"
 
-#. Name for wya
-msgid "Wyandot"
-msgstr ""
-
 #. Name for wyb
 msgid "Wangaaybuwan-Ngiyambaa"
 msgstr ""
@@ -36027,6 +36282,10 @@ msgstr ""
 
 #. Name for wym
 msgid "Wymysorys"
+msgstr ""
+
+#. Name for wyn
+msgid "Wyandot"
 msgstr ""
 
 #. Name for wyr
@@ -36094,7 +36353,7 @@ msgid "Kalmyk"
 msgstr "Валонски"
 
 #. Name for xam
-msgid "/Xam"
+msgid "ǀXam"
 msgstr ""
 
 #. Name for xan
@@ -36216,9 +36475,8 @@ msgid "Kambiwá"
 msgstr ""
 
 #. Name for xby
-#, fuzzy
-msgid "Batyala"
-msgstr "Каталански"
+msgid "Batjala"
+msgstr ""
 
 #. Name for xcb
 msgid "Cumbric"
@@ -36315,6 +36573,16 @@ msgstr ""
 msgid "Edomite"
 msgstr ""
 
+#. Name for xdo
+#, fuzzy
+msgid "Kwandu"
+msgstr "Корејски"
+
+#. Name for xdq
+#, fuzzy
+msgid "Kaitag"
+msgstr "Хрватска"
+
 #. Name for xdy
 #, fuzzy
 msgid "Malayic Dayak"
@@ -36333,7 +36601,7 @@ msgid "Hdi"
 msgstr ""
 
 #. Name for xeg
-msgid "//Xegwi"
+msgid "ǁXegwi"
 msgstr ""
 
 #. Name for xel
@@ -36437,6 +36705,14 @@ msgstr ""
 #, fuzzy
 msgid "Khetrani"
 msgstr "Таи"
+
+#. Name for xhm
+msgid "Middle Khmer (1400 to 1850 CE)"
+msgstr ""
+
+#. Inverted name for xhm
+msgid "Khmer, Middle (1400 to 1850 CE)"
+msgstr ""
 
 #. Name for xho
 #, fuzzy
@@ -36555,8 +36831,9 @@ msgid "Kajali"
 msgstr "Полски"
 
 #. Name for xkk
-msgid "Kaco'"
-msgstr ""
+#, fuzzy
+msgid "Kachok"
+msgstr "Таи"
 
 #. Name for xkl
 msgid "Mainstream Kenyah"
@@ -36717,7 +36994,7 @@ msgid "Mengaka"
 msgstr ""
 
 #. Name for xmh
-msgid "Kuku-Muminh"
+msgid "Kugu-Muminh"
 msgstr ""
 
 #. Name for xmj
@@ -36805,8 +37082,8 @@ msgstr ""
 
 #. Name for xmx
 #, fuzzy
-msgid "Maden"
-msgstr "KStep"
+msgid "Salawati"
+msgstr "Валонски"
 
 #. Name for xmy
 msgid "Mayaguduna"
@@ -36848,10 +37125,19 @@ msgstr "Турски"
 msgid "Ngarigu"
 msgstr "Македонски"
 
+#. Name for xnj
+msgid "Ngoni (Tanzania)"
+msgstr ""
+
 #. Name for xnk
 #, fuzzy
 msgid "Nganakarti"
 msgstr "Унгарски"
+
+#. Name for xnm
+#, fuzzy
+msgid "Ngumbarl"
+msgstr "Таи"
 
 #. Name for xnn
 #, fuzzy
@@ -36864,6 +37150,10 @@ msgstr ""
 
 #. Name for xno
 msgid "Anglo-Norman"
+msgstr ""
+
+#. Name for xnq
+msgid "Ngoni (Mozambique)"
 msgstr ""
 
 #. Name for xnr
@@ -36947,10 +37237,30 @@ msgstr "Корејски"
 msgid "Pirriya"
 msgstr "Турски"
 
+#. Name for xpb
+#, fuzzy
+msgid "Northeastern Tasmanian"
+msgstr "Украински"
+
+#. Inverted name for xpb
+#, fuzzy
+msgid "Tasmanian, Northeastern"
+msgstr "Украински"
+
 #. Name for xpc
 #, fuzzy
 msgid "Pecheneg"
 msgstr "Чешки"
+
+#. Name for xpd
+#, fuzzy
+msgid "Oyster Bay Tasmanian"
+msgstr "Романски"
+
+#. Inverted name for xpd
+#, fuzzy
+msgid "Tasmanian, Oyster Bay"
+msgstr "Романски"
 
 #. Name for xpe
 msgid "Liberia Kpelle"
@@ -36960,10 +37270,30 @@ msgstr ""
 msgid "Kpelle, Liberia"
 msgstr ""
 
+#. Name for xpf
+#, fuzzy
+msgid "Southeast Tasmanian"
+msgstr "Украински"
+
+#. Inverted name for xpf
+#, fuzzy
+msgid "Tasmanian, Southeast"
+msgstr "Украински"
+
 #. Name for xpg
 #, fuzzy
 msgid "Phrygian"
 msgstr "Српски"
+
+#. Name for xph
+#, fuzzy
+msgid "North Midlands Tasmanian"
+msgstr "Украински"
+
+#. Inverted name for xph
+#, fuzzy
+msgid "Tasmanian, North Midlands"
+msgstr "Украински"
 
 #. Name for xpi
 #, fuzzy
@@ -36980,6 +37310,15 @@ msgstr ""
 
 #. Inverted name for xpk
 msgid "Pano, Kulina"
+msgstr ""
+
+#. Name for xpl
+#, fuzzy
+msgid "Port Sorell Tasmanian"
+msgstr "Романски"
+
+#. Inverted name for xpl
+msgid "Tasmanian, Port Sorell"
 msgstr ""
 
 #. Name for xpm
@@ -37020,8 +37359,46 @@ msgstr ""
 msgid "Punic"
 msgstr ""
 
+#. Name for xpv
+#, fuzzy
+msgid "Northern Tasmanian"
+msgstr "Корејски"
+
+#. Inverted name for xpv
+#, fuzzy
+msgid "Tasmanian, Northern"
+msgstr "Украински"
+
+#. Name for xpw
+#, fuzzy
+msgid "Northwestern Tasmanian"
+msgstr "Украински"
+
+#. Inverted name for xpw
+#, fuzzy
+msgid "Tasmanian, Northwestern"
+msgstr "Украински"
+
+#. Name for xpx
+#, fuzzy
+msgid "Southwestern Tasmanian"
+msgstr "Украински"
+
+#. Inverted name for xpx
+#, fuzzy
+msgid "Tasmanian, Southwestern"
+msgstr "Украински"
+
 #. Name for xpy
 msgid "Puyo"
+msgstr ""
+
+#. Name for xpz
+msgid "Bruny Island Tasmanian"
+msgstr ""
+
+#. Inverted name for xpz
+msgid "Tasmanian, Bruny Island"
 msgstr ""
 
 #. Name for xqa
@@ -37074,11 +37451,6 @@ msgstr "Арапски"
 msgid "Arin"
 msgstr "Романски"
 
-#. Name for xrq
-#, fuzzy
-msgid "Karranga"
-msgstr "Корејски"
-
 #. Name for xrr
 msgid "Raetic"
 msgstr ""
@@ -37128,6 +37500,11 @@ msgstr "XChat"
 #. Name for xsi
 msgid "Sio"
 msgstr ""
+
+#. Name for xsj
+#, fuzzy
+msgid "Subi"
+msgstr "Српски"
 
 #. Name for xsl
 msgid "South Slavey"
@@ -37332,11 +37709,6 @@ msgstr ""
 #. Inverted name for xty
 msgid "Mixtec, Yoloxochitl"
 msgstr ""
-
-#. Name for xtz
-#, fuzzy
-msgid "Tasmanian"
-msgstr "Романски"
 
 #. Name for xua
 msgid "Alu Kurumba"
@@ -37967,8 +38339,9 @@ msgid "Naga, Yimchungru"
 msgstr ""
 
 #. Name for yin
-msgid "Yinchia"
-msgstr ""
+#, fuzzy
+msgid "Riang Lai"
+msgstr "Таи"
 
 #. Name for yip
 #, fuzzy
@@ -38464,6 +38837,11 @@ msgstr ""
 msgid "Yugoslavian Sign Language"
 msgstr ""
 
+#. Name for ysm
+#, fuzzy
+msgid "Myanmar Sign Language"
+msgstr "Корејски"
+
 #. Name for ysn
 #, fuzzy
 msgid "Sani"
@@ -38912,6 +39290,11 @@ msgstr ""
 msgid "Zari"
 msgstr "Маорски"
 
+#. Name for zba
+#, fuzzy
+msgid "Balaibalan"
+msgstr "Каталански"
+
 #. Name for zbc
 #, fuzzy
 msgid "Central Berawan"
@@ -38941,6 +39324,10 @@ msgstr ""
 msgid "Batui"
 msgstr "Бугарски"
 
+#. Name for zbu
+msgid "Bu (Bauchi State)"
+msgstr ""
+
 #. Name for zbw
 #, fuzzy
 msgid "West Berawan"
@@ -38957,6 +39344,15 @@ msgstr ""
 
 #. Inverted name for zca
 msgid "Zapotec, Coatecas Altas"
+msgstr ""
+
+#. Name for zcd
+#, fuzzy
+msgid "Las Delicias Zapotec"
+msgstr "Кинески"
+
+#. Inverted name for zcd
+msgid "Zapotec, Las Delicias"
 msgstr ""
 
 #. Name for zch
@@ -39109,11 +39505,6 @@ msgstr "KStep"
 msgid "Zinza"
 msgstr ""
 
-#. Name for zir
-#, fuzzy
-msgid "Ziriya"
-msgstr "Турски"
-
 #. Name for ziw
 #, fuzzy
 msgid "Zigula"
@@ -39189,6 +39580,10 @@ msgstr "Романски"
 #, fuzzy
 msgid "Khazar"
 msgstr "Таи"
+
+#. Name for zla
+msgid "Zula"
+msgstr ""
 
 #. Name for zlj
 msgid "Liujiang Zhuang"
@@ -39269,8 +39664,8 @@ msgstr ""
 
 #. Name for zml
 #, fuzzy
-msgid "Madngele"
-msgstr "KStep"
+msgid "Matngala"
+msgstr "Македонски"
 
 #. Name for zmm
 msgid "Marimanindji"

@@ -12,14 +12,15 @@
 # Luis A. Arizmendi <luis.arizmendi@mailfence.com>, 2019.
 # Adolfo Jayme Barrientos <fitojb@ubuntu.com>, 2019.
 # Guillermo Segovia <gsegovia2018@my.fit.edu>, 2019.
+# Franco <francobenedetti.59+github1@gmail.com>, 2022.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_639-2\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2022-06-01 15:01+0200\n"
-"PO-Revision-Date: 2019-11-06 19:04+0000\n"
-"Last-Translator: Guillermo Segovia <gsegovia2018@my.fit.edu>\n"
+"PO-Revision-Date: 2022-07-31 07:19+0000\n"
+"Last-Translator: Franco <francobenedetti.59+github1@gmail.com>\n"
 "Language-Team: Spanish <https://hosted.weblate.org/projects/iso-codes/"
 "iso-639-2/es/>\n"
 "Language: es\n"
@@ -27,7 +28,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.10-dev\n"
+"X-Generator: Weblate 4.14-dev\n"
 
 #. Name for aar
 msgid "Afar"
@@ -381,7 +382,7 @@ msgstr "Chamic, lenguas"
 
 #. Name for cnr
 msgid "Montenegrin"
-msgstr ""
+msgstr "Montenegrino"
 
 #. Name for cop
 msgid "Coptic"
