@@ -15,7 +15,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2022-06-01 15:01+0200\n"
-"PO-Revision-Date: 2022-07-31 07:19+0000\n"
+"PO-Revision-Date: 2022-09-01 05:20+0000\n"
 "Last-Translator: Jakub Bogusz <qboosh@pld-linux.org>\n"
 "Language-Team: Polish <https://hosted.weblate.org/projects/iso-codes/"
 "iso-3166-2/pl/>\n"
@@ -25,7 +25,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.14-dev\n"
+"X-Generator: Weblate 4.14.1-dev\n"
 "X-Bugs: Report translation errors to the Language-Team address.\n"
 
 #. Name for AD-02
@@ -7164,20 +7164,16 @@ msgstr "Artibonite"
 
 # XXX: msgid conflict
 #. Name for HT-GA
-#, fuzzy
-#| msgid "Granada"
 msgid "Grandans"
-msgstr "Grenada / Granada"
+msgstr "Grand’Anse"
 
 #. Name for HT-NE
 msgid "Nord-Est"
 msgstr "Północno-Wschodni"
 
 #. Name for HT-NI
-#, fuzzy
-#| msgid "Nui"
 msgid "Nip"
-msgstr "Nui"
+msgstr "Nippes"
 
 #. Name for HT-NO
 msgid "Nord-Ouest"
@@ -7185,17 +7181,15 @@ msgstr "Północno-Zachodni"
 
 #. Name for HT-OU
 msgid "Lwès"
-msgstr ""
+msgstr "Wschodni"
 
 #. Name for HT-SD
-#, fuzzy
-#| msgid "Sindh"
 msgid "Sid"
-msgstr "Sindh"
+msgstr "Południowy"
 
 #. Name for HT-SE
 msgid "Sidès"
-msgstr ""
+msgstr "Południowo-Wschodni"
 
 #. Name for HU-BA
 msgid "Baranya"
@@ -7299,7 +7293,7 @@ msgstr "Nyíregyháza"
 
 #. Name for HU-PE
 msgid "Pest"
-msgstr "Pest"
+msgstr "Peszt"
 
 #. Name for HU-PS
 msgid "Pécs"
@@ -7307,7 +7301,7 @@ msgstr "Pecz"
 
 #. Name for HU-SD
 msgid "Szeged"
-msgstr "Szeged"
+msgstr "Segedyn"
 
 #. Name for HU-SF
 msgid "Székesfehérvár"
@@ -7374,10 +7368,8 @@ msgid "Bali"
 msgstr "Bali"
 
 #. Name for ID-BB
-#, fuzzy
-#| msgid "Bangka Belitung"
 msgid "Kepulauan Bangka Belitung"
-msgstr "Bangka i Belitung"
+msgstr "Wyspy Bangka i Belitung"
 
 #. Name for ID-BE
 msgid "Bengkulu"
@@ -7417,7 +7409,7 @@ msgstr "Jawa"
 
 #. Name for ID-KA
 msgid "Kalimantan"
-msgstr "Kalimantan"
+msgstr "Borneo"
 
 #. Name for ID-KB
 msgid "Kalimantan Barat"
@@ -7429,7 +7421,7 @@ msgstr "Borneo Wschodnie"
 
 #. Name for ID-KR
 msgid "Kepulauan Riau"
-msgstr "Wyspy Riau"
+msgstr "Archipelag Riau"
 
 #. Name for ID-KS
 msgid "Kalimantan Selatan"
@@ -7440,10 +7432,8 @@ msgid "Kalimantan Tengah"
 msgstr "Borneo Środkowe"
 
 #. Name for ID-KU
-#, fuzzy
-#| msgid "Kalimantan Barat"
 msgid "Kalimantan Utara"
-msgstr "Borneo Zachodnie"
+msgstr "Borneo Północne"
 
 #. Name for ID-LA
 msgid "Lampung"
@@ -7486,8 +7476,6 @@ msgid "Sulawesi Utara"
 msgstr "Celebes Północny"
 
 #. Name for ID-SB
-#, fuzzy
-#| msgid "Sumatra Barat"
 msgid "Sumatera Barat"
 msgstr "Sumatra Zachodnia"
 
@@ -7512,8 +7500,6 @@ msgid "Sulawesi Barat"
 msgstr "Celebes Zachodni"
 
 #. Name for ID-SS
-#, fuzzy
-#| msgid "Sumatra Selatan"
 msgid "Sumatera Selatan"
 msgstr "Sumatra Południowa"
 
@@ -7530,8 +7516,6 @@ msgid "Yogyakarta"
 msgstr "Yogyakarta"
 
 #. Name for IE-C
-#, fuzzy
-#| msgid "Connacht"
 msgid "Connaught"
 msgstr "Connacht"
 
@@ -7653,24 +7637,20 @@ msgstr "Wexford"
 
 #. Name for IL-HA
 msgid "H̱efa"
-msgstr ""
+msgstr "Hajfa"
 
 #. Name for IL-JM
-#, fuzzy
-#| msgid "Al Qadisiyah"
 msgid "Al Quds"
-msgstr "Al-Kadisijja"
+msgstr "Jerozolima"
 
 #. Name for IL-TA
 msgid "Tall Abīb"
-msgstr ""
+msgstr "Tel Awiw"
 
 # XXX: msgid conflict
 #. Name for IL-Z
-#, fuzzy
-#| msgid "Ash Shamālīyah"
 msgid "Ash Shamālī"
-msgstr "Asz-Szimalijja / Prowincja Północna"
+msgstr "Dystrykt Północny"
 
 #. Name for IN-AN
 msgid "Andaman and Nicobar Islands"
@@ -7681,34 +7661,26 @@ msgid "Andhra Pradesh"
 msgstr "Andhra Pradesh"
 
 #. Name for IN-AR
-#, fuzzy
-#| msgid "Arunachal Pradesh"
 msgid "Arunāchal Pradesh"
 msgstr "Arunachal Pradesh"
 
 #. Name for IN-AS
 msgid "Assam"
-msgstr "Assam"
+msgstr "Asam"
 
 #. Name for IN-BR
 msgid "Bihār"
-msgstr ""
+msgstr "Bihar"
 
 #. Name for IN-CH
-#, fuzzy
-#| msgid "Chandigarh"
 msgid "Chandīgarh"
 msgstr "Czandigarh"
 
 #. Name for IN-CT
-#, fuzzy
-#| msgid "Chhattisgarh"
 msgid "Chhattīsgarh"
 msgstr "Chhattisgarh"
 
 #. Name for IN-DH
-#, fuzzy
-#| msgid "Dadra and Nagar Haveli"
 msgid "Dādra and Nagar Haveli and Damān and Diu"
 msgstr "Dadra i Nagarhaweli"
 
@@ -7721,38 +7693,26 @@ msgid "Goa"
 msgstr "Goa"
 
 #. Name for IN-GJ
-#, fuzzy
-#| msgid "Gujarat"
 msgid "Gujarāt"
-msgstr "Gujarat"
+msgstr "Gudźarat"
 
 #. Name for IN-HP
-#, fuzzy
-#| msgid "Himachal Pradesh"
 msgid "Himāchal Pradesh"
 msgstr "Himachal Pradesh"
 
 #. Name for IN-HR
-#, fuzzy
-#| msgid "Haryana"
 msgid "Haryāna"
 msgstr "Haryana"
 
 #. Name for IN-JH
-#, fuzzy
-#| msgid "Jharkhand"
 msgid "Jhārkhand"
 msgstr "Jharkhand"
 
 #. Name for IN-JK
-#, fuzzy
-#| msgid "Jammu and Kashmir"
 msgid "Jammu and Kashmīr"
 msgstr "Dżammu i Kaszmir"
 
 #. Name for IN-KA
-#, fuzzy
-#| msgid "Karnataka"
 msgid "Karnātaka"
 msgstr "Karnataka"
 
@@ -7762,21 +7722,17 @@ msgstr "Kerala"
 
 #. Name for IN-LA
 msgid "Ladākh"
-msgstr ""
+msgstr "Ladakh"
 
 #. Name for IN-LD
 msgid "Lakshadweep"
 msgstr "Lakszadiwy"
 
 #. Name for IN-MH
-#, fuzzy
-#| msgid "Maharashtra"
 msgid "Mahārāshtra"
-msgstr "Maharashtra"
+msgstr "Maharasztra"
 
 #. Name for IN-ML
-#, fuzzy
-#| msgid "Meghalaya"
 msgid "Meghālaya"
 msgstr "Meghalaya"
 
@@ -7793,8 +7749,6 @@ msgid "Mizoram"
 msgstr "Mizoram"
 
 #. Name for IN-NL
-#, fuzzy
-#| msgid "Nagaland"
 msgid "Nāgāland"
 msgstr "Nagaland"
 
@@ -7811,8 +7765,6 @@ msgid "Puducherry"
 msgstr "Puducherry"
 
 #. Name for IN-RJ
-#, fuzzy
-#| msgid "Rajasthan"
 msgid "Rājasthān"
 msgstr "Radżastan"
 
@@ -7821,16 +7773,12 @@ msgid "Sikkim"
 msgstr "Sikkim"
 
 #. Name for IN-TG
-#, fuzzy
-#| msgid "Telangana"
 msgid "Telangāna"
 msgstr "Telangana"
 
 #. Name for IN-TN
-#, fuzzy
-#| msgid "Tamil Nadu"
 msgid "Tamil Nādu"
-msgstr "Tamil Nadu"
+msgstr "Tamilnadu"
 
 #. Name for IN-TR
 msgid "Tripura"
@@ -7841,8 +7789,6 @@ msgid "Uttar Pradesh"
 msgstr "Uttar Pradesh"
 
 #. Name for IN-UT
-#, fuzzy
-#| msgid "Uttarakhand"
 msgid "Uttarākhand"
 msgstr "Uttarakhand"
 
@@ -7851,96 +7797,76 @@ msgid "West Bengal"
 msgstr "Bengal Zachodni"
 
 #. Name for IQ-AN
-#, fuzzy
-#| msgid "Al Anbar"
 msgid "Al Anbār"
 msgstr "Al-Anbar"
 
 #. Name for IQ-AR
 msgid "Arbīl"
-msgstr ""
+msgstr "Irbil"
 
 #. Name for IQ-BA
-#, fuzzy
-#| msgid "Al Basrah"
 msgid "Al Başrah"
 msgstr "Basra"
 
 #. Name for IQ-BB
 msgid "Bābil"
-msgstr ""
+msgstr "Babilon"
 
 #. Name for IQ-BG
-#, fuzzy
-#| msgid "Baghdad"
 msgid "Baghdād"
 msgstr "Bagdad"
 
 #. Name for IQ-DA
 msgid "Dahūk"
-msgstr ""
+msgstr "Dahuk"
 
 #. Name for IQ-DI
 msgid "Diyālá"
-msgstr ""
+msgstr "Dijala"
 
 #. Name for IQ-DQ
 msgid "Dhī Qār"
-msgstr ""
+msgstr "Zi Kar"
 
 #. Name for IQ-KA
-#, fuzzy
-#| msgid "Karbala'"
 msgid "Karbalā’"
 msgstr "Karbala"
 
 #. Name for IQ-KI
-#, fuzzy
-#| msgid "Kirkop"
 msgid "Kirkūk"
-msgstr "Kirkop"
+msgstr "Kirkuk"
 
 #. Name for IQ-MA
-#, fuzzy
-#| msgid "Maysan"
 msgid "Maysān"
 msgstr "Majsan"
 
 #. Name for IQ-MU
-#, fuzzy
-#| msgid "Al Muthanna"
 msgid "Al Muthanná"
 msgstr "Al-Musanna"
 
 #. Name for IQ-NA
-#, fuzzy
-#| msgid "An Najef"
 msgid "An Najaf"
 msgstr "An-Nadżaf"
 
 #. Name for IQ-NI
 msgid "Nīnawá"
-msgstr ""
+msgstr "Niniwa"
 
 #. Name for IQ-QA
-#, fuzzy
-#| msgid "Al Qadisiyah"
 msgid "Al Qādisīyah"
 msgstr "Al-Kadisijja"
 
 #. Name for IQ-SD
 msgid "Şalāḩ ad Dīn"
-msgstr ""
+msgstr "Salah Ad-Din"
 
 #. Name for IQ-SU
-#, fuzzy
-#| msgid "As Sulaymaniyah"
 msgid "As Sulaymānīyah"
 msgstr "As-Sulajmanijja"
 
 #. Name for IQ-WA
 msgid "Wāsiţ"
-msgstr ""
+msgstr "Wasit"
 
 #. Name for IR-00
 msgid "Markazī"
@@ -7955,14 +7881,10 @@ msgid "Māzandarān"
 msgstr "Mazandaran"
 
 #. Name for IR-03
-#, fuzzy
-#| msgid "Āzarbāyjān-e Sharqī"
 msgid "Āz̄ārbāyjān-e Shārqī"
 msgstr "Azerbejdżan Wschodni"
 
 #. Name for IR-04
-#, fuzzy
-#| msgid "Āzarbāyjān-e Gharbī"
 msgid "Āz̄ārbāyjān-e Ghārbī"
 msgstr "Azerbejdżan Zachodni"
 
@@ -7983,8 +7905,6 @@ msgid "Kermān"
 msgstr "Kerman"
 
 #. Name for IR-09
-#, fuzzy
-#| msgid "Khorāsān-e Razavī"
 msgid "Khorāsān-e Raẕavī"
 msgstr "Chorasan-e Razawi"
 
@@ -8005,8 +7925,6 @@ msgid "Hamadān"
 msgstr "Hamadan"
 
 #. Name for IR-14
-#, fuzzy
-#| msgid "Chahār Mahāll va Bakhtīārī"
 msgid "Chahār Maḩāl va Bakhtīārī"
 msgstr "Czahar Mahal wa Bachtijari"
 
@@ -8019,8 +7937,6 @@ msgid "Īlām"
 msgstr "Ilam"
 
 #. Name for IR-17
-#, fuzzy
-#| msgid "Kohgīlūyeh va Būyer Ahmad"
 msgid "Kohgīlūyeh va Bowyer Aḩmad"
 msgstr "Kohgiluje wa Bujerahmad"
 
@@ -8065,26 +7981,20 @@ msgid "Golestān"
 msgstr "Golestan"
 
 #. Name for IR-28
-#, fuzzy
-#| msgid "Khorāsān-e Shemālī"
 msgid "Khorāsān-e Shomālī"
 msgstr "Chorasan Północny"
 
 #. Name for IR-29
-#, fuzzy
-#| msgid "Khorāsān-e Janūbī"
 msgid "Khorāsān-e Jonūbī"
 msgstr "Chorasan Południowy"
 
 #. Name for IR-30
 msgid "Alborz"
-msgstr ""
+msgstr "Alborz"
 
 #. Name for IS-1
-#, fuzzy
-#| msgid "Höfuðborgarsvæðið"
 msgid "Höfuðborgarsvæði"
-msgstr "Höfuðborgarsvæðið"
+msgstr "Höfuðborgarsvæði"
 
 #. Name for IS-2
 msgid "Suðurnes"
@@ -8116,311 +8026,299 @@ msgstr "Suðurland"
 
 #. Name for IS-AKH
 msgid "Akrahreppur"
-msgstr ""
+msgstr "Akrahreppur"
 
 #. Name for IS-AKN
 msgid "Akraneskaupstaður"
-msgstr ""
+msgstr "Akraneskaupstaður"
 
 #. Name for IS-AKU
 msgid "Akureyrarbær"
-msgstr ""
+msgstr "Akureyrarbær"
 
 #. Name for IS-ARN
 msgid "Árneshreppur"
-msgstr ""
+msgstr "Árneshreppur"
 
 #. Name for IS-ASA
 msgid "Ásahreppur"
-msgstr ""
+msgstr "Ásahreppur"
 
 #. Name for IS-BFJ
 msgid "Borgarfjarðarhreppur"
-msgstr ""
+msgstr "Borgarfjarðarhreppur"
 
 #. Name for IS-BLA
 msgid "Bláskógabyggð"
-msgstr ""
+msgstr "Bláskógabyggð"
 
 #. Name for IS-BLO
 msgid "Blönduósbær"
-msgstr ""
+msgstr "Blönduósbær"
 
 #. Name for IS-BOG
 msgid "Borgarbyggð"
-msgstr ""
+msgstr "Borgarbyggð"
 
 #. Name for IS-BOL
 msgid "Bolungarvíkurkaupstaður"
-msgstr ""
+msgstr "Bolungarvíkurkaupstaður"
 
 #. Name for IS-DAB
-#, fuzzy
-#| msgid "Dalaba"
 msgid "Dalabyggð"
-msgstr "Dalaba"
+msgstr "Dalabyggð"
 
 #. Name for IS-DAV
 msgid "Dalvíkurbyggð"
-msgstr ""
+msgstr "Dalvíkurbyggð"
 
 #. Name for IS-DJU
 msgid "Djúpavogshreppur"
-msgstr ""
+msgstr "Djúpavogshreppur"
 
 #. Name for IS-EOM
 msgid "Eyja- og Miklaholtshreppur"
-msgstr ""
+msgstr "Eyja- og Miklaholtshreppur"
 
 #. Name for IS-EYF
 msgid "Eyjafjarðarsveit"
-msgstr ""
+msgstr "Eyjafjarðarsveit"
 
 #. Name for IS-FJD
 msgid "Fjarðabyggð"
-msgstr ""
+msgstr "Fjarðabyggð"
 
 #. Name for IS-FJL
 msgid "Fjallabyggð"
-msgstr ""
+msgstr "Fjallabyggð"
 
 #. Name for IS-FLA
 msgid "Flóahreppur"
-msgstr ""
+msgstr "Flóahreppur"
 
 #. Name for IS-FLD
 msgid "Fljótsdalshérað"
-msgstr ""
+msgstr "Fljótsdalshérað"
 
 #. Name for IS-FLR
 msgid "Fljótsdalshreppur"
-msgstr ""
+msgstr "Fljótsdalshreppur"
 
 #. Name for IS-GAR
 msgid "Garðabær"
-msgstr ""
+msgstr "Garðabær"
 
 #. Name for IS-GOG
 msgid "Grímsnes- og Grafningshreppur"
-msgstr ""
+msgstr "Grímsnes- og Grafningshreppur"
 
 #. Name for IS-GRN
 msgid "Grindavíkurbær"
-msgstr ""
+msgstr "Grindavíkurbær"
 
 #. Name for IS-GRU
 msgid "Grundarfjarðarbær"
-msgstr ""
+msgstr "Grundarfjarðarbær"
 
 #. Name for IS-GRY
 msgid "Grýtubakkahreppur"
-msgstr ""
+msgstr "Grýtubakkahreppur"
 
 #. Name for IS-HAF
 msgid "Hafnarfjarðarkaupstaður"
-msgstr ""
+msgstr "Hafnarfjarðarkaupstaður"
 
 #. Name for IS-HEL
 msgid "Helgafellssveit"
-msgstr ""
+msgstr "Helgafellssveit"
 
 #. Name for IS-HRG
 msgid "Hörgársveit"
-msgstr ""
+msgstr "Hörgársveit"
 
 #. Name for IS-HRU
 msgid "Hrunamannahreppur"
-msgstr ""
+msgstr "Hrunamannahreppur"
 
 #. Name for IS-HUT
 msgid "Húnavatnshreppur"
-msgstr ""
+msgstr "Húnavatnshreppur"
 
 #. Name for IS-HUV
 msgid "Húnaþing vestra"
-msgstr ""
+msgstr "Húnaþing vestra"
 
 #. Name for IS-HVA
 msgid "Hvalfjarðarsveit"
-msgstr ""
+msgstr "Hvalfjarðarsveit"
 
 #. Name for IS-HVE
 msgid "Hveragerðisbær"
-msgstr ""
+msgstr "Hveragerðisbær"
 
 #. Name for IS-ISA
 msgid "Ísafjarðarbær"
-msgstr ""
+msgstr "Ísafjarðarbær"
 
 #. Name for IS-KAL
 msgid "Kaldrananeshreppur"
-msgstr ""
+msgstr "Kaldrananeshreppur"
 
 #. Name for IS-KJO
 msgid "Kjósarhreppur"
-msgstr ""
+msgstr "Kjósarhreppur"
 
 #. Name for IS-KOP
 msgid "Kópavogsbær"
-msgstr ""
+msgstr "Kópavogsbær"
 
 #. Name for IS-LAN
 msgid "Langanesbyggð"
-msgstr ""
+msgstr "Langanesbyggð"
 
 #. Name for IS-MOS
 msgid "Mosfellsbær"
-msgstr ""
+msgstr "Mosfellsbær"
 
 #. Name for IS-MYR
 msgid "Mýrdalshreppur"
-msgstr ""
+msgstr "Mýrdalshreppur"
 
 #. Name for IS-NOR
 msgid "Norðurþing"
-msgstr ""
+msgstr "Norðurþing"
 
 #. Name for IS-RGE
 msgid "Rangárþing eystra"
-msgstr ""
+msgstr "Rangárþing eystra"
 
 #. Name for IS-RGY
 msgid "Rangárþing ytra"
-msgstr ""
+msgstr "Rangárþing ytra"
 
 #. Name for IS-RHH
 msgid "Reykhólahreppur"
-msgstr ""
+msgstr "Reykhólahreppur"
 
 #. Name for IS-RKN
-#, fuzzy
-#| msgid "Reykjavík"
 msgid "Reykjanesbær"
-msgstr "Reykjavík"
+msgstr "Reykjanesbær"
 
 #. Name for IS-RKV
-#, fuzzy
-#| msgid "Reykjavík"
 msgid "Reykjavíkurborg"
-msgstr "Reykjavík"
+msgstr "Reykjavíkurborg"
 
 #. Name for IS-SBH
 msgid "Svalbarðshreppur"
-msgstr ""
+msgstr "Svalbarðshreppur"
 
 #. Name for IS-SBT
 msgid "Svalbarðsstrandarhreppur"
-msgstr ""
+msgstr "Svalbarðsstrandarhreppur"
 
 #. Name for IS-SDN
-#, fuzzy
-#| msgid "Suðurnes"
 msgid "Suðurnesjabær"
-msgstr "Suðurnes"
+msgstr "Suðurnesjabær"
 
 #. Name for IS-SDV
 msgid "Súðavíkurhreppur"
-msgstr ""
+msgstr "Súðavíkurhreppur"
 
 #. Name for IS-SEL
 msgid "Seltjarnarnesbær"
-msgstr ""
+msgstr "Seltjarnarnesbær"
 
 #. Name for IS-SEY
 msgid "Seyðisfjarðarkaupstaður"
-msgstr ""
+msgstr "Seyðisfjarðarkaupstaður"
 
 #. Name for IS-SFA
 msgid "Sveitarfélagið Árborg"
-msgstr ""
+msgstr "Sveitarfélagið Árborg"
 
 #. Name for IS-SHF
 msgid "Sveitarfélagið Hornafjörður"
-msgstr ""
+msgstr "Sveitarfélagið Hornafjörður"
 
 #. Name for IS-SKF
 msgid "Skaftárhreppur"
-msgstr ""
+msgstr "Skaftárhreppur"
 
 #. Name for IS-SKG
 msgid "Skagabyggð"
-msgstr ""
+msgstr "Skagabyggð"
 
 #. Name for IS-SKO
 msgid "Skorradalshreppur"
-msgstr ""
+msgstr "Skorradalshreppur"
 
 #. Name for IS-SKU
 msgid "Skútustaðahreppur"
-msgstr ""
+msgstr "Skútustaðahreppur"
 
 #. Name for IS-SNF
 msgid "Snæfellsbær"
-msgstr ""
+msgstr "Snæfellsbær"
 
 #. Name for IS-SOG
 msgid "Skeiða- og Gnúpverjahreppur"
-msgstr ""
+msgstr "Skeiða- og Gnúpverjahreppur"
 
 #. Name for IS-SOL
 msgid "Sveitarfélagið Ölfus"
-msgstr ""
+msgstr "Sveitarfélagið Ölfus"
 
 #. Name for IS-SSF
 msgid "Sveitarfélagið Skagafjörður"
-msgstr ""
+msgstr "Sveitarfélagið Skagafjörður"
 
 #. Name for IS-SSS
 msgid "Sveitarfélagið Skagaströnd"
-msgstr ""
+msgstr "Sveitarfélagið Skagaströnd"
 
 #. Name for IS-STR
 msgid "Strandabyggð"
-msgstr ""
+msgstr "Strandabyggð"
 
 #. Name for IS-STY
 msgid "Stykkishólmsbær"
-msgstr ""
+msgstr "Stykkishólmsbær"
 
 #. Name for IS-SVG
 msgid "Sveitarfélagið Vogar"
-msgstr ""
+msgstr "Sveitarfélagið Vogar"
 
 #. Name for IS-TAL
 msgid "Tálknafjarðarhreppur"
-msgstr ""
+msgstr "Tálknafjarðarhreppur"
 
 #. Name for IS-THG
 msgid "Þingeyjarsveit"
-msgstr ""
+msgstr "Þingeyjarsveit"
 
 #. Name for IS-TJO
 msgid "Tjörneshreppur"
-msgstr ""
+msgstr "Tjörneshreppur"
 
 #. Name for IS-VEM
 msgid "Vestmannaeyjabær"
-msgstr ""
+msgstr "Vestmannaeyjabær"
 
 #. Name for IS-VER
-#, fuzzy
-#| msgid "Vestfirðir"
 msgid "Vesturbyggð"
-msgstr "Vestfirðir"
+msgstr "Vesturbyggð"
 
 #. Name for IS-VOP
 msgid "Vopnafjarðarhreppur"
-msgstr ""
+msgstr "Vopnafjarðarhreppur"
 
 #. Name for IT-21
 msgid "Piemonte"
 msgstr "Piemont"
 
 #. Name for IT-23
-#, fuzzy
-#| msgid "Valle d'Aosta"
 msgid "Val d'Aoste"
-msgstr "Valle d'Aosta"
+msgstr "Dolina Aosty"
 
 #. Name for IT-25
 msgid "Lombardia"
@@ -8435,8 +8333,6 @@ msgid "Veneto"
 msgstr "Wenecja Euganejska"
 
 #. Name for IT-36
-#, fuzzy
-#| msgid "Friuli-Venezia Giulia"
 msgid "Friuli Venezia Giulia"
 msgstr "Friuli-Wenecja Julijska"
 
@@ -8662,7 +8558,7 @@ msgstr "Isernia"
 
 #. Name for IT-KR
 msgid "Crotone"
-msgstr "Krotona"
+msgstr "Crotone"
 
 #. Name for IT-LC
 msgid "Lecco"
@@ -8845,10 +8741,8 @@ msgid "Sassari"
 msgstr "Sassari"
 
 #. Name for IT-SU
-#, fuzzy
-#| msgid "Sardegna"
 msgid "Sud Sardegna"
-msgstr "Sardynia"
+msgstr "Sud Sardegna"
 
 #. Name for IT-SV
 msgid "Savona"
@@ -8896,7 +8790,7 @@ msgstr "Varese"
 
 #. Name for IT-VB
 msgid "Verbano-Cusio-Ossola"
-msgstr "Verbano Cusio Ossola"
+msgstr "Verbano-Cusio-Ossola"
 
 #. Name for IT-VC
 msgid "Vercelli"
@@ -8963,10 +8857,8 @@ msgid "‘Ajlūn"
 msgstr "Adżlun"
 
 #. Name for JO-AM
-#, fuzzy
-#| msgid "Al ‘Aqabah"
 msgid "Al ‘A̅şimah"
-msgstr "Akaba"
+msgstr "Prowincja Stołeczna"
 
 #. Name for JO-AQ
 msgid "Al ‘Aqabah"
@@ -8977,14 +8869,10 @@ msgid "Aţ Ţafīlah"
 msgstr "At-Tafila"
 
 #. Name for JO-AZ
-#, fuzzy
-#| msgid "Az Zarqā'"
 msgid "Az Zarqā’"
 msgstr "Az-Zarka"
 
 #. Name for JO-BA
-#, fuzzy
-#| msgid "Al Balqā'"
 msgid "Al Balqā’"
 msgstr "Al-Balka"
 

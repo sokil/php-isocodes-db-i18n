@@ -10,14 +10,14 @@
 # Tomislav Krznar <tomislav.krznar@gmail.com>, 2012-2013.
 # Božidar Putanec <bozidarp@yahoo.com>, 2017.
 # gogogogi <trebelnik2@gmail.com>, 2019, 2020.
-# Milo Ivir <mail@milotype.de>, 2020.
+# Milo Ivir <mail@milotype.de>, 2020, 2022.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_4217\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2022-06-01 15:01+0200\n"
-"PO-Revision-Date: 2020-08-23 21:36+0000\n"
+"PO-Revision-Date: 2022-08-05 14:21+0000\n"
 "Last-Translator: Milo Ivir <mail@milotype.de>\n"
 "Language-Team: Croatian <https://hosted.weblate.org/projects/iso-codes/"
 "iso-4217/hr/>\n"
@@ -27,7 +27,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
 "n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.2.1-dev\n"
+"X-Generator: Weblate 4.14-dev\n"
 "X-Bugs: Report translation errors to the Language-Team address.\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 
@@ -68,8 +68,6 @@ msgid "Aruban Florin"
 msgstr "Arupski florin"
 
 #. Name for AZN
-#, fuzzy
-#| msgid "Azerbaijanian Manat"
 msgid "Azerbaijan Manat"
 msgstr "Azerbajdžanski manat"
 
@@ -111,7 +109,7 @@ msgstr "Bolivijski bolivijano"
 
 #. Name for BOV
 msgid "Mvdol"
-msgstr ""
+msgstr "Mvdol"
 
 #. Name for BRL
 msgid "Brazilian Real"
@@ -146,24 +144,20 @@ msgid "Congolese Franc"
 msgstr "Kongoanski franak"
 
 #. Name for CHE
-#, fuzzy
-#| msgid "Euro"
 msgid "WIR Euro"
-msgstr "Euro"
+msgstr "WIR Euro"
 
 #. Name for CHF
 msgid "Swiss Franc"
 msgstr "Švicarski franak"
 
 #. Name for CHW
-#, fuzzy
-#| msgid "Rwanda Franc"
 msgid "WIR Franc"
-msgstr "Ruandski franak"
+msgstr "WIR franak"
 
 #. Name for CLF
 msgid "Unidad de Fomento"
-msgstr ""
+msgstr "Unidad de Fomento (Čile)"
 
 #. Name for CLP
 msgid "Chilean Peso"
@@ -179,7 +173,7 @@ msgstr "Kolumbijski pezo"
 
 #. Name for COU
 msgid "Unidad de Valor Real"
-msgstr ""
+msgstr "Unidad de Valor Real (Čile)"
 
 #. Name for CRC
 msgid "Costa Rican Colon"
@@ -262,8 +256,6 @@ msgid "Dalasi"
 msgstr "Gambijski dalasi"
 
 #. Name for GNF
-#, fuzzy
-#| msgid "Guinea Franc"
 msgid "Guinean Franc"
 msgstr "Gvinejski franak"
 
@@ -344,8 +336,6 @@ msgid "Riel"
 msgstr "Kambodžanski rijal"
 
 #. Name for KMF
-#, fuzzy
-#| msgid "Comoro Franc"
 msgid "Comorian Franc"
 msgstr "Komorski franak"
 
@@ -371,7 +361,7 @@ msgstr "Kazahstanski tenge"
 
 #. Name for LAK
 msgid "Lao Kip"
-msgstr ""
+msgstr "Laoški kip"
 
 #. Name for LBP
 msgid "Lebanese Pound"
@@ -443,7 +433,7 @@ msgstr "Meksički pezo"
 
 #. Name for MXV
 msgid "Mexican Unidad de Inversion (UDI)"
-msgstr ""
+msgstr "Meksički unidad de inversión (indeksna jedinica fondova)"
 
 #. Name for MYR
 msgid "Malaysian Ringgit"
@@ -638,14 +628,12 @@ msgid "US Dollar"
 msgstr "Američki dolar"
 
 #. Name for USN
-#, fuzzy
-#| msgid "US Dollar"
 msgid "US Dollar (Next day)"
-msgstr "Američki dolar"
+msgstr "Američki dolar (sljedeći dan)"
 
 #. Name for UYI
 msgid "Uruguay Peso en Unidades Indexadas (UI)"
-msgstr ""
+msgstr "Urugvajski pezo u indeksiranim jedinicama"
 
 #. Name for UYU
 msgid "Peso Uruguayo"
@@ -653,17 +641,15 @@ msgstr "Urugvajski pezo"
 
 #. Name for UYW
 msgid "Unidad Previsional"
-msgstr ""
+msgstr "Argentisnko socijalno osiguranje"
 
 #. Name for UZS
 msgid "Uzbekistan Sum"
 msgstr "Uzbekistanski som"
 
 #. Name for VED, Name for VES
-#, fuzzy
-#| msgid "Bolívar"
 msgid "Bolívar Soberano"
-msgstr "Bolivar"
+msgstr "Venezuelanski bolivar"
 
 #. Name for VND
 msgid "Dong"
