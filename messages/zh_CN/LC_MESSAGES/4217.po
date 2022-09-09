@@ -12,14 +12,15 @@
 # Alastair McKinstry <mckinstry@debian.org>, 2002.
 # LI Daobing <lidaobing@gmail.com>, 2007-2008, 2010, 2019.
 # Boyuan Yang <073plan@gmail.com>, 2022.
+# yangyangdaji <1504305527@qq.com>, 2022.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_4217\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2022-06-01 15:01+0200\n"
-"PO-Revision-Date: 2022-06-02 18:17+0000\n"
-"Last-Translator: Boyuan Yang <073plan@gmail.com>\n"
+"PO-Revision-Date: 2022-08-14 19:19+0000\n"
+"Last-Translator: yangyangdaji <1504305527@qq.com>\n"
 "Language-Team: Chinese (Simplified) <https://hosted.weblate.org/projects/iso-"
 "codes/iso-4217/zh_Hans/>\n"
 "Language: zh_CN\n"
@@ -27,7 +28,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.13-dev\n"
+"X-Generator: Weblate 4.14-dev\n"
 
 #. Name for AED
 msgid "UAE Dirham"
@@ -107,7 +108,7 @@ msgstr "玻利维亚比索"
 
 #. Name for BOV
 msgid "Mvdol"
-msgstr ""
+msgstr "玻利维亚语"
 
 #. Name for BRL
 msgid "Brazilian Real"
@@ -142,24 +143,20 @@ msgid "Congolese Franc"
 msgstr "刚果法郎"
 
 #. Name for CHE
-#, fuzzy
-#| msgid "Euro"
 msgid "WIR Euro"
-msgstr "欧元"
+msgstr "WIR 欧元"
 
 #. Name for CHF
 msgid "Swiss Franc"
 msgstr "瑞士法郎"
 
 #. Name for CHW
-#, fuzzy
-#| msgid "Rwanda Franc"
 msgid "WIR Franc"
-msgstr "卢旺达法郎"
+msgstr "WIR 法郎"
 
 #. Name for CLF
 msgid "Unidad de Fomento"
-msgstr ""
+msgstr "智利比索"
 
 #. Name for CLP
 msgid "Chilean Peso"
@@ -175,7 +172,7 @@ msgstr "哥伦比亚比索"
 
 #. Name for COU
 msgid "Unidad de Valor Real"
-msgstr ""
+msgstr "以太坊"
 
 #. Name for CRC
 msgid "Costa Rican Colon"
@@ -258,8 +255,6 @@ msgid "Dalasi"
 msgstr "达拉西"
 
 #. Name for GNF
-#, fuzzy
-#| msgid "Guinea Franc"
 msgid "Guinean Franc"
 msgstr "几内亚法郎"
 
@@ -340,8 +335,6 @@ msgid "Riel"
 msgstr "瑞尔"
 
 #. Name for KMF
-#, fuzzy
-#| msgid "Comoro Franc"
 msgid "Comorian Franc"
 msgstr "科摩罗法郎"
 
@@ -367,7 +360,7 @@ msgstr "坚戈"
 
 #. Name for LAK
 msgid "Lao Kip"
-msgstr ""
+msgstr "老挝基普"
 
 #. Name for LBP
 msgid "Lebanese Pound"
@@ -439,7 +432,7 @@ msgstr "墨西哥比索"
 
 #. Name for MXV
 msgid "Mexican Unidad de Inversion (UDI)"
-msgstr ""
+msgstr "墨西哥(资金)"
 
 #. Name for MYR
 msgid "Malaysian Ringgit"
@@ -635,14 +628,12 @@ msgid "US Dollar"
 msgstr "美元"
 
 #. Name for USN
-#, fuzzy
-#| msgid "US Dollar"
 msgid "US Dollar (Next day)"
-msgstr "美元"
+msgstr "美元 （次日）"
 
 #. Name for UYI
 msgid "Uruguay Peso en Unidades Indexadas (UI)"
-msgstr ""
+msgstr "乌拉圭货币指数(UI)"
 
 #. Name for UYU
 msgid "Peso Uruguayo"
@@ -650,17 +641,15 @@ msgstr "乌拉圭比索"
 
 #. Name for UYW
 msgid "Unidad Previsional"
-msgstr ""
+msgstr "估计单位（UYW）"
 
 #. Name for UZS
 msgid "Uzbekistan Sum"
 msgstr "乌兹别克斯坦苏姆"
 
 #. Name for VED, Name for VES
-#, fuzzy
-#| msgid "Bolívar"
 msgid "Bolívar Soberano"
-msgstr "委内瑞拉玻利瓦尔A/18"
+msgstr "主权玻利瓦尔"
 
 #. Name for VND
 msgid "Dong"

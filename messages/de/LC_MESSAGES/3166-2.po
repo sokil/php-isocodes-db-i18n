@@ -12,21 +12,23 @@
 # Dr. Tobias Quathamer <toddy@debian.org>, 2012, 2016-2018, 2019, 2021.
 # J. Lavoie <j.lavoie@net-c.ca>, 2020.
 # Serge Karpesh <skarpiesz@gmail.com>, 2020.
+# Nathan Schimmoller <nschimmo@gmail.com>, 2022.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-2\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2022-06-01 15:01+0200\n"
-"PO-Revision-Date: 2021-08-27 15:02+0200\n"
-"Last-Translator: Dr. Tobias Quathamer <toddy@debian.org>\n"
-"Language-Team: German <debian-l10n-german@lists.debian.org>\n"
+"PO-Revision-Date: 2022-08-05 14:21+0000\n"
+"Last-Translator: Nathan Schimmoller <nschimmo@gmail.com>\n"
+"Language-Team: German <https://hosted.weblate.org/projects/iso-codes/"
+"iso-3166-2/de/>\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Lokalize 21.08.0\n"
+"X-Generator: Weblate 4.14-dev\n"
 
 #. Name for AD-02
 msgid "Canillo"
@@ -5833,10 +5835,8 @@ msgid "Enfield"
 msgstr "Enfield"
 
 #. Name for GB-ENG
-#, fuzzy
-#| msgid "Long Island"
 msgid "England"
-msgstr "Long Island"
+msgstr "England"
 
 #. Name for GB-ERW
 msgid "East Renfrewshire"
@@ -6095,10 +6095,8 @@ msgid "Nottingham"
 msgstr "Nottingham"
 
 #. Name for GB-NIR
-#, fuzzy
-#| msgid "New Ireland"
 msgid "Northern Ireland"
-msgstr "New Ireland"
+msgstr "Nordirland"
 
 #. Name for GB-NLK
 msgid "North Lanarkshire"
@@ -6229,10 +6227,8 @@ msgid "Scottish Borders"
 msgstr "Scottish Borders"
 
 #. Name for GB-SCT
-#, fuzzy
-#| msgid "Southland"
 msgid "Scotland"
-msgstr "Southland"
+msgstr "Schottland"
 
 #. Name for GB-SFK
 msgid "Suffolk"
@@ -6404,7 +6400,7 @@ msgstr "West Lothian"
 
 #. Name for GB-WLS
 msgid "Wales [Cymru GB-CYM]"
-msgstr ""
+msgstr "Wales"
 
 #. Name for GB-WLV
 msgid "Wolverhampton"

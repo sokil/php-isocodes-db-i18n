@@ -10,14 +10,15 @@
 # LI Daobing <lidaobing@gmail.com>, 2007-2008, 2019.
 # Boyuan Yang <073plan@gmail.com>, 2019, 2020, 2021.
 # tao wang <tonywang5@163.com>, 2020.
+# yangyangdaji <1504305527@qq.com>, 2022.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_639-3\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2022-07-25 22:15+0200\n"
-"PO-Revision-Date: 2021-08-27 18:09+0000\n"
-"Last-Translator: Boyuan Yang <073plan@gmail.com>\n"
+"PO-Revision-Date: 2022-08-14 19:19+0000\n"
+"Last-Translator: yangyangdaji <1504305527@qq.com>\n"
 "Language-Team: Chinese (Simplified) <https://hosted.weblate.org/projects/iso-"
 "codes/iso-639-3/zh_Hans/>\n"
 "Language: zh_CN\n"
@@ -25,7 +26,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.8.1-dev\n"
+"X-Generator: Weblate 4.14-dev\n"
 
 #. Name for aaa
 msgid "Ghotuo"
@@ -6029,7 +6030,7 @@ msgstr ""
 
 #. Name for ccp
 msgid "Chakma"
-msgstr ""
+msgstr "查克马语"
 
 #. Name for ccr
 msgid "Cacaopera"
