@@ -5,14 +5,14 @@
 # .
 # Copyright ©
 # Sveinn í Felli <sveinki@nett.is>, 2010-2011, 2015, 2017.
-# Sveinn í Felli <sv1@fellsnet.is>, 2020.
+# Sveinn í Felli <sv1@fellsnet.is>, 2020, 2022.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_4217\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2022-06-01 15:01+0200\n"
-"PO-Revision-Date: 2020-06-10 23:41+0000\n"
+"PO-Revision-Date: 2022-09-02 09:40+0000\n"
 "Last-Translator: Sveinn í Felli <sv1@fellsnet.is>\n"
 "Language-Team: Icelandic <https://hosted.weblate.org/projects/iso-codes/"
 "iso-4217/is/>\n"
@@ -21,7 +21,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.1-dev\n"
+"X-Generator: Weblate 4.14.1-dev\n"
 "X-Bugs: Report translation errors to the Language-Team address.\n"
 
 #. Name for AED
@@ -61,8 +61,6 @@ msgid "Aruban Florin"
 msgstr "Arúbínskt florin"
 
 #. Name for AZN
-#, fuzzy
-#| msgid "Azerbaijanian Manat"
 msgid "Azerbaijan Manat"
 msgstr "Aserbaídsjanskt manat"
 
@@ -104,7 +102,7 @@ msgstr "Boliviano"
 
 #. Name for BOV
 msgid "Mvdol"
-msgstr ""
+msgstr "Mvdol"
 
 #. Name for BRL
 msgid "Brazilian Real"
@@ -139,24 +137,20 @@ msgid "Congolese Franc"
 msgstr "Kongóskur franki"
 
 #. Name for CHE
-#, fuzzy
-#| msgid "Euro"
 msgid "WIR Euro"
-msgstr "Evra"
+msgstr "WIR-evra"
 
 #. Name for CHF
 msgid "Swiss Franc"
 msgstr "Svissneskur franki"
 
 #. Name for CHW
-#, fuzzy
-#| msgid "Rwanda Franc"
 msgid "WIR Franc"
-msgstr "Rúandafranki"
+msgstr "WIR-franki"
 
 #. Name for CLF
 msgid "Unidad de Fomento"
-msgstr ""
+msgstr "Síleönsk fjárfestingaeining (UF)"
 
 #. Name for CLP
 msgid "Chilean Peso"
@@ -255,8 +249,6 @@ msgid "Dalasi"
 msgstr "Dalasi"
 
 #. Name for GNF
-#, fuzzy
-#| msgid "Guinea Franc"
 msgid "Guinean Franc"
 msgstr "Gíneanskur franki"
 
@@ -337,8 +329,6 @@ msgid "Riel"
 msgstr "Riel"
 
 #. Name for KMF
-#, fuzzy
-#| msgid "Comoro Franc"
 msgid "Comorian Franc"
 msgstr "Kómorra franki"
 
@@ -364,7 +354,7 @@ msgstr "Tenge"
 
 #. Name for LAK
 msgid "Lao Kip"
-msgstr ""
+msgstr "Laóskt Kip"
 
 #. Name for LBP
 msgid "Lebanese Pound"
@@ -432,11 +422,11 @@ msgstr "Malavískt kwacha"
 
 #. Name for MXN
 msgid "Mexican Peso"
-msgstr "Mexíkanskur pesó"
+msgstr "Mexíkóskur pesó"
 
 #. Name for MXV
 msgid "Mexican Unidad de Inversion (UDI)"
-msgstr ""
+msgstr "Mexíkósk fjárfestingaeining (UDI)"
 
 #. Name for MYR
 msgid "Malaysian Ringgit"
@@ -631,10 +621,8 @@ msgid "US Dollar"
 msgstr "Bandarískur dollari"
 
 #. Name for USN
-#, fuzzy
-#| msgid "US Dollar"
 msgid "US Dollar (Next day)"
-msgstr "Bandarískur dollari"
+msgstr "Bandarískur dollari (næsta dags)"
 
 #. Name for UYI
 msgid "Uruguay Peso en Unidades Indexadas (UI)"
@@ -653,10 +641,8 @@ msgid "Uzbekistan Sum"
 msgstr "Úsbekistanskt sum"
 
 #. Name for VED, Name for VES
-#, fuzzy
-#| msgid "Bolívar"
 msgid "Bolívar Soberano"
-msgstr "Bólívar"
+msgstr "Bolívar Soberano"
 
 #. Name for VND
 msgid "Dong"

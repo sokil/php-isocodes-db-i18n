@@ -8,14 +8,15 @@
 # Alastair McKinstry <mckinstry@debian.org>, 2002.
 # Nilgün Belma Bugüner <nilgun@buguner.name.tr>, 2001-2007.
 # Oguz Ersen <oguzersen@protonmail.com>, 2019.
+# Oğuz Ersen <oguz@ersen.moe>, 2022.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_4217\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2022-06-01 15:01+0200\n"
-"PO-Revision-Date: 2019-09-30 13:57+0000\n"
-"Last-Translator: Oguz Ersen <oguzersen@protonmail.com>\n"
+"PO-Revision-Date: 2022-10-28 14:24+0000\n"
+"Last-Translator: Oğuz Ersen <oguz@ersen.moe>\n"
 "Language-Team: Turkish <https://hosted.weblate.org/projects/iso-codes/"
 "iso-4217/tr/>\n"
 "Language: tr\n"
@@ -23,7 +24,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.9-dev\n"
+"X-Generator: Weblate 4.14.2-dev\n"
 
 #. Name for AED
 msgid "UAE Dirham"
@@ -62,10 +63,8 @@ msgid "Aruban Florin"
 msgstr "Aruban Florini"
 
 #. Name for AZN
-#, fuzzy
-#| msgid "Azerbaijanian Manat"
 msgid "Azerbaijan Manat"
-msgstr "Azerbaycan Manat"
+msgstr "Azerbaycan Manatı"
 
 #. Name for BAM
 msgid "Convertible Mark"
@@ -256,8 +255,6 @@ msgid "Dalasi"
 msgstr "Dalasi"
 
 #. Name for GNF
-#, fuzzy
-#| msgid "Guinea Franc"
 msgid "Guinean Franc"
 msgstr "Gine Frangı"
 
@@ -338,10 +335,8 @@ msgid "Riel"
 msgstr "Riel"
 
 #. Name for KMF
-#, fuzzy
-#| msgid "Comoro Franc"
 msgid "Comorian Franc"
-msgstr "Komoro Frangı"
+msgstr "Komor Frangı"
 
 #. Name for KPW
 msgid "North Korean Won"
@@ -365,7 +360,7 @@ msgstr "Tenge"
 
 #. Name for LAK
 msgid "Lao Kip"
-msgstr ""
+msgstr "Lao Kipi"
 
 #. Name for LBP
 msgid "Lebanese Pound"
@@ -632,10 +627,8 @@ msgid "US Dollar"
 msgstr "Amerikan Doları"
 
 #. Name for USN
-#, fuzzy
-#| msgid "US Dollar"
 msgid "US Dollar (Next day)"
-msgstr "Amerikan Doları"
+msgstr "Amerikan Doları (Sonraki gün)"
 
 #. Name for UYI
 msgid "Uruguay Peso en Unidades Indexadas (UI)"
