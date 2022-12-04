@@ -22,7 +22,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2022-06-01 15:01+0200\n"
-"PO-Revision-Date: 2022-07-27 18:18+0000\n"
+"PO-Revision-Date: 2022-09-17 12:22+0000\n"
 "Last-Translator: Pander <pander@users.sourceforge.net>\n"
 "Language-Team: Dutch <https://hosted.weblate.org/projects/iso-codes/"
 "iso-3166-2/nl/>\n"
@@ -31,7 +31,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.14-dev\n"
+"X-Generator: Weblate 4.14.1-dev\n"
 "X-Bugs: Report translation errors to the Language-Team address.\n"
 
 #. Name for AD-02
@@ -4138,31 +4138,31 @@ msgstr "Zamora-Chinchipe"
 
 #. Name for EE-130
 msgid "Alutaguse"
-msgstr ""
+msgstr "Alutaguse"
 
 #. Name for EE-141
 msgid "Anija"
-msgstr ""
+msgstr "Anija"
 
 #. Name for EE-142
 msgid "Antsla"
-msgstr ""
+msgstr "Antsla"
 
 #. Name for EE-171
 msgid "Elva"
-msgstr ""
+msgstr "Elva"
 
 #. Name for EE-184
 msgid "Haapsalu"
-msgstr ""
+msgstr "Haapsalu"
 
 #. Name for EE-191
 msgid "Haljala"
-msgstr ""
+msgstr "Haljala"
 
 #. Name for EE-198
 msgid "Harku"
-msgstr ""
+msgstr "Harku"
 
 #. Name for EE-205, Name for EE-39
 msgid "Hiiumaa"
@@ -4170,79 +4170,71 @@ msgstr "Hiiumaa"
 
 #. Name for EE-214
 msgid "Häädemeeste"
-msgstr ""
+msgstr "Häädemeeste"
 
 #. Name for EE-245
 msgid "Jõelähtme"
-msgstr ""
+msgstr "Jõelähtme"
 
 #. Name for EE-247
-#, fuzzy
-#| msgid "Jõgevamaa"
 msgid "Jõgeva"
-msgstr "Jõgevamaa"
+msgstr "Jõgeva"
 
 #. Name for EE-251
 msgid "Jõhvi"
-msgstr ""
+msgstr "Jõhvi"
 
 #. Name for EE-255
-#, fuzzy
-#| msgid "Järvamaa"
 msgid "Järva"
-msgstr "Järvamaa"
+msgstr "Järva"
 
 #. Name for EE-272
-#, fuzzy
-#| msgid "Barinas"
 msgid "Kadrina"
-msgstr "Barinas"
+msgstr "Kadrina"
 
 #. Name for EE-283
 msgid "Kambja"
-msgstr ""
+msgstr "Kambja"
 
 #. Name for EE-284
 msgid "Kanepi"
-msgstr ""
+msgstr "Kanepi"
 
 #. Name for EE-291
-#, fuzzy
-#| msgid "Kastoria"
 msgid "Kastre"
-msgstr "Kastoria"
+msgstr "Kastre"
 
 #. Name for EE-293
 msgid "Kehtna"
-msgstr ""
+msgstr "Kehtna"
 
 #. Name for EE-296
 msgid "Keila"
-msgstr ""
+msgstr "Keila"
 
 #. Name for EE-303
 msgid "Kihnu"
-msgstr ""
+msgstr "Kihnu"
 
 #. Name for EE-305
 msgid "Kiili"
-msgstr ""
+msgstr "Kiili"
 
 #. Name for EE-317
 msgid "Kohila"
-msgstr ""
+msgstr "Kohila"
 
 #. Name for EE-321
 msgid "Kohtla-Järve"
-msgstr ""
+msgstr "Kohtla-Järve"
 
 #. Name for EE-338
 msgid "Kose"
-msgstr ""
+msgstr "Kose"
 
 #. Name for EE-353
 msgid "Kuusalu"
-msgstr ""
+msgstr "Kuusalu"
 
 #. Name for EE-37
 msgid "Harjumaa"
@@ -4250,39 +4242,31 @@ msgstr "Harjumaa"
 
 #. Name for EE-424
 msgid "Loksa"
-msgstr ""
+msgstr "Loksa"
 
 #. Name for EE-430
-#, fuzzy
-#| msgid "Läänemaa"
 msgid "Lääneranna"
-msgstr "Läänemaa"
+msgstr "Lääneranna"
 
 #. Name for EE-431
-#, fuzzy
-#| msgid "Lääne-Virumaa"
 msgid "Lääne-Harju"
-msgstr "Lääne-Virumaa"
+msgstr "Lääne-Harju"
 
 #. Name for EE-432
-#, fuzzy
-#| msgid "Punjab"
 msgid "Luunja"
-msgstr "Punjab"
+msgstr "Luunja"
 
 #. Name for EE-441
-#, fuzzy
-#| msgid "Lääne-Virumaa"
 msgid "Lääne-Nigula"
-msgstr "Lääne-Virumaa"
+msgstr "Lääne-Nigula"
 
 #. Name for EE-442
 msgid "Lüganuse"
-msgstr ""
+msgstr "Lüganuse"
 
 #. Name for EE-446
 msgid "Maardu"
-msgstr ""
+msgstr "Maardu"
 
 #. Name for EE-45
 msgid "Ida-Virumaa"
@@ -4290,33 +4274,31 @@ msgstr "Ida-Virumaa"
 
 #. Name for EE-478
 msgid "Muhu"
-msgstr ""
+msgstr "Muhu"
 
 #. Name for EE-480
 msgid "Mulgi"
-msgstr ""
+msgstr "Mulgi"
 
 #. Name for EE-486
 msgid "Mustvee"
-msgstr ""
+msgstr "Mustvee"
 
 #. Name for EE-50
 msgid "Jõgevamaa"
 msgstr "Jõgevamaa"
 
 #. Name for EE-503
-#, fuzzy
-#| msgid "Järvamaa"
 msgid "Märjamaa"
-msgstr "Järvamaa"
+msgstr "Märjamaa"
 
 #. Name for EE-511
 msgid "Narva"
-msgstr ""
+msgstr "Narva"
 
 #. Name for EE-514
 msgid "Narva-Jõesuu"
-msgstr ""
+msgstr "Narva-Jõesuu"
 
 #. Name for EE-52
 msgid "Järvamaa"
@@ -4324,11 +4306,11 @@ msgstr "Järvamaa"
 
 #. Name for EE-528
 msgid "Nõo"
-msgstr ""
+msgstr "Nõo"
 
 #. Name for EE-557
 msgid "Otepää"
-msgstr ""
+msgstr "Otepää"
 
 #. Name for EE-56
 msgid "Läänemaa"
@@ -4336,11 +4318,11 @@ msgstr "Läänemaa"
 
 #. Name for EE-567
 msgid "Paide"
-msgstr ""
+msgstr "Paide"
 
 #. Name for EE-586
 msgid "Peipsiääre"
-msgstr ""
+msgstr "Peipsiääre"
 
 #. Name for EE-60
 msgid "Lääne-Virumaa"
@@ -4348,31 +4330,23 @@ msgstr "Lääne-Virumaa"
 
 #. Name for EE-615
 msgid "Põhja-Sakala"
-msgstr ""
+msgstr "Põhja-Sakala"
 
 #. Name for EE-618
-#, fuzzy
-#| msgid "Põlvamaa"
 msgid "Põltsamaa"
-msgstr "Põlvamaa"
+msgstr "Põltsamaa"
 
 #. Name for EE-622
-#, fuzzy
-#| msgid "Põlvamaa"
 msgid "Põlva"
-msgstr "Põlvamaa"
+msgstr "Põlva"
 
 #. Name for EE-624
-#, fuzzy
-#| msgid "Pärnumaa"
 msgid "Pärnu"
-msgstr "Pärnumaa"
+msgstr "Pärnu"
 
 #. Name for EE-638
-#, fuzzy
-#| msgid "Pärnumaa"
 msgid "Põhja-Pärnumaa"
-msgstr "Pärnumaa"
+msgstr "Põhja-Pärnumaa"
 
 #. Name for EE-64
 msgid "Põlvamaa"
@@ -4380,23 +4354,19 @@ msgstr "Põlvamaa"
 
 #. Name for EE-651
 msgid "Raasiku"
-msgstr ""
+msgstr "Raasiku"
 
 #. Name for EE-653
-#, fuzzy
-#| msgid "Lae"
 msgid "Rae"
-msgstr "Lae"
+msgstr "Rae"
 
 #. Name for EE-661, Name for EE-663
 msgid "Rakvere"
-msgstr ""
+msgstr "Rakvere"
 
 #. Name for EE-668
-#, fuzzy
-#| msgid "Raplamaa"
 msgid "Rapla"
-msgstr "Raplamaa"
+msgstr "Rapla"
 
 #. Name for EE-68
 msgid "Pärnumaa"
@@ -4404,25 +4374,23 @@ msgstr "Pärnumaa"
 
 #. Name for EE-689
 msgid "Ruhnu"
-msgstr ""
+msgstr "Ruhnu"
 
 #. Name for EE-698
 msgid "Rõuge"
-msgstr ""
+msgstr "Rõuge"
 
 #. Name for EE-708
 msgid "Räpina"
-msgstr ""
+msgstr "Räpina"
 
 #. Name for EE-71
 msgid "Raplamaa"
 msgstr "Raplamaa"
 
 #. Name for EE-712
-#, fuzzy
-#| msgid "Saarland"
 msgid "Saarde"
-msgstr "Saarland"
+msgstr "Saarde"
 
 #. Name for EE-714, Name for EE-74
 msgid "Saaremaa"
@@ -4430,15 +4398,15 @@ msgstr "Saaremaa"
 
 #. Name for EE-719
 msgid "Saku"
-msgstr ""
+msgstr "Saku"
 
 #. Name for EE-726
 msgid "Saue"
-msgstr ""
+msgstr "Saue"
 
 #. Name for EE-732
 msgid "Setomaa"
-msgstr ""
+msgstr "Setomaa"
 
 #. Name for EE-735
 msgid "Sillamäe"
@@ -4446,7 +4414,7 @@ msgstr "Sillamäe"
 
 #. Name for EE-784
 msgid "Tallinn"
-msgstr ""
+msgstr "Tallinn"
 
 #. Name for EE-79
 msgid "Tartumaa"
@@ -4454,23 +4422,19 @@ msgstr "Tartumaa"
 
 #. Name for EE-792
 msgid "Tapa"
-msgstr ""
+msgstr "Tapa"
 
 #. Name for EE-793, Name for EE-796
-#, fuzzy
-#| msgid "Tartus"
 msgid "Tartu"
-msgstr "Tartus"
+msgstr "Tartu"
 
 #. Name for EE-803
 msgid "Toila"
-msgstr ""
+msgstr "Toila"
 
 #. Name for EE-809
-#, fuzzy
-#| msgid "Torino"
 msgid "Tori"
-msgstr "Turijn"
+msgstr "Tori"
 
 #. Name for EE-81
 msgid "Valgamaa"
@@ -4478,21 +4442,19 @@ msgstr "Valgamaa"
 
 #. Name for EE-824
 msgid "Tõrva"
-msgstr ""
+msgstr "Tõrva"
 
 #. Name for EE-834
 msgid "Türi"
-msgstr ""
+msgstr "Türi"
 
 #. Name for EE-84
 msgid "Viljandimaa"
 msgstr "Viljandimaa"
 
 #. Name for EE-855
-#, fuzzy
-#| msgid "Valgamaa"
 msgid "Valga"
-msgstr "Valgamaa"
+msgstr "Valga"
 
 #. Name for EE-87
 msgid "Võrumaa"
@@ -4500,35 +4462,31 @@ msgstr "Võrumaa"
 
 #. Name for EE-890
 msgid "Viimsi"
-msgstr ""
+msgstr "Viimsi"
 
 #. Name for EE-897, Name for EE-899
-#, fuzzy
-#| msgid "Viljandimaa"
 msgid "Viljandi"
-msgstr "Viljandimaa"
+msgstr "Viljandi"
 
 #. Name for EE-901
 msgid "Vinni"
-msgstr ""
+msgstr "Vinni"
 
 #. Name for EE-903
 msgid "Viru-Nigula"
-msgstr ""
+msgstr "Viru-Nigula"
 
 #. Name for EE-907
 msgid "Vormsi"
-msgstr ""
+msgstr "Vormsi"
 
 #. Name for EE-917, Name for EE-919
-#, fuzzy
-#| msgid "Võrumaa"
 msgid "Võru"
-msgstr "Võrumaa"
+msgstr "Võru"
 
 #. Name for EE-928
 msgid "Väike-Maarja"
-msgstr ""
+msgstr "Väike-Maarja"
 
 #. Name for EG-ALX
 msgid "Al Iskandarīyah"

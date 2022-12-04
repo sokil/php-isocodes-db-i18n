@@ -12,7 +12,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2022-06-01 15:01+0200\n"
-"PO-Revision-Date: 2022-08-07 07:18+0000\n"
+"PO-Revision-Date: 2022-10-24 07:37+0000\n"
 "Last-Translator: Temuri Doghonadze <temuri.doghonadze@gmail.com>\n"
 "Language-Team: Georgian <https://hosted.weblate.org/projects/iso-codes/"
 "iso-3166-2/ka/>\n"
@@ -21,7 +21,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.14-dev\n"
+"X-Generator: Weblate 4.14.2-dev\n"
 
 #. Name for AD-02
 msgid "Canillo"
@@ -65,7 +65,7 @@ msgstr ""
 
 #. Name for AE-FU
 msgid "Al Fujayrah"
-msgstr ""
+msgstr "ალ-ფუჯაირა"
 
 #. Name for AE-RK
 msgid "Ra’s al Khaymah"
@@ -217,7 +217,7 @@ msgstr ""
 
 #. Name for AG-03, Name for BB-03, Name for DM-04, Name for GD-03, Name for VC-04
 msgid "Saint George"
-msgstr ""
+msgstr "სენტ ჯორჯი"
 
 #. Name for AG-04, Name for BB-05, Name for DM-05, Name for GD-04, Name for MT-49
 msgid "Saint John"
@@ -897,7 +897,7 @@ msgstr "სენტ ჯეიმსი"
 
 #. Name for BB-06, Name for DM-06
 msgid "Saint Joseph"
-msgstr ""
+msgstr "სენტ-ჯოზეფი"
 
 #. Name for BB-07
 msgid "Saint Lucy"
@@ -1785,7 +1785,7 @@ msgstr "სეარა"
 
 #. Name for BR-DF
 msgid "Distrito Federal"
-msgstr ""
+msgstr "ფედერალური ოლქი"
 
 #. Name for BR-ES
 msgid "Espírito Santo"
@@ -2209,7 +2209,7 @@ msgstr "ახალი ბრუნსვიკი"
 
 #. Name for CA-NL
 msgid "Newfoundland and Labrador"
-msgstr ""
+msgstr "ნიუფაუნდლენდი და ლაბრადორი"
 
 #. Name for CA-NS
 msgid "Nova Scotia"
@@ -2433,7 +2433,7 @@ msgstr ""
 
 #. Name for CG-16
 msgid "Pointe-Noire"
-msgstr ""
+msgstr "პუენტ-ნუარი"
 
 #. Name for CG-2
 msgid "Lékoumou"
@@ -2521,7 +2521,7 @@ msgstr ""
 
 #. Name for CH-SG
 msgid "Sankt Gallen"
-msgstr ""
+msgstr "სანქტ-გალენი"
 
 #. Name for CH-SH
 msgid "Schaffhausen"
@@ -3141,7 +3141,7 @@ msgstr ""
 
 #. Name for CV-SV
 msgid "São Vicente"
-msgstr ""
+msgstr "სან-ვისენტი"
 
 #. Name for CV-TA
 msgid "Tarrafal"
@@ -3937,7 +3937,7 @@ msgstr ""
 
 #. Name for DZ-29
 msgid "Mascara"
-msgstr ""
+msgstr "მასკარა"
 
 #. Name for DZ-30
 msgid "Ouargla"
@@ -4845,7 +4845,7 @@ msgstr "ადის აბება"
 
 #. Name for ET-AF
 msgid "Afar"
-msgstr ""
+msgstr "აფარი"
 
 #. Name for ET-AM
 msgid "Amara"
@@ -5753,7 +5753,7 @@ msgstr ""
 
 #. Name for GB-DAL
 msgid "Darlington"
-msgstr ""
+msgstr "დარლინგტონი"
 
 #. Name for GB-DBY
 msgid "Derbyshire"
@@ -5829,7 +5829,7 @@ msgstr "ენფილდი"
 
 #. Name for GB-ENG
 msgid "England"
-msgstr ""
+msgstr "ინგლისი"
 
 #. Name for GB-ERW
 msgid "East Renfrewshire"
@@ -6017,7 +6017,7 @@ msgstr ""
 
 #. Name for GB-LUT
 msgid "Luton"
-msgstr ""
+msgstr "ლუტონი"
 
 #. Name for GB-MAN, Name for JM-12
 msgid "Manchester"
@@ -7733,7 +7733,7 @@ msgstr ""
 
 #. Name for IN-OR
 msgid "Odisha"
-msgstr ""
+msgstr "ოდიშა"
 
 #. Name for IN-PB, Name for PK-PB
 msgid "Punjab"
@@ -7741,7 +7741,7 @@ msgstr "პუნჯაბი"
 
 #. Name for IN-PY
 msgid "Puducherry"
-msgstr ""
+msgstr "პონდიშერი"
 
 #. Name for IN-RJ
 msgid "Rājasthān"
@@ -8321,7 +8321,7 @@ msgstr "ლიგურია"
 
 #. Name for IT-45
 msgid "Emilia-Romagna"
-msgstr ""
+msgstr "ემილია რომანა"
 
 #. Name for IT-52
 msgid "Toscana"
@@ -8509,7 +8509,7 @@ msgstr ""
 
 #. Name for IT-FM
 msgid "Fermo"
-msgstr ""
+msgstr "ფერმო"
 
 #. Name for IT-FR
 msgid "Frosinone"
@@ -8673,7 +8673,7 @@ msgstr ""
 
 #. Name for IT-RE
 msgid "Reggio Emilia"
-msgstr ""
+msgstr "რეჯო ემილია"
 
 #. Name for IT-RG
 msgid "Ragusa"
@@ -11221,7 +11221,7 @@ msgstr ""
 
 #. Name for MA-NAD
 msgid "Nador"
-msgstr ""
+msgstr "ნადორი"
 
 #. Name for MA-NOU
 msgid "Nouaceur"
@@ -11561,7 +11561,7 @@ msgstr ""
 
 #. Name for ME-02
 msgid "Bar"
-msgstr ""
+msgstr "ზოლი"
 
 #. Name for ME-03
 msgid "Berane"
@@ -11629,7 +11629,7 @@ msgstr ""
 
 #. Name for ME-19
 msgid "Tivat"
-msgstr ""
+msgstr "ტივატი"
 
 #. Name for ME-20
 msgid "Ulcinj"
@@ -11657,7 +11657,7 @@ msgstr "ტუამასინა"
 
 #. Name for MG-D
 msgid "Antsiranana"
-msgstr ""
+msgstr "ანცირანანა"
 
 #. Name for MG-F
 msgid "Fianarantsoa"
@@ -11665,7 +11665,7 @@ msgstr ""
 
 #. Name for MG-M
 msgid "Mahajanga"
-msgstr ""
+msgstr "მაჰაძანგა"
 
 #. Name for MG-T
 msgid "Antananarivo"
@@ -11881,7 +11881,7 @@ msgstr ""
 
 #. Name for MK-310
 msgid "Ohrid"
-msgstr ""
+msgstr "ოჰრიდი"
 
 #. Name for MK-311
 msgid "Plasnica"
@@ -12385,7 +12385,7 @@ msgstr ""
 
 #. Name for MT-10
 msgid "Fontana"
-msgstr ""
+msgstr "ფონტანა"
 
 #. Name for MT-11
 msgid "Gudja"
@@ -12445,7 +12445,7 @@ msgstr ""
 
 #. Name for MT-25
 msgid "Luqa"
-msgstr ""
+msgstr "ლუქა"
 
 #. Name for MT-26
 msgid "Marsa"
@@ -13009,7 +13009,7 @@ msgstr "კელანტანი"
 
 #. Name for MY-04
 msgid "Melaka"
-msgstr ""
+msgstr "მელაკა"
 
 #. Name for MY-05
 msgid "Negeri Sembilan"
@@ -13181,7 +13181,7 @@ msgstr ""
 
 #. Name for NE-7
 msgid "Zinder"
-msgstr ""
+msgstr "ზინდერი"
 
 #. Name for NE-8
 msgid "Niamey"
@@ -13313,7 +13313,7 @@ msgstr ""
 
 #. Name for NG-RI
 msgid "Rivers"
-msgstr ""
+msgstr "მდინარეები"
 
 #. Name for NG-SO
 msgid "Sokoto"
@@ -14485,11 +14485,11 @@ msgstr ""
 
 #. Name for PS-KYS
 msgid "Khan Yunis"
-msgstr ""
+msgstr "ხან-იუნისი"
 
 #. Name for PS-NBS
 msgid "Nablus"
-msgstr ""
+msgstr "ნაბლუსი"
 
 #. Name for PS-NGZ
 msgid "North Gaza"
@@ -14501,11 +14501,11 @@ msgstr ""
 
 #. Name for PS-RBH
 msgid "Ramallah"
-msgstr ""
+msgstr "რამალა"
 
 #. Name for PS-RFH
 msgid "Rafah"
-msgstr ""
+msgstr "რაფახი"
 
 #. Name for PS-SLT
 msgid "Salfit"
@@ -14621,7 +14621,7 @@ msgstr ""
 
 #. Name for PW-150
 msgid "Koror"
-msgstr ""
+msgstr "კორორი"
 
 #. Name for PW-212
 msgid "Melekeok"
@@ -16709,11 +16709,11 @@ msgstr ""
 
 #. Name for SN-SL
 msgid "Saint-Louis"
-msgstr ""
+msgstr "სენ-ლუი"
 
 #. Name for SN-TC
 msgid "Tambacounda"
-msgstr ""
+msgstr "ტამბაკუნდა"
 
 #. Name for SN-TH
 msgid "Thiès"
@@ -16953,7 +16953,7 @@ msgstr ""
 
 #. Name for SY-DY
 msgid "Dayr az Zawr"
-msgstr ""
+msgstr "დაირ-ელ-ზავრი"
 
 #. Name for SY-HA
 msgid "Al Ḩasakah"
@@ -17549,7 +17549,7 @@ msgstr ""
 
 #. Name for TN-23
 msgid "Bizerte"
-msgstr ""
+msgstr "ბიზერტა"
 
 #. Name for TN-31
 msgid "Béja"
@@ -17557,7 +17557,7 @@ msgstr ""
 
 #. Name for TN-32
 msgid "Jendouba"
-msgstr ""
+msgstr "ჯენდუბა"
 
 #. Name for TN-33
 msgid "Le Kef"
@@ -17585,7 +17585,7 @@ msgstr "სუსი"
 
 #. Name for TN-52
 msgid "Monastir"
-msgstr ""
+msgstr "მონასტირი"
 
 #. Name for TN-53
 msgid "Mahdia"
@@ -17597,7 +17597,7 @@ msgstr "სფაქსი"
 
 #. Name for TN-71
 msgid "Gafsa"
-msgstr ""
+msgstr "გაფსა"
 
 #. Name for TN-72
 msgid "Tozeur"
@@ -18081,7 +18081,7 @@ msgstr ""
 
 #. Name for TW-KHH
 msgid "Kaohsiung"
-msgstr ""
+msgstr "გაოსიუნი"
 
 #. Name for TW-KIN
 msgid "Kinmen"
@@ -18113,7 +18113,7 @@ msgstr ""
 
 #. Name for TW-TAO
 msgid "Taoyuan"
-msgstr ""
+msgstr "ტაოიუანი"
 
 #. Name for TW-TNN
 msgid "Tainan"
@@ -18137,7 +18137,7 @@ msgstr ""
 
 #. Name for TZ-01
 msgid "Arusha"
-msgstr ""
+msgstr "არუშა"
 
 #. Name for TZ-02
 msgid "Dar es Salaam"
@@ -18149,7 +18149,7 @@ msgstr "დოდომა"
 
 #. Name for TZ-04
 msgid "Iringa"
-msgstr ""
+msgstr "ირინგა"
 
 #. Name for TZ-05
 msgid "Kagera"
@@ -18165,7 +18165,7 @@ msgstr ""
 
 #. Name for TZ-08
 msgid "Kigoma"
-msgstr ""
+msgstr "კიგომა"
 
 #. Name for TZ-09
 msgid "Kilimanjaro"
@@ -18225,7 +18225,7 @@ msgstr ""
 
 #. Name for TZ-24
 msgid "Tabora"
-msgstr ""
+msgstr "ტაბორა"
 
 #. Name for TZ-25
 msgid "Tanga"
@@ -18637,7 +18637,7 @@ msgstr ""
 
 #. Name for UG-307
 msgid "Lira"
-msgstr ""
+msgstr "ლირა"
 
 #. Name for UG-308
 msgid "Moroto"
@@ -18749,7 +18749,7 @@ msgstr ""
 
 #. Name for UG-335
 msgid "Karenga"
-msgstr ""
+msgstr "კარენგა"
 
 #. Name for UG-336
 msgid "Madi-Okollo"
@@ -18773,7 +18773,7 @@ msgstr ""
 
 #. Name for UG-404
 msgid "Kabale"
-msgstr ""
+msgstr "კაბალე"
 
 #. Name for UG-405
 msgid "Kabarole"
@@ -18969,7 +18969,7 @@ msgstr "კონეკტიკუტი"
 
 #. Name for US-DC
 msgid "District of Columbia"
-msgstr ""
+msgstr "კოლუმბიის ოლქი"
 
 #. Name for US-DE
 msgid "Delaware"
@@ -19133,7 +19133,7 @@ msgstr "ვირჯინია"
 
 #. Name for US-VI
 msgid "Virgin Islands, U.S."
-msgstr ""
+msgstr "ვირჯინიის კუნძულები, აშშ."
 
 #. Name for US-VT
 msgid "Vermont"
