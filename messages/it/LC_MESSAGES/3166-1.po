@@ -11,22 +11,24 @@
 # Davide Viti <zinosat@tiscali.it>, 2006.
 # Milo Casagrande <milo@milo.name>, 2008-2013, 2017.
 # Sebastiano Pistore <SebastianoPistore.info@protonmail.ch>, 2018-2019.
+# Luigi Toscano <luigi.toscano@tiscali.it>, 2022.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-1\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2022-09-01 22:53+0200\n"
-"PO-Revision-Date: 2020-05-05 17:25+0200\n"
-"Last-Translator: Sebastiano Pistore <SebastianoPistore.info@protonmail.ch>\n"
-"Language-Team: Italian <tp@lists.linux.it>\n"
+"PO-Revision-Date: 2022-12-10 18:48+0000\n"
+"Last-Translator: Luigi Toscano <luigi.toscano@tiscali.it>\n"
+"Language-Team: Italian <https://hosted.weblate.org/projects/iso-codes/"
+"iso-3166-1/it/>\n"
 "Language: it\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.15-dev\n"
 "X-Bugs: Report translation errors to the Language-Team address.\n"
-"Plural-Forms: nplurals=2; plural=(n!=1);\n"
-"X-Generator: Poedit 2.3\n"
 
 #. Name for ABW
 msgid "Aruba"
@@ -841,10 +843,8 @@ msgid "Korea, Republic of"
 msgstr "Corea del sud"
 
 #. Common name for KOR
-#, fuzzy
-#| msgid "South Africa"
 msgid "South Korea"
-msgstr "Sudafrica"
+msgstr "Corea del Sud"
 
 #. Name for KWT
 msgid "Kuwait"
@@ -1266,10 +1266,8 @@ msgid "Democratic People's Republic of Korea"
 msgstr "Repubblica democratica popolare di Corea"
 
 #. Common name for PRK
-#, fuzzy
-#| msgid "North Macedonia"
 msgid "North Korea"
-msgstr "Macedonia del Nord"
+msgstr "Corea del Nord"
 
 #. Name for PRT
 msgid "Portugal"

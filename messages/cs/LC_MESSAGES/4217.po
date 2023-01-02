@@ -7,14 +7,14 @@
 # Alastair McKinstry <mckinstry@debian.org>, 2002.
 # Miroslav Kure <kurem@debian.cz>, 2004-2008.
 # Marek Černocký <marek@manet.cz>, 2011.
-# Miroslav Kure <kurem@upcase.inf.upol.cz>, 2019.
+# Miroslav Kure <kurem@upcase.inf.upol.cz>, 2019, 2022.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_4217\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2022-06-01 15:01+0200\n"
-"PO-Revision-Date: 2019-04-02 16:04+0000\n"
+"PO-Revision-Date: 2022-12-10 18:48+0000\n"
 "Last-Translator: Miroslav Kure <kurem@upcase.inf.upol.cz>\n"
 "Language-Team: Czech <https://hosted.weblate.org/projects/iso-codes/iso-4217/"
 "cs/>\n"
@@ -23,7 +23,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Weblate 3.6-dev\n"
+"X-Generator: Weblate 4.15-dev\n"
 
 #. Name for AED
 msgid "UAE Dirham"
@@ -62,8 +62,6 @@ msgid "Aruban Florin"
 msgstr "Arubský florin"
 
 #. Name for AZN
-#, fuzzy
-#| msgid "Azerbaijanian Manat"
 msgid "Azerbaijan Manat"
 msgstr "Ázerbajdžánský manat"
 
@@ -140,20 +138,16 @@ msgid "Congolese Franc"
 msgstr "Konžský frank"
 
 #. Name for CHE
-#, fuzzy
-#| msgid "Euro"
 msgid "WIR Euro"
-msgstr "Euro"
+msgstr "WIR euro"
 
 #. Name for CHF
 msgid "Swiss Franc"
 msgstr "Švýcarský frank"
 
 #. Name for CHW
-#, fuzzy
-#| msgid "Rwanda Franc"
 msgid "WIR Franc"
-msgstr "Rwandský frank"
+msgstr "WIR frank"
 
 #. Name for CLF
 msgid "Unidad de Fomento"
@@ -256,8 +250,6 @@ msgid "Dalasi"
 msgstr "Dalasi"
 
 #. Name for GNF
-#, fuzzy
-#| msgid "Guinea Franc"
 msgid "Guinean Franc"
 msgstr "Guinejský frank"
 
@@ -338,8 +330,6 @@ msgid "Riel"
 msgstr "Riel"
 
 #. Name for KMF
-#, fuzzy
-#| msgid "Comoro Franc"
 msgid "Comorian Franc"
 msgstr "Komorský frank"
 
@@ -365,7 +355,7 @@ msgstr "Tenge"
 
 #. Name for LAK
 msgid "Lao Kip"
-msgstr ""
+msgstr "Laoský kip"
 
 #. Name for LBP
 msgid "Lebanese Pound"
@@ -632,10 +622,8 @@ msgid "US Dollar"
 msgstr "Americký dolar"
 
 #. Name for USN
-#, fuzzy
-#| msgid "US Dollar"
 msgid "US Dollar (Next day)"
-msgstr "Americký dolar"
+msgstr "Americký dolar (příští den)"
 
 #. Name for UYI
 msgid "Uruguay Peso en Unidades Indexadas (UI)"
