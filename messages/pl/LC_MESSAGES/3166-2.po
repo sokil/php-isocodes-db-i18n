@@ -7,7 +7,7 @@
 # Copyright ©
 # Jacek Stolarczyk <jacek@mer.chemia.polsl.gliwice.pl>
 # Alastair McKinstry <mckinstry@debian.org>, 2002.
-# Jakub Bogusz <qboosh@pld-linux.org>, 2009-2017, 2018, 2019, 2020, 2022.
+# Jakub Bogusz <qboosh@pld-linux.org>, 2009-2017, 2018, 2019, 2020, 2022, 2023.
 # Szylu <chipolade@gmail.com>, 2020.
 msgid ""
 msgstr ""
@@ -15,7 +15,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2022-06-01 15:01+0200\n"
-"PO-Revision-Date: 2022-09-09 19:20+0000\n"
+"PO-Revision-Date: 2023-01-20 19:59+0000\n"
 "Last-Translator: Jakub Bogusz <qboosh@pld-linux.org>\n"
 "Language-Team: Polish <https://hosted.weblate.org/projects/iso-codes/"
 "iso-3166-2/pl/>\n"
@@ -25,7 +25,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.14.1-dev\n"
+"X-Generator: Weblate 4.15.1\n"
 "X-Bugs: Report translation errors to the Language-Team address.\n"
 
 #. Name for AD-02
@@ -9313,20 +9313,16 @@ msgid "Issyk-Kul'skaja oblast'"
 msgstr "obwód issykkulski"
 
 #. Name for KH-1
-#, fuzzy
-#| msgid "Banteay Mean Chey"
 msgid "Banteay Mean Choăy"
-msgstr "Banteay Mean Cheay"
+msgstr "Bântéay Méanchey"
 
 #. Name for KH-10
-#, fuzzy
-#| msgid "Krachoh"
 msgid "Kracheh"
-msgstr "Krachen"
+msgstr "Krâchéh"
 
 #. Name for KH-11
 msgid "Mondol Kiri"
-msgstr "Mondol Kiri"
+msgstr "Môndôl Kiri"
 
 #. Name for KH-12
 msgid "Phnom Penh"
@@ -9334,23 +9330,23 @@ msgstr "Phnom Penh"
 
 #. Name for KH-13
 msgid "Preah Vihear"
-msgstr "Preah Vihear"
+msgstr "Preăh Vĭhéar"
 
 #. Name for KH-14
 msgid "Prey Veaeng"
-msgstr "Prey Veng"
+msgstr "Prey Vêng"
 
 #. Name for KH-15
 msgid "Pousaat"
-msgstr "Pouthisat"
+msgstr "Poŭrsăt"
 
 #. Name for KH-16
 msgid "Rotanak Kiri"
-msgstr "Rotanah Kiri"
+msgstr "Rôttanak Kiri"
 
 #. Name for KH-17
 msgid "Siem Reab"
-msgstr "Siem Reap"
+msgstr "Siĕm Réab"
 
 #. Name for KH-18
 #, fuzzy

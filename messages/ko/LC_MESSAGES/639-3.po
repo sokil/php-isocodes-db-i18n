@@ -9,14 +9,16 @@
 # Alastair McKinstry <mckinstry@debian.org>, 2001.
 # Eungkyu Song <eungkyu@sparcs.org>, 2001.
 # Shinjo Park <peremen@gmail.com>, 2020.
+# 이정희 <daemul72@gmail.com>, 2023.
+# Changwoo Ryu <cwryu@debian.org>, 2023.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_639-3\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2022-07-25 22:15+0200\n"
-"PO-Revision-Date: 2020-04-26 14:35+0000\n"
-"Last-Translator: Shinjo Park <peremen@gmail.com>\n"
+"PO-Revision-Date: 2023-02-03 13:39+0000\n"
+"Last-Translator: Changwoo Ryu <cwryu@debian.org>\n"
 "Language-Team: Korean <https://hosted.weblate.org/projects/iso-codes/"
 "iso-639-3/ko/>\n"
 "Language: ko\n"
@@ -24,83 +26,79 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.0.2-dev\n"
+"X-Generator: Weblate 4.16-dev\n"
 
 #. Name for aaa
 msgid "Ghotuo"
-msgstr ""
+msgstr "고투오어"
 
 #. Name for aab
 msgid "Alumu-Tesu"
-msgstr ""
+msgstr "알루무테수어"
 
 #. Name for aac
-#, fuzzy
 msgid "Ari"
-msgstr "아라비아어"
+msgstr "아리어"
 
 #. Name for aad
 msgid "Amal"
-msgstr ""
+msgstr "아말어"
 
 #. Name for aae
 msgid "Arbëreshë Albanian"
-msgstr ""
+msgstr "아르버레셔 알바니아어"
 
 #. Inverted name for aae
 msgid "Albanian, Arbëreshë"
-msgstr ""
+msgstr "알바니아, 아르버레셔"
 
 #. Name for aaf
-#, fuzzy
 msgid "Aranadan"
-msgstr "우크라이나어"
+msgstr "아라나단어"
 
 #. Name for aag
-#, fuzzy
 msgid "Ambrak"
-msgstr "아라비아어"
+msgstr "앰브락어"
 
 #. Name for aah
 msgid "Abu' Arapesh"
-msgstr ""
+msgstr "아부아라페시어"
 
 #. Inverted name for aah
 msgid "Arapesh, Abu'"
-msgstr ""
+msgstr "아라페시어, 아부"
 
 #. Name for aai
 msgid "Arifama-Miniafia"
-msgstr ""
+msgstr "아리파마-미니아피아어"
 
 #. Name for aak
-#, fuzzy
 msgid "Ankave"
-msgstr "아프리칸스어"
+msgstr "앙카베어"
 
 #. Name for aal
 msgid "Afade"
-msgstr ""
+msgstr "아파데어"
 
 #. Name for aan
 msgid "Anambé"
-msgstr ""
+msgstr "아남베"
 
 #. Name for aao
 msgid "Algerian Saharan Arabic"
-msgstr ""
+msgstr "알제리 사하라어족 아랍어"
 
 #. Inverted name for aao
 msgid "Arabic, Algerian Saharan"
-msgstr ""
+msgstr "아랍어, 알제리 사하라어족"
 
 #. Name for aap
 msgid "Pará Arára"
-msgstr ""
+msgstr "파라 아라라"
 
 #. Inverted name for aap
 msgid "Arára, Pará"
-msgstr ""
+msgstr "아라라, 파라"
 
 #. Name for aaq
 msgid "Eastern Abnaki"
@@ -10456,7 +10454,7 @@ msgstr ""
 
 #. Name for gcc
 msgid "Mali"
-msgstr "말리"
+msgstr "말리어"
 
 #. Name for gcd
 #, fuzzy
@@ -22487,7 +22485,7 @@ msgstr ""
 
 #. Name for nau
 msgid "Nauru"
-msgstr "나우루"
+msgstr "나우루어"
 
 #. Name for nav
 msgid "Navajo"
@@ -23951,9 +23949,8 @@ msgid "Ngete"
 msgstr ""
 
 #. Name for nno
-#, fuzzy
 msgid "Norwegian Nynorsk"
-msgstr "노르웨이어"
+msgstr "노르웨이 뉘노르스크어"
 
 #. Name for nnp
 msgid "Wancho Naga"
@@ -24005,18 +24002,16 @@ msgid "Woun Meu"
 msgstr ""
 
 #. Name for nob
-#, fuzzy
 msgid "Norwegian Bokmål"
-msgstr "노르웨이어"
+msgstr "노르웨이 부크몰어"
 
 #. Name for noc
 msgid "Nuk"
 msgstr ""
 
 #. Name for nod
-#, fuzzy
 msgid "Northern Thai"
-msgstr "한국어"
+msgstr "북부 태국어"
 
 #. Inverted name for nod
 msgid "Thai, Northern"
@@ -33878,7 +33873,7 @@ msgstr ""
 
 #. Name for tvl
 msgid "Tuvalu"
-msgstr "투발루"
+msgstr "투발루어"
 
 #. Name for tvm
 msgid "Tela-Masbuar"

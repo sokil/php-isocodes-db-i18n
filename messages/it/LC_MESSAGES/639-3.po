@@ -11,14 +11,15 @@
 # Milo Casagrande <milo@milo.name>, 2008-2014.
 # Fabio Tomat <f.t.public@gmail.com>, 2020.
 # Matteo Concato <matteo.concato@interplanet.it>, 2022.
+# Luigi Toscano <luigi.toscano@tiscali.it>, 2022.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_639-3\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2022-07-25 22:15+0200\n"
-"PO-Revision-Date: 2022-01-10 10:56+0000\n"
-"Last-Translator: Matteo Concato <matteo.concato@interplanet.it>\n"
+"PO-Revision-Date: 2022-12-10 18:48+0000\n"
+"Last-Translator: Luigi Toscano <luigi.toscano@tiscali.it>\n"
 "Language-Team: Italian <https://hosted.weblate.org/projects/iso-codes/"
 "iso-639-3/it/>\n"
 "Language: it\n"
@@ -26,7 +27,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.10.1\n"
+"X-Generator: Weblate 4.15-dev\n"
 
 #. Name for aaa
 msgid "Ghotuo"
@@ -915,10 +916,8 @@ msgid "Ali"
 msgstr "Ali"
 
 #. Name for aja
-#, fuzzy
-#| msgid "Aja (Sudan)"
 msgid "Aja (South Sudan)"
-msgstr "Aja (Sudan)"
+msgstr "Aja (Sudan del Sud)"
 
 #. Name for ajg
 msgid "Aja (Benin)"
@@ -2843,20 +2842,16 @@ msgid "Bonggi"
 msgstr "Bonggi"
 
 #. Name for bdh
-#, fuzzy
-#| msgid "Baka (Sudan)"
 msgid "Baka (South Sudan)"
-msgstr "Baka (Sudan)"
+msgstr "Baka (Sudan del Sud)"
 
 #. Name for bdi
 msgid "Burun"
 msgstr "Burun"
 
 #. Name for bdj
-#, fuzzy
-#| msgid "Beli (Sudan)"
 msgid "Bai (South Sudan)"
-msgstr "Beli (Sudan)"
+msgstr "Beli (Sudan del Sud)"
 
 #. Name for bdk
 msgid "Budukh"
@@ -3747,10 +3742,8 @@ msgid "Biloxi"
 msgstr "Biloxi"
 
 #. Name for blm
-#, fuzzy
-#| msgid "Beli (Sudan)"
 msgid "Beli (South Sudan)"
-msgstr "Beli (Sudan)"
+msgstr "Beli (Sudan del Sud)"
 
 #. Name for bln
 msgid "Southern Catanduanes Bikol"
@@ -6268,7 +6261,7 @@ msgstr "Ho-chunk"
 
 #. Name for cnr
 msgid "Montenegrin"
-msgstr ""
+msgstr "Montenegrino"
 
 #. Name for cns
 msgid "Central Asmat"

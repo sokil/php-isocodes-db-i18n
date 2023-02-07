@@ -17,15 +17,16 @@
 # Leandro Noferini <lnoferin@cybervalley.org>
 # Alastair McKinstry <mckinstry@debian.org>, 2002.
 # Luca Ferretti <elle.uca@libero.it>, 2007-2009.
-# Sebastiano Pistore <sebastianopistore.info@protonmail.ch>, 2017.
+# Sebastiano Pistore <sebastianopistore.info@protonmail.ch>, 2017-2022.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_4217\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2022-06-01 15:01+0200\n"
-"PO-Revision-Date: 2017-06-09 12:36+0200\n"
-"Last-Translator: Sebastiano Pistore <sebastianopistore.info@protonmail.ch>\n"
+"PO-Revision-Date: 2023-01-01 20:04+0100\n"
+"Last-Translator: Sebastiano Pistore <SebastianoPistore.info@protonmail."
+"ch>\n"
 "Language-Team: Italian <tp@lists.linux.it>\n"
 "Language: it\n"
 "MIME-Version: 1.0\n"
@@ -33,7 +34,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Bugs: Report translation errors to the Language-Team address.\n"
 "Date: 2000-03-28 23:16:00+0200\n"
-"X-Generator: Poedit 2.0.2\n"
+"X-Generator: Poedit 3.2.2\n"
 
 #. Name for AED
 msgid "UAE Dirham"
@@ -72,10 +73,8 @@ msgid "Aruban Florin"
 msgstr "Fiorino di Aruba"
 
 #. Name for AZN
-#, fuzzy
-#| msgid "Azerbaijanian Manat"
 msgid "Azerbaijan Manat"
-msgstr "Manat"
+msgstr "Manat azero"
 
 #. Name for BAM
 msgid "Convertible Mark"
@@ -150,20 +149,16 @@ msgid "Congolese Franc"
 msgstr "Franco congolese"
 
 #. Name for CHE
-#, fuzzy
-#| msgid "Euro"
 msgid "WIR Euro"
-msgstr "Euro"
+msgstr "Euro WIR"
 
 #. Name for CHF
 msgid "Swiss Franc"
 msgstr "Franco svizzero"
 
 #. Name for CHW
-#, fuzzy
-#| msgid "Rwanda Franc"
 msgid "WIR Franc"
-msgstr "Franco ruandese"
+msgstr "Franco WIR"
 
 #. Name for CLF
 msgid "Unidad de Fomento"
@@ -266,8 +261,6 @@ msgid "Dalasi"
 msgstr "Dalasi"
 
 #. Name for GNF
-#, fuzzy
-#| msgid "Guinea Franc"
 msgid "Guinean Franc"
 msgstr "Franco guineano"
 
@@ -348,8 +341,6 @@ msgid "Riel"
 msgstr "Riel"
 
 #. Name for KMF
-#, fuzzy
-#| msgid "Comoro Franc"
 msgid "Comorian Franc"
 msgstr "Franco delle Comore"
 
@@ -669,10 +660,8 @@ msgstr "Sum"
 
 # wikipedia
 #. Name for VED, Name for VES
-#, fuzzy
-#| msgid "Bolívar"
 msgid "Bolívar Soberano"
-msgstr "Bolívar"
+msgstr "Bolívar venezuelano sovrano"
 
 #. Name for VND
 msgid "Dong"
