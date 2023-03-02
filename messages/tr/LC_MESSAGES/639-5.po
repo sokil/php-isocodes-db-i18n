@@ -7,14 +7,15 @@
 # Copyright ©
 # EminUZUN <eminuzunn@gmail.com>, 2022.
 # Oğuz Ersen <oguz@ersen.moe>, 2022.
+# Emir <bitigchi@me.com>, 2023.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_639-5\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2018-01-17 22:10+0100\n"
-"PO-Revision-Date: 2022-10-29 19:02+0000\n"
-"Last-Translator: Oğuz Ersen <oguz@ersen.moe>\n"
+"PO-Revision-Date: 2023-02-13 21:36+0000\n"
+"Last-Translator: Emir <bitigchi@me.com>\n"
 "Language-Team: Turkish <https://hosted.weblate.org/projects/iso-codes/"
 "iso-639-5/tr/>\n"
 "Language: tr\n"
@@ -22,67 +23,67 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.14.2-dev\n"
+"X-Generator: Weblate 4.16-dev\n"
 
 #. Name for aav
 msgid "Austro-Asiatic languages"
-msgstr ""
+msgstr "Avustralya-Asya dilleri"
 
 #. Name for afa
 msgid "Afro-Asiatic languages"
-msgstr ""
+msgstr "Afrika-Asya dilleri"
 
 #. Name for alg
 msgid "Algonquian languages"
-msgstr ""
+msgstr "Algonkin dilleri"
 
 #. Name for alv
 msgid "Atlantic-Congo languages"
-msgstr ""
+msgstr "Atlas-Kongo dilleri"
 
 #. Name for apa
 msgid "Apache languages"
-msgstr ""
+msgstr "Apaçi dilleri"
 
 #. Name for aqa
 msgid "Alacalufan languages"
-msgstr ""
+msgstr "Alakalufan dilleri"
 
 #. Name for aql
 msgid "Algic languages"
-msgstr ""
+msgstr "Algonkin-Yurok dilleri"
 
 #. Name for art
 msgid "Artificial languages"
-msgstr ""
+msgstr "Yapay diller"
 
 #. Name for ath
 msgid "Athapascan languages"
-msgstr ""
+msgstr "Atabask dilleri"
 
 #. Name for auf
 msgid "Arauan languages"
-msgstr ""
+msgstr "Arauan dilleri"
 
 #. Name for aus
 msgid "Australian languages"
-msgstr ""
+msgstr "Avustralya dilleri"
 
 #. Name for awd
 msgid "Arawakan languages"
-msgstr ""
+msgstr "Aravak dilleri"
 
 #. Name for azc
 msgid "Uto-Aztecan languages"
-msgstr ""
+msgstr "Uto-Aztek dilleri"
 
 #. Name for bad
 msgid "Banda languages"
-msgstr ""
+msgstr "Banda dilleri"
 
 #. Name for bai
 msgid "Bamileke languages"
-msgstr ""
+msgstr "Bamileke dilleri"
 
 #. Name for bat
 msgid "Baltic languages"
@@ -94,19 +95,19 @@ msgstr "Berberi dilleri"
 
 #. Name for bih
 msgid "Bihari languages"
-msgstr ""
+msgstr "Bihari dilleri"
 
 #. Name for bnt
 msgid "Bantu languages"
-msgstr ""
+msgstr "Bantu dilleri"
 
 #. Name for btk
 msgid "Batak languages"
-msgstr ""
+msgstr "Batak dilleri"
 
 #. Name for cai
 msgid "Central American Indian languages"
-msgstr "Orta Amerika Kızıldereli dilleri"
+msgstr "Orta Amerika Kızılderili dilleri"
 
 #. Name for cau
 msgid "Caucasian languages"
@@ -114,7 +115,7 @@ msgstr "Kafkas dilleri"
 
 #. Name for cba
 msgid "Chibchan languages"
-msgstr ""
+msgstr "Çibçan dilleri"
 
 #. Name for ccn
 msgid "North Caucasian languages"
@@ -130,7 +131,7 @@ msgstr "Çad dilleri"
 
 #. Name for cdd
 msgid "Caddoan languages"
-msgstr ""
+msgstr "Kado dilleri"
 
 #. Name for cel
 msgid "Celtic languages"
@@ -138,43 +139,43 @@ msgstr "Kelt dilleri"
 
 #. Name for cmc
 msgid "Chamic languages"
-msgstr ""
+msgstr "Çam dilleri"
 
 #. Name for cpe
 msgid "Creoles and pidgins, English‑based"
-msgstr ""
+msgstr "İngilizce tabanlı kırma ve karma diller"
 
 #. Name for cpf
 msgid "Creoles and pidgins, French‑based"
-msgstr ""
+msgstr "Fransızca tabanlı kırma ve karma diller"
 
 #. Name for cpp
 msgid "Creoles and pidgins, Portuguese-based"
-msgstr ""
+msgstr "Portekizce tabanlı kırma ve karma diller"
 
 #. Name for crp
 msgid "Creoles and pidgins"
-msgstr ""
+msgstr "Kırma ve karma diller"
 
 #. Name for csu
 msgid "Central Sudanic languages"
-msgstr ""
+msgstr "Orta Sudan dilleri"
 
 #. Name for cus
 msgid "Cushitic languages"
-msgstr ""
+msgstr "Kuşit dilleri"
 
 #. Name for day
 msgid "Land Dayak languages"
-msgstr ""
+msgstr "Dayak dilleri"
 
 #. Name for dmn
 msgid "Mande languages"
-msgstr ""
+msgstr "Mande dilleri"
 
 #. Name for dra
 msgid "Dravidian languages"
-msgstr ""
+msgstr "Dravid dilleri"
 
 #. Name for egx
 msgid "Egyptian languages"
@@ -190,11 +191,11 @@ msgstr "Baskça (aile)"
 
 #. Name for fiu
 msgid "Finno-Ugrian languages"
-msgstr ""
+msgstr "Fin-Ugor dilleri"
 
 #. Name for fox
 msgid "Formosan languages"
-msgstr ""
+msgstr "Formosa dilleri"
 
 #. Name for gem
 msgid "Germanic languages"
@@ -218,11 +219,11 @@ msgstr "Yunan dilleri"
 
 #. Name for hmx
 msgid "Hmong-Mien languages"
-msgstr ""
+msgstr "Hmong-Mien dilleri"
 
 #. Name for hok
 msgid "Hokan languages"
-msgstr ""
+msgstr "Hokan dilleri"
 
 #. Name for hyx
 msgid "Armenian (family)"
@@ -234,7 +235,7 @@ msgstr "Hint-İran dilleri"
 
 #. Name for ijo
 msgid "Ijo languages"
-msgstr ""
+msgstr "İco dilleri"
 
 #. Name for inc
 msgid "Indic languages"
@@ -250,11 +251,11 @@ msgstr "İran dilleri"
 
 #. Name for iro
 msgid "Iroquoian languages"
-msgstr ""
+msgstr "İrokua dilleri"
 
 #. Name for itc
 msgid "Italic languages"
-msgstr ""
+msgstr "İtalik diller"
 
 #. Name for jpx
 msgid "Japanese (family)"
@@ -262,35 +263,35 @@ msgstr "Japonca (aile)"
 
 #. Name for kar
 msgid "Karen languages"
-msgstr ""
+msgstr "Karen dilleri"
 
 #. Name for kdo
 msgid "Kordofanian languages"
-msgstr ""
+msgstr "Kordofan dilleri"
 
 #. Name for khi
 msgid "Khoisan languages"
-msgstr ""
+msgstr "Hoisan dilleri"
 
 #. Name for kro
 msgid "Kru languages"
-msgstr ""
+msgstr "Kru dilleri"
 
 #. Name for map
 msgid "Austronesian languages"
-msgstr ""
+msgstr "Avustronezya dilleri"
 
 #. Name for mkh
 msgid "Mon-Khmer languages"
-msgstr ""
+msgstr "Mon-Kmer dilleri"
 
 #. Name for mno
 msgid "Manobo languages"
-msgstr ""
+msgstr "Manobo dilleri"
 
 #. Name for mun
 msgid "Munda languages"
-msgstr ""
+msgstr "Munda dilleri"
 
 #. Name for myn
 msgid "Mayan languages"
@@ -298,7 +299,7 @@ msgstr "Maya dilleri"
 
 #. Name for nah
 msgid "Nahuatl languages"
-msgstr ""
+msgstr "Aztek dilleri"
 
 #. Name for nai
 msgid "North American Indian languages"
@@ -306,27 +307,27 @@ msgstr "Kuzey Amerika Kızılderili dilleri"
 
 #. Name for ngf
 msgid "Trans-New Guinea languages"
-msgstr ""
+msgstr "Trans Yeni Gine dilleri"
 
 #. Name for nic
 msgid "Niger-Kordofanian languages"
-msgstr ""
+msgstr "Nijer-Kordofan dilleri"
 
 #. Name for nub
 msgid "Nubian languages"
-msgstr ""
+msgstr "Nubi diller"
 
 #. Name for omq
 msgid "Oto-Manguean languages"
-msgstr ""
+msgstr "Oto-Mange dilleri"
 
 #. Name for omv
 msgid "Omotic languages"
-msgstr ""
+msgstr "Omot dilleri"
 
 #. Name for oto
 msgid "Otomian languages"
-msgstr ""
+msgstr "Oto-Pame dilleri"
 
 #. Name for paa
 msgid "Papuan languages"
@@ -354,11 +355,11 @@ msgstr "Batı Malayo-Polinezya dilleri"
 
 #. Name for pra
 msgid "Prakrit languages"
-msgstr ""
+msgstr "Prakrit dilleri"
 
 #. Name for qwe
 msgid "Quechuan (family)"
-msgstr ""
+msgstr "Keçuvaca (aile)"
 
 #. Name for roa
 msgid "Romance languages"
@@ -370,15 +371,15 @@ msgstr "Güney Amerika Kızılderili dilleri"
 
 #. Name for sal
 msgid "Salishan languages"
-msgstr ""
+msgstr "Saliş dilleri"
 
 #. Name for sdv
 msgid "Eastern Sudanic languages"
-msgstr ""
+msgstr "Doğu Sudan dilleri"
 
 #. Name for sem
 msgid "Semitic languages"
-msgstr ""
+msgstr "Sami dilleri"
 
 #. Name for sgn
 msgid "sign languages"
@@ -386,7 +387,7 @@ msgstr "işaret dilleri"
 
 #. Name for sio
 msgid "Siouan languages"
-msgstr ""
+msgstr "Siyu dilleri"
 
 #. Name for sit
 msgid "Sino-Tibetan languages"
@@ -402,7 +403,7 @@ msgstr "Laponca (aile)"
 
 #. Name for son
 msgid "Songhai languages"
-msgstr ""
+msgstr "Songay dilleri"
 
 #. Name for sqj
 msgid "Albanian languages"
@@ -414,7 +415,7 @@ msgstr "Nil-Sahra dilleri"
 
 #. Name for syd
 msgid "Samoyedic languages"
-msgstr ""
+msgstr "Samoyed dilleri"
 
 #. Name for tai
 msgid "Tai languages"
@@ -422,7 +423,7 @@ msgstr "Tay dilleri"
 
 #. Name for tbq
 msgid "Tibeto-Burman languages"
-msgstr ""
+msgstr "Tibet-Burma dilleri"
 
 #. Name for trk
 msgid "Turkic languages"
@@ -430,7 +431,7 @@ msgstr "Türk dilleri"
 
 #. Name for tup
 msgid "Tupi languages"
-msgstr ""
+msgstr "Tupi dilleri"
 
 #. Name for tut
 msgid "Altaic languages"
@@ -438,7 +439,7 @@ msgstr "Altay dilleri"
 
 #. Name for tuw
 msgid "Tungus languages"
-msgstr ""
+msgstr "Tunguz dilleri"
 
 #. Name for urj
 msgid "Uralic languages"
@@ -446,11 +447,11 @@ msgstr "Ural dilleri"
 
 #. Name for wak
 msgid "Wakashan languages"
-msgstr ""
+msgstr "Vakaş dilleri"
 
 #. Name for wen
 msgid "Sorbian languages"
-msgstr ""
+msgstr "Sorb dilleri"
 
 #. Name for xgn
 msgid "Mongolian languages"
@@ -458,11 +459,11 @@ msgstr "Moğol dilleri"
 
 #. Name for xnd
 msgid "Na-Dene languages"
-msgstr ""
+msgstr "Na-Dene dilleri"
 
 #. Name for ypk
 msgid "Yupik languages"
-msgstr ""
+msgstr "Yupik dilleri"
 
 #. Name for zhx
 msgid "Chinese (family)"
@@ -482,4 +483,4 @@ msgstr "Batı Slav dilleri"
 
 #. Name for znd
 msgid "Zande languages"
-msgstr ""
+msgstr "Zande dilleri"

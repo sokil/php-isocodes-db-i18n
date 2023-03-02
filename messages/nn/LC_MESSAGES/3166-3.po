@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: nn\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2018-01-17 22:10+0100\n"
+"POT-Creation-Date: 2023-02-24 21:26+0100\n"
 "PO-Revision-Date: 2013-02-12 13:17+0100\n"
 "Last-Translator: Haavard Korsvoll\n"
 "Language-Team: Norwegian Nynorsk <i18n-nn@lister.ping.uio.no>\n"
@@ -139,7 +139,9 @@ msgid "Yemen, Democratic, People's Democratic Republic of"
 msgstr "Den demokratiske folkerepublikken Jemen"
 
 #. Name for YUCS
-msgid "Yugoslavia, Socialist Federal Republic of"
+#, fuzzy
+#| msgid "Yugoslavia, Socialist Federal Republic of"
+msgid "Yugoslavia, (Socialist) Federal Republic of"
 msgstr "Den sosialistiske føderale republikken Jugoslavia"
 
 #. Name for ZRCD

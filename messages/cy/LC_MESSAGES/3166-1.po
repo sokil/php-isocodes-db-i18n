@@ -13,7 +13,7 @@ msgstr ""
 "Project-Id-Version: iso_3166-1\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2022-09-01 22:53+0200\n"
+"POT-Creation-Date: 2023-02-24 21:26+0100\n"
 "PO-Revision-Date: 2019-04-19 13:34+0000\n"
 "Last-Translator: Aled Powell <aled@aledpowell.cymru>\n"
 "Language-Team: Welsh <https://hosted.weblate.org/projects/iso-codes/"
@@ -726,6 +726,10 @@ msgstr "Iran, Gweriniaeth Islamaidd"
 msgid "Islamic Republic of Iran"
 msgstr "Gweriniaeth Islamaidd Iran"
 
+#. Common name for IRN
+msgid "Iran"
+msgstr ""
+
 #. Name for IRQ
 msgid "Iraq"
 msgstr "Irac"
@@ -843,6 +847,10 @@ msgstr "Talaith Coweit"
 #. Name for LAO
 msgid "Lao People's Democratic Republic"
 msgstr "Gweriniaeth Ddemocrataidd y Bobl Lao"
+
+#. Common name for LAO
+msgid "Laos"
+msgstr ""
 
 #. Name for LBN
 msgid "Lebanon"
@@ -1469,6 +1477,10 @@ msgstr "Gweriniaeth y Seychelles"
 #. Name for SYR
 msgid "Syrian Arab Republic"
 msgstr "Gweriniaeth Arabaidd Syria"
+
+#. Common name for SYR
+msgid "Syria"
+msgstr ""
 
 #. Name for TCA
 msgid "Turks and Caicos Islands"

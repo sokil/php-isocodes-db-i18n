@@ -7,19 +7,23 @@
 # Copyright ©
 # Alastair McKinstry <mckinstry@debian.org>, 2004.
 # Aiet Kolkhi <aietkolkhi@gmail.com>, 2008.
+# Temuri Doghonadze <temuri.doghonadze@gmail.com>, 2023.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-3\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2018-01-17 22:10+0100\n"
-"PO-Revision-Date: 2008-09-09 23:36+0400\n"
-"Last-Translator: Aiet Kolkhi <aietkolkhi@gmail.com>\n"
-"Language-Team: Georgian\n"
+"POT-Creation-Date: 2023-02-24 21:26+0100\n"
+"PO-Revision-Date: 2023-02-26 15:37+0000\n"
+"Last-Translator: Temuri Doghonadze <temuri.doghonadze@gmail.com>\n"
+"Language-Team: Georgian <https://hosted.weblate.org/projects/iso-codes/"
+"iso-3166-3/ka/>\n"
 "Language: ka\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.16-dev\n"
 
 #. Name for AIDJ
 msgid "French Afars and Issas"
@@ -138,8 +142,8 @@ msgid "Yemen, Democratic, People's Democratic Republic of"
 msgstr "იემენი, სახალხო დემოკრატიული რესპუბლიკა"
 
 #. Name for YUCS
-msgid "Yugoslavia, Socialist Federal Republic of"
-msgstr "იუგოსლავიის სოციალისტური ფედერალური რესპუბლიკა"
+msgid "Yugoslavia, (Socialist) Federal Republic of"
+msgstr "იუგოსლავიის (სოციალისტური) ფედერალური რესპუბლიკა"
 
 #. Name for ZRCD
 msgid "Zaire, Republic of"
