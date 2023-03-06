@@ -4,14 +4,14 @@
 # This file is distributed under the same license as the iso-codes package.
 #
 # Copyright ©
-# Temuri Doghonadze <temuri.doghonadze@gmail.com>, 2022.
+# Temuri Doghonadze <temuri.doghonadze@gmail.com>, 2022, 2023.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_4217\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2022-06-01 15:01+0200\n"
-"PO-Revision-Date: 2022-08-07 07:18+0000\n"
+"PO-Revision-Date: 2023-02-26 15:37+0000\n"
 "Last-Translator: Temuri Doghonadze <temuri.doghonadze@gmail.com>\n"
 "Language-Team: Georgian <https://hosted.weblate.org/projects/iso-codes/"
 "iso-4217/ka/>\n"
@@ -20,7 +20,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.14-dev\n"
+"X-Generator: Weblate 4.16-dev\n"
 
 #. Name for AED
 msgid "UAE Dirham"
@@ -632,7 +632,7 @@ msgstr "ურუგვაული პესო"
 
 #. Name for UYW
 msgid "Unidad Previsional"
-msgstr ""
+msgstr "ურუგვაის სავალუტო ფონდი"
 
 #. Name for UZS
 msgid "Uzbekistan Sum"
@@ -668,11 +668,11 @@ msgstr "ოქრო"
 
 #. Name for XBA
 msgid "Bond Markets Unit European Composite Unit (EURCO)"
-msgstr ""
+msgstr "ევროპული ობლიგაციების ბაზრის შედგენილი ერთეული (EURCO)"
 
 #. Name for XBB
 msgid "Bond Markets Unit European Monetary Unit (E.M.U.-6)"
-msgstr ""
+msgstr "ობლიგაციების ბაზრის ევროპული სავალუტო ერთეული (E.M.U.-6)"
 
 #. Name for XBC
 msgid "Bond Markets Unit European Unit of Account 9 (E.U.A.-9)"

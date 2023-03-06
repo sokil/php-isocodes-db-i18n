@@ -8,14 +8,15 @@
 # Serdar Sağlam <teknomobil@msn.com>, 2019.
 # Oguz Ersen <oguzersen@protonmail.com>, 2019.
 # Oğuz Ersen <oguzersen@protonmail.com>, 2020.
+# Emir <bitigchi@me.com>, 2023.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_15924\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2018-01-17 22:10+0100\n"
-"PO-Revision-Date: 2020-05-16 21:23+0000\n"
-"Last-Translator: Oğuz Ersen <oguzersen@protonmail.com>\n"
+"PO-Revision-Date: 2023-02-13 21:36+0000\n"
+"Last-Translator: Emir <bitigchi@me.com>\n"
 "Language-Team: Turkish <https://hosted.weblate.org/projects/iso-codes/"
 "iso-15924/tr/>\n"
 "Language: tr\n"
@@ -23,7 +24,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.1-dev\n"
+"X-Generator: Weblate 4.16-dev\n"
 
 #. Name for Adlm
 msgid "Adlam"
@@ -47,7 +48,7 @@ msgstr "Arapça"
 
 #. Name for Aran
 msgid "Arabic (Nastaliq variant)"
-msgstr "Nastaliq Arapça"
+msgstr "Nastalik Arapça"
 
 #. Name for Armi
 msgid "Imperial Aramaic"
@@ -63,7 +64,7 @@ msgstr "Avestçe"
 
 #. Name for Bali
 msgid "Balinese"
-msgstr "Balinese"
+msgstr "Balice"
 
 #. Name for Bamu
 msgid "Bamum"
@@ -83,7 +84,7 @@ msgstr "Bengalce"
 
 #. Name for Bhks
 msgid "Bhaiksuki"
-msgstr "Bhaiksuki"
+msgstr "Baiksuki"
 
 #. Name for Blis
 msgid "Blissymbols"
@@ -111,7 +112,7 @@ msgstr "Buhid"
 
 #. Name for Cakm
 msgid "Chakma"
-msgstr "Chakma"
+msgstr "Çakma"
 
 #. Name for Cans
 msgid "Unified Canadian Aboriginal Syllabics"
@@ -123,7 +124,7 @@ msgstr "Karya dili"
 
 #. Name for Cham
 msgid "Cham"
-msgstr "Cham"
+msgstr "Çam dili"
 
 #. Name for Cher
 msgid "Cherokee"
@@ -131,7 +132,7 @@ msgstr "Çerokice"
 
 #. Name for Cirt
 msgid "Cirth"
-msgstr "Cirth"
+msgstr "Kirt"
 
 #. Name for Copt
 msgid "Coptic"
@@ -183,7 +184,7 @@ msgstr "Etiyopyaca (Geʻez)"
 
 #. Name for Geok
 msgid "Khutsuri (Asomtavruli and Nuskhuri)"
-msgstr "Khutsuri (Asomtavruli ve Nuskhuri)"
+msgstr "Hutsuri (Asomtavruli ve Nushuri)"
 
 #. Name for Geor
 msgid "Georgian (Mkhedruli)"
@@ -215,7 +216,7 @@ msgstr "Gurmukhi"
 
 #. Name for Hanb
 msgid "Han with Bopomofo (alias for Han + Bopomofo)"
-msgstr "Bopomofo ile Han (Han + Bopomofo'nun diğer ismi)"
+msgstr "Bopomofo ile Han (Han + Bopomofo'nun diğer adı)"
 
 #. Name for Hang
 msgid "Hangul (Hangŭl, Hangeul)"
@@ -259,7 +260,7 @@ msgstr "Pahawh Hmong"
 
 #. Name for Hrkt
 msgid "Japanese syllabaries (alias for Hiragana + Katakana)"
-msgstr "Japon heceleri (Hiragana + Katakana'nın diğer ismi)"
+msgstr "Japon heceleri (Hiragana + Katakana'nın diğer adı)"
 
 #. Name for Hung
 msgid "Old Hungarian (Hungarian Runic)"
@@ -275,15 +276,15 @@ msgstr "Eski İtalik (Etrüsk, Oscan, vb.)"
 
 #. Name for Jamo
 msgid "Jamo (alias for Jamo subset of Hangul)"
-msgstr "Jamo (Hangul'un Jamo alt kümesinin diğer ismi)"
+msgstr "Jamo (Hangul'un Jamo alt kümesinin diğer adı)"
 
 #. Name for Java
 msgid "Javanese"
-msgstr "Cava dili"
+msgstr "Java dili"
 
 #. Name for Jpan
 msgid "Japanese (alias for Han + Hiragana + Katakana)"
-msgstr "Japonca (Han + Hiragana + Katakana'nın diğer ismi)"
+msgstr "Japonca (Han + Hiragana + Katakana'nın diğer adı)"
 
 #. Name for Jurc
 msgid "Jurchen"
@@ -299,11 +300,11 @@ msgstr "Katakana"
 
 #. Name for Khar
 msgid "Kharoshthi"
-msgstr "Kharoshthi"
+msgstr "Karoşti"
 
 #. Name for Khmr
 msgid "Khmer"
-msgstr "Khmer"
+msgstr "Kmer"
 
 #. Name for Khoj
 msgid "Khojki"
@@ -311,11 +312,11 @@ msgstr "Khojki"
 
 #. Name for Kitl
 msgid "Khitan large script"
-msgstr "Khitan büyük alfabe"
+msgstr "Kitan büyük alfabe"
 
 #. Name for Kits
 msgid "Khitan small script"
-msgstr "Khitan küçük alfabe"
+msgstr "Kitan küçük alfabe"
 
 #. Name for Knda
 msgid "Kannada"
@@ -331,7 +332,7 @@ msgstr "Kpelle"
 
 #. Name for Kthi
 msgid "Kaithi"
-msgstr "Kaithi"
+msgstr "Kaiti"
 
 #. Name for Lana
 msgid "Tai Tham (Lanna)"
@@ -367,11 +368,11 @@ msgstr "Limbu"
 
 #. Name for Lina
 msgid "Linear A"
-msgstr "Linear A"
+msgstr "Doğrusal A"
 
 #. Name for Linb
 msgid "Linear B"
-msgstr "Lineer B"
+msgstr "Doğrusal B"
 
 #. Name for Lisu
 msgid "Lisu (Fraser)"
@@ -403,7 +404,7 @@ msgstr "Manişeist"
 
 #. Name for Marc
 msgid "Marchen"
-msgstr "Marchen"
+msgstr "Marçen"
 
 #. Name for Maya
 msgid "Mayan hieroglyphs"
@@ -451,15 +452,15 @@ msgstr "Multani"
 
 #. Name for Mymr
 msgid "Myanmar (Burmese)"
-msgstr "Myanmar (Birman)"
+msgstr "Myanmar (Burma)"
 
 #. Name for Narb
 msgid "Old North Arabian (Ancient North Arabian)"
-msgstr "Eski Kuzey Arapça"
+msgstr "Eski Kuzey Arapçası"
 
 #. Name for Nbat
 msgid "Nabataean"
-msgstr "Nabatça"
+msgstr "Nebatice"
 
 #. Name for Newa
 msgid "Newa, Newar, Newari, Nepāla lipi"
@@ -475,11 +476,11 @@ msgstr "N’Ko"
 
 #. Name for Nshu
 msgid "Nüshu"
-msgstr "Nüshu"
+msgstr "Nüşu"
 
 #. Name for Ogam
 msgid "Ogham"
-msgstr "Ogham"
+msgstr "Oğam"
 
 #. Name for Olck
 msgid "Ol Chiki (Ol Cemet’, Ol, Santali)"
@@ -499,7 +500,7 @@ msgstr "Osage"
 
 #. Name for Osma
 msgid "Osmanya"
-msgstr "Osmanya"
+msgstr "Osmanyaca"
 
 #. Name for Palm
 msgid "Palmyrene"
@@ -547,11 +548,11 @@ msgstr "Parthian Yazıt alfabesi"
 
 #. Name for Qaaa
 msgid "Reserved for private use (start)"
-msgstr "Özel kullanım için reserve (başlangıç)"
+msgstr "Özel kullanım için rezerve (başlangıç)"
 
 #. Name for Qabx
 msgid "Reserved for private use (end)"
-msgstr "Özel kullanım için reserve (son)"
+msgstr "Özel kullanım için rezerve (son)"
 
 #. Name for Rjng
 msgid "Rejang (Redjang, Kaganga)"
@@ -567,7 +568,7 @@ msgstr "Runik"
 
 #. Name for Samr
 msgid "Samaritan"
-msgstr "Samaritan"
+msgstr "Samiri İbranicesi"
 
 #. Name for Sara
 msgid "Sarati"
@@ -579,7 +580,7 @@ msgstr "Eski Güney Arapça"
 
 #. Name for Saur
 msgid "Saurashtra"
-msgstr "Saurashtra"
+msgstr "Sauraştra"
 
 #. Name for Sgnw
 msgid "SignWriting"
@@ -587,7 +588,7 @@ msgstr "İşaret Dili Yazımı"
 
 #. Name for Shaw
 msgid "Shavian (Shaw)"
-msgstr "Shavian (Shaw)"
+msgstr "Şavi (Şou)"
 
 #. Name for Shrd
 msgid "Sharada, Śāradā"
@@ -599,7 +600,7 @@ msgstr "Siddham, Siddhaṃ, Siddhamātṛkā"
 
 #. Name for Sind
 msgid "Khudawadi, Sindhi"
-msgstr "Khudawadi, Sindhi"
+msgstr "Hüdavadi, Sindhi"
 
 #. Name for Sinh
 msgid "Sinhala"
@@ -703,15 +704,15 @@ msgstr "Vai"
 
 #. Name for Visp
 msgid "Visible Speech"
-msgstr "Konuşma Sesleri Çizimlemesi"
+msgstr "Görünür Konuşma"
 
 #. Name for Wara
 msgid "Warang Citi (Varang Kshiti)"
-msgstr "Warang Citi (Varang Kshiti)"
+msgstr "Varang Şiti (Varang Kşiti)"
 
 #. Name for Wole
 msgid "Woleai"
-msgstr "Woleai"
+msgstr "Voleai"
 
 #. Name for Xpeo
 msgid "Old Persian"
@@ -719,7 +720,7 @@ msgstr "Eski Farsça"
 
 #. Name for Xsux
 msgid "Cuneiform, Sumero-Akkadian"
-msgstr "Cuneiform, Sumero-Akkadian"
+msgstr "Sümer-Akad Çivi Yazısı"
 
 #. Name for Yiii
 msgid "Yi"

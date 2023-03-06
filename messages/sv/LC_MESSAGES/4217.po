@@ -9,7 +9,7 @@
 # Richard Hult <rhult@codefactory.se>, 1999-2001.
 # Alastair McKinstry <mckinstry@debian.org>, 2002.
 # Christian Rose <menthos@menthos.com>, 2000-2001, 2006.
-# Anders Jonsson <anders.jonsson@norsjovallen.se>, 2015, 2017, 2022.
+# Anders Jonsson <anders.jonsson@norsjovallen.se>, 2015, 2017, 2022, 2023.
 # Allan Nordhøy <epost@anotheragency.no>, 2018.
 msgid ""
 msgstr ""
@@ -17,7 +17,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2022-06-01 15:01+0200\n"
-"PO-Revision-Date: 2022-06-02 18:17+0000\n"
+"PO-Revision-Date: 2023-02-26 15:37+0000\n"
 "Last-Translator: Anders Jonsson <anders.jonsson@norsjovallen.se>\n"
 "Language-Team: Swedish <https://hosted.weblate.org/projects/iso-codes/"
 "iso-4217/sv/>\n"
@@ -26,7 +26,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.13-dev\n"
+"X-Generator: Weblate 4.16-dev\n"
 "X-Bugs: Report translation errors to the Language-Team address.\n"
 
 #. Name for AED
@@ -66,8 +66,6 @@ msgid "Aruban Florin"
 msgstr "Arubanska floriner"
 
 #. Name for AZN
-#, fuzzy
-#| msgid "Azerbaijanian Manat"
 msgid "Azerbaijan Manat"
 msgstr "Azerbajdzjanska manat"
 
@@ -145,20 +143,16 @@ msgid "Congolese Franc"
 msgstr "Kongolesiska franc"
 
 #. Name for CHE
-#, fuzzy
-#| msgid "Euro"
 msgid "WIR Euro"
-msgstr "Euro"
+msgstr "WIR-euro"
 
 #. Name for CHF
 msgid "Swiss Franc"
 msgstr "Schweizerfranc"
 
 #. Name for CHW
-#, fuzzy
-#| msgid "Rwanda Franc"
 msgid "WIR Franc"
-msgstr "Rwandiska franc"
+msgstr "WIR-franc"
 
 #. Name for CLF
 msgid "Unidad de Fomento"
@@ -261,10 +255,8 @@ msgid "Dalasi"
 msgstr "Dalasi"
 
 #. Name for GNF
-#, fuzzy
-#| msgid "Guinea Franc"
 msgid "Guinean Franc"
-msgstr "Guineanska franc"
+msgstr "Guinesisk franc"
 
 #. Name for GTQ
 msgid "Quetzal"
@@ -343,10 +335,8 @@ msgid "Riel"
 msgstr "Riel"
 
 #. Name for KMF
-#, fuzzy
-#| msgid "Comoro Franc"
 msgid "Comorian Franc"
-msgstr "Komorosfranc"
+msgstr "Komorisk franc"
 
 #. Name for KPW
 msgid "North Korean Won"
@@ -370,7 +360,7 @@ msgstr "Tenge"
 
 #. Name for LAK
 msgid "Lao Kip"
-msgstr ""
+msgstr "Laotisk kip"
 
 #. Name for LBP
 msgid "Lebanese Pound"
@@ -637,10 +627,8 @@ msgid "US Dollar"
 msgstr "USA-dollar"
 
 #. Name for USN
-#, fuzzy
-#| msgid "US Dollar"
 msgid "US Dollar (Next day)"
-msgstr "USA-dollar"
+msgstr "USA-dollar (dagen efter)"
 
 #. Name for UYI
 msgid "Uruguay Peso en Unidades Indexadas (UI)"
@@ -659,10 +647,8 @@ msgid "Uzbekistan Sum"
 msgstr "Uzbekiska sum"
 
 #. Name for VED, Name for VES
-#, fuzzy
-#| msgid "Bolívar"
 msgid "Bolívar Soberano"
-msgstr "Bolívar"
+msgstr "Bolívar Soberano"
 
 #. Name for VND
 msgid "Dong"

@@ -19,7 +19,7 @@
 # Wolfgang Rohdewald <wolfgang@rohdewald.de>, 2005.
 # Daniel Schury <Daniel.Schury@physik.uni-giessen.de>, 2012.
 # Hendrik Knackstedt <hendrik.knackstedt@t-online.de>, 2012.
-# Dr. Tobias Quathamer <toddy@debian.org>, 2019.
+# Dr. Tobias Quathamer <toddy@debian.org>, 2019-2023.
 # ssantos <ssantos@web.de>, 2019.
 # J. Lavoie <j.lavoie@net-c.ca>, 2020.
 msgid ""
@@ -28,8 +28,8 @@ msgstr ""
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2022-07-25 22:15+0200\n"
-"PO-Revision-Date: 2020-05-22 13:41+0000\n"
-"Last-Translator: J. Lavoie <j.lavoie@net-c.ca>\n"
+"PO-Revision-Date: 2023-02-24 21:01+0000\n"
+"Last-Translator: \"Dr. Tobias Quathamer\" <toddy@debian.org>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/iso-codes/"
 "iso-639-3/de/>\n"
 "Language: de\n"
@@ -37,7 +37,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.1-dev\n"
+"X-Generator: Weblate 4.16-dev\n"
 
 #. Name for aaa
 msgid "Ghotuo"
@@ -400,10 +400,8 @@ msgid "Adangme"
 msgstr "Adangme"
 
 #. Name for adb
-#, fuzzy
-#| msgid "Laura"
 msgid "Atauran"
-msgstr "Laura"
+msgstr "Atauran"
 
 #. Name for add
 msgid "Lidzonka"
@@ -924,10 +922,8 @@ msgid "Ali"
 msgstr "Ali"
 
 #. Name for aja
-#, fuzzy
-#| msgid "Aja (Sudan)"
 msgid "Aja (South Sudan)"
-msgstr "Aja (Sudan)"
+msgstr "Aja (Südsudan)"
 
 #. Name for ajg
 msgid "Aja (Benin)"
@@ -1632,10 +1628,8 @@ msgid "Arigidi"
 msgstr "Arigidi"
 
 #. Name for aqk
-#, fuzzy
-#| msgid "Asháninka"
 msgid "Aninka"
-msgstr "Campa"
+msgstr "Aninka"
 
 #. Name for aqm
 msgid "Atohwaim"
@@ -1806,10 +1800,8 @@ msgid "American Sign Language"
 msgstr "Amerikanische Gebärdensprache"
 
 #. Name for asf
-#, fuzzy
-#| msgid "Siuslaw"
 msgid "Auslan"
-msgstr "Siuslaw"
+msgstr "Auslan"
 
 #. Name for asg
 msgid "Cishingini"
@@ -2752,10 +2744,8 @@ msgid "Bardi"
 msgstr "Bardi"
 
 #. Name for bck
-#, fuzzy
-#| msgid "Bunun"
 msgid "Bunuba"
-msgstr "Bunun"
+msgstr "Bunuba"
 
 #. Name for bcl
 msgid "Central Bikol"
@@ -2846,20 +2836,16 @@ msgid "Bonggi"
 msgstr "Dusun"
 
 #. Name for bdh
-#, fuzzy
-#| msgid "Baka (Sudan)"
 msgid "Baka (South Sudan)"
-msgstr "Baka (Sudan)"
+msgstr "Baka (Südsudan)"
 
 #. Name for bdi
 msgid "Burun"
 msgstr "Burun"
 
 #. Name for bdj
-#, fuzzy
-#| msgid "Beli (Sudan)"
 msgid "Bai (South Sudan)"
-msgstr "Beli (Sudan)"
+msgstr "Bai (Südsudan)"
 
 #. Name for bdk
 msgid "Budukh"
@@ -3751,10 +3737,8 @@ msgid "Biloxi"
 msgstr "Biloxi"
 
 #. Name for blm
-#, fuzzy
-#| msgid "Beli (Sudan)"
 msgid "Beli (South Sudan)"
-msgstr "Beli (Sudan)"
+msgstr "Beli (Südsudan)"
 
 #. Name for bln
 msgid "Southern Catanduanes Bikol"
@@ -3789,10 +3773,8 @@ msgid "Tai Dam"
 msgstr "Tai Dam"
 
 #. Name for blv
-#, fuzzy
-#| msgid "Koibal"
 msgid "Kibala"
-msgstr "Koibal"
+msgstr "Kibala"
 
 #. Name for blw
 msgid "Balangao"
@@ -4142,10 +4124,8 @@ msgid "Daakaka"
 msgstr "Dakaka"
 
 #. Name for bpc
-#, fuzzy
-#| msgid "Mbuko"
 msgid "Mbuk"
-msgstr "Mbuko"
+msgstr "Mbuk"
 
 #. Name for bpd
 msgid "Banda-Banda"
@@ -4384,10 +4364,8 @@ msgid "Breton"
 msgstr "Bretonisch"
 
 #. Name for brf
-#, fuzzy
-#| msgid "Birao"
 msgid "Bira"
-msgstr "Birao"
+msgstr "Bira"
 
 #. Name for brg
 msgid "Baure"
@@ -5711,16 +5689,12 @@ msgid "Centúúm"
 msgstr "Centúúm"
 
 #. Name for cey
-#, fuzzy
-#| msgid "Daai Chin"
 msgid "Ekai Chin"
-msgstr "Daai-Chin"
+msgstr "Ekai Chin"
 
 #. Inverted name for cey
-#, fuzzy
-#| msgid "Chin, Daai"
 msgid "Chin, Ekai"
-msgstr "Chin, Daai"
+msgstr "Chin, Ekai"
 
 #. Name for cfa
 msgid "Dijim-Bwilim"

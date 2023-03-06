@@ -13,7 +13,7 @@ msgstr ""
 "Project-Id-Version: iso_3166-3\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2018-01-17 22:10+0100\n"
+"POT-Creation-Date: 2023-02-24 21:26+0100\n"
 "PO-Revision-Date: 2010-06-16 14:55+0700\n"
 "Last-Translator: Khoem Sokhem <khoemsokhem@khmeros.info>\n"
 "Language-Team: Khmer <support@khmeros.info>\n"
@@ -141,7 +141,9 @@ msgid "Yemen, Democratic, People's Democratic Republic of"
 msgstr "យេមែន សាធារណ​រដ្ឋ​ប្រជាមានិត​ប្រជាធិបតេយ្យ​​នៃ"
 
 #. Name for YUCS
-msgid "Yugoslavia, Socialist Federal Republic of"
+#, fuzzy
+#| msgid "Yugoslavia, Socialist Federal Republic of"
+msgid "Yugoslavia, (Socialist) Federal Republic of"
 msgstr "សាធារណៈរដ្ឋ​សម្ព័ន្ធ​សង្គមនិយម​យូហ្គូស្លាវី"
 
 #. Name for ZRCD
