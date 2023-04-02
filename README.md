@@ -7,7 +7,7 @@
 # Database for PHP-ISOCODES library
 
 This repository contains database with localized values of ISO country (ISO 3166-1), subdivision (ISO 3166-2), language (ISO 639-3), currency (ISO 4217) and scripts (ISO 15924).
-To get this database only without localized values, see [sokil/php-isocodes-only](https://github.com/sokil/php-isocodes-only).
+To get this database only without localized values, see [sokil/php-isocodes-db-only](https://github.com/sokil/php-isocodes-db-only).
 
 [![Latest Stable Version](https://poser.pugx.org/sokil/php-isocodes-db-i18n/v/stable.png)](https://packagist.org/packages/sokil/php-isocodes-db-i18n)
 [![Total Downloads](http://img.shields.io/packagist/dt/sokil/php-isocodes-db-i18n.svg?1)](https://packagist.org/packages/sokil/php-isocodes-db-i18n)
