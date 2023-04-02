@@ -6,14 +6,15 @@
 # Copyright ©
 # Marek Černocký <marek@manet.cz>, 2011.
 # Lorem Ipsum <aditoo@seznam.cz>, 2019.
+# Miroslav Kure <kurem@upcase.inf.upol.cz>, 2023.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_15924\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2018-01-17 22:10+0100\n"
-"PO-Revision-Date: 2019-03-03 09:18+0000\n"
-"Last-Translator: Lorem Ipsum <aditoo@seznam.cz>\n"
+"PO-Revision-Date: 2023-03-21 13:41+0000\n"
+"Last-Translator: Miroslav Kure <kurem@upcase.inf.upol.cz>\n"
 "Language-Team: Czech <https://hosted.weblate.org/projects/iso-codes/"
 "iso-15924/cs/>\n"
 "Language: cs\n"
@@ -21,7 +22,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Weblate 3.5-dev\n"
+"X-Generator: Weblate 4.16.2-dev\n"
 
 #. Name for Adlm
 msgid "Adlam"
@@ -44,10 +45,8 @@ msgid "Arabic"
 msgstr "Arabské"
 
 #. Name for Aran
-#, fuzzy
-#| msgid "Syriac (Eastern variant)"
 msgid "Arabic (Nastaliq variant)"
-msgstr "Syrské (východní varianta)"
+msgstr "Arabské (varianta nastaliq)"
 
 #. Name for Armi
 msgid "Imperial Aramaic"

@@ -17,14 +17,15 @@
 # Jordi Mas i Hernàndez <jmas@softcatala.org>, 2017.
 # Joan Montané <joan@montane.cat>, 2019.
 # Sergi Almacellas Abellana <sergi@koolpi.com>, 2022.
+# d <dmanye@gmail.com>, 2023.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_4217\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2022-06-01 15:01+0200\n"
-"PO-Revision-Date: 2022-06-21 08:20+0000\n"
-"Last-Translator: Sergi Almacellas Abellana <sergi@koolpi.com>\n"
+"PO-Revision-Date: 2023-03-29 20:40+0000\n"
+"Last-Translator: d <dmanye@gmail.com>\n"
 "Language-Team: Catalan <https://hosted.weblate.org/projects/iso-codes/"
 "iso-4217/ca/>\n"
 "Language: ca\n"
@@ -32,7 +33,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.13.1-dev\n"
+"X-Generator: Weblate 4.17-dev\n"
 "X-Bugs: Report translation errors to the Language-Team address.\n"
 
 #. Name for AED
@@ -72,8 +73,6 @@ msgid "Aruban Florin"
 msgstr "Florí d'Aruba"
 
 #. Name for AZN
-#, fuzzy
-#| msgid "Azerbaijanian Manat"
 msgid "Azerbaijan Manat"
 msgstr "Manat azerbaidjanès"
 
@@ -115,7 +114,7 @@ msgstr "Boliviano"
 
 #. Name for BOV
 msgid "Mvdol"
-msgstr ""
+msgstr "Mvdol"
 
 #. Name for BRL
 msgid "Brazilian Real"
@@ -150,20 +149,16 @@ msgid "Congolese Franc"
 msgstr "Franc congolès"
 
 #. Name for CHE
-#, fuzzy
-#| msgid "Euro"
 msgid "WIR Euro"
-msgstr "Euro"
+msgstr "Euro WIR"
 
 #. Name for CHF
 msgid "Swiss Franc"
 msgstr "Franc suís"
 
 #. Name for CHW
-#, fuzzy
-#| msgid "Rwanda Franc"
 msgid "WIR Franc"
-msgstr "Franc de Ruanda"
+msgstr "Franc WIR"
 
 #. Name for CLF
 msgid "Unidad de Fomento"
@@ -372,7 +367,7 @@ msgstr "Tenge"
 
 #. Name for LAK
 msgid "Lao Kip"
-msgstr ""
+msgstr "kip laosià"
 
 #. Name for LBP
 msgid "Lebanese Pound"
@@ -639,10 +634,8 @@ msgid "US Dollar"
 msgstr "Dòlar dels Estats Units"
 
 #. Name for USN
-#, fuzzy
-#| msgid "US Dollar"
 msgid "US Dollar (Next day)"
-msgstr "Dòlar dels Estats Units"
+msgstr "Dòlar dels Estats Units (per a l'endemà)"
 
 #. Name for UYI
 msgid "Uruguay Peso en Unidades Indexadas (UI)"

@@ -7,14 +7,15 @@
 # Copyright ©
 # Alastair McKinstry <mckinstry@debian.org>, 2001.
 # Dafydd Tomos <dafydd.tomos@imaginet.co.uk>, 2002.
+# dreigiau <sterilgrimed23@gmail.com>, 2023.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_639-2\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2022-06-01 15:01+0200\n"
-"PO-Revision-Date: 2018-03-19 21:51+0000\n"
-"Last-Translator: Huw Waters <huwwaters@gmail.com>\n"
+"PO-Revision-Date: 2023-03-09 00:48+0000\n"
+"Last-Translator: dreigiau <sterilgrimed23@gmail.com>\n"
 "Language-Team: Welsh <https://hosted.weblate.org/projects/iso-codes/"
 "iso-639-2/cy/>\n"
 "Language: cy\n"
@@ -23,7 +24,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=6; plural=(n==0) ? 0 : (n==1) ? 1 : (n==2) ? 2 : "
 "(n==3) ? 3 :(n==6) ? 4 : 5;\n"
-"X-Generator: Weblate 2.20-dev\n"
+"X-Generator: Weblate 4.16.2-dev\n"
 
 #. Name for aar
 msgid "Afar"
@@ -56,7 +57,7 @@ msgstr "Malagasi"
 
 #. Name for afh
 msgid "Afrihili"
-msgstr ""
+msgstr "Afrihili"
 
 #. Name for afr
 msgid "Afrikaans"
@@ -64,7 +65,7 @@ msgstr "Affricaneg"
 
 #. Name for ain
 msgid "Ainu"
-msgstr ""
+msgstr "Ainw"
 
 #. Name for aka
 #, fuzzy
@@ -78,15 +79,15 @@ msgstr "Abcaseg"
 
 #. Name for ale
 msgid "Aleut"
-msgstr ""
+msgstr "Aleut"
 
 #. Name for alg
 msgid "Algonquian languages"
-msgstr ""
+msgstr "Ieithoedd Algoncwianeg"
 
 #. Name for alt
 msgid "Southern Altai"
-msgstr ""
+msgstr "Altai Deheuol"
 
 #. Name for amh
 msgid "Amharic"
@@ -94,7 +95,7 @@ msgstr "Amhareg"
 
 #. Name for ang
 msgid "English, Old (ca. 450-1100)"
-msgstr ""
+msgstr "Saesneg, Hen (ca. 450-1100)"
 
 #. Name for anp
 #, fuzzy
@@ -103,7 +104,7 @@ msgstr "Abcaseg"
 
 #. Name for apa
 msgid "Apache languages"
-msgstr ""
+msgstr "Ieithoedd Apache"
 
 #. Name for ara
 msgid "Arabic"
@@ -120,11 +121,11 @@ msgstr "Ffaröeg"
 
 #. Name for arn
 msgid "Mapudungun; Mapuche"
-msgstr ""
+msgstr "Mapudungun; Mapuche"
 
 #. Name for arp
 msgid "Arapaho"
-msgstr ""
+msgstr "Arapaho"
 
 #. Name for art
 #, fuzzy
@@ -133,7 +134,7 @@ msgstr "Malagasi"
 
 #. Name for arw
 msgid "Arawak"
-msgstr ""
+msgstr "Arawac"
 
 #. Name for asm
 msgid "Assamese"
@@ -150,7 +151,7 @@ msgstr "Malagasi"
 
 #. Name for aus
 msgid "Australian languages"
-msgstr ""
+msgstr "Ieithoedd Awstralaidd"
 
 #. Name for ava
 #, fuzzy
@@ -159,7 +160,7 @@ msgstr "Amhareg"
 
 #. Name for ave
 msgid "Avestan"
-msgstr ""
+msgstr "Afestan"
 
 #. Name for awa
 #, fuzzy
@@ -181,7 +182,7 @@ msgstr "Malagasi"
 
 #. Name for bai
 msgid "Bamileke languages"
-msgstr ""
+msgstr "Ieithoedd Bamilece"
 
 #. Name for bak
 #, fuzzy
@@ -190,7 +191,7 @@ msgstr "Bashgireg"
 
 #. Name for bal
 msgid "Baluchi"
-msgstr ""
+msgstr "Balwshi"
 
 #. Name for bam
 #, fuzzy
@@ -222,7 +223,7 @@ msgstr "Belarwseg"
 
 #. Name for bem
 msgid "Bemba"
-msgstr ""
+msgstr "Bemba"
 
 #. Name for ben
 msgid "Bengali"
@@ -230,7 +231,7 @@ msgstr "Bengaleg"
 
 #. Common name for ben
 msgid "Bangla"
-msgstr ""
+msgstr "Bangla"
 
 #. Name for ber
 #, fuzzy
@@ -239,7 +240,7 @@ msgstr "Malagasi"
 
 #. Name for bho
 msgid "Bhojpuri"
-msgstr ""
+msgstr "Bhojpureg"
 
 #. Name for bih
 #, fuzzy
@@ -248,7 +249,7 @@ msgstr "Malagasi"
 
 #. Name for bik
 msgid "Bikol"
-msgstr ""
+msgstr "Bicol"
 
 #. Name for bin
 #, fuzzy
@@ -261,7 +262,7 @@ msgstr "Bislama"
 
 #. Name for bla
 msgid "Siksika"
-msgstr ""
+msgstr "Sicseg"
 
 #. Name for bnt
 msgid "Bantu (Other)"
@@ -332,12 +333,11 @@ msgstr "Malagasi"
 
 #. Name for ceb
 msgid "Cebuano"
-msgstr ""
+msgstr "Cebuano"
 
 #. Name for cel
-#, fuzzy
 msgid "Celtic languages"
-msgstr "Malagasi"
+msgstr "Ieithoedd Celtaidd"
 
 #. Name for ces
 msgid "Czech"
@@ -345,30 +345,27 @@ msgstr "Tsieceg"
 
 #. Name for cha
 msgid "Chamorro"
-msgstr ""
+msgstr "Tsiamoro"
 
 #. Name for chb
 msgid "Chibcha"
 msgstr ""
 
 #. Name for che
-#, fuzzy
 msgid "Chechen"
-msgstr "Tsieceg"
+msgstr "Tsietsien"
 
 #. Name for chg
 msgid "Chagatai"
-msgstr ""
+msgstr "Tsiagatai"
 
 #. Name for chk
-#, fuzzy
 msgid "Chuukese"
-msgstr "Tsieinëeg"
+msgstr "Tsiwceg"
 
 #. Name for chm
-#, fuzzy
 msgid "Mari"
-msgstr "Maori"
+msgstr "Mari"
 
 #. Name for chn
 msgid "Chinook jargon"
@@ -406,7 +403,7 @@ msgstr ""
 
 #. Name for cnr
 msgid "Montenegrin"
-msgstr ""
+msgstr "Montenegreg"
 
 #. Name for cop
 msgid "Coptic"
@@ -433,9 +430,8 @@ msgid "Creoles and pidgins, Portuguese-based"
 msgstr ""
 
 #. Name for cre
-#, fuzzy
 msgid "Cree"
-msgstr "Groeg"
+msgstr "Cree"
 
 #. Name for crh
 msgid "Crimean Tatar; Crimean Turkish"

@@ -8,14 +8,15 @@
 # Alastair McKinstry <mckinstry@debian.org>, 2004.
 # Dafydd Harries <daf@muse.19inch.net>, 2004, 2006.
 # Aled Powell <aled@aledpowell.cymru>, 2019.
+# dreigiau <sterilgrimed23@gmail.com>, 2023.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-1\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2023-02-24 21:26+0100\n"
-"PO-Revision-Date: 2019-04-19 13:34+0000\n"
-"Last-Translator: Aled Powell <aled@aledpowell.cymru>\n"
+"PO-Revision-Date: 2023-03-09 00:48+0000\n"
+"Last-Translator: dreigiau <sterilgrimed23@gmail.com>\n"
 "Language-Team: Welsh <https://hosted.weblate.org/projects/iso-codes/"
 "iso-3166-1/cy/>\n"
 "Language: cy\n"
@@ -24,7 +25,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=6; plural=(n==0) ? 0 : (n==1) ? 1 : (n==2) ? 2 : "
 "(n==3) ? 3 :(n==6) ? 4 : 5;\n"
-"X-Generator: Weblate 3.6-dev\n"
+"X-Generator: Weblate 4.16.2-dev\n"
 
 #. Name for ABW
 msgid "Aruba"
@@ -728,7 +729,7 @@ msgstr "Gweriniaeth Islamaidd Iran"
 
 #. Common name for IRN
 msgid "Iran"
-msgstr ""
+msgstr "Iran"
 
 #. Name for IRQ
 msgid "Iraq"
@@ -831,10 +832,8 @@ msgid "Korea, Republic of"
 msgstr "Corëa, Gweriniaeth"
 
 #. Common name for KOR
-#, fuzzy
-#| msgid "South Africa"
 msgid "South Korea"
-msgstr "De Affrica"
+msgstr "De Corea"
 
 #. Name for KWT
 msgid "Kuwait"
@@ -850,7 +849,7 @@ msgstr "Gweriniaeth Ddemocrataidd y Bobl Lao"
 
 #. Common name for LAO
 msgid "Laos"
-msgstr ""
+msgstr "Laos"
 
 #. Name for LBN
 msgid "Lebanon"
@@ -1253,10 +1252,8 @@ msgid "Democratic People's Republic of Korea"
 msgstr "Gweriniaeth Democratic Corëa"
 
 #. Common name for PRK
-#, fuzzy
-#| msgid "North Macedonia"
 msgid "North Korea"
-msgstr "Gogledd Macedonia"
+msgstr "Gogledd Corea"
 
 #. Name for PRT
 msgid "Portugal"
@@ -1480,7 +1477,7 @@ msgstr "Gweriniaeth Arabaidd Syria"
 
 #. Common name for SYR
 msgid "Syria"
-msgstr ""
+msgstr "Syria"
 
 #. Name for TCA
 msgid "Turks and Caicos Islands"
@@ -1560,11 +1557,9 @@ msgstr "Gweriniaeth Twnisia"
 
 #. Name for TUR
 msgid "Türkiye"
-msgstr ""
+msgstr "Twrci"
 
 #. Official name for TUR
-#, fuzzy
-#| msgid "Republic of Turkey"
 msgid "Republic of Türkiye"
 msgstr "Gweriniaeth Twrci"
 
