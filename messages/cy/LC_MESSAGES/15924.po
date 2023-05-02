@@ -5,23 +5,28 @@
 # .
 # Copyright ©
 # Huw Waters <huwwaters@gmail.com>, 2018.
+# dreigiau <sterilgrimed23@gmail.com>, 2023.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_15924\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2018-01-17 22:10+0100\n"
-"PO-Revision-Date: 2018-03-18 01:59+0100\n"
-"Last-Translator: Huw Waters <huwwaters@gmail.com>\n"
-"Language-Team: Welsh\n"
+"PO-Revision-Date: 2023-04-23 17:51+0000\n"
+"Last-Translator: dreigiau <sterilgrimed23@gmail.com>\n"
+"Language-Team: Welsh <https://hosted.weblate.org/projects/iso-codes/"
+"iso-15924/cy/>\n"
 "Language: cy\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=(n==0) ? 0 : (n==1) ? 1 : (n==2) ? 2 : "
+"(n==3) ? 3 :(n==6) ? 4 : 5;\n"
+"X-Generator: Weblate 4.18-dev\n"
 
 #. Name for Adlm
 msgid "Adlam"
-msgstr ""
+msgstr "Adlam"
 
 #. Name for Afak
 msgid "Afaka"
@@ -37,7 +42,7 @@ msgstr ""
 
 #. Name for Arab
 msgid "Arabic"
-msgstr ""
+msgstr "Arabeg"
 
 #. Name for Aran
 msgid "Arabic (Nastaliq variant)"
@@ -49,7 +54,7 @@ msgstr ""
 
 #. Name for Armn
 msgid "Armenian"
-msgstr ""
+msgstr "Armeneg"
 
 #. Name for Avst
 msgid "Avestan"
@@ -65,11 +70,11 @@ msgstr ""
 
 #. Name for Bass
 msgid "Bassa Vah"
-msgstr ""
+msgstr "Bassa Vah"
 
 #. Name for Batk
 msgid "Batak"
-msgstr ""
+msgstr "Batak"
 
 #. Name for Beng
 msgid "Bengali"
@@ -81,19 +86,19 @@ msgstr ""
 
 #. Name for Blis
 msgid "Blissymbols"
-msgstr ""
+msgstr "Bliss"
 
 #. Name for Bopo
 msgid "Bopomofo"
-msgstr ""
+msgstr "Bopomofo"
 
 #. Name for Brah
 msgid "Brahmi"
-msgstr ""
+msgstr "Brahmi"
 
 #. Name for Brai
 msgid "Braille"
-msgstr ""
+msgstr "Braille"
 
 #. Name for Bugi
 msgid "Buginese"
@@ -101,11 +106,11 @@ msgstr ""
 
 #. Name for Buhd
 msgid "Buhid"
-msgstr ""
+msgstr "Buhid"
 
 #. Name for Cakm
 msgid "Chakma"
-msgstr ""
+msgstr "Chakma"
 
 #. Name for Cans
 msgid "Unified Canadian Aboriginal Syllabics"
@@ -117,15 +122,15 @@ msgstr ""
 
 #. Name for Cham
 msgid "Cham"
-msgstr ""
+msgstr "Cham"
 
 #. Name for Cher
 msgid "Cherokee"
-msgstr ""
+msgstr "Cherokee"
 
 #. Name for Cirt
 msgid "Cirth"
-msgstr ""
+msgstr "Cirth"
 
 #. Name for Copt
 msgid "Coptic"
@@ -137,7 +142,7 @@ msgstr ""
 
 #. Name for Cyrl
 msgid "Cyrillic"
-msgstr ""
+msgstr "Cyrillic"
 
 #. Name for Cyrs
 msgid "Cyrillic (Old Church Slavonic variant)"
@@ -145,7 +150,7 @@ msgstr ""
 
 #. Name for Deva
 msgid "Devanagari (Nagari)"
-msgstr ""
+msgstr "Devanagari"
 
 #. Name for Dsrt
 msgid "Deseret (Mormon)"
@@ -189,7 +194,7 @@ msgstr ""
 
 #. Name for Goth
 msgid "Gothic"
-msgstr ""
+msgstr "Gotheg"
 
 #. Name for Gran
 msgid "Grantha"
@@ -197,11 +202,11 @@ msgstr ""
 
 #. Name for Grek
 msgid "Greek"
-msgstr ""
+msgstr "Groeg"
 
 #. Name for Gujr
 msgid "Gujarati"
-msgstr ""
+msgstr "Gujarati"
 
 #. Name for Guru
 msgid "Gurmukhi"
@@ -217,11 +222,11 @@ msgstr ""
 
 #. Name for Hani
 msgid "Han (Hanzi, Kanji, Hanja)"
-msgstr ""
+msgstr "Han (Hanzi, Kanji, Hanja)"
 
 #. Name for Hano
 msgid "Hanunoo (Hanunóo)"
-msgstr ""
+msgstr "Hanunóo"
 
 #. Name for Hans
 msgid "Han (Simplified variant)"
@@ -233,7 +238,7 @@ msgstr ""
 
 #. Name for Hatr
 msgid "Hatran"
-msgstr ""
+msgstr "Hatran"
 
 #. Name for Hebr
 msgid "Hebrew"
@@ -241,7 +246,7 @@ msgstr ""
 
 #. Name for Hira
 msgid "Hiragana"
-msgstr ""
+msgstr "Hiragana"
 
 #. Name for Hluw
 msgid "Anatolian Hieroglyphs (Luwian Hieroglyphs, Hittite Hieroglyphs)"
@@ -281,27 +286,27 @@ msgstr ""
 
 #. Name for Jurc
 msgid "Jurchen"
-msgstr ""
+msgstr "Jurchen"
 
 #. Name for Kali
 msgid "Kayah Li"
-msgstr ""
+msgstr "Kayah Li"
 
 #. Name for Kana
 msgid "Katakana"
-msgstr ""
+msgstr "Katakana"
 
 #. Name for Khar
 msgid "Kharoshthi"
-msgstr ""
+msgstr "Kharoshthi"
 
 #. Name for Khmr
 msgid "Khmer"
-msgstr ""
+msgstr "Khmer"
 
 #. Name for Khoj
 msgid "Khojki"
-msgstr ""
+msgstr "Khojki"
 
 #. Name for Kitl
 msgid "Khitan large script"
@@ -313,7 +318,7 @@ msgstr ""
 
 #. Name for Knda
 msgid "Kannada"
-msgstr ""
+msgstr "Kannada"
 
 #. Name for Kore
 msgid "Korean (alias for Hangul + Han)"
@@ -321,11 +326,11 @@ msgstr ""
 
 #. Name for Kpel
 msgid "Kpelle"
-msgstr ""
+msgstr "Kpelle"
 
 #. Name for Kthi
 msgid "Kaithi"
-msgstr ""
+msgstr "Kaithi"
 
 #. Name for Lana
 msgid "Tai Tham (Lanna)"
@@ -333,7 +338,7 @@ msgstr ""
 
 #. Name for Laoo
 msgid "Lao"
-msgstr ""
+msgstr "Lao"
 
 #. Name for Latf
 msgid "Latin (Fraktur variant)"
@@ -345,11 +350,11 @@ msgstr ""
 
 #. Name for Latn
 msgid "Latin"
-msgstr ""
+msgstr "Lladin"
 
 #. Name for Leke
 msgid "Leke"
-msgstr ""
+msgstr "Leke"
 
 #. Name for Lepc
 msgid "Lepcha (Róng)"
@@ -357,7 +362,7 @@ msgstr ""
 
 #. Name for Limb
 msgid "Limbu"
-msgstr ""
+msgstr "Limbu"
 
 #. Name for Lina
 msgid "Linear A"
@@ -373,7 +378,7 @@ msgstr ""
 
 #. Name for Loma
 msgid "Loma"
-msgstr ""
+msgstr "Loma"
 
 #. Name for Lyci
 msgid "Lycian"
@@ -385,7 +390,7 @@ msgstr ""
 
 #. Name for Mahj
 msgid "Mahajani"
-msgstr ""
+msgstr "Mahajani"
 
 #. Name for Mand
 msgid "Mandaic, Mandaean"
@@ -397,7 +402,7 @@ msgstr ""
 
 #. Name for Marc
 msgid "Marchen"
-msgstr ""
+msgstr "Marchen"
 
 #. Name for Maya
 msgid "Mayan hieroglyphs"
@@ -417,7 +422,7 @@ msgstr ""
 
 #. Name for Mlym
 msgid "Malayalam"
-msgstr ""
+msgstr "Malayalam"
 
 #. Name for Modi
 msgid "Modi, Moḍī"
@@ -429,11 +434,11 @@ msgstr ""
 
 #. Name for Moon
 msgid "Moon (Moon code, Moon script, Moon type)"
-msgstr ""
+msgstr "Moon"
 
 #. Name for Mroo
 msgid "Mro, Mru"
-msgstr ""
+msgstr "Mro, Mru"
 
 #. Name for Mtei
 msgid "Meitei Mayek (Meithei, Meetei)"
@@ -441,11 +446,11 @@ msgstr ""
 
 #. Name for Mult
 msgid "Multani"
-msgstr ""
+msgstr "Multani"
 
 #. Name for Mymr
 msgid "Myanmar (Burmese)"
-msgstr ""
+msgstr "Myanmar (Bwrmeg)"
 
 #. Name for Narb
 msgid "Old North Arabian (Ancient North Arabian)"
@@ -453,7 +458,7 @@ msgstr ""
 
 #. Name for Nbat
 msgid "Nabataean"
-msgstr ""
+msgstr "Nabataean"
 
 #. Name for Newa
 msgid "Newa, Newar, Newari, Nepāla lipi"
@@ -465,15 +470,15 @@ msgstr ""
 
 #. Name for Nkoo
 msgid "N’Ko"
-msgstr ""
+msgstr "N’Ko"
 
 #. Name for Nshu
 msgid "Nüshu"
-msgstr ""
+msgstr "Nüshu"
 
 #. Name for Ogam
 msgid "Ogham"
-msgstr ""
+msgstr "Ogham"
 
 #. Name for Olck
 msgid "Ol Chiki (Ol Cemet’, Ol, Santali)"
@@ -485,23 +490,23 @@ msgstr ""
 
 #. Name for Orya
 msgid "Oriya"
-msgstr ""
+msgstr "Oriya"
 
 #. Name for Osge
 msgid "Osage"
-msgstr ""
+msgstr "Osage"
 
 #. Name for Osma
 msgid "Osmanya"
-msgstr ""
+msgstr "Osmanya"
 
 #. Name for Palm
 msgid "Palmyrene"
-msgstr ""
+msgstr "Palmyrene"
 
 #. Name for Pauc
 msgid "Pau Cin Hau"
-msgstr ""
+msgstr "Pau Cin Hau"
 
 #. Name for Perm
 msgid "Old Permic"
@@ -509,7 +514,7 @@ msgstr ""
 
 #. Name for Phag
 msgid "Phags-pa"
-msgstr ""
+msgstr "Phags-pa"
 
 #. Name for Phli
 msgid "Inscriptional Pahlavi"
@@ -529,7 +534,7 @@ msgstr ""
 
 #. Name for Piqd
 msgid "Klingon (KLI pIqaD)"
-msgstr ""
+msgstr "Klingon"
 
 #. Name for Plrd
 msgid "Miao (Pollard)"
@@ -553,7 +558,7 @@ msgstr ""
 
 #. Name for Roro
 msgid "Rongorongo"
-msgstr ""
+msgstr "Rongorongo"
 
 #. Name for Runr
 msgid "Runic"
@@ -561,11 +566,11 @@ msgstr ""
 
 #. Name for Samr
 msgid "Samaritan"
-msgstr ""
+msgstr "Samaritan"
 
 #. Name for Sara
 msgid "Sarati"
-msgstr ""
+msgstr "Sarati"
 
 #. Name for Sarb
 msgid "Old South Arabian"
@@ -597,11 +602,11 @@ msgstr ""
 
 #. Name for Sinh
 msgid "Sinhala"
-msgstr ""
+msgstr "Sinhala"
 
 #. Name for Sora
 msgid "Sora Sompeng"
-msgstr ""
+msgstr "Sora Sompeng"
 
 #. Name for Sund
 msgid "Sundanese"
@@ -609,7 +614,7 @@ msgstr ""
 
 #. Name for Sylo
 msgid "Syloti Nagri"
-msgstr ""
+msgstr "Syloti Nagri"
 
 #. Name for Syrc
 msgid "Syriac"
@@ -629,15 +634,15 @@ msgstr ""
 
 #. Name for Tagb
 msgid "Tagbanwa"
-msgstr ""
+msgstr "Tagbanwa"
 
 #. Name for Takr
 msgid "Takri, Ṭākrī, Ṭāṅkrī"
-msgstr ""
+msgstr "Takri"
 
 #. Name for Tale
 msgid "Tai Le"
-msgstr ""
+msgstr "Tai Le"
 
 #. Name for Talu
 msgid "New Tai Lue"
@@ -645,23 +650,23 @@ msgstr ""
 
 #. Name for Taml
 msgid "Tamil"
-msgstr ""
+msgstr "Tamil"
 
 #. Name for Tang
 msgid "Tangut"
-msgstr ""
+msgstr "Tangut"
 
 #. Name for Tavt
 msgid "Tai Viet"
-msgstr ""
+msgstr "Tai Viet"
 
 #. Name for Telu
 msgid "Telugu"
-msgstr ""
+msgstr "Telugu"
 
 #. Name for Teng
 msgid "Tengwar"
-msgstr ""
+msgstr "Tengwar"
 
 #. Name for Tfng
 msgid "Tifinagh (Berber)"
@@ -673,11 +678,11 @@ msgstr ""
 
 #. Name for Thaa
 msgid "Thaana"
-msgstr ""
+msgstr "Thaana"
 
 #. Name for Thai
 msgid "Thai"
-msgstr ""
+msgstr "Thai"
 
 #. Name for Tibt
 msgid "Tibetan"
@@ -685,15 +690,15 @@ msgstr ""
 
 #. Name for Tirh
 msgid "Tirhuta"
-msgstr ""
+msgstr "Tirhuta"
 
 #. Name for Ugar
 msgid "Ugaritic"
-msgstr ""
+msgstr "Ugaritic"
 
 #. Name for Vaii
 msgid "Vai"
-msgstr ""
+msgstr "Vai"
 
 #. Name for Visp
 msgid "Visible Speech"
@@ -705,7 +710,7 @@ msgstr ""
 
 #. Name for Wole
 msgid "Woleai"
-msgstr ""
+msgstr "Woleai"
 
 #. Name for Xpeo
 msgid "Old Persian"
@@ -717,7 +722,7 @@ msgstr ""
 
 #. Name for Yiii
 msgid "Yi"
-msgstr ""
+msgstr "Yi"
 
 #. Name for Zinh
 msgid "Code for inherited script"
@@ -729,11 +734,11 @@ msgstr ""
 
 #. Name for Zsye
 msgid "Symbols (Emoji variant)"
-msgstr ""
+msgstr "Symbolau (Emoji)"
 
 #. Name for Zsym
 msgid "Symbols"
-msgstr ""
+msgstr "Symbolau"
 
 #. Name for Zxxx
 msgid "Code for unwritten documents"

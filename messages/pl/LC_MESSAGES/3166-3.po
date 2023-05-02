@@ -9,14 +9,14 @@
 # Alastair McKinstry <mckinstry@debian.org>, 2004.
 # Tomasz Z. Napierala <zen@debian.linux.org.pl>, 2004, 2006.
 # Andrzej M. Krzysztofowicz <ankry@mif.pg.gda.pl>, 2007.
-# Jakub Bogusz <qboosh@pld-linux.org>, 2007-2017, 2019.
+# Jakub Bogusz <qboosh@pld-linux.org>, 2007-2017, 2019, 2023.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-3\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2023-02-24 21:26+0100\n"
-"PO-Revision-Date: 2019-09-20 18:28+0000\n"
+"PO-Revision-Date: 2023-04-20 19:53+0000\n"
 "Last-Translator: Jakub Bogusz <qboosh@pld-linux.org>\n"
 "Language-Team: Polish <https://hosted.weblate.org/projects/iso-codes/"
 "iso-3166-3/pl/>\n"
@@ -26,7 +26,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 3.9-dev\n"
+"X-Generator: Weblate 4.18-dev\n"
 "X-Bugs: Report translation errors to the Language-Team address.\n"
 
 #. Name for AIDJ
@@ -147,10 +147,8 @@ msgstr ""
 "Jemen Południowy, Jemen Demokratyczny, Ludowo-Demokratyczna Republika Jemenu"
 
 #. Name for YUCS
-#, fuzzy
-#| msgid "Yugoslavia, Socialist Federal Republic of"
 msgid "Yugoslavia, (Socialist) Federal Republic of"
-msgstr "Jugosławia, Socjalistyczna Federalna Republika Jugosławii"
+msgstr "Jugosławia, (Socjalistyczna) Federalna Republika Jugosławii"
 
 #. Name for ZRCD
 msgid "Zaire, Republic of"

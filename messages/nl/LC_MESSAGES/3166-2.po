@@ -15,7 +15,7 @@
 # Copyright ©
 # Taco Witte <tcwitte@cs.uu.nl>, 2006.
 # Freek de Kruijf <f.de.kruijf@gmail.com>, 2006-2013, 2017.
-# Pander <pander@users.sourceforge.net>, 2018, 2020, 2021, 2022.
+# Pander <pander@users.sourceforge.net>, 2018, 2020, 2021, 2022, 2023.
 # Frans Spiesschaert <frans.spiesschaert@gmail.com>, 2023.
 msgid ""
 msgstr ""
@@ -23,8 +23,8 @@ msgstr ""
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2022-06-01 15:01+0200\n"
-"PO-Revision-Date: 2023-03-20 09:23+0000\n"
-"Last-Translator: Frans Spiesschaert <frans.spiesschaert@gmail.com>\n"
+"PO-Revision-Date: 2023-04-22 14:41+0000\n"
+"Last-Translator: Pander <pander@users.sourceforge.net>\n"
 "Language-Team: Dutch <https://hosted.weblate.org/projects/iso-codes/"
 "iso-3166-2/nl/>\n"
 "Language: nl\n"
@@ -32,7 +32,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.16.2-dev\n"
+"X-Generator: Weblate 4.18-dev\n"
 "X-Bugs: Report translation errors to the Language-Team address.\n"
 
 #. Name for AD-02
@@ -15108,15 +15108,15 @@ msgstr "Basjkirostan, Republiek"
 
 #. Name for RU-BEL
 msgid "Belgorodskaja oblast'"
-msgstr "Oblast Belgorod"
+msgstr "Belgorod, Oblast"
 
 #. Name for RU-BRY
 msgid "Brjanskaja oblast'"
-msgstr "Oblast Brjansk"
+msgstr "Brjansk, Oblast"
 
 #. Name for RU-BU
 msgid "Burjatija, Respublika"
-msgstr "Republiek Boerjatië"
+msgstr "Boerjatië, Republiek"
 
 #. Name for RU-CE
 msgid "Chechenskaya Respublika"
@@ -15144,11 +15144,11 @@ msgstr "Ingoesjetië, Republiek"
 
 #. Name for RU-IRK
 msgid "Irkutskaja oblast'"
-msgstr "Oblast Irkoetsk"
+msgstr "Irkoetsk, Oblast"
 
 #. Name for RU-IVA
 msgid "Ivanovskaja oblast'"
-msgstr "Oblast Ivanovo"
+msgstr "Ivanovo, Oblast"
 
 #. Name for RU-KAM
 msgid "Kamchatskiy kray"
@@ -15156,7 +15156,7 @@ msgstr "Kamtsjatka, Kraj"
 
 #. Name for RU-KB
 msgid "Kabardino-Balkarskaja Respublika"
-msgstr "Republiek Kabardië-Balkarië"
+msgstr "Kabardië-Balkarië, Republiek"
 
 #. Name for RU-KC
 msgid "Karachayevo-Cherkesskaya Respublika"
@@ -15164,23 +15164,23 @@ msgstr "Karatsjaj-Tsjerkessië, Republiek"
 
 #. Name for RU-KDA
 msgid "Krasnodarskij kraj"
-msgstr "Kraj Krasnodar"
+msgstr "Krasnodar, Kraj"
 
 #. Name for RU-KEM
 msgid "Kemerovskaja oblast'"
-msgstr "Oblast Kemerovo"
+msgstr "Kemerovo, Oblast"
 
 #. Name for RU-KGD
 msgid "Kaliningradskaja oblast'"
-msgstr "Oblast Kaliningrad"
+msgstr "Kaliningrad, Oblast"
 
 #. Name for RU-KGN
 msgid "Kurganskaja oblast'"
-msgstr "Oblast Koergan"
+msgstr "Koergan, Oblast"
 
 #. Name for RU-KHA
 msgid "Habarovskij kraj"
-msgstr "Kraj Chabarovsk"
+msgstr "Chabarovsk, Kraj"
 
 #. Name for RU-KHM
 msgid "Hanty-Mansijskij avtonomnyj okrug"
@@ -15188,15 +15188,15 @@ msgstr "Chanto-Mansië, Autonoom District"
 
 #. Name for RU-KIR
 msgid "Kirovskaja oblast'"
-msgstr "Oblast Kirov"
+msgstr "Kirov, Oblast"
 
 #. Name for RU-KK
 msgid "Hakasija, Respublika"
-msgstr "Republiek Chakassië"
+msgstr "Chakassië, Republiek"
 
 #. Name for RU-KL
 msgid "Kalmykija, Respublika"
-msgstr "Republiek Kalmukkië"
+msgstr "Kalmukkië, Republiek"
 
 #. Name for RU-KLU
 msgid "Kaluzhskaya oblast'"
@@ -15208,15 +15208,15 @@ msgstr "Komi, Republiek"
 
 #. Name for RU-KOS
 msgid "Kostromskaja oblast'"
-msgstr "Oblast Kostroma"
+msgstr "Kostroma, Oblast"
 
 #. Name for RU-KR
 msgid "Karelija, Respublika"
-msgstr "Republiek Karelië"
+msgstr "Karelië, Republiek"
 
 #. Name for RU-KRS
 msgid "Kurskaja oblast'"
-msgstr "Oblast Koersk"
+msgstr "Koersk, Oblast"
 
 #. Name for RU-KYA
 msgid "Krasnojarskij kraj"
@@ -15224,27 +15224,27 @@ msgstr "Krasnojarsk, Kraj"
 
 #. Name for RU-LEN
 msgid "Leningradskaja oblast'"
-msgstr "Oblast Leningrad"
+msgstr "Leningrad, Oblast"
 
 #. Name for RU-LIP
 msgid "Lipeckaja oblast'"
-msgstr "Oblast Lipetsk"
+msgstr "Lipetsk, Oblast"
 
 #. Name for RU-MAG
 msgid "Magadanskaja oblast'"
-msgstr "Oblast Magadan"
+msgstr "Magadan, Oblast"
 
 #. Name for RU-ME
 msgid "Marij Èl, Respublika"
-msgstr "Republiek Mari El"
+msgstr "Mari El, Republiek"
 
 #. Name for RU-MO
 msgid "Mordovija, Respublika"
-msgstr "Republiek Mordovië"
+msgstr "Mordovië, Republiek"
 
 #. Name for RU-MOS
 msgid "Moskovskaja oblast'"
-msgstr "Oblast Moskou"
+msgstr "Moskou, Oblast"
 
 #. Name for RU-MOW
 msgid "Moskva"
@@ -15252,7 +15252,7 @@ msgstr "Moskou"
 
 #. Name for RU-MUR
 msgid "Murmanskaja oblast'"
-msgstr "Oblast Moermansk"
+msgstr "Moermansk, Oblast"
 
 #. Name for RU-NEN
 msgid "Neneckij avtonomnyj okrug"
@@ -15260,7 +15260,7 @@ msgstr "Nenetsië, Autonoom District"
 
 #. Name for RU-NGR
 msgid "Novgorodskaja oblast'"
-msgstr "Oblast Novgorod"
+msgstr "Novgorod, Oblast"
 
 #. Name for RU-NIZ
 msgid "Nizhegorodskaya oblast'"
@@ -15268,31 +15268,31 @@ msgstr "Nizjni Novgorod, Oblast"
 
 #. Name for RU-NVS
 msgid "Novosibirskaja oblast'"
-msgstr "Oblast Novosibirsk"
+msgstr "Novosibirsk, Oblast"
 
 #. Name for RU-OMS
 msgid "Omskaja oblast'"
-msgstr "Oblast Omsk"
+msgstr "Omsk, Oblast"
 
 #. Name for RU-ORE
 msgid "Orenburgskaja oblast'"
-msgstr "Oblast Orenburg"
+msgstr "Orenburg, Oblast"
 
 #. Name for RU-ORL
 msgid "Orlovskaja oblast'"
-msgstr "Oblast Orjol"
+msgstr "Orjol, Oblast"
 
 #. Name for RU-PER
 msgid "Permskij kraj"
-msgstr "Kraj Perm"
+msgstr "Perm, Kraj"
 
 #. Name for RU-PNZ
 msgid "Penzenskaja oblast'"
-msgstr "Oblast Penza"
+msgstr "Penza, Oblast"
 
 #. Name for RU-PRI
 msgid "Primorskij kraj"
-msgstr "Kraj Primorje"
+msgstr "Primorje, Kraj"
 
 #. Name for RU-PSK
 msgid "Pskovskaja oblast'"
@@ -19268,7 +19268,7 @@ msgstr "Virginia"
 
 #. Name for US-VI
 msgid "Virgin Islands, U.S."
-msgstr "Amerikaanse Maagdeneilanden."
+msgstr "Maagdeneilanden, Amerikaanse"
 
 #. Name for US-VT
 msgid "Vermont"

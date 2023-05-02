@@ -16,7 +16,7 @@
 # Kenduest Lee <kenduest@i18n.linux.org.tw>, 2001.
 # Alastair McKinstry <mckinstry@debian.org>, 2002.
 # Chao-Hsiung Liao <j_h_liau@yahoo.com.tw>, 2005.
-# Abel Cheung <abelcheung@gmail.com>, 2006.
+# Abel Cheung <abelcheung@gmail.com>, 2006, 2023.
 # Walter Cheuk <wwycheuk@gmail.com>, 2019.
 # Jack Liu <ywp033319@gmail.com>, 2022.
 msgid ""
@@ -25,8 +25,8 @@ msgstr ""
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2023-02-24 21:26+0100\n"
-"PO-Revision-Date: 2022-02-22 02:55+0000\n"
-"Last-Translator: Jack Liu <ywp033319@gmail.com>\n"
+"PO-Revision-Date: 2023-04-10 05:19+0000\n"
+"Last-Translator: Abel Cheung <abelcheung@gmail.com>\n"
 "Language-Team: Chinese (Traditional, Hong Kong) <https://hosted.weblate.org/"
 "projects/iso-codes/iso-3166-3/zh_Hant_HK/>\n"
 "Language: zh_HK\n"
@@ -34,7 +34,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.11-dev\n"
+"X-Generator: Weblate 4.17-dev\n"
 
 #. Name for AIDJ
 msgid "French Afars and Issas"
@@ -54,11 +54,11 @@ msgstr "緬甸聯邦社會主義共和國"
 
 #. Name for BYAA
 msgid "Byelorussian SSR Soviet Socialist Republic"
-msgstr ""
+msgstr "白俄羅斯蘇維埃社會主義共和國"
 
 #. Name for CSHH
 msgid "Czechoslovakia, Czechoslovak Socialist Republic"
-msgstr ""
+msgstr "捷克斯洛伐克社會主義共和國"
 
 #. Name for CSXX
 msgid "Serbia and Montenegro"
@@ -66,7 +66,7 @@ msgstr "塞爾維亞和黑山"
 
 #. Name for CTKI
 msgid "Canton and Enderbury Islands"
-msgstr ""
+msgstr "坎頓和恩德貝里羣島"
 
 #. Name for DDDE
 msgid "German Democratic Republic"
@@ -74,15 +74,15 @@ msgstr "德意志民主共和國"
 
 #. Name for DYBJ
 msgid "Dahomey"
-msgstr ""
+msgstr "達荷美"
 
 #. Name for FQHH
 msgid "French Southern and Antarctic Territories"
-msgstr "法屬南方及南極屬地"
+msgstr "法屬南半球及南極屬地"
 
 #. Name for FXFR
 msgid "France, Metropolitan"
-msgstr ""
+msgstr "法國本土"
 
 #. Name for GEHH
 msgid "Gilbert and Ellice Islands"
@@ -102,43 +102,43 @@ msgstr "中途羣島"
 
 #. Name for NHVU
 msgid "New Hebrides"
-msgstr ""
+msgstr "新赫布里底羣島"
 
 #. Name for NQAQ
 msgid "Dronning Maud Land"
-msgstr ""
+msgstr "慕德皇后地"
 
 #. Name for NTHH
 msgid "Neutral Zone"
-msgstr ""
+msgstr "中立區"
 
 #. Name for PCHH
 msgid "Pacific Islands (trust territory)"
-msgstr ""
+msgstr "太平洋島嶼（託管地）"
 
 #. Name for PUUM
 msgid "US Miscellaneous Pacific Islands"
-msgstr ""
+msgstr "美屬太平洋島嶼"
 
 #. Name for PZPA
 msgid "Panama Canal Zone"
-msgstr ""
+msgstr "巴拿馬運河區"
 
 #. Name for RHZW
 msgid "Southern Rhodesia"
-msgstr ""
+msgstr "南羅得西亞"
 
 #. Name for SKIN
 msgid "Sikkim"
-msgstr ""
+msgstr "錫金"
 
 #. Name for SUHH
 msgid "USSR, Union of Soviet Socialist Republics"
-msgstr ""
+msgstr "蘇維埃社會主義共和國聯邦"
 
 #. Name for TPTL
 msgid "East Timor"
-msgstr ""
+msgstr "東帝汶"
 
 #. Name for VDVN
 msgid "Viet-Nam, Democratic Republic of"
@@ -153,8 +153,6 @@ msgid "Yemen, Democratic, People's Democratic Republic of"
 msgstr "也門民主人民共和國"
 
 #. Name for YUCS
-#, fuzzy
-#| msgid "Yugoslavia, Socialist Federal Republic of"
 msgid "Yugoslavia, (Socialist) Federal Republic of"
 msgstr "南斯拉夫社會主義聯邦共和國"
 
