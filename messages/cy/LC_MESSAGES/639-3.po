@@ -7,14 +7,15 @@
 # Copyright ©
 # Alastair McKinstry <mckinstry@debian.org>
 # Dafydd Tomos <dafydd.tomos@imaginet.co.uk>
+# dreigiau <sterilgrimed23@gmail.com>, 2023.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_639-3\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2022-07-25 22:15+0200\n"
-"PO-Revision-Date: 2018-03-19 21:51+0000\n"
-"Last-Translator: Huw Waters <huwwaters@gmail.com>\n"
+"PO-Revision-Date: 2023-04-22 17:37+0000\n"
+"Last-Translator: dreigiau <sterilgrimed23@gmail.com>\n"
 "Language-Team: Welsh <https://hosted.weblate.org/projects/iso-codes/"
 "iso-639-3/cy/>\n"
 "Language: cy\n"
@@ -23,69 +24,63 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=6; plural=(n==0) ? 0 : (n==1) ? 1 : (n==2) ? 2 : "
 "(n==3) ? 3 :(n==6) ? 4 : 5;\n"
-"X-Generator: Weblate 2.20-dev\n"
+"X-Generator: Weblate 4.18-dev\n"
 
 #. Name for aaa
 msgid "Ghotuo"
-msgstr ""
+msgstr "Ghotuo"
 
 #. Name for aab
 msgid "Alumu-Tesu"
-msgstr ""
+msgstr "Alumu-Tesu"
 
 #. Name for aac
-#, fuzzy
 msgid "Ari"
-msgstr "Amhareg"
+msgstr "Ari"
 
 #. Name for aad
-#, fuzzy
 msgid "Amal"
-msgstr "Somalieg"
+msgstr "Amal"
 
 #. Name for aae
 msgid "Arbëreshë Albanian"
-msgstr ""
+msgstr "Albaneg Arbëreshë"
 
 #. Inverted name for aae
 msgid "Albanian, Arbëreshë"
-msgstr ""
+msgstr "Albaneg, Arbëreshë"
 
 #. Name for aaf
-#, fuzzy
 msgid "Aranadan"
-msgstr "Canareg"
+msgstr "Aranadeg"
 
 #. Name for aag
-#, fuzzy
 msgid "Ambrak"
-msgstr "Aimareg"
+msgstr "Ambrac"
 
 #. Name for aah
 msgid "Abu' Arapesh"
-msgstr ""
+msgstr "Abu' Arapesh"
 
 #. Inverted name for aah
 msgid "Arapesh, Abu'"
-msgstr ""
+msgstr "Arapesh, Abu'"
 
 #. Name for aai
 msgid "Arifama-Miniafia"
-msgstr ""
+msgstr "Arifama-Miniafia"
 
 #. Name for aak
-#, fuzzy
 msgid "Ankave"
-msgstr "Abcaseg"
+msgstr "Ancafeg"
 
 #. Name for aal
-#, fuzzy
 msgid "Afade"
-msgstr "Affareg"
+msgstr "Afadeg"
 
 #. Name for aan
 msgid "Anambé"
-msgstr ""
+msgstr "Anambeg"
 
 #. Name for aao
 msgid "Algerian Saharan Arabic"
@@ -97,19 +92,19 @@ msgstr ""
 
 #. Name for aap
 msgid "Pará Arára"
-msgstr ""
+msgstr "Pará Arára"
 
 #. Inverted name for aap
 msgid "Arára, Pará"
-msgstr ""
+msgstr "Arára, Pará"
 
 #. Name for aaq
 msgid "Eastern Abnaki"
-msgstr ""
+msgstr "Abnaci Dwyreiniol"
 
 #. Inverted name for aaq
 msgid "Abnaki, Eastern"
-msgstr ""
+msgstr "Abnaci, Dwyreiniol"
 
 #. Name for aar
 msgid "Afar"
@@ -117,55 +112,52 @@ msgstr "Affareg"
 
 #. Name for aas
 msgid "Aasáx"
-msgstr ""
+msgstr "Aasács"
 
 #. Name for aat
-#, fuzzy
 msgid "Arvanitika Albanian"
-msgstr "Albaneg"
+msgstr "Albaneg Arvanitika"
 
 #. Inverted name for aat
 msgid "Albanian, Arvanitika"
-msgstr ""
+msgstr "Albaneg, Arvanitika"
 
 #. Name for aau
 msgid "Abau"
-msgstr ""
+msgstr "Abau"
 
 #. Name for aaw
-#, fuzzy
 msgid "Solong"
-msgstr "Shona"
+msgstr "Solong"
 
 #. Name for aax
+#, fuzzy
 msgid "Mandobo Atas"
-msgstr ""
+msgstr "Mandobo Atas"
 
 #. Name for aaz
-#, fuzzy
 msgid "Amarasi"
-msgstr "Aimareg"
+msgstr "Amarasi"
 
 #. Name for aba
 msgid "Abé"
-msgstr ""
+msgstr "Abé"
 
 #. Name for abb
 msgid "Bankon"
-msgstr ""
+msgstr "Bancon"
 
 #. Name for abc
 msgid "Ambala Ayta"
-msgstr ""
+msgstr "Ambala Ayta"
 
 #. Inverted name for abc
 msgid "Ayta, Ambala"
-msgstr ""
+msgstr "Ayta, Ambala"
 
 #. Name for abd
-#, fuzzy
 msgid "Manide"
-msgstr "Canareg"
+msgstr "Manide"
 
 #. Name for abe
 #, fuzzy
@@ -178,12 +170,11 @@ msgstr ""
 
 #. Name for abf
 msgid "Abai Sungai"
-msgstr ""
+msgstr "Abai Sungai"
 
 #. Name for abg
-#, fuzzy
 msgid "Abaga"
-msgstr "Albaneg"
+msgstr "Abaga"
 
 #. Name for abh
 #, fuzzy
@@ -197,49 +188,47 @@ msgstr "Arabeg"
 
 #. Name for abi
 msgid "Abidji"
-msgstr ""
+msgstr "Abidji"
 
 #. Name for abj
 msgid "Aka-Bea"
-msgstr ""
+msgstr "Aca-Bea"
 
 #. Name for abk
 msgid "Abkhazian"
 msgstr "Abchaseg"
 
 #. Name for abl
-#, fuzzy
 msgid "Lampung Nyo"
-msgstr "Sango"
+msgstr "Lampung Nyo"
 
 #. Name for abm
 msgid "Abanyom"
-msgstr ""
+msgstr "Abanyom"
 
 #. Name for abn
 msgid "Abua"
-msgstr ""
+msgstr "Abua"
 
 #. Name for abo
 msgid "Abon"
-msgstr ""
+msgstr "Abon"
 
 #. Name for abp
 msgid "Abellen Ayta"
-msgstr ""
+msgstr "Abellen Ayta"
 
 #. Inverted name for abp
 msgid "Ayta, Abellen"
-msgstr ""
+msgstr "Ayta, Abellen"
 
 #. Name for abq
-#, fuzzy
 msgid "Abaza"
-msgstr "Abcaseg"
+msgstr "Abasa"
 
 #. Name for abr
 msgid "Abron"
-msgstr ""
+msgstr "Abron"
 
 #. Name for abs
 msgid "Ambonese Malay"
@@ -251,11 +240,11 @@ msgstr ""
 
 #. Name for abt
 msgid "Ambulas"
-msgstr ""
+msgstr "Ambulas"
 
 #. Name for abu
 msgid "Abure"
-msgstr ""
+msgstr "Abure"
 
 #. Name for abv
 #, fuzzy
@@ -268,30 +257,28 @@ msgid "Arabic, Baharna"
 msgstr "Wcreineg"
 
 #. Name for abw
-#, fuzzy
 msgid "Pal"
-msgstr "Somalieg"
+msgstr "Pal"
 
 #. Name for abx
 msgid "Inabaknon"
-msgstr ""
+msgstr "Inabacnon"
 
 #. Name for aby
 msgid "Aneme Wake"
 msgstr ""
 
 #. Name for abz
-#, fuzzy
 msgid "Abui"
-msgstr "Arabeg"
+msgstr "Abui"
 
 #. Name for aca
 msgid "Achagua"
-msgstr ""
+msgstr "Achagua"
 
 #. Name for acb
 msgid "Áncá"
-msgstr ""
+msgstr "Áncá"
 
 #. Name for acd
 msgid "Gikyode"
@@ -335,9 +322,8 @@ msgid "Arabic, Mesopotamian"
 msgstr ""
 
 #. Name for acn
-#, fuzzy
 msgid "Achang"
-msgstr "Shona"
+msgstr "Achang"
 
 #. Name for acp
 msgid "Eastern Acipa"
@@ -356,17 +342,16 @@ msgid "Arabic, Ta'izzi-Adeni"
 msgstr ""
 
 #. Name for acr
-#, fuzzy
 msgid "Achi"
-msgstr "Tsieinëeg"
+msgstr "Achi"
 
 #. Name for acs
 msgid "Acroá"
-msgstr ""
+msgstr "Acroá"
 
 #. Name for act
 msgid "Achterhoeks"
-msgstr ""
+msgstr "Achterhoeks"
 
 #. Name for acu
 msgid "Achuar-Shiwiar"
@@ -407,24 +392,23 @@ msgstr ""
 
 #. Name for acz
 msgid "Acheron"
-msgstr ""
+msgstr "Acheron"
 
 #. Name for ada
 msgid "Adangme"
 msgstr "Adangmëeg"
 
 #. Name for adb
-#, fuzzy
 msgid "Atauran"
-msgstr "Malaieg"
+msgstr "Atauran"
 
 #. Name for add
 msgid "Lidzonka"
-msgstr ""
+msgstr "Lidsonca"
 
 #. Name for ade
 msgid "Adele"
-msgstr ""
+msgstr "Adele"
 
 #. Name for adf
 #, fuzzy
@@ -437,43 +421,39 @@ msgstr ""
 
 #. Name for adg
 msgid "Andegerebinha"
-msgstr ""
+msgstr "Andegerebinha"
 
 #. Name for adh
 msgid "Adhola"
-msgstr ""
+msgstr "Adhola"
 
 #. Name for adi
-#, fuzzy
 msgid "Adi"
-msgstr "Swahili"
+msgstr "Adi"
 
 #. Name for adj
 msgid "Adioukrou"
 msgstr ""
 
 #. Name for adl
-#, fuzzy
 msgid "Galo"
-msgstr "Laoeg"
+msgstr "Galo"
 
 #. Name for adn
-#, fuzzy
 msgid "Adang"
-msgstr "Sango"
+msgstr "Adang"
 
 #. Name for ado
 msgid "Abu"
-msgstr ""
+msgstr "Abu"
 
 #. Name for adq
 msgid "Adangbe"
-msgstr ""
+msgstr "Adangbe"
 
 #. Name for adr
-#, fuzzy
 msgid "Adonara"
-msgstr "Aimareg"
+msgstr "Adonara"
 
 #. Name for ads
 msgid "Adamorobe Sign Language"
@@ -481,16 +461,15 @@ msgstr ""
 
 #. Name for adt
 msgid "Adnyamathanha"
-msgstr ""
+msgstr "Adnyamathanha"
 
 #. Name for adu
 msgid "Aduge"
-msgstr ""
+msgstr "Aduge"
 
 #. Name for adw
-#, fuzzy
 msgid "Amundava"
-msgstr "Rwndi"
+msgstr "Amundava"
 
 #. Name for adx
 #, fuzzy
@@ -503,18 +482,16 @@ msgid "Tibetan, Amdo"
 msgstr "Tibeteg"
 
 #. Name for ady
-#, fuzzy
 msgid "Adyghe"
-msgstr "Wigwreg"
+msgstr "Adyghe"
 
 #. Name for adz
 msgid "Adzera"
-msgstr ""
+msgstr "Adsera"
 
 #. Name for aea
-#, fuzzy
 msgid "Areba"
-msgstr "Armeneg"
+msgstr "Areba"
 
 #. Name for aeb
 msgid "Tunisian Arabic"
@@ -551,15 +528,15 @@ msgstr "Ffriseg"
 
 #. Name for aek
 msgid "Haeke"
-msgstr ""
+msgstr "Haece"
 
 #. Name for ael
 msgid "Ambele"
-msgstr ""
+msgstr "Ambele"
 
 #. Name for aem
 msgid "Arem"
-msgstr ""
+msgstr "Arem"
 
 #. Name for aen
 msgid "Armenian Sign Language"
@@ -567,7 +544,7 @@ msgstr ""
 
 #. Name for aeq
 msgid "Aer"
-msgstr ""
+msgstr "Aer"
 
 #. Name for aer
 msgid "Eastern Arrernte"
@@ -579,27 +556,23 @@ msgstr ""
 
 #. Name for aes
 msgid "Alsea"
-msgstr ""
+msgstr "Alsea"
 
 #. Name for aeu
-#, fuzzy
 msgid "Akeu"
-msgstr "Abcaseg"
+msgstr "Aceu"
 
 #. Name for aew
-#, fuzzy
 msgid "Ambakich"
-msgstr "Arabeg"
+msgstr "Ambaceg"
 
 #. Name for aey
-#, fuzzy
 msgid "Amele"
-msgstr "Asameg"
+msgstr "Amele"
 
 #. Name for aez
-#, fuzzy
 msgid "Aeka"
-msgstr "Abcaseg"
+msgstr "Aeca"
 
 #. Name for afb
 #, fuzzy
@@ -612,13 +585,12 @@ msgid "Arabic, Gulf"
 msgstr "Arabeg"
 
 #. Name for afd
-#, fuzzy
 msgid "Andai"
-msgstr "Rwndi"
+msgstr "Andai"
 
 #. Name for afe
 msgid "Putukwam"
-msgstr ""
+msgstr "Putucwam"
 
 #. Name for afg
 #, fuzzy
@@ -627,29 +599,27 @@ msgstr "Malagasi"
 
 #. Name for afh
 msgid "Afrihili"
-msgstr ""
+msgstr "Afrihili"
 
 #. Name for afi
 msgid "Akrukay"
 msgstr ""
 
 #. Name for afk
-#, fuzzy
 msgid "Nanubae"
-msgstr "Swati"
+msgstr "Nanubae"
 
 #. Name for afn
 msgid "Defaka"
-msgstr ""
+msgstr "Defaca"
 
 #. Name for afo
 msgid "Eloyi"
-msgstr ""
+msgstr "Eloyi"
 
 #. Name for afp
-#, fuzzy
 msgid "Tapei"
-msgstr "Tai"
+msgstr "Tapei"
 
 #. Name for afr
 msgid "Afrikaans"
@@ -665,101 +635,91 @@ msgstr ""
 
 #. Name for aft
 msgid "Afitti"
-msgstr ""
+msgstr "Afitti"
 
 #. Name for afu
 msgid "Awutu"
-msgstr ""
+msgstr "Awutu"
 
 #. Name for afz
 msgid "Obokuitai"
 msgstr ""
 
 #. Name for aga
-#, fuzzy
 msgid "Aguano"
-msgstr "Abcaseg"
+msgstr "Aguano"
 
 #. Name for agb
-#, fuzzy
 msgid "Legbo"
-msgstr "Groeg"
+msgstr "Legbo"
 
 #. Name for agc
 msgid "Agatu"
-msgstr ""
+msgstr "Agatu"
 
 #. Name for agd
-#, fuzzy
 msgid "Agarabi"
-msgstr "Arabeg"
+msgstr "Agarabi"
 
 #. Name for age
-#, fuzzy
 msgid "Angal"
-msgstr "Lingala"
+msgstr "Angal"
 
 #. Name for agf
-#, fuzzy
 msgid "Arguni"
-msgstr "Wcreineg"
+msgstr "Arguni"
 
 #. Name for agg
-#, fuzzy
 msgid "Angor"
-msgstr "Sango"
+msgstr "Angor"
 
 #. Name for agh
-#, fuzzy
 msgid "Ngelima"
-msgstr "Nepaleg"
+msgstr "Ngelima"
 
 #. Name for agi
-#, fuzzy
 msgid "Agariya"
-msgstr "Tigris"
+msgstr "Agariya"
 
 #. Name for agj
 msgid "Argobba"
-msgstr ""
+msgstr "Argobba"
 
 #. Name for agk
 msgid "Isarog Agta"
-msgstr ""
+msgstr "Isarog Agta"
 
 #. Inverted name for agk
 msgid "Agta, Isarog"
-msgstr ""
+msgstr "Agta, Isarog"
 
 #. Name for agl
 msgid "Fembe"
-msgstr ""
+msgstr "Fembe"
 
 #. Name for agm
-#, fuzzy
 msgid "Angaataha"
-msgstr "Catalaneg"
+msgstr "Angaataha"
 
 #. Name for agn
 msgid "Agutaynen"
-msgstr ""
+msgstr "Agutaynen"
 
 #. Name for ago
-#, fuzzy
 msgid "Tainae"
-msgstr "Tswana"
+msgstr "Tainae"
 
 #. Name for agq
 msgid "Aghem"
-msgstr ""
+msgstr "Aghem"
 
 #. Name for agr
 msgid "Aguaruna"
-msgstr ""
+msgstr "Aguaruna"
 
 #. Name for ags
 msgid "Esimbi"
-msgstr ""
+msgstr "Esimbi"
 
 #. Name for agt
 msgid "Central Cagayan Agta"
@@ -771,24 +731,23 @@ msgstr ""
 
 #. Name for agu
 msgid "Aguacateco"
-msgstr ""
+msgstr "Aguacateco"
 
 #. Name for agv
 msgid "Remontado Dumagat"
-msgstr ""
+msgstr "Remontado Dumagat"
 
 #. Inverted name for agv
 msgid "Dumagat, Remontado"
-msgstr ""
+msgstr "Dumagat, Remontado"
 
 #. Name for agw
-#, fuzzy
 msgid "Kahua"
-msgstr "Canareg"
+msgstr "Cahua"
 
 #. Name for agx
 msgid "Aghul"
-msgstr ""
+msgstr "Aghul"
 
 #. Name for agy
 msgid "Southern Alta"
@@ -807,22 +766,20 @@ msgid "Agta, Mt. Iriga"
 msgstr ""
 
 #. Name for aha
-#, fuzzy
 msgid "Ahanta"
-msgstr "Swati"
+msgstr "Ahanta"
 
 #. Name for ahb
 msgid "Axamb"
-msgstr ""
+msgstr "Ahamb"
 
 #. Name for ahg
 msgid "Qimant"
 msgstr ""
 
 #. Name for ahh
-#, fuzzy
 msgid "Aghu"
-msgstr "Wigwreg"
+msgstr "Aghu"
 
 #. Name for ahi
 msgid "Tiagbamrin Aizi"
@@ -839,7 +796,7 @@ msgstr "Abcaseg"
 
 #. Name for ahl
 msgid "Igo"
-msgstr ""
+msgstr "Igo"
 
 #. Name for ahm
 msgid "Mobumrin Aizi"
@@ -851,11 +808,11 @@ msgstr ""
 
 #. Name for ahn
 msgid "Àhàn"
-msgstr ""
+msgstr "Àhàn"
 
 #. Name for aho
 msgid "Ahom"
-msgstr ""
+msgstr "Ahom"
 
 #. Name for ahp
 msgid "Aproumu Aizi"
@@ -866,44 +823,40 @@ msgid "Aizi, Aproumu"
 msgstr ""
 
 #. Name for ahr
-#, fuzzy
 msgid "Ahirani"
-msgstr "Abcaseg"
+msgstr "Ahirani"
 
 #. Name for ahs
 msgid "Ashe"
-msgstr ""
+msgstr "Ashe"
 
 #. Name for aht
 msgid "Ahtena"
-msgstr ""
+msgstr "Ahtena"
 
 #. Name for aia
-#, fuzzy
 msgid "Arosi"
-msgstr "Maori"
+msgstr "Arosi"
 
 #. Name for aib
 msgid "Ainu (China)"
 msgstr ""
 
 #. Name for aic
-#, fuzzy
 msgid "Ainbai"
-msgstr "Hindi"
+msgstr "Ainbai"
 
 #. Name for aid
 msgid "Alngith"
-msgstr ""
+msgstr "Alngith"
 
 #. Name for aie
-#, fuzzy
 msgid "Amara"
-msgstr "Aimareg"
+msgstr "Amara"
 
 #. Name for aif
 msgid "Agi"
-msgstr ""
+msgstr "Agi"
 
 #. Name for aig
 msgid "Antigua and Barbuda Creole English"
@@ -915,7 +868,7 @@ msgstr ""
 
 #. Name for aih
 msgid "Ai-Cham"
-msgstr ""
+msgstr "Ai-Cham"
 
 #. Name for aii
 msgid "Assyrian Neo-Aramaic"
@@ -932,15 +885,15 @@ msgstr "Lithwaneg"
 
 #. Name for aik
 msgid "Ake"
-msgstr ""
+msgstr "Ace"
 
 #. Name for ail
 msgid "Aimele"
-msgstr ""
+msgstr "Aimele"
 
 #. Name for aim
 msgid "Aimol"
-msgstr ""
+msgstr "Aimol"
 
 #. Name for ain
 msgid "Ainu (Japan)"
@@ -948,7 +901,7 @@ msgstr ""
 
 #. Name for aio
 msgid "Aiton"
-msgstr ""
+msgstr "Aiton"
 
 #. Name for aip
 msgid "Burumakok"
@@ -959,27 +912,24 @@ msgid "Aimaq"
 msgstr ""
 
 #. Name for air
-#, fuzzy
 msgid "Airoran"
-msgstr "Corëeg"
+msgstr "Airoraneg"
 
 #. Name for ait
 msgid "Arikem"
 msgstr ""
 
 #. Name for aiw
-#, fuzzy
 msgid "Aari"
-msgstr "Amhareg"
+msgstr "Aari"
 
 #. Name for aix
-#, fuzzy
 msgid "Aighon"
-msgstr "Shona"
+msgstr "Aighon"
 
 #. Name for aiy
 msgid "Ali"
-msgstr ""
+msgstr "Ali"
 
 #. Name for aja
 msgid "Aja (South Sudan)"
@@ -991,12 +941,11 @@ msgstr ""
 
 #. Name for aji
 msgid "Ajië"
-msgstr ""
+msgstr "Ajië"
 
 #. Name for ajn
-#, fuzzy
 msgid "Andajin"
-msgstr "Rwndi"
+msgstr "Andajin"
 
 #. Name for ajp
 msgid "South Levantine Arabic"
@@ -1022,7 +971,7 @@ msgstr ""
 
 #. Name for ajw
 msgid "Ajawa"
-msgstr ""
+msgstr "Ajawa"
 
 #. Name for ajz
 #, fuzzy
@@ -1046,7 +995,7 @@ msgstr "Indoneseg"
 
 #. Name for akc
 msgid "Mpur"
-msgstr ""
+msgstr "Mpur"
 
 #. Name for akd
 msgid "Ukpet-Ehom"
@@ -1072,7 +1021,7 @@ msgstr ""
 
 #. Name for aki
 msgid "Aiome"
-msgstr ""
+msgstr "Aiome"
 
 #. Name for akj
 msgid "Aka-Jeru"
@@ -1099,7 +1048,7 @@ msgstr ""
 
 #. Name for akp
 msgid "Siwu"
-msgstr ""
+msgstr "Siwu"
 
 #. Name for akq
 #, fuzzy
@@ -1141,60 +1090,52 @@ msgid "Aka-Kol"
 msgstr ""
 
 #. Name for akz
-#, fuzzy
 msgid "Alabama"
-msgstr "Albaneg"
+msgstr "Alabama"
 
 #. Name for ala
-#, fuzzy
 msgid "Alago"
-msgstr "Sango"
+msgstr "Alago"
 
 #. Name for alc
 msgid "Qawasqar"
 msgstr ""
 
 #. Name for ald
-#, fuzzy
 msgid "Alladian"
-msgstr "Abcaseg"
+msgstr "Alladian"
 
 #. Name for ale
 msgid "Aleut"
-msgstr ""
+msgstr "Aleut"
 
 #. Name for alf
 msgid "Alege"
-msgstr ""
+msgstr "Alege"
 
 #. Name for alh
-#, fuzzy
 msgid "Alawa"
-msgstr "Albaneg"
+msgstr "Alawa"
 
 #. Name for ali
-#, fuzzy
 msgid "Amaimon"
-msgstr "Samöeg"
+msgstr "Amaimon"
 
 #. Name for alj
-#, fuzzy
 msgid "Alangan"
-msgstr "Albaneg"
+msgstr "Alangan"
 
 #. Name for alk
-#, fuzzy
 msgid "Alak"
-msgstr "Slofaceg"
+msgstr "Alac"
 
 #. Name for all
-#, fuzzy
 msgid "Allar"
-msgstr "Affareg"
+msgstr "Allar"
 
 #. Name for alm
 msgid "Amblong"
-msgstr ""
+msgstr "Amblong"
 
 #. Name for aln
 #, fuzzy
@@ -1212,15 +1153,15 @@ msgstr ""
 
 #. Name for alp
 msgid "Alune"
-msgstr ""
+msgstr "Alune"
 
 #. Name for alq
 msgid "Algonquin"
-msgstr ""
+msgstr "Algonquin"
 
 #. Name for alr
 msgid "Alutor"
-msgstr ""
+msgstr "Alutor"
 
 #. Name for als
 #, fuzzy
@@ -1242,49 +1183,47 @@ msgstr ""
 
 #. Name for alu
 msgid "'Are'are"
-msgstr ""
+msgstr "'Are'are"
 
 #. Name for alw
 msgid "Alaba-K’abeena"
 msgstr ""
 
 #. Name for alx
-#, fuzzy
 msgid "Amol"
-msgstr "Somalieg"
+msgstr "Amol"
 
 #. Name for aly
 msgid "Alyawarr"
-msgstr ""
+msgstr "Alyawarr"
 
 #. Name for alz
 msgid "Alur"
-msgstr ""
+msgstr "Alur"
 
 #. Name for ama
 msgid "Amanayé"
-msgstr ""
+msgstr "Amanayé"
 
 #. Name for amb
 msgid "Ambo"
-msgstr ""
+msgstr "Ambo"
 
 #. Name for amc
-#, fuzzy
 msgid "Amahuaca"
-msgstr "Amhareg"
+msgstr "Amahuaca"
 
 #. Name for ame
 msgid "Yanesha'"
-msgstr ""
+msgstr "Yanesha'"
 
 #. Name for amf
 msgid "Hamer-Banna"
-msgstr ""
+msgstr "Hamer-Banna"
 
 #. Name for amg
 msgid "Amurdak"
-msgstr ""
+msgstr "Amurdac"
 
 #. Name for amh
 msgid "Amharic"
@@ -1292,44 +1231,39 @@ msgstr "Amhareg"
 
 #. Name for ami
 msgid "Amis"
-msgstr ""
+msgstr "Amis"
 
 #. Name for amj
-#, fuzzy
 msgid "Amdang"
-msgstr "Sango"
+msgstr "Amdang"
 
 #. Name for amk
-#, fuzzy
 msgid "Ambai"
-msgstr "Arabeg"
+msgstr "Ambai"
 
 #. Name for aml
-#, fuzzy
 msgid "War-Jaintia"
-msgstr "Gwarani"
+msgstr "War-Jaintia"
 
 #. Name for amm
 msgid "Ama (Papua New Guinea)"
 msgstr ""
 
 #. Name for amn
-#, fuzzy
 msgid "Amanab"
-msgstr "Aimareg"
+msgstr "Amanab"
 
 #. Name for amo
 msgid "Amo"
-msgstr ""
+msgstr "Amo"
 
 #. Name for amp
 msgid "Alamblak"
 msgstr ""
 
 #. Name for amq
-#, fuzzy
 msgid "Amahai"
-msgstr "Amhareg"
+msgstr "Amahai"
 
 #. Name for amr
 #, fuzzy
@@ -1346,7 +1280,7 @@ msgstr ""
 
 #. Name for amt
 msgid "Amto"
-msgstr ""
+msgstr "Amto"
 
 #. Name for amu
 msgid "Guerrero Amuzgo"
@@ -1358,7 +1292,7 @@ msgstr ""
 
 #. Name for amv
 msgid "Ambelau"
-msgstr ""
+msgstr "Ambelau"
 
 #. Name for amw
 msgid "Western Neo-Aramaic"
@@ -1371,69 +1305,63 @@ msgstr "Ffriseg"
 
 #. Name for amx
 msgid "Anmatyerre"
-msgstr ""
+msgstr "Anmatyerre"
 
 #. Name for amy
-#, fuzzy
 msgid "Ami"
-msgstr "Arabeg"
+msgstr "Ami"
 
 #. Name for amz
 msgid "Atampaya"
-msgstr ""
+msgstr "Atampaya"
 
 #. Name for ana
 msgid "Andaqui"
 msgstr ""
 
 #. Name for anb
-#, fuzzy
 msgid "Andoa"
-msgstr "Rwndi"
+msgstr "Andoa"
 
 #. Name for anc
-#, fuzzy
 msgid "Ngas"
-msgstr "Tsongeg"
+msgstr "Ngas"
 
 #. Name for and
 msgid "Ansus"
-msgstr ""
+msgstr "Ansus"
 
 #. Name for ane
 msgid "Xârâcùù"
-msgstr ""
+msgstr "Xârâcùù"
 
 #. Name for anf
 msgid "Animere"
-msgstr ""
+msgstr "Animere"
 
 #. Name for ang
 msgid "Old English (ca. 450-1100)"
-msgstr ""
+msgstr "Hen Saesneg (ca. 450-1100)"
 
 #. Inverted name for ang
 msgid "English, Old (ca. 450-1100)"
-msgstr ""
+msgstr "Saesneg, Hen (ca. 450-1100)"
 
 #. Name for anh
-#, fuzzy
 msgid "Nend"
-msgstr "Tibeteg"
+msgstr "Nend"
 
 #. Name for ani
-#, fuzzy
 msgid "Andi"
-msgstr "Rwndi"
+msgstr "Andi"
 
 #. Name for anj
 msgid "Anor"
-msgstr ""
+msgstr "Anor"
 
 #. Name for ank
-#, fuzzy
 msgid "Goemai"
-msgstr "Somalieg"
+msgstr "Goemai"
 
 #. Name for anl
 #, fuzzy
@@ -1447,16 +1375,15 @@ msgstr "Shwangeg"
 
 #. Name for anm
 msgid "Anal"
-msgstr ""
+msgstr "Anal"
 
 #. Name for ann
-#, fuzzy
 msgid "Obolo"
-msgstr "Woloff"
+msgstr "Obolo"
 
 #. Name for ano
 msgid "Andoque"
-msgstr ""
+msgstr "Andoque"
 
 #. Name for anp
 #, fuzzy
@@ -1464,19 +1391,16 @@ msgid "Angika"
 msgstr "Abcaseg"
 
 #. Name for anq
-#, fuzzy
 msgid "Jarawa (India)"
-msgstr "Indoneseg"
+msgstr "Jarawa (India)"
 
 #. Name for anr
-#, fuzzy
 msgid "Andh"
-msgstr "Sindhi"
+msgstr "Andh"
 
 #. Name for ans
-#, fuzzy
 msgid "Anserma"
-msgstr "Almaeneg"
+msgstr "Anserma"
 
 #. Name for ant
 msgid "Antakarinya"
@@ -1487,92 +1411,84 @@ msgid "Anuak"
 msgstr ""
 
 #. Name for anv
-#, fuzzy
 msgid "Denya"
-msgstr "Dsonca"
+msgstr "Denya"
 
 #. Name for anw
-#, fuzzy
 msgid "Anaang"
-msgstr "Sango"
+msgstr "Anaang"
 
 #. Name for anx
 msgid "Andra-Hus"
-msgstr ""
+msgstr "Andra-Hus"
 
 #. Name for any
-#, fuzzy
 msgid "Anyin"
-msgstr "Albaneg"
+msgstr "Anyin"
 
 #. Name for anz
 msgid "Anem"
-msgstr ""
+msgstr "Anem"
 
 #. Name for aoa
-#, fuzzy
 msgid "Angolar"
-msgstr "Mongoleg"
+msgstr "Angolar"
 
 #. Name for aob
 msgid "Abom"
-msgstr ""
+msgstr "Abom"
 
 #. Name for aoc
 msgid "Pemon"
-msgstr ""
+msgstr "Pemon"
 
 #. Name for aod
-#, fuzzy
 msgid "Andarum"
-msgstr "Canareg"
+msgstr "Andarum"
 
 #. Name for aoe
 msgid "Angal Enen"
-msgstr ""
+msgstr "Angal Enen"
 
 #. Name for aof
-#, fuzzy
 msgid "Bragat"
-msgstr "Bwlgareg"
+msgstr "Bragat"
 
 #. Name for aog
 msgid "Angoram"
-msgstr ""
+msgstr "Angoram"
 
 #. Name for aoi
 msgid "Anindilyakwa"
 msgstr ""
 
 #. Name for aoj
-#, fuzzy
 msgid "Mufian"
-msgstr "Rwsieg"
+msgstr "Mufian"
 
 #. Name for aok
 msgid "Arhö"
-msgstr ""
+msgstr "Arhö"
 
 #. Name for aol
 msgid "Alor"
-msgstr ""
+msgstr "Alor"
 
 #. Name for aom
 msgid "Ömie"
-msgstr ""
+msgstr "Ömie"
 
 #. Name for aon
 msgid "Bumbita Arapesh"
-msgstr ""
+msgstr "Bumbita Arapesh"
 
 #. Inverted name for aon
 msgid "Arapesh, Bumbita"
 msgstr ""
 
 #. Name for aor
-#, fuzzy
 msgid "Aore"
-msgstr "Corëeg"
+msgstr "Aore"
 
 #. Name for aos
 #, fuzzy
@@ -1580,26 +1496,24 @@ msgid "Taikat"
 msgstr "Tajiceg"
 
 #. Name for aot
-#, fuzzy
 msgid "Atong (India)"
-msgstr "Indoneseg"
+msgstr "Atong (India)"
 
 #. Name for aou
 msgid "A'ou"
-msgstr ""
+msgstr "A'ou"
 
 #. Name for aox
 msgid "Atorada"
-msgstr ""
+msgstr "Atorada"
 
 #. Name for aoz
 msgid "Uab Meto"
-msgstr ""
+msgstr "Uab Meto"
 
 #. Name for apb
-#, fuzzy
 msgid "Sa'a"
-msgstr "Sansgrit"
+msgstr "Sa'a"
 
 #. Name for apc
 msgid "North Levantine Arabic"
@@ -1634,19 +1548,16 @@ msgid "Agta, Pahanan"
 msgstr "Wcreineg"
 
 #. Name for apg
-#, fuzzy
 msgid "Ampanang"
-msgstr "Albaneg"
+msgstr "Ampanang"
 
 #. Name for aph
-#, fuzzy
 msgid "Athpariya"
-msgstr "Amhareg"
+msgstr "Athpariya"
 
 #. Name for api
-#, fuzzy
 msgid "Apiaká"
-msgstr "Nepaleg"
+msgstr "Apiaká"
 
 #. Name for apj
 msgid "Jicarilla Apache"
@@ -1682,17 +1593,15 @@ msgstr ""
 
 #. Name for apn
 msgid "Apinayé"
-msgstr ""
+msgstr "Apinayé"
 
 #. Name for apo
-#, fuzzy
 msgid "Ambul"
-msgstr "Zwlw"
+msgstr "Ambul"
 
 #. Name for app
-#, fuzzy
 msgid "Apma"
-msgstr "Aimareg"
+msgstr "Apma"
 
 #. Name for apq
 msgid "A-Pucikwar"
@@ -1704,19 +1613,19 @@ msgstr ""
 
 #. Name for aps
 msgid "Arop-Sissano"
-msgstr ""
+msgstr "Arop-Sissano"
 
 #. Name for apt
 msgid "Apatani"
-msgstr ""
+msgstr "Apatani"
 
 #. Name for apu
 msgid "Apurinã"
-msgstr ""
+msgstr "Apurinã"
 
 #. Name for apv
 msgid "Alapmunte"
-msgstr ""
+msgstr "Alapmunte"
 
 #. Name for apw
 #, fuzzy
@@ -1729,11 +1638,11 @@ msgstr ""
 
 #. Name for apx
 msgid "Aputai"
-msgstr ""
+msgstr "Aputai"
 
 #. Name for apy
 msgid "Apalaí"
-msgstr ""
+msgstr "Apalaí"
 
 #. Name for apz
 msgid "Safeyoka"
@@ -1746,15 +1655,15 @@ msgstr "Tsieinëeg"
 
 #. Name for aqd
 msgid "Ampari Dogon"
-msgstr ""
+msgstr "Ampari Dogon"
 
 #. Inverted name for aqd
 msgid "Dogon, Ampari"
-msgstr ""
+msgstr "Dogon, Ampari"
 
 #. Name for aqg
 msgid "Arigidi"
-msgstr ""
+msgstr "Arigidi"
 
 #. Name for aqk
 #, fuzzy
@@ -1763,7 +1672,7 @@ msgstr "Dsonca"
 
 #. Name for aqm
 msgid "Atohwaim"
-msgstr ""
+msgstr "Atohwaim"
 
 #. Name for aqn
 msgid "Northern Alta"
@@ -1775,21 +1684,19 @@ msgstr ""
 
 #. Name for aqp
 msgid "Atakapa"
-msgstr ""
+msgstr "Atakapa"
 
 #. Name for aqr
 msgid "Arhâ"
-msgstr ""
+msgstr "Arhâ"
 
 #. Name for aqt
-#, fuzzy
 msgid "Angaité"
-msgstr "Lingala"
+msgstr "Angaité"
 
 #. Name for aqz
-#, fuzzy
 msgid "Akuntsu"
-msgstr "Nawrŵeg"
+msgstr "Akuntsu"
 
 #. Name for ara
 msgid "Arabic"
@@ -1812,9 +1719,8 @@ msgid "Aramaic, Official (700-300 BCE)"
 msgstr ""
 
 #. Name for ard
-#, fuzzy
 msgid "Arabana"
-msgstr "Wcreineg"
+msgstr "Arabana"
 
 #. Name for are
 #, fuzzy
@@ -1826,52 +1732,44 @@ msgid "Arrarnta, Western"
 msgstr ""
 
 #. Name for arg
-#, fuzzy
 msgid "Aragonese"
-msgstr "Ffaröeg"
+msgstr "Aragoneg"
 
 #. Name for arh
-#, fuzzy
 msgid "Arhuaco"
-msgstr "Arabeg"
+msgstr "Arhuaco"
 
 #. Name for ari
-#, fuzzy
 msgid "Arikara"
-msgstr "Affricaneg"
+msgstr "Arikara"
 
 #. Name for arj
-#, fuzzy
 msgid "Arapaso"
-msgstr "Affricaneg"
+msgstr "Arapaso"
 
 #. Name for ark
 msgid "Arikapú"
-msgstr ""
+msgstr "Arikapú"
 
 #. Name for arl
-#, fuzzy
 msgid "Arabela"
-msgstr "Arabeg"
+msgstr "Arabela"
 
 #. Name for arn
-#, fuzzy
 msgid "Mapudungun"
-msgstr "Manaweg"
+msgstr "Mapudungun"
 
 #. Name for aro
-#, fuzzy
 msgid "Araona"
-msgstr "Ffaröeg"
+msgstr "Araona"
 
 #. Name for arp
 msgid "Arapaho"
-msgstr ""
+msgstr "Arapaho"
 
 #. Name for arq
-#, fuzzy
 msgid "Algerian Arabic"
-msgstr "Arabeg"
+msgstr "Arabeg Algerianaidd"
 
 #. Inverted name for arq
 msgid "Arabic, Algerian"
@@ -1897,7 +1795,7 @@ msgstr ""
 
 #. Name for arv
 msgid "Arbore"
-msgstr ""
+msgstr "Arbore"
 
 #. Name for arw
 msgid "Arawak"
@@ -1931,7 +1829,7 @@ msgstr ""
 
 #. Name for asb
 msgid "Assiniboine"
-msgstr ""
+msgstr "Assiniboine"
 
 #. Name for asc
 msgid "Casuarina Coast Asmat"

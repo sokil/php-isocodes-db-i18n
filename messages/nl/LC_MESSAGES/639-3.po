@@ -8,7 +8,7 @@
 # Taco Witte <tcwitte@cs.uu.nl>, 2004.
 # Luk Claes <luk.claes@ugent.be>, 2005.
 # Freek de Kruijf <f.de.kruijf@gmail.com>, 2009-2015, 2017.
-# Pander <pander@users.sourceforge.net>, 2018, 2020, 2021, 2022.
+# Pander <pander@users.sourceforge.net>, 2018, 2020, 2021, 2022, 2023.
 # Nathan Follens <nthn@unseen.is>, 2019.
 # Anonymous <noreply@weblate.org>, 2020.
 # Frans Spiesschaert <frans.spiesschaert@gmail.com>, 2023.
@@ -18,8 +18,8 @@ msgstr ""
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2022-07-25 22:15+0200\n"
-"PO-Revision-Date: 2023-03-20 09:23+0000\n"
-"Last-Translator: Frans Spiesschaert <frans.spiesschaert@gmail.com>\n"
+"PO-Revision-Date: 2023-04-22 14:41+0000\n"
+"Last-Translator: Pander <pander@users.sourceforge.net>\n"
 "Language-Team: Dutch <https://hosted.weblate.org/projects/iso-codes/"
 "iso-639-3/nl/>\n"
 "Language: nl\n"
@@ -27,7 +27,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.16.2-dev\n"
+"X-Generator: Weblate 4.18-dev\n"
 "X-Bugs: Report translation errors to the Language-Team address.\n"
 
 #. Name for aaa
@@ -447,8 +447,9 @@ msgid "Adonara"
 msgstr "Adonara"
 
 #. Name for ads
+#, fuzzy
 msgid "Adamorobe Sign Language"
-msgstr "Adamorobe gebarentaal"
+msgstr "Adamorobe Gebarentaal"
 
 #. Name for adt
 msgid "Adnyamathanha"
@@ -937,10 +938,8 @@ msgid "Arabic, South Levantine"
 msgstr "Arabisch, Zuid-Levantijns"
 
 #. Name for ajs
-#, fuzzy
-#| msgid "Algerian Sign Language"
 msgid "Algerian Jewish Sign Language"
-msgstr "Algerijnse Gebarentaal"
+msgstr "Algerijns-joodse Gebarentaal"
 
 #. Name for aju
 msgid "Judeo-Moroccan Arabic"
@@ -1869,6 +1868,7 @@ msgid "Asoa"
 msgstr "Asoa"
 
 #. Name for asw
+#, fuzzy
 msgid "Australian Aborigines Sign Language"
 msgstr "Australische Aborigines Gebarentaal"
 
@@ -6658,7 +6658,7 @@ msgstr "Catalaanse Gebarentaal"
 #. Name for csd
 #, fuzzy
 msgid "Chiangmai Sign Language"
-msgstr "Chamische talen"
+msgstr "Chamische Gebarentaal"
 
 #. Name for cse
 msgid "Czech Sign Language"
@@ -6781,10 +6781,8 @@ msgid "Cree, Swampy"
 msgstr ""
 
 #. Name for csx
-#, fuzzy
-#| msgid "Chadian Sign Language"
 msgid "Cambodian Sign Language"
-msgstr "Tsjaadse Gebarentaal"
+msgstr "Cambodjaanse Gebarentaal"
 
 #. Name for csy
 msgid "Siyin Chin"
@@ -13790,7 +13788,7 @@ msgstr "Bodo (India)"
 #, fuzzy
 #| msgid "Armenian Sign Language"
 msgid "Amami Koniya Sign Language"
-msgstr "Armeense Gebarentaal"
+msgstr "Amami Koniya Gebarentaal"
 
 #. Name for jku
 #, fuzzy
@@ -18688,13 +18686,13 @@ msgstr ""
 #, fuzzy
 #| msgid "Indian Sign Language"
 msgid "Burundian Sign Language"
-msgstr "Indiaanse Gebarentaal"
+msgstr "Burundese Gebarentaal"
 
 #. Name for lsc
 #, fuzzy
 #| msgid "Albanian Sign Language"
 msgid "Albarradas Sign Language"
-msgstr "Albanese Gebarentaal"
+msgstr "Albarradas Gebarentaal"
 
 #. Name for lsd
 #, fuzzy
@@ -18725,10 +18723,8 @@ msgid "Saamia"
 msgstr "Sasaaks"
 
 #. Name for lsn
-#, fuzzy
-#| msgid "Libyan Sign Language"
 msgid "Tibetan Sign Language"
-msgstr "Lybische Gebarentaal"
+msgstr "Tibetaanse Gebarentaal"
 
 #. Name for lso
 msgid "Laos Sign Language"
@@ -18755,13 +18751,13 @@ msgstr "Trinidad en Tobago Gebarentaal"
 #, fuzzy
 #| msgid "Bolivian Sign Language"
 msgid "Sivia Sign Language"
-msgstr "Boliviaanse Gebarentaal"
+msgstr "Sivia Gebarentaal"
 
 #. Name for lsw
 #, fuzzy
 #| msgid "Rennellese Sign Language"
 msgid "Seychelles Sign Language"
-msgstr "Rennellese Gebarentaal"
+msgstr "Seychelles Gebarentaal"
 
 #. Name for lsy
 msgid "Mauritian Sign Language"
@@ -22259,7 +22255,7 @@ msgstr ""
 #. Name for mzc
 #, fuzzy
 msgid "Madagascar Sign Language"
-msgstr "Madagaskar Gebarentaal"
+msgstr "Madagaskarse Gebarentaal"
 
 #. Name for mzd
 #, fuzzy
@@ -27498,10 +27494,8 @@ msgid "Awyu, Asue"
 msgstr ""
 
 #. Name for psc
-#, fuzzy
-#| msgid "Indian Sign Language"
 msgid "Iranian Sign Language"
-msgstr "Indiaanse Gebarentaal"
+msgstr "Iraanse Gebarentaal"
 
 #. Name for psd
 msgid "Plains Indian Sign Language"
@@ -28560,7 +28554,7 @@ msgstr "Riang (India)"
 #, fuzzy
 #| msgid "British Sign Language"
 msgid "Bribri Sign Language"
-msgstr "Britse Gebarentaal"
+msgstr "Bribri Gebarentaal"
 
 #. Name for rif
 msgid "Tarifit"
@@ -28790,7 +28784,7 @@ msgstr "Mari"
 #, fuzzy
 #| msgid "French Sign Language"
 msgid "Brunca Sign Language"
-msgstr "Franse Gebarentaal"
+msgstr "Brunca Gebarentaal"
 
 #. Name for rnd
 #, fuzzy
@@ -28946,7 +28940,7 @@ msgstr "Miriwoong Gebarentaal"
 #, fuzzy
 #| msgid "Ugandan Sign Language"
 msgid "Rwandan Sign Language"
-msgstr "Ugandese Gebarentaal"
+msgstr "Rwandese Gebarentaal"
 
 #. Name for rtc
 msgid "Rungtu Chin"
@@ -31821,10 +31815,8 @@ msgid "Suabo"
 msgstr "Sangho"
 
 #. Name for szs
-#, fuzzy
-#| msgid "Colombian Sign Language"
 msgid "Solomon Islands Sign Language"
-msgstr "Colombiaanse Gebarentaal"
+msgstr "Solomon Eilanden Gebarentaal"
 
 #. Name for szv
 msgid "Isu (Fako Division)"
@@ -35857,9 +35849,8 @@ msgid "Wagdi"
 msgstr ""
 
 #. Name for wbs
-#, fuzzy
 msgid "West Bengal Sign Language"
-msgstr "Benkala Gebarentaal"
+msgstr "West Bengaalse Gebarentaal"
 
 #. Name for wbt
 #, fuzzy
@@ -39416,7 +39407,7 @@ msgstr "Joegoslavische Gebarentaal"
 #. Name for ysm
 #, fuzzy
 msgid "Myanmar Sign Language"
-msgstr "Bamako Gebarentaal"
+msgstr "Myanmar Gebarentaal"
 
 #. Name for ysn
 #, fuzzy

@@ -8,14 +8,15 @@
 # Wei-Lun Chao <bluebat@member.fsf.org>, 2008, 2013.
 # Louies <louies0623@gmail.com>, 2019.
 # Jack Liu <ywp033319@gmail.com>, 2022.
+# Abel Cheung <abelcheung@gmail.com>, 2023.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_15924\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2018-01-17 22:10+0100\n"
-"PO-Revision-Date: 2022-02-22 02:55+0000\n"
-"Last-Translator: Jack Liu <ywp033319@gmail.com>\n"
+"PO-Revision-Date: 2023-04-10 05:19+0000\n"
+"Last-Translator: Abel Cheung <abelcheung@gmail.com>\n"
 "Language-Team: Chinese (Traditional) <https://hosted.weblate.org/projects/"
 "iso-codes/iso-15924/zh_Hant/>\n"
 "Language: zh_TW\n"
@@ -23,7 +24,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.11-dev\n"
+"X-Generator: Weblate 4.17-dev\n"
 
 #. Name for Adlm
 msgid "Adlam"
@@ -155,7 +156,7 @@ msgstr "梵文字母天城體 (城文)"
 
 #. Name for Dsrt
 msgid "Deseret (Mormon)"
-msgstr "德瑟雷特文"
+msgstr "摩爾門教德撒律文"
 
 #. Name for Dupl
 msgid "Duployan shorthand, Duployan stenography"

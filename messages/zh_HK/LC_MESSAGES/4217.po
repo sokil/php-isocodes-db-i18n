@@ -9,7 +9,7 @@
 # - Wikipedia
 # .
 # Copyright ©
-# Abel Cheung <abelcheung@gmail.com>, 2007.
+# Abel Cheung <abelcheung@gmail.com>, 2007, 2023.
 # Walter Cheuk <wwycheuk@gmail.com>, 2019.
 # Jack Liu <ywp033319@gmail.com>, 2022.
 msgid ""
@@ -18,8 +18,8 @@ msgstr ""
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2022-06-01 15:01+0200\n"
-"PO-Revision-Date: 2022-02-22 02:55+0000\n"
-"Last-Translator: Jack Liu <ywp033319@gmail.com>\n"
+"PO-Revision-Date: 2023-04-10 05:19+0000\n"
+"Last-Translator: Abel Cheung <abelcheung@gmail.com>\n"
 "Language-Team: Chinese (Traditional, Hong Kong) <https://hosted.weblate.org/"
 "projects/iso-codes/iso-4217/zh_Hant_HK/>\n"
 "Language: zh_HK\n"
@@ -27,15 +27,15 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.11-dev\n"
+"X-Generator: Weblate 4.17-dev\n"
 
 #. Name for AED
 msgid "UAE Dirham"
-msgstr "阿拉伯聯合酋長國迪爾汗"
+msgstr "阿聯酋迪爾汗"
 
 #. Name for AFN
 msgid "Afghani"
-msgstr "阿富汗阿富汗尼"
+msgstr "阿富汗尼"
 
 #. Name for ALL
 msgid "Lek"
@@ -46,15 +46,12 @@ msgid "Armenian Dram"
 msgstr "亞美尼亞德拉姆"
 
 #. Name for ANG
-#, fuzzy
-#| msgid "Netherlands Antillian Guilder"
 msgid "Netherlands Antillean Guilder"
 msgstr "荷屬安的列斯盾"
 
 #. Name for AOA
-#, fuzzy
 msgid "Kwanza"
-msgstr "安哥拉寬扎"
+msgstr "寬扎"
 
 #. Name for ARS
 msgid "Argentine Peso"
@@ -65,22 +62,16 @@ msgid "Australian Dollar"
 msgstr "澳元"
 
 #. Name for AWG
-#, fuzzy
-#| msgid "Aruban Guilder"
 msgid "Aruban Florin"
-msgstr "阿魯巴盾"
+msgstr "阿魯巴弗羅林"
 
 #. Name for AZN
-#, fuzzy
-#| msgid "Azerbaijanian Manat"
 msgid "Azerbaijan Manat"
 msgstr "亞塞拜彊馬納特"
 
 #. Name for BAM
-#, fuzzy
-#| msgid "Convertible Marks"
 msgid "Convertible Mark"
-msgstr "波斯尼亞和黑山可兌換馬克"
+msgstr "波黑可兌換馬克"
 
 #. Name for BBD
 msgid "Barbados Dollar"
@@ -88,7 +79,7 @@ msgstr "巴巴多斯元"
 
 #. Name for BDT
 msgid "Taka"
-msgstr ""
+msgstr "塔卡"
 
 #. Name for BGN
 msgid "Bulgarian Lev"
@@ -116,7 +107,7 @@ msgstr "玻利維亞貨幣單位"
 
 #. Name for BOV
 msgid "Mvdol"
-msgstr ""
+msgstr "MVDOL"
 
 #. Name for BRL
 msgid "Brazilian Real"
@@ -127,16 +118,14 @@ msgid "Bahamian Dollar"
 msgstr "巴哈馬元"
 
 #. Name for BTN
-#, fuzzy
 msgid "Ngultrum"
-msgstr "不丹努扎姆"
+msgstr "努爾特魯姆"
 
 #. Name for BWP
 msgid "Pula"
 msgstr ""
 
 #. Name for BYN
-#, fuzzy
 msgid "Belarusian Ruble"
 msgstr "白俄羅斯盧布"
 
@@ -146,39 +135,33 @@ msgstr "伯利茲元"
 
 #. Name for CAD
 msgid "Canadian Dollar"
-msgstr "加拿大元"
+msgstr "加元"
 
 #. Name for CDF
-#, fuzzy
 msgid "Congolese Franc"
-msgstr "科摩羅法郎"
+msgstr "剛果法郎"
 
 #. Name for CHE
-#, fuzzy
-#| msgid "Euro"
 msgid "WIR Euro"
-msgstr "歐元"
+msgstr "WIR 歐元"
 
 #. Name for CHF
 msgid "Swiss Franc"
 msgstr "瑞士法郎"
 
 #. Name for CHW
-#, fuzzy
-#| msgid "Rwanda Franc"
 msgid "WIR Franc"
-msgstr "盧旺達法郎"
+msgstr "WIR 法郎"
 
 #. Name for CLF
 msgid "Unidad de Fomento"
-msgstr ""
+msgstr "UF金融單位"
 
 #. Name for CLP
 msgid "Chilean Peso"
 msgstr "智利披索"
 
 #. Name for CNY
-#, fuzzy
 msgid "Yuan Renminbi"
 msgstr "人民幣"
 
@@ -195,18 +178,14 @@ msgid "Costa Rican Colon"
 msgstr "哥斯達黎加科郎"
 
 #. Name for CUC
-#, fuzzy
-#| msgid "Convertible Marks"
 msgid "Peso Convertible"
-msgstr "波斯尼亞和黑山可兌換馬克"
+msgstr "古巴可兌換披索"
 
 #. Name for CUP
 msgid "Cuban Peso"
 msgstr "古巴披索"
 
 #. Name for CVE
-#, fuzzy
-#| msgid "Cape Verde Escudo"
 msgid "Cabo Verde Escudo"
 msgstr "佛得角埃斯庫多"
 
@@ -260,31 +239,27 @@ msgstr "英鎊"
 
 #. Name for GEL
 msgid "Lari"
-msgstr ""
+msgstr "拉里"
 
 #. Name for GHS
-#, fuzzy
 msgid "Ghana Cedi"
-msgstr "加納仙蔕"
+msgstr "加納塞地"
 
 #. Name for GIP
 msgid "Gibraltar Pound"
 msgstr "直布羅陀鎊"
 
 #. Name for GMD
-#, fuzzy
 msgid "Dalasi"
-msgstr "岡比亞達拉西"
+msgstr "達拉西"
 
 #. Name for GNF
-#, fuzzy
-#| msgid "Guinea Franc"
 msgid "Guinean Franc"
-msgstr "畿內亞法郎"
+msgstr "幾內亞法郎"
 
 #. Name for GTQ
 msgid "Quetzal"
-msgstr ""
+msgstr "格查爾"
 
 #. Name for GYD
 msgid "Guyana Dollar"
@@ -295,29 +270,26 @@ msgid "Hong Kong Dollar"
 msgstr "港元"
 
 #. Name for HNL
-#, fuzzy
 msgid "Lempira"
-msgstr "洪都拉斯倫皮拉"
+msgstr "倫皮拉"
 
 #. Name for HRK
 msgid "Kuna"
-msgstr ""
+msgstr "庫納"
 
 #. Name for HTG
-#, fuzzy
 msgid "Gourde"
-msgstr "海地古德"
+msgstr "古德"
 
 #. Name for HUF
 msgid "Forint"
-msgstr ""
+msgstr "福林"
 
 #. Name for IDR
 msgid "Rupiah"
-msgstr ""
+msgstr "盧比"
 
 #. Name for ILS
-#, fuzzy
 msgid "New Israeli Sheqel"
 msgstr "以色列新賽克爾"
 
@@ -347,7 +319,7 @@ msgstr "約旦元"
 
 #. Name for JPY
 msgid "Yen"
-msgstr ""
+msgstr "日圓"
 
 #. Name for KES
 msgid "Kenyan Shilling"
@@ -355,15 +327,13 @@ msgstr "肯尼亞先令"
 
 #. Name for KGS
 msgid "Som"
-msgstr ""
+msgstr "索姆"
 
 #. Name for KHR
 msgid "Riel"
-msgstr ""
+msgstr "瑞爾"
 
 #. Name for KMF
-#, fuzzy
-#| msgid "Comoro Franc"
 msgid "Comorian Franc"
 msgstr "科摩羅法郎"
 
@@ -373,7 +343,7 @@ msgstr "北韓圜"
 
 #. Name for KRW
 msgid "Won"
-msgstr ""
+msgstr "圜"
 
 #. Name for KWD
 msgid "Kuwaiti Dinar"
@@ -386,7 +356,7 @@ msgstr "開曼羣島元"
 # (Abel) 國家名稱：Sierra Leone (塞拉利昂)
 #. Name for KZT
 msgid "Tenge"
-msgstr "哈薩克堅戈"
+msgstr "堅戈"
 
 #. Name for LAK
 msgid "Lao Kip"
@@ -421,21 +391,20 @@ msgid "Moldovan Leu"
 msgstr "摩爾多瓦列伊"
 
 #. Name for MGA
-#, fuzzy
 msgid "Malagasy Ariary"
 msgstr "馬達加斯加阿里亞里"
 
 #. Name for MKD
 msgid "Denar"
-msgstr ""
+msgstr "第納爾"
 
 #. Name for MMK
 msgid "Kyat"
-msgstr ""
+msgstr "緬甸元"
 
 #. Name for MNT
 msgid "Tugrik"
-msgstr ""
+msgstr "圖格里克"
 
 #. Name for MOP
 msgid "Pataca"
@@ -443,15 +412,15 @@ msgstr "澳門圓"
 
 #. Name for MRU
 msgid "Ouguiya"
-msgstr ""
+msgstr "烏吉亞"
 
 #. Name for MUR
 msgid "Mauritius Rupee"
-msgstr "毛里裘斯盧比"
+msgstr "毛里求斯盧比"
 
 #. Name for MVR
 msgid "Rufiyaa"
-msgstr "馬爾代夫盧非亞"
+msgstr "盧非亞"
 
 #. Name for MWK
 msgid "Malawi Kwacha"
@@ -471,7 +440,7 @@ msgstr "馬來西亞令吉"
 
 #. Name for MZN
 msgid "Mozambique Metical"
-msgstr ""
+msgstr "莫桑比克梅蒂卡爾"
 
 #. Name for NAD
 msgid "Namibia Dollar"
@@ -479,13 +448,12 @@ msgstr "納米比亞元"
 
 #. Name for NGN
 msgid "Naira"
-msgstr "尼日利亞奈拉"
+msgstr "奈拉"
 
 # (Abel) 有點可疑
 #. Name for NIO
-#, fuzzy
 msgid "Cordoba Oro"
-msgstr "尼加拉瓜金哥多華"
+msgstr "尼加拉瓜科多巴"
 
 #. Name for NOK
 msgid "Norwegian Krone"
@@ -505,15 +473,15 @@ msgstr "阿曼里亞爾"
 
 #. Name for PAB
 msgid "Balboa"
-msgstr ""
+msgstr "巴波亞"
 
 #. Name for PEN
 msgid "Sol"
-msgstr ""
+msgstr "索爾"
 
 #. Name for PGK
 msgid "Kina"
-msgstr ""
+msgstr "基那"
 
 #. Name for PHP
 msgid "Philippine Peso"
@@ -529,7 +497,7 @@ msgstr ""
 
 #. Name for PYG
 msgid "Guarani"
-msgstr "巴拉圭瓜拉尼"
+msgstr "瓜拉尼"
 
 #. Name for QAR
 msgid "Qatari Rial"
@@ -537,14 +505,13 @@ msgstr "卡塔爾里亞爾"
 
 #. Name for RON
 msgid "Romanian Leu"
-msgstr ""
+msgstr "羅馬尼亞列伊"
 
 #. Name for RSD
 msgid "Serbian Dinar"
 msgstr "塞爾維亞第納爾"
 
 #. Name for RUB
-#, fuzzy
 msgid "Russian Ruble"
 msgstr "俄羅斯盧布"
 
@@ -600,7 +567,7 @@ msgstr "南蘇丹鎊"
 
 #. Name for STN
 msgid "Dobra"
-msgstr ""
+msgstr "多布拉"
 
 #. Name for SVC
 msgid "El Salvador Colon"
@@ -612,7 +579,7 @@ msgstr "敘利亞鎊"
 
 #. Name for SZL
 msgid "Lilangeni"
-msgstr "史瓦帝尼 (斯威士蘭) 里蘭吉尼"
+msgstr "里蘭吉尼"
 
 #. Name for THB
 msgid "Baht"
@@ -620,11 +587,11 @@ msgstr "泰銖"
 
 #. Name for TJS
 msgid "Somoni"
-msgstr "塔吉克索莫尼"
+msgstr "索莫尼"
 
 #. Name for TMT
 msgid "Turkmenistan New Manat"
-msgstr ""
+msgstr "土庫曼斯坦新馬納特"
 
 #. Name for TND
 msgid "Tunisian Dinar"
@@ -632,7 +599,7 @@ msgstr "突尼西亞第納爾"
 
 #. Name for TOP
 msgid "Pa’anga"
-msgstr "湯加潘加"
+msgstr "潘加"
 
 #. Name for TRY
 msgid "Turkish Lira"
@@ -652,7 +619,7 @@ msgstr "坦桑尼亞先令"
 
 #. Name for UAH
 msgid "Hryvnia"
-msgstr ""
+msgstr "格里夫尼亞"
 
 #. Name for UGX
 msgid "Uganda Shilling"
@@ -663,10 +630,8 @@ msgid "US Dollar"
 msgstr "美元"
 
 #. Name for USN
-#, fuzzy
-#| msgid "US Dollar"
 msgid "US Dollar (Next day)"
-msgstr "美元"
+msgstr "美元（次日）"
 
 #. Name for UYI
 msgid "Uruguay Peso en Unidades Indexadas (UI)"
@@ -686,11 +651,11 @@ msgstr "烏茲別克蘇姆"
 
 #. Name for VED, Name for VES
 msgid "Bolívar Soberano"
-msgstr ""
+msgstr "主權玻利瓦爾"
 
 #. Name for VND
 msgid "Dong"
-msgstr ""
+msgstr "盾"
 
 #. Name for VUV
 msgid "Vatu"
@@ -698,7 +663,7 @@ msgstr ""
 
 #. Name for WST
 msgid "Tala"
-msgstr ""
+msgstr "塔拉"
 
 #. Name for XAF
 msgid "CFA Franc BEAC"
@@ -734,7 +699,7 @@ msgstr "東加勒比元"
 
 #. Name for XDR
 msgid "SDR (Special Drawing Right)"
-msgstr ""
+msgstr "SDR（特別提款權）"
 
 #. Name for XOF
 msgid "CFA Franc BCEAO"
@@ -754,7 +719,7 @@ msgstr "白金"
 
 #. Name for XSU
 msgid "Sucre"
-msgstr ""
+msgstr "蘇克雷"
 
 #. Name for XTS
 msgid "Codes specifically reserved for testing purposes"
@@ -766,7 +731,7 @@ msgstr ""
 
 #. Name for XXX
 msgid "The codes assigned for transactions where no currency is involved"
-msgstr ""
+msgstr "分配給不涉及貨幣的交易的代碼"
 
 #. Name for YER
 msgid "Yemeni Rial"
@@ -774,7 +739,7 @@ msgstr "也門里亞爾"
 
 #. Name for ZAR
 msgid "Rand"
-msgstr ""
+msgstr "蘭特"
 
 #. Name for ZMW
 msgid "Zambian Kwacha"

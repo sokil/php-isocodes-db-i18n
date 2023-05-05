@@ -1,169 +1,167 @@
-# Translation of ISO 4217 to Traditional Chinese
+# Translation of ISO 4217 to LANGUAGE
 # Codes for the representation of currencies
-# .
+#
 # This file is distributed under the same license as the iso-codes package.
-# .
+#
 # Copyright ©
-# Wei-Lun Chao <bluebat@member.fsf.org>, 2010, 2013.
-# Louies <louies0623@gmail.com>, 2019.
-# Walter Cheuk <wwycheuk@gmail.com>, 2019.
-# Abel Cheung <abelcheung@gmail.com>, 2023.
+# dreigiau <sterilgrimed23@gmail.com>, 2023.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_4217\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2022-06-01 15:01+0200\n"
-"PO-Revision-Date: 2023-04-10 05:19+0000\n"
-"Last-Translator: Abel Cheung <abelcheung@gmail.com>\n"
-"Language-Team: Chinese (Traditional) <https://hosted.weblate.org/projects/"
-"iso-codes/iso-4217/zh_Hant/>\n"
-"Language: zh_TW\n"
+"PO-Revision-Date: 2023-04-22 17:42+0000\n"
+"Last-Translator: dreigiau <sterilgrimed23@gmail.com>\n"
+"Language-Team: Welsh <https://hosted.weblate.org/projects/iso-codes/iso-4217/"
+"cy/>\n"
+"Language: cy\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.17-dev\n"
+"Plural-Forms: nplurals=6; plural=(n==0) ? 0 : (n==1) ? 1 : (n==2) ? 2 : "
+"(n==3) ? 3 :(n==6) ? 4 : 5;\n"
+"X-Generator: Weblate 4.18-dev\n"
 
 #. Name for AED
 msgid "UAE Dirham"
-msgstr "阿拉伯聯合大公國迪拉姆"
+msgstr ""
 
 #. Name for AFN
 msgid "Afghani"
-msgstr "阿富汗尼"
+msgstr ""
 
 #. Name for ALL
 msgid "Lek"
-msgstr "列克"
+msgstr "Lec"
 
 #. Name for AMD
 msgid "Armenian Dram"
-msgstr "亞美尼亞德藍"
+msgstr ""
 
 #. Name for ANG
 msgid "Netherlands Antillean Guilder"
-msgstr "荷屬安地列斯盾"
+msgstr ""
 
 #. Name for AOA
 msgid "Kwanza"
-msgstr "寬扎"
+msgstr ""
 
 #. Name for ARS
 msgid "Argentine Peso"
-msgstr "阿根廷披索"
+msgstr ""
 
 #. Name for AUD
 msgid "Australian Dollar"
-msgstr "澳大利亞元"
+msgstr ""
 
 #. Name for AWG
 msgid "Aruban Florin"
-msgstr "阿魯巴弗羅林"
+msgstr ""
 
 #. Name for AZN
 msgid "Azerbaijan Manat"
-msgstr "亞塞拜然馬納特"
+msgstr "Manat Aserbaijan"
 
 #. Name for BAM
 msgid "Convertible Mark"
-msgstr "波黑可兌換馬克"
+msgstr ""
 
 #. Name for BBD
 msgid "Barbados Dollar"
-msgstr "巴貝多元"
+msgstr ""
 
 #. Name for BDT
 msgid "Taka"
-msgstr "塔卡"
+msgstr ""
 
 #. Name for BGN
 msgid "Bulgarian Lev"
-msgstr "保加利亞列弗"
+msgstr ""
 
 #. Name for BHD
 msgid "Bahraini Dinar"
-msgstr "巴林戴納"
+msgstr ""
 
 #. Name for BIF
 msgid "Burundi Franc"
-msgstr "蒲隆地法郎"
+msgstr ""
 
 #. Name for BMD
 msgid "Bermudian Dollar"
-msgstr "百慕達幣"
+msgstr ""
 
 #. Name for BND
 msgid "Brunei Dollar"
-msgstr "汶萊元"
+msgstr ""
 
 #. Name for BOB
 msgid "Boliviano"
-msgstr "玻利維亞諾"
+msgstr ""
 
 #. Name for BOV
 msgid "Mvdol"
-msgstr "MVDOL"
+msgstr ""
 
 #. Name for BRL
 msgid "Brazilian Real"
-msgstr "巴西里耳"
+msgstr "Real Brasil"
 
 #. Name for BSD
 msgid "Bahamian Dollar"
-msgstr "巴哈馬元"
+msgstr ""
 
 #. Name for BTN
 msgid "Ngultrum"
-msgstr "努爾特魯姆"
+msgstr ""
 
 #. Name for BWP
 msgid "Pula"
-msgstr "普拉"
+msgstr "Pula"
 
 #. Name for BYN
 msgid "Belarusian Ruble"
-msgstr "白俄羅斯盧布"
+msgstr ""
 
 #. Name for BZD
 msgid "Belize Dollar"
-msgstr "貝里斯幣"
+msgstr ""
 
 #. Name for CAD
 msgid "Canadian Dollar"
-msgstr "加拿大元"
+msgstr ""
 
 #. Name for CDF
 msgid "Congolese Franc"
-msgstr "剛果法郎"
+msgstr ""
 
 #. Name for CHE
 msgid "WIR Euro"
-msgstr "WIR 歐元"
+msgstr ""
 
 #. Name for CHF
 msgid "Swiss Franc"
-msgstr "瑞士法郎"
+msgstr ""
 
 #. Name for CHW
 msgid "WIR Franc"
-msgstr "WIR 法郎"
+msgstr ""
 
 #. Name for CLF
 msgid "Unidad de Fomento"
-msgstr "UF金融單位"
+msgstr ""
 
 #. Name for CLP
 msgid "Chilean Peso"
-msgstr "智利披索"
+msgstr ""
 
 #. Name for CNY
 msgid "Yuan Renminbi"
-msgstr "中國人民幣元"
+msgstr ""
 
 #. Name for COP
 msgid "Colombian Peso"
-msgstr "哥倫比亞披索"
+msgstr ""
 
 #. Name for COU
 msgid "Unidad de Valor Real"
@@ -171,187 +169,187 @@ msgstr ""
 
 #. Name for CRC
 msgid "Costa Rican Colon"
-msgstr "哥斯大黎加科郎"
+msgstr ""
 
 #. Name for CUC
 msgid "Peso Convertible"
-msgstr "古巴可兌換披索"
+msgstr ""
 
 #. Name for CUP
 msgid "Cuban Peso"
-msgstr "古巴披索"
+msgstr ""
 
 #. Name for CVE
 msgid "Cabo Verde Escudo"
-msgstr "維德角埃斯庫多"
+msgstr ""
 
 #. Name for CZK
 msgid "Czech Koruna"
-msgstr "捷克克朗"
+msgstr ""
 
 #. Name for DJF
 msgid "Djibouti Franc"
-msgstr "吉布地法郎"
+msgstr ""
 
 #. Name for DKK
 msgid "Danish Krone"
-msgstr "丹麥克朗"
+msgstr ""
 
 #. Name for DOP
 msgid "Dominican Peso"
-msgstr "多明尼加披索"
+msgstr ""
 
 #. Name for DZD
 msgid "Algerian Dinar"
-msgstr "阿爾及利亞戴納"
+msgstr ""
 
 #. Name for EGP
 msgid "Egyptian Pound"
-msgstr "埃及鎊"
+msgstr ""
 
 #. Name for ERN
 msgid "Nakfa"
-msgstr "厄立特里亞納克法"
+msgstr ""
 
 #. Name for ETB
 msgid "Ethiopian Birr"
-msgstr "衣索比亞比爾"
+msgstr ""
 
 #. Name for EUR
 msgid "Euro"
-msgstr "歐元"
+msgstr ""
 
 #. Name for FJD
 msgid "Fiji Dollar"
-msgstr "斐濟元"
+msgstr ""
 
 #. Name for FKP
 msgid "Falkland Islands Pound"
-msgstr "福克蘭群島鎊"
+msgstr ""
 
 #. Name for GBP
 msgid "Pound Sterling"
-msgstr "英鎊"
+msgstr ""
 
 #. Name for GEL
 msgid "Lari"
-msgstr "拉里"
+msgstr ""
 
 #. Name for GHS
 msgid "Ghana Cedi"
-msgstr "迦納塞地"
+msgstr ""
 
 #. Name for GIP
 msgid "Gibraltar Pound"
-msgstr "直布羅陀鎊"
+msgstr ""
 
 #. Name for GMD
 msgid "Dalasi"
-msgstr "甘比亞達拉西"
+msgstr ""
 
 #. Name for GNF
 msgid "Guinean Franc"
-msgstr "幾內亞法郎"
+msgstr ""
 
 #. Name for GTQ
 msgid "Quetzal"
-msgstr "瓜地馬拉格查爾"
+msgstr ""
 
 #. Name for GYD
 msgid "Guyana Dollar"
-msgstr "蓋亞那元"
+msgstr ""
 
 #. Name for HKD
 msgid "Hong Kong Dollar"
-msgstr "港元"
+msgstr ""
 
 #. Name for HNL
 msgid "Lempira"
-msgstr "倫皮拉"
+msgstr ""
 
 #. Name for HRK
 msgid "Kuna"
-msgstr "庫納"
+msgstr ""
 
 #. Name for HTG
 msgid "Gourde"
-msgstr "海地古德"
+msgstr ""
 
 #. Name for HUF
 msgid "Forint"
-msgstr "匈牙利福林"
+msgstr ""
 
 #. Name for IDR
 msgid "Rupiah"
-msgstr "印度尼西亞盧比"
+msgstr ""
 
 #. Name for ILS
 msgid "New Israeli Sheqel"
-msgstr "以色列新謝克爾"
+msgstr ""
 
 #. Name for INR
 msgid "Indian Rupee"
-msgstr "印度盧比"
+msgstr ""
 
 #. Name for IQD
 msgid "Iraqi Dinar"
-msgstr "伊拉克戴納"
+msgstr ""
 
 #. Name for IRR
 msgid "Iranian Rial"
-msgstr "伊朗里亞爾"
+msgstr ""
 
 #. Name for ISK
 msgid "Iceland Krona"
-msgstr "冰島克朗"
+msgstr ""
 
 #. Name for JMD
 msgid "Jamaican Dollar"
-msgstr "牙買加元"
+msgstr ""
 
 #. Name for JOD
 msgid "Jordanian Dinar"
-msgstr "約旦戴納"
+msgstr ""
 
 #. Name for JPY
 msgid "Yen"
-msgstr "日本日圓"
+msgstr ""
 
 #. Name for KES
 msgid "Kenyan Shilling"
-msgstr "肯亞先令"
+msgstr ""
 
 #. Name for KGS
 msgid "Som"
-msgstr "吉爾吉斯索姆"
+msgstr ""
 
 #. Name for KHR
 msgid "Riel"
-msgstr "柬埔寨瑞爾"
+msgstr ""
 
 #. Name for KMF
 msgid "Comorian Franc"
-msgstr "葛摩法郎"
+msgstr ""
 
 #. Name for KPW
 msgid "North Korean Won"
-msgstr "北韓朝鮮圜"
+msgstr ""
 
 #. Name for KRW
 msgid "Won"
-msgstr "南韓韓圜"
+msgstr "Won"
 
 #. Name for KWD
 msgid "Kuwaiti Dinar"
-msgstr "科威特戴納"
+msgstr ""
 
 #. Name for KYD
 msgid "Cayman Islands Dollar"
-msgstr "開曼群島幣"
+msgstr ""
 
 #. Name for KZT
 msgid "Tenge"
-msgstr "哈薩克坦吉"
+msgstr "Tenge"
 
 #. Name for LAK
 msgid "Lao Kip"
@@ -359,71 +357,71 @@ msgstr ""
 
 #. Name for LBP
 msgid "Lebanese Pound"
-msgstr "黎巴嫩鎊"
+msgstr ""
 
 #. Name for LKR
 msgid "Sri Lanka Rupee"
-msgstr "斯里蘭卡盧比"
+msgstr ""
 
 #. Name for LRD
 msgid "Liberian Dollar"
-msgstr "賴比瑞亞元"
+msgstr ""
 
 #. Name for LSL
 msgid "Loti"
-msgstr "賴索托洛蒂"
+msgstr "Loti"
 
 #. Name for LYD
 msgid "Libyan Dinar"
-msgstr "利比亞戴納"
+msgstr ""
 
 #. Name for MAD
 msgid "Moroccan Dirham"
-msgstr "摩洛哥迪拉姆"
+msgstr ""
 
 #. Name for MDL
 msgid "Moldovan Leu"
-msgstr "摩爾達維亞列伊"
+msgstr ""
 
 #. Name for MGA
 msgid "Malagasy Ariary"
-msgstr "馬達加斯加阿里亞里"
+msgstr ""
 
 #. Name for MKD
 msgid "Denar"
-msgstr "前南馬其頓代納爾"
+msgstr "Denar"
 
 #. Name for MMK
 msgid "Kyat"
-msgstr "緬甸元"
+msgstr "Kyat"
 
 #. Name for MNT
 msgid "Tugrik"
-msgstr "蒙古圖格里克"
+msgstr "Tugrik"
 
 #. Name for MOP
 msgid "Pataca"
-msgstr "澳門幣"
+msgstr "Pataca"
 
 #. Name for MRU
 msgid "Ouguiya"
-msgstr "毛利塔尼亞烏吉亞"
+msgstr "Ouguiya"
 
 #. Name for MUR
 msgid "Mauritius Rupee"
-msgstr "模里西斯盧比"
+msgstr ""
 
 #. Name for MVR
 msgid "Rufiyaa"
-msgstr "馬爾地夫拉菲亞"
+msgstr ""
 
 #. Name for MWK
 msgid "Malawi Kwacha"
-msgstr "馬拉威克瓦查"
+msgstr ""
 
 #. Name for MXN
 msgid "Mexican Peso"
-msgstr "墨西哥披索"
+msgstr ""
 
 #. Name for MXV
 msgid "Mexican Unidad de Inversion (UDI)"
@@ -431,199 +429,199 @@ msgstr ""
 
 #. Name for MYR
 msgid "Malaysian Ringgit"
-msgstr "馬來西亞林吉特"
+msgstr ""
 
 #. Name for MZN
 msgid "Mozambique Metical"
-msgstr "莫三比克梅蒂卡爾"
+msgstr ""
 
 #. Name for NAD
 msgid "Namibia Dollar"
-msgstr "納米比亞幣"
+msgstr ""
 
 #. Name for NGN
 msgid "Naira"
-msgstr "奈及利亞奈拉"
+msgstr "Naira"
 
 #. Name for NIO
 msgid "Cordoba Oro"
-msgstr "尼加拉瓜科多巴"
+msgstr ""
 
 #. Name for NOK
 msgid "Norwegian Krone"
-msgstr "挪威克朗"
+msgstr ""
 
 #. Name for NPR
 msgid "Nepalese Rupee"
-msgstr "尼泊爾盧比"
+msgstr ""
 
 #. Name for NZD
 msgid "New Zealand Dollar"
-msgstr "紐西蘭元"
+msgstr ""
 
 #. Name for OMR
 msgid "Rial Omani"
-msgstr "阿曼里亞爾"
+msgstr ""
 
 #. Name for PAB
 msgid "Balboa"
-msgstr "巴拿馬波亞"
+msgstr "Balboa"
 
 #. Name for PEN
 msgid "Sol"
-msgstr "索爾"
+msgstr "Sol"
 
 #. Name for PGK
 msgid "Kina"
-msgstr "巴布亞新幾內亞基那"
+msgstr "Kina"
 
 #. Name for PHP
 msgid "Philippine Peso"
-msgstr "菲律賓披索"
+msgstr ""
 
 #. Name for PKR
 msgid "Pakistan Rupee"
-msgstr "巴基斯坦盧比"
+msgstr ""
 
 #. Name for PLN
 msgid "Zloty"
-msgstr "波蘭羅提"
+msgstr "Zloty"
 
 #. Name for PYG
 msgid "Guarani"
-msgstr "巴拉圭瓜拉尼"
+msgstr "Guarani"
 
 #. Name for QAR
 msgid "Qatari Rial"
-msgstr "卡達里亞爾"
+msgstr ""
 
 #. Name for RON
 msgid "Romanian Leu"
-msgstr "羅馬尼亞列伊"
+msgstr ""
 
 #. Name for RSD
 msgid "Serbian Dinar"
-msgstr "塞爾維亞戴納"
+msgstr ""
 
 #. Name for RUB
 msgid "Russian Ruble"
-msgstr "俄羅斯盧布"
+msgstr ""
 
 #. Name for RWF
 msgid "Rwanda Franc"
-msgstr "盧安達法郎"
+msgstr ""
 
 #. Name for SAR
 msgid "Saudi Riyal"
-msgstr "沙烏地里亞爾"
+msgstr ""
 
 #. Name for SBD
 msgid "Solomon Islands Dollar"
-msgstr "索羅門群島元"
+msgstr ""
 
 #. Name for SCR
 msgid "Seychelles Rupee"
-msgstr "塞席爾盧比"
+msgstr ""
 
 #. Name for SDG
 msgid "Sudanese Pound"
-msgstr "蘇丹鎊"
+msgstr ""
 
 #. Name for SEK
 msgid "Swedish Krona"
-msgstr "瑞典克朗"
+msgstr ""
 
 #. Name for SGD
 msgid "Singapore Dollar"
-msgstr "新加坡元"
+msgstr ""
 
 #. Name for SHP
 msgid "Saint Helena Pound"
-msgstr "聖赫倫那島鎊"
+msgstr ""
 
 #. Name for SLE, Name for SLL
 msgid "Leone"
-msgstr "利昂"
+msgstr "Leone"
 
 #. Name for SOS
 msgid "Somali Shilling"
-msgstr "索馬利亞先令"
+msgstr ""
 
 #. Name for SRD
 msgid "Surinam Dollar"
-msgstr "蘇利南元"
+msgstr ""
 
 #. Name for SSP
 msgid "South Sudanese Pound"
-msgstr "南蘇丹鎊"
+msgstr ""
 
 #. Name for STN
 msgid "Dobra"
-msgstr "聖多美及普林西比多布拉"
+msgstr "Dobra"
 
 #. Name for SVC
 msgid "El Salvador Colon"
-msgstr "薩爾瓦多科郎"
+msgstr ""
 
 #. Name for SYP
 msgid "Syrian Pound"
-msgstr "敘利亞鎊"
+msgstr ""
 
 #. Name for SZL
 msgid "Lilangeni"
-msgstr "史瓦帝尼 (史瓦濟蘭) 里蘭吉尼"
+msgstr "Lilangeni"
 
 #. Name for THB
 msgid "Baht"
-msgstr "泰銖"
+msgstr "Baht"
 
 #. Name for TJS
 msgid "Somoni"
-msgstr "塔吉克索莫尼"
+msgstr "Somoni"
 
 #. Name for TMT
 msgid "Turkmenistan New Manat"
-msgstr "土庫曼斯坦新馬納特"
+msgstr ""
 
 #. Name for TND
 msgid "Tunisian Dinar"
-msgstr "突尼西亞戴納"
+msgstr ""
 
 #. Name for TOP
 msgid "Pa’anga"
-msgstr "潘加"
+msgstr ""
 
 #. Name for TRY
 msgid "Turkish Lira"
-msgstr "土耳其里拉"
+msgstr ""
 
 #. Name for TTD
 msgid "Trinidad and Tobago Dollar"
-msgstr "千里達及托巴哥幣"
+msgstr ""
 
 #. Name for TWD
 msgid "New Taiwan Dollar"
-msgstr "新臺幣"
+msgstr ""
 
 #. Name for TZS
 msgid "Tanzanian Shilling"
-msgstr "坦尚尼亞先令"
+msgstr ""
 
 #. Name for UAH
 msgid "Hryvnia"
-msgstr "烏克蘭赫里夫尼亞"
+msgstr "Hryvnia"
 
 #. Name for UGX
 msgid "Uganda Shilling"
-msgstr "烏干達先令"
+msgstr ""
 
 #. Name for USD
 msgid "US Dollar"
-msgstr "美元"
+msgstr ""
 
 #. Name for USN
 msgid "US Dollar (Next day)"
-msgstr "美元（次日）"
+msgstr ""
 
 #. Name for UYI
 msgid "Uruguay Peso en Unidades Indexadas (UI)"
@@ -631,112 +629,112 @@ msgstr ""
 
 #. Name for UYU
 msgid "Peso Uruguayo"
-msgstr "烏拉圭披索"
+msgstr "Peso Uruguayo"
 
 #. Name for UYW
 msgid "Unidad Previsional"
-msgstr ""
+msgstr "Unidad Previsional"
 
 #. Name for UZS
 msgid "Uzbekistan Sum"
-msgstr "烏茲別克頌"
+msgstr ""
 
 #. Name for VED, Name for VES
 msgid "Bolívar Soberano"
-msgstr "主權玻利瓦"
+msgstr ""
 
 #. Name for VND
 msgid "Dong"
-msgstr "盾"
+msgstr "Dong"
 
 #. Name for VUV
 msgid "Vatu"
-msgstr "萬那杜瓦土"
+msgstr "Vatu"
 
 #. Name for WST
 msgid "Tala"
-msgstr "塔拉語"
+msgstr "Tala"
 
 #. Name for XAF
 msgid "CFA Franc BEAC"
-msgstr "中非法郎"
+msgstr ""
 
 #. Name for XAG
 msgid "Silver"
-msgstr "銀"
+msgstr "Arian"
 
 #. Name for XAU
 msgid "Gold"
-msgstr "金"
+msgstr "Aur"
 
 #. Name for XBA
 msgid "Bond Markets Unit European Composite Unit (EURCO)"
-msgstr "歐洲債券市場混合單位 (EURCO)"
+msgstr ""
 
 #. Name for XBB
 msgid "Bond Markets Unit European Monetary Unit (E.M.U.-6)"
-msgstr "歐洲債券市場混合單位 (E.M.U.-6)"
+msgstr ""
 
 #. Name for XBC
 msgid "Bond Markets Unit European Unit of Account 9 (E.U.A.-9)"
-msgstr "歐洲債券市場混合單位第 9 號帳戶單位 (E.U.A.-9)"
+msgstr ""
 
 #. Name for XBD
 msgid "Bond Markets Unit European Unit of Account 17 (E.U.A.-17)"
-msgstr "歐洲債券市場混合單位第 17 號帳戶單位 (E.U.A.-17)"
+msgstr ""
 
 #. Name for XCD
 msgid "East Caribbean Dollar"
-msgstr "東加勒比元"
+msgstr ""
 
 #. Name for XDR
 msgid "SDR (Special Drawing Right)"
-msgstr "SDR (特別提款權)"
+msgstr ""
 
 #. Name for XOF
 msgid "CFA Franc BCEAO"
-msgstr "非洲金融共同體法郎"
+msgstr ""
 
 #. Name for XPD
 msgid "Palladium"
-msgstr "鈀"
+msgstr "Paladiwm"
 
 #. Name for XPF
 msgid "CFP Franc"
-msgstr "太平洋法郎"
+msgstr ""
 
 #. Name for XPT
 msgid "Platinum"
-msgstr "鉑"
+msgstr "Platinwm"
 
 #. Name for XSU
 msgid "Sucre"
-msgstr "蘇克雷"
+msgstr ""
 
 #. Name for XTS
 msgid "Codes specifically reserved for testing purposes"
-msgstr "專門為測試目的保留代碼"
+msgstr ""
 
 #. Name for XUA
 msgid "ADB Unit of Account"
-msgstr "亞行帳戶單位"
+msgstr ""
 
 #. Name for XXX
 msgid "The codes assigned for transactions where no currency is involved"
-msgstr "分配給不涉及貨幣的交易的代碼"
+msgstr ""
 
 #. Name for YER
 msgid "Yemeni Rial"
-msgstr "葉門里亞爾"
+msgstr ""
 
 #. Name for ZAR
 msgid "Rand"
-msgstr "南非蘭特"
+msgstr "Rand"
 
 #. Name for ZMW
 msgid "Zambian Kwacha"
-msgstr "尚比亞克瓦查"
+msgstr ""
 
 #. Name for ZWL
 msgid "Zimbabwe Dollar"
-msgstr "辛巴威元"
+msgstr ""

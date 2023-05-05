@@ -22,14 +22,15 @@
 # Dr. Tobias Quathamer <toddy@debian.org>, 2019-2023.
 # ssantos <ssantos@web.de>, 2019.
 # J. Lavoie <j.lavoie@net-c.ca>, 2020.
+# Ettore Atalan <atalanttore@googlemail.com>, 2023.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_639-3\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2022-07-25 22:15+0200\n"
-"PO-Revision-Date: 2023-02-24 21:01+0000\n"
-"Last-Translator: \"Dr. Tobias Quathamer\" <toddy@debian.org>\n"
+"PO-Revision-Date: 2023-04-24 20:51+0000\n"
+"Last-Translator: Ettore Atalan <atalanttore@googlemail.com>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/iso-codes/"
 "iso-639-3/de/>\n"
 "Language: de\n"
@@ -37,7 +38,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.16-dev\n"
+"X-Generator: Weblate 4.18-dev\n"
 
 #. Name for aaa
 msgid "Ghotuo"
@@ -946,10 +947,8 @@ msgid "Arabic, South Levantine"
 msgstr "Arabisch, Süd-Levantine"
 
 #. Name for ajs
-#, fuzzy
-#| msgid "Algerian Sign Language"
 msgid "Algerian Jewish Sign Language"
-msgstr "Algerische Gebärdensprache"
+msgstr "Algerisch-Jüdische Gebärdensprache"
 
 #. Name for aju
 msgid "Judeo-Moroccan Arabic"

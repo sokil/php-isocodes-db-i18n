@@ -7,14 +7,15 @@
 # Dr. Tobias Quathamer <toddy@debian.org>, 2007.
 # Walter Cheuk <wwycheuk@gmail.com>, 2019.
 # Jack Liu <ywp033319@gmail.com>, 2022.
+# Abel Cheung <abelcheung@gmail.com>, 2023.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_15924\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2018-01-17 22:10+0100\n"
-"PO-Revision-Date: 2022-02-22 02:55+0000\n"
-"Last-Translator: Jack Liu <ywp033319@gmail.com>\n"
+"PO-Revision-Date: 2023-04-10 05:19+0000\n"
+"Last-Translator: Abel Cheung <abelcheung@gmail.com>\n"
 "Language-Team: Chinese (Traditional, Hong Kong) <https://hosted.weblate.org/"
 "projects/iso-codes/iso-15924/zh_Hant_HK/>\n"
 "Language: zh_HK\n"
@@ -22,11 +23,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.11-dev\n"
+"X-Generator: Weblate 4.17-dev\n"
 
 #. Name for Adlm
 msgid "Adlam"
-msgstr "阿德拉姆語"
+msgstr "阿德拉姆文字"
 
 #. Name for Afak
 msgid "Afaka"
@@ -62,7 +63,7 @@ msgstr ""
 
 #. Name for Bali
 msgid "Balinese"
-msgstr "峇里語"
+msgstr "巴厘文字"
 
 #. Name for Bamu
 msgid "Bamum"
@@ -74,7 +75,7 @@ msgstr ""
 
 #. Name for Batk
 msgid "Batak"
-msgstr "巴塔克语"
+msgstr "巴塔克文字"
 
 #. Name for Beng
 msgid "Bengali"
@@ -86,7 +87,7 @@ msgstr ""
 
 #. Name for Blis
 msgid "Blissymbols"
-msgstr "布列斯符号"
+msgstr "布利斯符號"
 
 #. Name for Bopo
 msgid "Bopomofo"
@@ -94,24 +95,23 @@ msgstr "注音符號"
 
 #. Name for Brah
 msgid "Brahmi"
-msgstr "婆罗米文字"
+msgstr "婆羅米文字"
 
 #. Name for Brai
 msgid "Braille"
-msgstr "盲人用點字法"
+msgstr "凸字"
 
 #. Name for Bugi
 msgid "Buginese"
-msgstr "布吉语"
+msgstr "布吉文字"
 
 #. Name for Buhd
 msgid "Buhid"
-msgstr "布希德语"
+msgstr "布希德文字"
 
 #. Name for Cakm
-#, fuzzy
 msgid "Chakma"
-msgstr "占语"
+msgstr "查克馬文字"
 
 #. Name for Cans
 msgid "Unified Canadian Aboriginal Syllabics"
@@ -123,7 +123,7 @@ msgstr ""
 
 #. Name for Cham
 msgid "Cham"
-msgstr "占语"
+msgstr "占語文字"
 
 #. Name for Cher
 msgid "Cherokee"
@@ -143,26 +143,23 @@ msgstr "塞浦路斯文"
 
 #. Name for Cyrl
 msgid "Cyrillic"
-msgstr "斯拉夫語系"
+msgstr "西里爾文字"
 
 #. Name for Cyrs
-#, fuzzy
 msgid "Cyrillic (Old Church Slavonic variant)"
-msgstr "西里尔文字（古教会斯拉夫语的变体）"
+msgstr "西里爾文字（古教會斯拉夫文的變體）"
 
 #. Name for Deva
-#, fuzzy
 msgid "Devanagari (Nagari)"
-msgstr "梵文"
+msgstr "天城文（城文）"
 
 #. Name for Dsrt
-#, fuzzy
 msgid "Deseret (Mormon)"
-msgstr "德瑟雷特文"
+msgstr "摩門教德撒律文字"
 
 #. Name for Dupl
 msgid "Duployan shorthand, Duployan stenography"
-msgstr ""
+msgstr "杜洛耶速記"
 
 #. Name for Egyd
 msgid "Egyptian demotic"
@@ -174,33 +171,31 @@ msgstr "古埃及僧侶體"
 
 #. Name for Egyp
 msgid "Egyptian hieroglyphs"
-msgstr "古埃及象形文"
+msgstr "古埃及象形文字"
 
 #. Name for Elba
 msgid "Elbasan"
 msgstr ""
 
 #. Name for Ethi
-#, fuzzy
 msgid "Ethiopic (Geʻez)"
-msgstr "衣索匹亞文"
+msgstr "埃塞俄比亞語（吉茲文字）"
 
 #. Name for Geok
 msgid "Khutsuri (Asomtavruli and Nuskhuri)"
 msgstr ""
 
 #. Name for Geor
-#, fuzzy
 msgid "Georgian (Mkhedruli)"
-msgstr "格鲁吉亚语文字 (Asomtavruli and Nuskhuri)"
+msgstr "格鲁吉亞文字（騎士體）"
 
 #. Name for Glag
 msgid "Glagolitic"
-msgstr "格拉哥里语"
+msgstr "格拉哥里文字"
 
 #. Name for Goth
 msgid "Gothic"
-msgstr "歌德文"
+msgstr "哥德文"
 
 #. Name for Gran
 msgid "Grantha"
@@ -212,7 +207,7 @@ msgstr "希臘文"
 
 #. Name for Gujr
 msgid "Gujarati"
-msgstr "古吉拉特语"
+msgstr "古吉拉特文字"
 
 #. Name for Guru
 msgid "Gurmukhi"
@@ -235,14 +230,12 @@ msgid "Hanunoo (Hanunóo)"
 msgstr ""
 
 #. Name for Hans
-#, fuzzy
 msgid "Han (Simplified variant)"
-msgstr "簡體中文"
+msgstr "漢字（簡體）"
 
 #. Name for Hant
-#, fuzzy
 msgid "Han (Traditional variant)"
-msgstr "繁體中文"
+msgstr "漢字（傳統）"
 
 #. Name for Hatr
 msgid "Hatran"
@@ -306,7 +299,7 @@ msgstr "片假名"
 
 #. Name for Khar
 msgid "Kharoshthi"
-msgstr "卡罗须提文"
+msgstr "卡羅須提文"
 
 #. Name for Khmr
 msgid "Khmer"
@@ -337,9 +330,8 @@ msgid "Kpelle"
 msgstr ""
 
 #. Name for Kthi
-#, fuzzy
 msgid "Kaithi"
-msgstr "卡罗须提文"
+msgstr "凱提文字"
 
 #. Name for Lana
 msgid "Tai Tham (Lanna)"
@@ -347,29 +339,27 @@ msgstr ""
 
 #. Name for Laoo
 msgid "Lao"
-msgstr "寮國文"
+msgstr "老撾文字"
 
 #. Name for Latf
-#, fuzzy
 msgid "Latin (Fraktur variant)"
-msgstr "拉丁文（尖角體活字變體）"
+msgstr "拉丁文字（尖角體）"
 
 #. Name for Latg
 msgid "Latin (Gaelic variant)"
-msgstr ""
+msgstr "拉丁文字（蓋爾體）"
 
 #. Name for Latn
 msgid "Latin"
-msgstr "拉丁文"
+msgstr "拉丁文字"
 
 #. Name for Leke
 msgid "Leke"
 msgstr ""
 
 #. Name for Lepc
-#, fuzzy
 msgid "Lepcha (Róng)"
-msgstr "雷布查语"
+msgstr "雷布查文（絨文）"
 
 #. Name for Limb
 msgid "Limbu"
@@ -377,11 +367,11 @@ msgstr "林佈文"
 
 #. Name for Lina
 msgid "Linear A"
-msgstr "線性文字 A"
+msgstr "線形文字 A"
 
 #. Name for Linb
 msgid "Linear B"
-msgstr "線性文字 B"
+msgstr "線形文字 B"
 
 #. Name for Lisu
 msgid "Lisu (Fraser)"
@@ -404,14 +394,12 @@ msgid "Mahajani"
 msgstr ""
 
 #. Name for Mand
-#, fuzzy
 msgid "Mandaic, Mandaean"
-msgstr "阿拉米语"
+msgstr ""
 
 #. Name for Mani
-#, fuzzy
 msgid "Manichaean"
-msgstr "阿拉米语"
+msgstr "摩尼文字"
 
 #. Name for Marc
 msgid "Marchen"
@@ -419,21 +407,19 @@ msgstr ""
 
 #. Name for Maya
 msgid "Mayan hieroglyphs"
-msgstr "玛雅圣符文"
+msgstr "馬雅語象形文字"
 
 #. Name for Mend
 msgid "Mende Kikakui"
 msgstr ""
 
 #. Name for Merc
-#, fuzzy
 msgid "Meroitic Cursive"
-msgstr "麦若提克文"
+msgstr "麥羅埃語草書"
 
 #. Name for Mero
-#, fuzzy
 msgid "Meroitic Hieroglyphs"
-msgstr "古埃及象形文"
+msgstr "麥羅埃語象形文字"
 
 #. Name for Mlym
 msgid "Malayalam"
@@ -556,9 +542,8 @@ msgid "Miao (Pollard)"
 msgstr ""
 
 #. Name for Prti
-#, fuzzy
 msgid "Inscriptional Parthian"
-msgstr "繁體中文"
+msgstr "帕提亞碑銘體"
 
 #. Name for Qaaa
 msgid "Reserved for private use (start)"
@@ -589,9 +574,8 @@ msgid "Sarati"
 msgstr "沙拉堤文"
 
 #. Name for Sarb
-#, fuzzy
 msgid "Old South Arabian"
-msgstr "古匈牙利文"
+msgstr "舊南方阿拉伯文字"
 
 #. Name for Saur
 msgid "Saurashtra"
@@ -602,9 +586,8 @@ msgid "SignWriting"
 msgstr ""
 
 #. Name for Shaw
-#, fuzzy
 msgid "Shavian (Shaw)"
-msgstr "簫柏納字符"
+msgstr "蕭柏納文字"
 
 #. Name for Shrd
 msgid "Sharada, Śāradā"
@@ -632,7 +615,7 @@ msgstr "巽他文"
 
 #. Name for Sylo
 msgid "Syloti Nagri"
-msgstr "Syloti Nagri 书写体"
+msgstr ""
 
 #. Name for Syrc
 msgid "Syriac"
@@ -660,7 +643,7 @@ msgstr ""
 
 #. Name for Tale
 msgid "Tai Le"
-msgstr "泰乐语"
+msgstr "德宏傣文"
 
 #. Name for Talu
 msgid "New Tai Lue"
@@ -675,9 +658,8 @@ msgid "Tangut"
 msgstr ""
 
 #. Name for Tavt
-#, fuzzy
 msgid "Tai Viet"
-msgstr "泰乐语"
+msgstr "越南傣文"
 
 #. Name for Telu
 msgid "Telugu"
@@ -705,7 +687,7 @@ msgstr "泰文"
 
 #. Name for Tibt
 msgid "Tibetan"
-msgstr "西藏文"
+msgstr "藏文"
 
 #. Name for Tirh
 msgid "Tirhuta"
@@ -756,9 +738,8 @@ msgid "Symbols (Emoji variant)"
 msgstr ""
 
 #. Name for Zsym
-#, fuzzy
 msgid "Symbols"
-msgstr "布列斯符号"
+msgstr "符號"
 
 #. Name for Zxxx
 msgid "Code for unwritten documents"
