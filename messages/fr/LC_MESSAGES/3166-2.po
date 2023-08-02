@@ -16,14 +16,15 @@
 # J. Lavoie <j.lavoie@net-c.ca>, 2020.
 # Christophe <2cadz@adiczion.net>, 2020.
 # verdy_p <verdyp@gmail.com>, 2022.
+# un_pogaz <un_pogaz@users.noreply.hosted.weblate.org>, 2023.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-2\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2022-06-01 15:01+0200\n"
-"PO-Revision-Date: 2022-03-16 13:55+0000\n"
-"Last-Translator: verdy_p <verdyp@gmail.com>\n"
+"PO-Revision-Date: 2023-07-17 10:08+0000\n"
+"Last-Translator: un_pogaz <un_pogaz@users.noreply.hosted.weblate.org>\n"
 "Language-Team: French <https://hosted.weblate.org/projects/iso-codes/"
 "iso-3166-2/fr/>\n"
 "Language: fr\n"
@@ -31,7 +32,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 4.12-dev\n"
+"X-Generator: Weblate 5.0-dev\n"
 
 #. Name for AD-02
 msgid "Canillo"
@@ -62,14 +63,12 @@ msgid "Escaldes-Engordany"
 msgstr "Escaldes-Engordany"
 
 #. Name for AE-AJ
-#, fuzzy
-#| msgid "'Ajmān"
 msgid "‘Ajmān"
 msgstr "Ajman"
 
 #. Name for AE-AZ
 msgid "Abū Z̧aby"
-msgstr ""
+msgstr "Abou Dabi"
 
 #. Name for AE-DU
 msgid "Dubayy"
@@ -271,7 +270,7 @@ msgstr "Durrës"
 
 #. Name for AL-03
 msgid "Elbasan"
-msgstr "elbasan"
+msgstr "Elbasan"
 
 #. Name for AL-04
 msgid "Fier"
@@ -1225,7 +1224,7 @@ msgstr "Flandre-Occidentale"
 
 #. Name for BE-WAL
 msgid "wallonne, Région"
-msgstr "wallonne, Région"
+msgstr "Wallonne, Région"
 
 #. Name for BE-WBR
 msgid "Brabant wallon"
@@ -3495,7 +3494,7 @@ msgstr "Usti nad Labem"
 
 #. Name for CZ-51
 msgid "Liberecký kraj"
-msgstr "liberec"
+msgstr "Liberec"
 
 #. Name for CZ-511
 msgid "Česká Lípa"
@@ -9204,7 +9203,7 @@ msgstr "Rieti"
 
 #. Name for IT-RM
 msgid "Roma"
-msgstr "roma"
+msgstr "Roma"
 
 #. Name for IT-RN
 msgid "Rimini"
@@ -13024,7 +13023,7 @@ msgstr "Rakhine"
 
 #. Name for MM-17
 msgid "Shan"
-msgstr "shan"
+msgstr "Shan"
 
 #. Name for MM-18
 msgid "Nay Pyi Taw"
@@ -15248,7 +15247,7 @@ msgstr "Nouvelle-Biscaye"
 
 #. Name for PH-PAM
 msgid "Pampanga"
-msgstr "pampangan"
+msgstr "Pampangan"
 
 #. Name for PH-PAN
 msgid "Pangasinan"

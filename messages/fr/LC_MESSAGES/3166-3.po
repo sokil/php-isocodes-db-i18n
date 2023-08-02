@@ -9,14 +9,15 @@
 # Grégoire Colbert <gregus@linux-mandrake.com>, 2001.
 # Dr. Tobias Quathamer <toddy@debian.org>, 2008.
 # Christian Perrier <bubulle@debian.org>, 2004, 2006-2007, 2009-2013, 2015.
+# un_pogaz <un_pogaz@users.noreply.hosted.weblate.org>, 2023.
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2023-02-24 21:26+0100\n"
-"PO-Revision-Date: 2017-12-28 21:49+0000\n"
-"Last-Translator: Alban Vidal <alban.vidal@zordhak.fr>\n"
+"PO-Revision-Date: 2023-07-17 10:08+0000\n"
+"Last-Translator: un_pogaz <un_pogaz@users.noreply.hosted.weblate.org>\n"
 "Language-Team: French <https://hosted.weblate.org/projects/iso-codes/"
 "iso-3166-3/fr/>\n"
 "Language: fr\n"
@@ -24,7 +25,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 2.19-dev\n"
+"X-Generator: Weblate 5.0-dev\n"
 
 #. Name for AIDJ
 msgid "French Afars and Issas"
@@ -143,10 +144,8 @@ msgid "Yemen, Democratic, People's Democratic Republic of"
 msgstr "Yémen, République populaire démocratique du"
 
 #. Name for YUCS
-#, fuzzy
-#| msgid "Yugoslavia, Socialist Federal Republic of"
 msgid "Yugoslavia, (Socialist) Federal Republic of"
-msgstr "Yougoslavie, République socialiste fédérale de"
+msgstr "Yougoslavie, République fédérale (socialiste) de"
 
 #. Name for ZRCD
 msgid "Zaire, Republic of"

@@ -6,14 +6,14 @@
 # Copyright ©
 # Alastair McKinstry <mckinstry@debian.org>, 2001.
 # Ain Vagula <avagula@gmail.com>, 2007-2008.
-# Priit Jõerüüt <hwlate@joeruut.com>, 2022.
+# Priit Jõerüüt <hwlate@joeruut.com>, 2022, 2023.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_4217\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2022-06-01 15:01+0200\n"
-"PO-Revision-Date: 2022-06-02 18:17+0000\n"
+"PO-Revision-Date: 2023-07-20 12:54+0000\n"
 "Last-Translator: Priit Jõerüüt <hwlate@joeruut.com>\n"
 "Language-Team: Estonian <https://hosted.weblate.org/projects/iso-codes/"
 "iso-4217/et/>\n"
@@ -22,7 +22,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.13-dev\n"
+"X-Generator: Weblate 5.0-dev\n"
 
 #. Name for AED
 msgid "UAE Dirham"
@@ -102,7 +102,7 @@ msgstr "boliviano"
 
 #. Name for BOV
 msgid "Mvdol"
-msgstr ""
+msgstr "Mvdol"
 
 #. Name for BRL
 msgid "Brazilian Real"
@@ -150,7 +150,7 @@ msgstr "WIR frank"
 
 #. Name for CLF
 msgid "Unidad de Fomento"
-msgstr ""
+msgstr "Tšiili arvestusühik"
 
 #. Name for CLP
 msgid "Chilean Peso"
@@ -166,7 +166,7 @@ msgstr "Colombia peeso"
 
 #. Name for COU
 msgid "Unidad de Valor Real"
-msgstr ""
+msgstr "Colombia arvestusühik"
 
 #. Name for CRC
 msgid "Costa Rican Colon"
@@ -426,7 +426,7 @@ msgstr "Mehhiko peeso"
 
 #. Name for MXV
 msgid "Mexican Unidad de Inversion (UDI)"
-msgstr ""
+msgstr "Mehhiko investeerimisühik (UDI)"
 
 #. Name for MYR
 msgid "Malaysian Ringgit"
@@ -626,7 +626,7 @@ msgstr "USA dollar (järgmine päev)"
 
 #. Name for UYI
 msgid "Uruguay Peso en Unidades Indexadas (UI)"
-msgstr ""
+msgstr "Uruguay peeso indekseerimisühik (UI)"
 
 #. Name for UYU
 msgid "Peso Uruguayo"
@@ -634,7 +634,7 @@ msgstr "Uruguay peeso"
 
 #. Name for UYW
 msgid "Unidad Previsional"
-msgstr ""
+msgstr "Uruguay peeso pensioniühik (UP)"
 
 #. Name for UZS
 msgid "Uzbekistan Sum"
