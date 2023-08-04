@@ -11,14 +11,14 @@
 # Kristjan Räts <kristjanrats@gmail.com>, 2018, 2021.
 # Mihkel Tõnnov <mihhkel@gmail.com>, 2019.
 # Janar Leas <janar.leas@gmail.com>, 2020, 2021.
-# Priit Jõerüüt <hwlate@joeruut.com>, 2022.
+# Priit Jõerüüt <hwlate@joeruut.com>, 2022, 2023.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_639-3\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2022-07-25 22:15+0200\n"
-"PO-Revision-Date: 2022-06-02 18:17+0000\n"
+"PO-Revision-Date: 2023-07-29 15:07+0000\n"
 "Last-Translator: Priit Jõerüüt <hwlate@joeruut.com>\n"
 "Language-Team: Estonian <https://hosted.weblate.org/projects/iso-codes/"
 "iso-639-3/et/>\n"
@@ -27,7 +27,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.13-dev\n"
+"X-Generator: Weblate 5.0-dev\n"
 
 #. Name for aaa
 msgid "Ghotuo"
@@ -391,9 +391,8 @@ msgid "Adangme"
 msgstr "adangme"
 
 #. Name for adb
-#, fuzzy
 msgid "Atauran"
-msgstr "Paus"
+msgstr "adabe"
 
 #. Name for add
 msgid "Lidzonka"
@@ -937,10 +936,8 @@ msgid "Arabic, South Levantine"
 msgstr ""
 
 #. Name for ajs
-#, fuzzy
-#| msgid "Danish Sign Language"
 msgid "Algerian Jewish Sign Language"
-msgstr "taani viipekeel"
+msgstr "alžeeria juudi viipekeel"
 
 #. Name for aju
 #, fuzzy
@@ -1093,11 +1090,11 @@ msgstr ""
 
 #. Name for alj
 msgid "Alangan"
-msgstr ""
+msgstr "alangani"
 
 #. Name for alk
 msgid "Alak"
-msgstr ""
+msgstr "alaki"
 
 #. Name for all
 msgid "Allar"
@@ -1117,19 +1114,19 @@ msgstr "geegi"
 
 #. Name for alo
 msgid "Larike-Wakasihu"
-msgstr ""
+msgstr "larike-vakasihu"
 
 #. Name for alp
 msgid "Alune"
-msgstr ""
+msgstr "alune"
 
 #. Name for alq
 msgid "Algonquin"
-msgstr ""
+msgstr "algonkini"
 
 #. Name for alr
 msgid "Alutor"
-msgstr ""
+msgstr "alutori"
 
 #. Name for als
 msgid "Tosk Albanian"
@@ -1145,15 +1142,15 @@ msgstr "altai (lõunaaltai)"
 
 #. Inverted name for alt
 msgid "Altai, Southern"
-msgstr ""
+msgstr "altai"
 
 #. Name for alu
 msgid "'Are'are"
-msgstr ""
+msgstr "areare"
 
 #. Name for alw
 msgid "Alaba-K’abeena"
-msgstr ""
+msgstr "alaba-kabeena"
 
 #. Name for alx
 msgid "Amol"
@@ -1201,15 +1198,15 @@ msgstr ""
 
 #. Name for amj
 msgid "Amdang"
-msgstr ""
+msgstr "amdangi"
 
 #. Name for amk
 msgid "Ambai"
-msgstr ""
+msgstr "ambai"
 
 #. Name for aml
 msgid "War-Jaintia"
-msgstr ""
+msgstr "vaari"
 
 #. Name for amm
 msgid "Ama (Papua New Guinea)"
@@ -2748,10 +2745,8 @@ msgid "Bardi"
 msgstr ""
 
 #. Name for bck
-#, fuzzy
-#| msgid "Nanubae"
 msgid "Bunuba"
-msgstr "nanubae"
+msgstr "bunaba"
 
 #. Name for bcl
 msgid "Central Bikol"
@@ -6775,10 +6770,8 @@ msgid "Cree, Swampy"
 msgstr ""
 
 #. Name for csx
-#, fuzzy
-#| msgid "Latvian Sign Language"
 msgid "Cambodian Sign Language"
-msgstr "läti viipekeel"
+msgstr "kambodža viipekeel"
 
 # src/trans.h:27
 #. Name for csy
@@ -12170,11 +12163,11 @@ msgstr "Paus"
 
 #. Name for hue
 msgid "San Francisco Del Mar Huave"
-msgstr ""
+msgstr "San Francisco Del Mari huave"
 
 #. Inverted name for hue
 msgid "Huave, San Francisco Del Mar"
-msgstr ""
+msgstr "San Francisco Del Mari huave"
 
 #. Name for huf
 msgid "Humene"
@@ -12252,15 +12245,15 @@ msgstr ""
 
 #. Inverted name for huu
 msgid "Huitoto, Murui"
-msgstr ""
+msgstr "murui"
 
 #. Name for huv
 msgid "San Mateo Del Mar Huave"
-msgstr ""
+msgstr "San Mateo Del Mari huave"
 
 #. Inverted name for huv
 msgid "Huave, San Mateo Del Mar"
-msgstr ""
+msgstr "San Mateo Del Mari huave"
 
 #. Name for huw
 msgid "Hukumina"
@@ -12280,7 +12273,7 @@ msgstr ""
 
 #. Name for huz
 msgid "Hunzib"
-msgstr ""
+msgstr "hunzibi"
 
 #. Name for hvc
 msgid "Haitian Vodoun Culture Language"
@@ -12288,11 +12281,11 @@ msgstr ""
 
 #. Name for hve
 msgid "San Dionisio Del Mar Huave"
-msgstr ""
+msgstr "San Dionisio del Mari huave"
 
 #. Inverted name for hve
 msgid "Huave, San Dionisio Del Mar"
-msgstr ""
+msgstr "San Dionisio del Mari huave"
 
 #. Name for hvk
 msgid "Haveke"
@@ -12304,11 +12297,11 @@ msgstr ""
 
 #. Name for hvv
 msgid "Santa María Del Mar Huave"
-msgstr ""
+msgstr "Santa María Del Mari huave"
 
 #. Inverted name for hvv
 msgid "Huave, Santa María Del Mar"
-msgstr ""
+msgstr "Santa María Del Mari huave"
 
 #. Name for hwa
 msgid "Wané"
