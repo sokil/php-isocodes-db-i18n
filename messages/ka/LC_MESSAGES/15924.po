@@ -4,14 +4,14 @@
 # This file is distributed under the same license as the iso-codes package.
 #
 # Copyright ©
-# Temuri Doghonadze <temuri.doghonadze@gmail.com>, 2022.
+# Temuri Doghonadze <temuri.doghonadze@gmail.com>, 2022, 2023.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_15924\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2018-01-17 22:10+0100\n"
-"PO-Revision-Date: 2022-08-07 07:18+0000\n"
+"PO-Revision-Date: 2023-08-29 16:54+0000\n"
 "Last-Translator: Temuri Doghonadze <temuri.doghonadze@gmail.com>\n"
 "Language-Team: Georgian <https://hosted.weblate.org/projects/iso-codes/"
 "iso-15924/ka/>\n"
@@ -20,7 +20,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.14-dev\n"
+"X-Generator: Weblate 5.0.1-dev\n"
 
 #. Name for Adlm
 msgid "Adlam"
@@ -92,7 +92,7 @@ msgstr "ბოპომოფო"
 
 #. Name for Brah
 msgid "Brahmi"
-msgstr ""
+msgstr "ბრაჰმი"
 
 #. Name for Brai
 msgid "Braille"
@@ -108,7 +108,7 @@ msgstr "ბუჰიდი"
 
 #. Name for Cakm
 msgid "Chakma"
-msgstr ""
+msgstr "ჩაკმა"
 
 #. Name for Cans
 msgid "Unified Canadian Aboriginal Syllabics"
@@ -116,11 +116,11 @@ msgstr "კანადური აბორიგინალური"
 
 #. Name for Cari
 msgid "Carian"
-msgstr ""
+msgstr "კარიული"
 
 #. Name for Cham
 msgid "Cham"
-msgstr ""
+msgstr "ჩამური"
 
 #. Name for Cher
 msgid "Cherokee"
@@ -236,7 +236,7 @@ msgstr ""
 
 #. Name for Hatr
 msgid "Hatran"
-msgstr ""
+msgstr "ჰატრანი"
 
 #. Name for Hebr
 msgid "Hebrew"
@@ -252,7 +252,7 @@ msgstr ""
 
 #. Name for Hmng
 msgid "Pahawh Hmong"
-msgstr ""
+msgstr "პაჰაუ ჰმონგი"
 
 #. Name for Hrkt
 msgid "Japanese syllabaries (alias for Hiragana + Katakana)"
@@ -276,7 +276,7 @@ msgstr ""
 
 #. Name for Java
 msgid "Javanese"
-msgstr ""
+msgstr "იავური"
 
 #. Name for Jpan
 msgid "Japanese (alias for Han + Hiragana + Katakana)"
@@ -288,7 +288,7 @@ msgstr ""
 
 #. Name for Kali
 msgid "Kayah Li"
-msgstr ""
+msgstr "კაია-ლი"
 
 #. Name for Kana
 msgid "Katakana"
@@ -304,7 +304,7 @@ msgstr "კხმერული"
 
 #. Name for Khoj
 msgid "Khojki"
-msgstr ""
+msgstr "ხოიკი"
 
 #. Name for Kitl
 msgid "Khitan large script"
@@ -328,7 +328,7 @@ msgstr ""
 
 #. Name for Kthi
 msgid "Kaithi"
-msgstr ""
+msgstr "კაიტხი"
 
 #. Name for Lana
 msgid "Tai Tham (Lanna)"
@@ -380,15 +380,15 @@ msgstr ""
 
 #. Name for Lyci
 msgid "Lycian"
-msgstr ""
+msgstr "ლიდიის"
 
 #. Name for Lydi
 msgid "Lydian"
-msgstr ""
+msgstr "ლიდიური"
 
 #. Name for Mahj
 msgid "Mahajani"
-msgstr ""
+msgstr "მაჰაჯანი"
 
 #. Name for Mand
 msgid "Mandaic, Mandaean"
@@ -396,11 +396,11 @@ msgstr ""
 
 #. Name for Mani
 msgid "Manichaean"
-msgstr ""
+msgstr "მანიხეური"
 
 #. Name for Marc
 msgid "Marchen"
-msgstr ""
+msgstr "მარჩენი"
 
 #. Name for Maya
 msgid "Mayan hieroglyphs"
@@ -408,15 +408,15 @@ msgstr ""
 
 #. Name for Mend
 msgid "Mende Kikakui"
-msgstr ""
+msgstr "მენდე კიკაკუი"
 
 #. Name for Merc
 msgid "Meroitic Cursive"
-msgstr ""
+msgstr "მეროიტული კურსივი"
 
 #. Name for Mero
 msgid "Meroitic Hieroglyphs"
-msgstr ""
+msgstr "მეროიტული იეროგლიფები"
 
 #. Name for Mlym
 msgid "Malayalam"
@@ -444,7 +444,7 @@ msgstr ""
 
 #. Name for Mult
 msgid "Multani"
-msgstr ""
+msgstr "მულტანი"
 
 #. Name for Mymr
 msgid "Myanmar (Burmese)"
@@ -456,7 +456,7 @@ msgstr ""
 
 #. Name for Nbat
 msgid "Nabataean"
-msgstr ""
+msgstr "ნაბატეური"
 
 #. Name for Newa
 msgid "Newa, Newar, Newari, Nepāla lipi"
@@ -492,7 +492,7 @@ msgstr "ორია"
 
 #. Name for Osge
 msgid "Osage"
-msgstr ""
+msgstr "ოსეიჯი"
 
 #. Name for Osma
 msgid "Osmanya"
@@ -500,27 +500,27 @@ msgstr "ოსმანია"
 
 #. Name for Palm
 msgid "Palmyrene"
-msgstr ""
+msgstr "პალმირენი"
 
 #. Name for Pauc
 msgid "Pau Cin Hau"
-msgstr ""
+msgstr "პო სინ ჰაუ"
 
 #. Name for Perm
 msgid "Old Permic"
-msgstr ""
+msgstr "ძველი პერმული"
 
 #. Name for Phag
 msgid "Phags-pa"
-msgstr ""
+msgstr "Phags-pa"
 
 #. Name for Phli
 msgid "Inscriptional Pahlavi"
-msgstr ""
+msgstr "ფეჰლევის დამწერლობა"
 
 #. Name for Phlp
 msgid "Psalter Pahlavi"
-msgstr ""
+msgstr "ფსელტერ ფეჰლევი"
 
 #. Name for Phlv
 msgid "Book Pahlavi"
@@ -540,7 +540,7 @@ msgstr ""
 
 #. Name for Prti
 msgid "Inscriptional Parthian"
-msgstr ""
+msgstr "პართიული დამწერლობა"
 
 #. Name for Qaaa
 msgid "Reserved for private use (start)"
@@ -572,11 +572,11 @@ msgstr ""
 
 #. Name for Sarb
 msgid "Old South Arabian"
-msgstr ""
+msgstr "ძველი სამხრეთ არაბული"
 
 #. Name for Saur
 msgid "Saurashtra"
-msgstr ""
+msgstr "საურაშტრა"
 
 #. Name for Sgnw
 msgid "SignWriting"
@@ -596,7 +596,7 @@ msgstr ""
 
 #. Name for Sind
 msgid "Khudawadi, Sindhi"
-msgstr ""
+msgstr "ხუდაბადი, სინდი"
 
 #. Name for Sinh
 msgid "Sinhala"
@@ -604,7 +604,7 @@ msgstr "სინჰალა"
 
 #. Name for Sora
 msgid "Sora Sompeng"
-msgstr ""
+msgstr "სორა სომპენგი"
 
 #. Name for Sund
 msgid "Sundanese"
@@ -612,7 +612,7 @@ msgstr "სუნდური"
 
 #. Name for Sylo
 msgid "Syloti Nagri"
-msgstr ""
+msgstr "Syloti Nagri"
 
 #. Name for Syrc
 msgid "Syriac"
@@ -652,11 +652,11 @@ msgstr "თამილური"
 
 #. Name for Tang
 msgid "Tangut"
-msgstr ""
+msgstr "ტანგუტი"
 
 #. Name for Tavt
 msgid "Tai Viet"
-msgstr ""
+msgstr "ტაი ვიეტური"
 
 #. Name for Telu
 msgid "Telugu"
@@ -688,7 +688,7 @@ msgstr "ტიბეტური"
 
 #. Name for Tirh
 msgid "Tirhuta"
-msgstr ""
+msgstr "ტირუტა"
 
 #. Name for Ugar
 msgid "Ugaritic"

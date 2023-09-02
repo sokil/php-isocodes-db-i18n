@@ -5,14 +5,14 @@
 # This file is distributed under the same license as the iso-codes package.
 #
 # Copyright ©
-# Temuri Doghonadze <temuri.doghonadze@gmail.com>, 2022.
+# Temuri Doghonadze <temuri.doghonadze@gmail.com>, 2022, 2023.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-2\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2022-06-01 15:01+0200\n"
-"PO-Revision-Date: 2022-10-24 07:37+0000\n"
+"PO-Revision-Date: 2023-08-29 16:54+0000\n"
 "Last-Translator: Temuri Doghonadze <temuri.doghonadze@gmail.com>\n"
 "Language-Team: Georgian <https://hosted.weblate.org/projects/iso-codes/"
 "iso-3166-2/ka/>\n"
@@ -21,7 +21,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.14.2-dev\n"
+"X-Generator: Weblate 5.0.1-dev\n"
 
 #. Name for AD-02
 msgid "Canillo"
@@ -69,7 +69,7 @@ msgstr "ალ-ფუჯაირა"
 
 #. Name for AE-RK
 msgid "Ra’s al Khaymah"
-msgstr ""
+msgstr "რას-ელ-ხაიმა"
 
 #. Name for AE-SH
 msgid "Ash Shāriqah"
@@ -77,7 +77,7 @@ msgstr ""
 
 #. Name for AE-UQ
 msgid "Umm al Qaywayn"
-msgstr ""
+msgstr "უმ-ელ-ქაივინაინი"
 
 #. Name for AF-BAL
 msgid "Balkh"
@@ -197,7 +197,7 @@ msgstr ""
 
 #. Name for AF-SAR
 msgid "Sar-e Pul"
-msgstr ""
+msgstr "სარ-ე-პოლი"
 
 #. Name for AF-TAK
 msgid "Takhār"
@@ -317,7 +317,7 @@ msgstr ""
 
 #. Name for AM-KT
 msgid "Kotayk'"
-msgstr ""
+msgstr "კოტაიქი"
 
 #. Name for AM-LO
 msgid "Loṙi"
@@ -329,7 +329,7 @@ msgstr ""
 
 #. Name for AM-SU
 msgid "Syunik'"
-msgstr ""
+msgstr "სიუნიკი"
 
 #. Name for AM-TV
 msgid "Tavuš"
@@ -365,11 +365,11 @@ msgstr "კუნენე"
 
 #. Name for AO-CNO
 msgid "Cuanza-Norte"
-msgstr ""
+msgstr "ჩრდილოეთ კვანზა"
 
 #. Name for AO-CUS
 msgid "Cuanza-Sul"
-msgstr ""
+msgstr "სამხრეთი კვანზა"
 
 #. Name for AO-HUA
 msgid "Huambo"
@@ -381,11 +381,11 @@ msgstr "უილა"
 
 #. Name for AO-LNO
 msgid "Lunda-Norte"
-msgstr ""
+msgstr "ჩრდილოეთ ლუნდა"
 
 #. Name for AO-LSU
 msgid "Lunda-Sul"
-msgstr ""
+msgstr "სამხრეთი ლუნდა"
 
 #. Name for AO-LUA
 msgid "Luanda"
@@ -713,7 +713,7 @@ msgstr ""
 
 #. Name for AZ-NA
 msgid "Naftalan"
-msgstr ""
+msgstr "ნაფთალანი"
 
 #. Name for AZ-NEF
 msgid "Neftçala"
@@ -881,7 +881,7 @@ msgstr ""
 
 #. Name for BA-SRP
 msgid "Republika Srpska"
-msgstr ""
+msgstr "სრპსკას რესპუბლიკა"
 
 #. Name for BB-01
 msgid "Christ Church"
@@ -965,7 +965,7 @@ msgstr "დაკა"
 
 #. Name for BD-14
 msgid "Dinajpur"
-msgstr ""
+msgstr "დინაჯპური"
 
 #. Name for BD-15
 msgid "Faridpur"
@@ -1253,7 +1253,7 @@ msgstr "აღმოსავლეთი რეგიონი"
 
 #. Name for BF-09
 msgid "Hauts-Bassins"
-msgstr ""
+msgstr "ზედა აუზები"
 
 #. Name for BF-10, Name for FR-59, Name for HT-ND
 msgid "Nord"
@@ -1261,7 +1261,7 @@ msgstr "ნორი"
 
 #. Name for BF-11
 msgid "Plateau-Central"
-msgstr ""
+msgstr "ცენტრალური პლატო"
 
 #. Name for BF-12
 msgid "Sahel"
@@ -1673,7 +1673,7 @@ msgstr ""
 
 #. Name for BJ-DO
 msgid "Donga"
-msgstr ""
+msgstr "დონგა"
 
 #. Name for BJ-KO
 msgid "Couffo"
@@ -1749,7 +1749,7 @@ msgstr "ტარიხა"
 
 #. Name for BQ-BO, Name for NL-BQ1
 msgid "Bonaire"
-msgstr ""
+msgstr "ბონეირი"
 
 #. Name for BQ-SA, Name for NL-BQ2
 msgid "Saba"
@@ -1877,7 +1877,7 @@ msgstr ""
 
 #. Name for BS-BP
 msgid "Black Point"
-msgstr ""
+msgstr "შავი წერტილი"
 
 #. Name for BS-BY
 msgid "Berry Islands"
@@ -2117,7 +2117,7 @@ msgstr ""
 
 #. Name for BW-NE, Name for GH-NE, Name for SG-02
 msgid "North East"
-msgstr ""
+msgstr "ჩრდილო-აღმოსავლეთი"
 
 #. Name for BW-NW, Name for SG-03
 msgid "North West"
@@ -2125,7 +2125,7 @@ msgstr "ჩრდილო-დასავლეთი"
 
 #. Name for BW-SE, Name for SG-04
 msgid "South East"
-msgstr ""
+msgstr "სამხრეთ-აღმოსავლეთი"
 
 #. Name for BW-SO, Name for RW-05, Name for SL-S, Name for ZM-07
 msgid "Southern"
@@ -2133,7 +2133,7 @@ msgstr "სამხრეთ"
 
 #. Name for BW-SP
 msgid "Selibe Phikwe"
-msgstr ""
+msgstr "სელები-პჰიკვე"
 
 #. Name for BW-ST
 msgid "Sowa Town"
@@ -2145,7 +2145,7 @@ msgstr ""
 
 #. Name for BY-HM
 msgid "Gorod Minsk"
-msgstr ""
+msgstr "მინსკი"
 
 #. Name for BY-HO
 msgid "Gomel'skaja oblast'"
@@ -2173,7 +2173,7 @@ msgstr "ბელიზი"
 
 #. Name for BZ-CY
 msgid "Cayo"
-msgstr ""
+msgstr "კაიო"
 
 #. Name for BZ-CZL
 msgid "Corozal"
@@ -2181,11 +2181,11 @@ msgstr "კოროსალი"
 
 #. Name for BZ-OW
 msgid "Orange Walk"
-msgstr ""
+msgstr "ორინჯ-უოქი"
 
 #. Name for BZ-SC
 msgid "Stann Creek"
-msgstr ""
+msgstr "სტან-კრიკი"
 
 #. Name for BZ-TOL, Name for ES-TO
 msgid "Toledo"
@@ -2245,7 +2245,7 @@ msgstr "იუკონი"
 
 #. Name for CD-BC
 msgid "Kongo Central"
-msgstr ""
+msgstr "კონგო ცენტრალური"
 
 #. Name for CD-BU
 msgid "Bas-Uélé"
@@ -2273,11 +2273,11 @@ msgstr "იტური"
 
 #. Name for CD-KC
 msgid "Kasaï Central"
-msgstr ""
+msgstr "კასაი ცენტრალური"
 
 #. Name for CD-KE
 msgid "Kasaï Oriental"
-msgstr ""
+msgstr "აღმოსავლეთი კასაი"
 
 #. Name for CD-KG
 msgid "Kwango"
@@ -3333,7 +3333,7 @@ msgstr ""
 
 #. Name for CZ-425
 msgid "Most"
-msgstr ""
+msgstr "თითქმის ყველა"
 
 #. Name for CZ-426
 msgid "Teplice"
@@ -11433,7 +11433,7 @@ msgstr ""
 
 #. Name for MD-CL, Name for RO-CL
 msgid "Călărași"
-msgstr ""
+msgstr "კელერაში"
 
 #. Name for MD-CM
 msgid "Cimișlia"
@@ -11453,7 +11453,7 @@ msgstr ""
 
 #. Name for MD-CU
 msgid "Chișinău"
-msgstr ""
+msgstr "კიშინიოვი"
 
 #. Name for MD-DO
 msgid "Dondușeni"
@@ -14513,7 +14513,7 @@ msgstr ""
 
 #. Name for PS-TBS
 msgid "Tubas"
-msgstr ""
+msgstr "ტუბები"
 
 #. Name for PS-TKM
 msgid "Tulkarm"
@@ -14793,11 +14793,11 @@ msgstr "ბრეილა"
 
 #. Name for RO-BT
 msgid "Botoșani"
-msgstr ""
+msgstr "ბოტოშანი"
 
 #. Name for RO-BV
 msgid "Brașov"
-msgstr ""
+msgstr "ბრაშოვი"
 
 #. Name for RO-BZ
 msgid "Buzău"
@@ -14813,7 +14813,7 @@ msgstr ""
 
 #. Name for RO-CT
 msgid "Constanța"
-msgstr ""
+msgstr "კონსტანცა"
 
 #. Name for RO-CV
 msgid "Covasna"
@@ -14833,7 +14833,7 @@ msgstr "გორჯი"
 
 #. Name for RO-GL
 msgid "Galați"
-msgstr ""
+msgstr "გალაცის ჟუდეცი"
 
 #. Name for RO-GR
 msgid "Giurgiu"
@@ -14857,7 +14857,7 @@ msgstr ""
 
 #. Name for RO-IS
 msgid "Iași"
-msgstr ""
+msgstr "ლაში"
 
 #. Name for RO-MH
 msgid "Mehedinți"
@@ -15445,7 +15445,7 @@ msgstr "გვადალკანალი"
 
 #. Name for SB-IS
 msgid "Isabel"
-msgstr ""
+msgstr "იზაბელი"
 
 #. Name for SB-MK
 msgid "Makira-Ulawa"
@@ -15729,7 +15729,7 @@ msgstr ""
 
 #. Name for SG-05
 msgid "South West"
-msgstr ""
+msgstr "სამხრეთ-დასავლეთი"
 
 #. Name for SH-AC
 msgid "Ascension"
@@ -16369,7 +16369,7 @@ msgstr ""
 
 #. Name for SI-158
 msgid "Grad"
-msgstr ""
+msgstr "გრად"
 
 #. Name for SI-159
 msgid "Hajdina"
@@ -16737,7 +16737,7 @@ msgstr ""
 
 #. Name for SO-BY
 msgid "Bay"
-msgstr ""
+msgstr "ნაკვეთური"
 
 #. Name for SO-GA
 msgid "Galguduud"
@@ -18201,7 +18201,7 @@ msgstr "მოროგორო"
 
 #. Name for TZ-17
 msgid "Mtwara"
-msgstr ""
+msgstr "მტვარა"
 
 #. Name for TZ-19
 msgid "Coast"
@@ -18905,7 +18905,7 @@ msgstr "ჯონსტონ ატოლი"
 
 #. Name for UM-71
 msgid "Midway Islands"
-msgstr ""
+msgstr "მიდუეის კუნძულები"
 
 #. Name for UM-76
 msgid "Navassa Island"
