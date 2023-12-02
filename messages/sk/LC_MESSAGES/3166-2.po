@@ -12,14 +12,15 @@
 # Copyright ©
 # Ivan Masár <helix84@centrum.sk>, 2007, 2014.
 # Serge Karpesh <skarpiesz@gmail.com>, 2020.
+# Milan Šalka <salka.milan@googlemail.com>, 2023.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-2\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2022-06-01 15:01+0200\n"
-"PO-Revision-Date: 2020-05-22 13:41+0000\n"
-"Last-Translator: Serge Karpesh <skarpiesz@gmail.com>\n"
+"PO-Revision-Date: 2023-10-13 10:01+0000\n"
+"Last-Translator: Milan Šalka <salka.milan@googlemail.com>\n"
 "Language-Team: Slovak <https://hosted.weblate.org/projects/iso-codes/"
 "iso-3166-2/sk/>\n"
 "Language: sk\n"
@@ -27,7 +28,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Weblate 4.1-dev\n"
+"X-Generator: Weblate 5.1-dev\n"
 
 #. Name for AD-02
 msgid "Canillo"
@@ -20007,10 +20008,8 @@ msgstr "Virgínia"
 
 # [geodesy]
 #. Name for US-VI
-#, fuzzy
-#| msgid "Virgin Islands"
 msgid "Virgin Islands, U.S."
-msgstr "Panenské ostrovy Spojených štátov"
+msgstr "Panenské ostrovy, Americké"
 
 # [geodesy]
 #. Name for US-VT

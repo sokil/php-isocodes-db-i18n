@@ -7,21 +7,23 @@
 # Copyright ©
 # Amanpreet Singh Alam[ਆਲਮ] <amanpreetalam@yahoo.com>, 2005.
 # A S Alam <apbrar@gmail.com>, 2009.
+# Aman Alam <aalam@users.noreply.hosted.weblate.org>, 2023.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-3\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2023-02-24 21:26+0100\n"
-"PO-Revision-Date: 2009-05-29 05:58+0530\n"
-"Last-Translator: A S Alam <apbrar@gmail.com>\n"
-"Language-Team: Punjabi <punjabi-l10n@lists.sourceforge.net>\n"
+"PO-Revision-Date: 2023-11-17 14:06+0000\n"
+"Last-Translator: Aman Alam <aalam@users.noreply.hosted.weblate.org>\n"
+"Language-Team: Punjabi <https://hosted.weblate.org/projects/iso-codes/"
+"iso-3166-3/pa/>\n"
 "Language: pa\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Lokalize 0.3\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.2\n"
 
 #. Name for AIDJ
 msgid "French Afars and Issas"
@@ -140,10 +142,8 @@ msgid "Yemen, Democratic, People's Democratic Republic of"
 msgstr "ਯਮਨ, ਲੋਕਤੰਤਰੀ ਗਣਰਾਜ"
 
 #. Name for YUCS
-#, fuzzy
-#| msgid "Yugoslavia, Socialist Federal Republic of"
 msgid "Yugoslavia, (Socialist) Federal Republic of"
-msgstr "ਯੂਗੋਸਲਾਵੀਆ, ਸਮਾਜਿਕ ਸੰਘੀ ਗਣਰਾਜ"
+msgstr "ਯੂਗੋਸਲਾਵੀਆ, (ਸਮਾਜਵਾਦੀ) ਸੰਘੀ ਗਣਰਾਜ"
 
 #. Name for ZRCD
 msgid "Zaire, Republic of"
