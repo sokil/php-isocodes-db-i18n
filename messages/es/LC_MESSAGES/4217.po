@@ -12,14 +12,15 @@
 # Rodrigo Lledó <rodhos92@gmail.com>, 2019.
 # Guillermo Segovia <gsegovia2018@my.fit.edu>, 2019.
 # Adolfo Jayme Barrientos <fitojb@ubuntu.com>, 2021.
+# Kamborio <Kamborio15@users.noreply.hosted.weblate.org>, 2023.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_4217\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2022-06-01 15:01+0200\n"
-"PO-Revision-Date: 2021-05-24 20:32+0000\n"
-"Last-Translator: Adolfo Jayme Barrientos <fitojb@ubuntu.com>\n"
+"PO-Revision-Date: 2023-10-13 10:01+0000\n"
+"Last-Translator: Kamborio <Kamborio15@users.noreply.hosted.weblate.org>\n"
 "Language-Team: Spanish <https://hosted.weblate.org/projects/iso-codes/"
 "iso-4217/es/>\n"
 "Language: es\n"
@@ -27,7 +28,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.7-dev\n"
+"X-Generator: Weblate 5.1-dev\n"
 
 #. Name for AED
 msgid "UAE Dirham"
@@ -66,8 +67,6 @@ msgid "Aruban Florin"
 msgstr "Florín arubeño"
 
 #. Name for AZN
-#, fuzzy
-#| msgid "Azerbaijanian Manat"
 msgid "Azerbaijan Manat"
 msgstr "Manat azerbaiyano"
 
@@ -109,7 +108,7 @@ msgstr "Boliviano"
 
 #. Name for BOV
 msgid "Mvdol"
-msgstr ""
+msgstr "Bolivianos"
 
 #. Name for BRL
 msgid "Brazilian Real"
@@ -144,24 +143,20 @@ msgid "Congolese Franc"
 msgstr "Franco congoleño"
 
 #. Name for CHE
-#, fuzzy
-#| msgid "Euro"
 msgid "WIR Euro"
-msgstr "Euro"
+msgstr "Euro WIR"
 
 #. Name for CHF
 msgid "Swiss Franc"
 msgstr "Franco suizo"
 
 #. Name for CHW
-#, fuzzy
-#| msgid "Rwanda Franc"
 msgid "WIR Franc"
-msgstr "Franco ruandés"
+msgstr "Franco WIR"
 
 #. Name for CLF
 msgid "Unidad de Fomento"
-msgstr ""
+msgstr "Unidad de fomento"
 
 #. Name for CLP
 msgid "Chilean Peso"
@@ -177,7 +172,7 @@ msgstr "Peso colombiano"
 
 #. Name for COU
 msgid "Unidad de Valor Real"
-msgstr ""
+msgstr "Unidad de valor real"
 
 #. Name for CRC
 msgid "Costa Rican Colon"
@@ -260,8 +255,6 @@ msgid "Dalasi"
 msgstr "Dalasi"
 
 #. Name for GNF
-#, fuzzy
-#| msgid "Guinea Franc"
 msgid "Guinean Franc"
 msgstr "Franco guineano"
 
@@ -342,10 +335,8 @@ msgid "Riel"
 msgstr "Riel camboyano"
 
 #. Name for KMF
-#, fuzzy
-#| msgid "Comoro Franc"
 msgid "Comorian Franc"
-msgstr "Franco comoriano"
+msgstr "Franco comorense"
 
 #. Name for KPW
 msgid "North Korean Won"
@@ -369,7 +360,7 @@ msgstr "Tenge"
 
 #. Name for LAK
 msgid "Lao Kip"
-msgstr ""
+msgstr "Kip"
 
 #. Name for LBP
 msgid "Lebanese Pound"
@@ -441,7 +432,7 @@ msgstr "Peso mexicano"
 
 #. Name for MXV
 msgid "Mexican Unidad de Inversion (UDI)"
-msgstr ""
+msgstr "Unidad de Inversión (UDI) mexicana"
 
 #. Name for MYR
 msgid "Malaysian Ringgit"
@@ -638,14 +629,12 @@ msgid "US Dollar"
 msgstr "Dólar estadounidense"
 
 #. Name for USN
-#, fuzzy
-#| msgid "US Dollar"
 msgid "US Dollar (Next day)"
-msgstr "Dólar estadounidense"
+msgstr "Dólar estadounidense (Siguiente día)"
 
 #. Name for UYI
 msgid "Uruguay Peso en Unidades Indexadas (UI)"
-msgstr ""
+msgstr "Peso en Unidades Indexadas (Uruguay)"
 
 #. Name for UYU
 msgid "Peso Uruguayo"
@@ -653,15 +642,13 @@ msgstr "Peso uruguayo"
 
 #. Name for UYW
 msgid "Unidad Previsional"
-msgstr ""
+msgstr "Unidad Previsional"
 
 #. Name for UZS
 msgid "Uzbekistan Sum"
 msgstr "Som uzbeco"
 
 #. Name for VED, Name for VES
-#, fuzzy
-#| msgid "Bolívar"
 msgid "Bolívar Soberano"
 msgstr "Bolívar"
 
