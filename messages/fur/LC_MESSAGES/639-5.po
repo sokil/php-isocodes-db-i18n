@@ -1,18 +1,19 @@
-# Translation of ISO 639-5 to LANGUAGE
+# Translation of ISO 639-5 to Friulian
 # Codes for the representation of names of languages
 # Part 5: Alpha-3 code for language families and groups
-#
+# .
 # This file is distributed under the same license as the iso-codes package.
-#
+# .
 # Copyright ©
-# Fabio Tomat <f.t.public@gmail.com>, 2020.
+# Fabio Tomat <f.t.public@gmail.com>, 2020, 2023.
+# adecorte <adecorte@gmail.com>, 2023.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_639-5\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2018-01-17 22:10+0100\n"
-"PO-Revision-Date: 2020-12-14 15:29+0000\n"
+"PO-Revision-Date: 2023-12-21 10:55+0000\n"
 "Last-Translator: Fabio Tomat <f.t.public@gmail.com>\n"
 "Language-Team: Friulian <https://hosted.weblate.org/projects/iso-codes/"
 "iso-639-5/fur/>\n"
@@ -21,7 +22,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.4-dev\n"
+"X-Generator: Weblate 5.3\n"
 
 #. Name for aav
 msgid "Austro-Asiatic languages"
@@ -56,9 +57,8 @@ msgid "Artificial languages"
 msgstr "Lenghis artificiâls"
 
 #. Name for ath
-#, fuzzy
 msgid "Athapascan languages"
-msgstr "Lenghis athabaska"
+msgstr "Lenghis athapascanis"
 
 #. Name for auf
 msgid "Arauan languages"
@@ -81,7 +81,6 @@ msgid "Banda languages"
 msgstr "Lenghis banda"
 
 #. Name for bai
-#, fuzzy
 msgid "Bamileke languages"
 msgstr "Lenghis bamileke"
 
@@ -94,7 +93,6 @@ msgid "Berber languages"
 msgstr "Lenghis berbaris"
 
 #. Name for bih
-#, fuzzy
 msgid "Bihari languages"
 msgstr "Lenghis bihari"
 
@@ -115,7 +113,6 @@ msgid "Caucasian languages"
 msgstr "Lenghis caucasichis"
 
 #. Name for cba
-#, fuzzy
 msgid "Chibchan languages"
 msgstr "Lenghis chibcha"
 
@@ -140,7 +137,6 @@ msgid "Celtic languages"
 msgstr "Lenghis celtichis"
 
 #. Name for cmc
-#, fuzzy
 msgid "Chamic languages"
 msgstr "Lenghis chamichis"
 
@@ -185,7 +181,6 @@ msgid "Egyptian languages"
 msgstr "Lenghis egjizianis"
 
 #. Name for esx
-#, fuzzy
 msgid "Eskimo-Aleut languages"
 msgstr "Lenghis eschimo-aleutinis"
 
@@ -226,7 +221,6 @@ msgid "Hmong-Mien languages"
 msgstr "Lenghis miao-yao"
 
 #. Name for hok
-#, fuzzy
 msgid "Hokan languages"
 msgstr "Lenghis hokan"
 
@@ -267,7 +261,6 @@ msgid "Japanese (family)"
 msgstr "Gjaponês (famee)"
 
 #. Name for kar
-#, fuzzy
 msgid "Karen languages"
 msgstr "Lenghis karen"
 
@@ -324,9 +317,8 @@ msgid "Nubian languages"
 msgstr "Lenghis nubianis"
 
 #. Name for omq
-#, fuzzy
 msgid "Oto-Manguean languages"
-msgstr "Lenghis otomangueanis"
+msgstr "Lenghis oto-mangue"
 
 #. Name for omv
 msgid "Omotic languages"
@@ -453,9 +445,8 @@ msgid "Uralic languages"
 msgstr "Lenghis uralichis"
 
 #. Name for wak
-#, fuzzy
 msgid "Wakashan languages"
-msgstr "Lenghis Wakashan"
+msgstr "Lenghis wakashan"
 
 #. Name for wen
 msgid "Sorbian languages"
@@ -466,12 +457,10 @@ msgid "Mongolian languages"
 msgstr "Lenghis mongolichis"
 
 #. Name for xnd
-#, fuzzy
 msgid "Na-Dene languages"
-msgstr "Lenghis na-dene"
+msgstr "Lenghis na-déné"
 
 #. Name for ypk
-#, fuzzy
 msgid "Yupik languages"
 msgstr "Lenghis yupik"
 
@@ -492,6 +481,5 @@ msgid "West Slavic languages"
 msgstr "Lenghis slavis ocidentâls"
 
 #. Name for znd
-#, fuzzy
 msgid "Zande languages"
-msgstr "Lenghis zande"
+msgstr "Lenghis zandé"

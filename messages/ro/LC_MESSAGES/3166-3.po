@@ -9,27 +9,29 @@
 # Eddy Petrișor <eddy.petrisor@gmail.com>, 2004, 2006-2009.
 # Andrei Popescu <andreimpopescu@gmail.com>, 2010.
 # Lucian Adrian Grijincu <lucian.grijincu@gmail.com>, 2010.
+# Remus-Gabriel Chelu <remusgabriel.chelu@disroot.org>, 2023.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-3\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2023-02-24 21:26+0100\n"
-"PO-Revision-Date: 2010-08-16 15:57+0300\n"
-"Last-Translator: Lucian Adrian Grijincu <lucian.grijincu@gmail.com>\n"
-"Language-Team: Romanian <translation-team-ro@lists.sourceforge.net>\n"
+"PO-Revision-Date: 2023-12-28 20:07+0000\n"
+"Last-Translator: Remus-Gabriel Chelu <remusgabriel.chelu@disroot.org>\n"
+"Language-Team: Romanian <https://hosted.weblate.org/projects/iso-codes/"
+"iso-3166-3/ro/>\n"
 "Language: ro\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
-"20)) ? 1 : 2);;\n"
-"X-Generator: Virtaal 0.6.1\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
+"20)) ? 1 : 2;\n"
+"X-Generator: Weblate 5.4-dev\n"
 "X-Launchpad-Export-Date: 2010-08-16 11:01+0000\n"
 
 #. Name for AIDJ
 msgid "French Afars and Issas"
-msgstr "Afarele Franceze și Issas"
+msgstr "Teritoriul francez al triburilor Afar și Issa"
 
 #. Name for ANHH
 msgid "Netherlands Antilles"
@@ -37,11 +39,11 @@ msgstr "Antilele olandeze"
 
 #. Name for BQAQ
 msgid "British Antarctic Territory"
-msgstr "Teritoriu Britanic din Antarctica"
+msgstr "Teritoriul britanic din Antarctica"
 
 #. Name for BUMM
 msgid "Burma, Socialist Republic of the Union of"
-msgstr "Burma, Republica socialistă de uniune a"
+msgstr "Birmania, Republica socialistă de uniune a"
 
 #. Name for BYAA
 msgid "Byelorussian SSR Soviet Socialist Republic"
@@ -69,11 +71,11 @@ msgstr "Dahomey"
 
 #. Name for FQHH
 msgid "French Southern and Antarctic Territories"
-msgstr "Teritoriile Franceze Antarctice și de Sud"
+msgstr "Teritoriile sudice și antarctice franceze"
 
 #. Name for FXFR
 msgid "France, Metropolitan"
-msgstr "Franța, Metropolitan"
+msgstr "Franța, Metropolitană"
 
 #. Name for GEHH
 msgid "Gilbert and Ellice Islands"
@@ -97,7 +99,7 @@ msgstr "Noile Hebride"
 
 #. Name for NQAQ
 msgid "Dronning Maud Land"
-msgstr "Ținutul Dronning Maud"
+msgstr "Ținutul reginei Maud"
 
 #. Name for NTHH
 msgid "Neutral Zone"
@@ -105,19 +107,19 @@ msgstr "Zonă neutră"
 
 #. Name for PCHH
 msgid "Pacific Islands (trust territory)"
-msgstr "Insulele Pacifice (teritoriu de încredere)"
+msgstr "Insulele din Pacific (teritoriu sub protecția Națiunilor Unite)"
 
 #. Name for PUUM
 msgid "US Miscellaneous Pacific Islands"
-msgstr "Diverse Insule din Pacific aparținând SUA"
+msgstr "Diverse insule din Pacific aparținând SUA"
 
 #. Name for PZPA
 msgid "Panama Canal Zone"
-msgstr "Zona Canalului Panama"
+msgstr "Zona canalului Panama"
 
 #. Name for RHZW
 msgid "Southern Rhodesia"
-msgstr "Rhodesia de Sud"
+msgstr "Rodesia de Sud"
 
 #. Name for SKIN
 msgid "Sikkim"
@@ -133,7 +135,7 @@ msgstr "Timorul de Est"
 
 #. Name for VDVN
 msgid "Viet-Nam, Democratic Republic of"
-msgstr "Viet-Nam, Republica democrată"
+msgstr "Vietnam, Republica democrată"
 
 #. Name for WKUM
 msgid "Wake Island"
@@ -141,13 +143,11 @@ msgstr "Insula Wake"
 
 #. Name for YDYE
 msgid "Yemen, Democratic, People's Democratic Republic of"
-msgstr "Yemen, Democrat, Republica populară democrată"
+msgstr "Yemen, Republica populară democrată"
 
 #. Name for YUCS
-#, fuzzy
-#| msgid "Yugoslavia, Socialist Federal Republic of"
 msgid "Yugoslavia, (Socialist) Federal Republic of"
-msgstr "Iugoslavia, Republica socialistă federală"
+msgstr "Iugoslavia, Republica (socialistă) federală"
 
 #. Name for ZRCD
 msgid "Zaire, Republic of"

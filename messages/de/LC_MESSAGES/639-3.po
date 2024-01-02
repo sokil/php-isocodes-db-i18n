@@ -29,8 +29,8 @@ msgstr ""
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2022-07-25 22:15+0200\n"
-"PO-Revision-Date: 2023-04-24 20:51+0000\n"
-"Last-Translator: Ettore Atalan <atalanttore@googlemail.com>\n"
+"PO-Revision-Date: 2023-12-19 14:12+0000\n"
+"Last-Translator: Dr. Tobias Quathamer <toddy@debian.org>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/iso-codes/"
 "iso-639-3/de/>\n"
 "Language: de\n"
@@ -38,7 +38,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.18-dev\n"
+"X-Generator: Weblate 5.3\n"
 
 #. Name for aaa
 msgid "Ghotuo"
@@ -2281,14 +2281,12 @@ msgid "Yaka (Central African Republic)"
 msgstr "Yaka (Zentralafrikanische Republik)"
 
 #. Name for axl
-#, fuzzy
 msgid "Lower Southern Aranda"
-msgstr "Süd-Haida"
+msgstr "Unteres Arrernte"
 
 #. Inverted name for axl
-#, fuzzy
 msgid "Aranda, Lower Southern"
-msgstr "Haida, Südliches"
+msgstr "Arrernte, Unteres"
 
 #. Name for axm
 msgid "Middle Armenian"
