@@ -1,9 +1,9 @@
-# Translation of ISO 639-5 to LANGUAGE
+# Translation of ISO 639-5 to Welsh
 # Codes for the representation of names of languages
 # Part 5: Alpha-3 code for language families and groups
-#
+# .
 # This file is distributed under the same license as the iso-codes package.
-#
+# .
 # Copyright ©
 # dreigiau <sterilgrimed23@gmail.com>, 2023.
 msgid ""
@@ -30,11 +30,11 @@ msgstr ""
 
 #. Name for afa
 msgid "Afro-Asiatic languages"
-msgstr ""
+msgstr "Ieithoedd Affro-Asiaidd"
 
 #. Name for alg
 msgid "Algonquian languages"
-msgstr ""
+msgstr "Ieithoedd Algoncwianeg"
 
 #. Name for alv
 msgid "Atlantic-Congo languages"
@@ -54,11 +54,11 @@ msgstr ""
 
 #. Name for art
 msgid "Artificial languages"
-msgstr ""
+msgstr "Ieithoedd artiffisial"
 
 #. Name for ath
 msgid "Athapascan languages"
-msgstr ""
+msgstr "Ieithoedd Athapasgaidd"
 
 #. Name for auf
 msgid "Arauan languages"
@@ -82,7 +82,7 @@ msgstr "Ieithoedd Banda"
 
 #. Name for bai
 msgid "Bamileke languages"
-msgstr ""
+msgstr "Ieithoedd Bamilece"
 
 #. Name for bat
 msgid "Baltic languages"
@@ -94,7 +94,7 @@ msgstr "Ieithoedd Berber"
 
 #. Name for bih
 msgid "Bihari languages"
-msgstr ""
+msgstr "Ieithoedd Bihari"
 
 #. Name for bnt
 msgid "Bantu languages"
@@ -102,15 +102,15 @@ msgstr ""
 
 #. Name for btk
 msgid "Batak languages"
-msgstr ""
+msgstr "Ieithoedd Batac"
 
 #. Name for cai
 msgid "Central American Indian languages"
-msgstr ""
+msgstr "Ieithoedd Canolbarth America"
 
 #. Name for cau
 msgid "Caucasian languages"
-msgstr ""
+msgstr "Ieithoedd y Cawcasws"
 
 #. Name for cba
 msgid "Chibchan languages"
@@ -161,20 +161,23 @@ msgid "Central Sudanic languages"
 msgstr ""
 
 #. Name for cus
+#, fuzzy
 msgid "Cushitic languages"
-msgstr ""
+msgstr "Malagasi"
 
 #. Name for day
+#, fuzzy
 msgid "Land Dayak languages"
-msgstr ""
+msgstr "Malagasi"
 
 #. Name for dmn
 msgid "Mande languages"
 msgstr ""
 
 #. Name for dra
+#, fuzzy
 msgid "Dravidian languages"
-msgstr ""
+msgstr "Malagasi"
 
 #. Name for egx
 msgid "Egyptian languages"
@@ -189,8 +192,9 @@ msgid "Basque (family)"
 msgstr "Basgeg (teulu)"
 
 #. Name for fiu
+#, fuzzy
 msgid "Finno-Ugrian languages"
-msgstr ""
+msgstr "Malagasi"
 
 #. Name for fox
 msgid "Formosan languages"
@@ -198,7 +202,7 @@ msgstr ""
 
 #. Name for gem
 msgid "Germanic languages"
-msgstr ""
+msgstr "Ieithoedd Almaenaidd"
 
 #. Name for gme
 msgid "East Germanic languages"
@@ -237,16 +241,18 @@ msgid "Ijo languages"
 msgstr "Ieithoedd Ijo"
 
 #. Name for inc
+#, fuzzy
 msgid "Indic languages"
-msgstr ""
+msgstr "Malagasi"
 
 #. Name for ine
 msgid "Indo-European languages"
 msgstr "Ieithoedd Indo-Ewropeaidd"
 
 #. Name for ira
+#, fuzzy
 msgid "Iranian languages"
-msgstr ""
+msgstr "Malagasi"
 
 #. Name for iro
 msgid "Iroquoian languages"
@@ -262,55 +268,64 @@ msgstr "Japaneg (teulu)"
 
 #. Name for kar
 msgid "Karen languages"
-msgstr ""
+msgstr "Ieithoedd Karen"
 
 #. Name for kdo
 msgid "Kordofanian languages"
 msgstr ""
 
 #. Name for khi
+#, fuzzy
 msgid "Khoisan languages"
-msgstr ""
+msgstr "Malagasi"
 
 #. Name for kro
+#, fuzzy
 msgid "Kru languages"
-msgstr ""
+msgstr "Malagasi"
 
 #. Name for map
+#, fuzzy
 msgid "Austronesian languages"
-msgstr ""
+msgstr "Malagasi"
 
 #. Name for mkh
+#, fuzzy
 msgid "Mon-Khmer languages"
-msgstr ""
+msgstr "Malagasi"
 
 #. Name for mno
 msgid "Manobo languages"
 msgstr ""
 
 #. Name for mun
+#, fuzzy
 msgid "Munda languages"
-msgstr ""
+msgstr "Malagasi"
 
 #. Name for myn
+#, fuzzy
 msgid "Mayan languages"
-msgstr ""
+msgstr "Malagasi"
 
 #. Name for nah
+#, fuzzy
 msgid "Nahuatl languages"
-msgstr ""
+msgstr "Malagasi"
 
 #. Name for nai
+#, fuzzy
 msgid "North American Indian languages"
-msgstr ""
+msgstr "Ffriseg"
 
 #. Name for ngf
 msgid "Trans-New Guinea languages"
 msgstr ""
 
 #. Name for nic
+#, fuzzy
 msgid "Niger-Kordofanian languages"
-msgstr ""
+msgstr "Malagasi"
 
 #. Name for nub
 msgid "Nubian languages"
@@ -329,12 +344,14 @@ msgid "Otomian languages"
 msgstr ""
 
 #. Name for paa
+#, fuzzy
 msgid "Papuan languages"
-msgstr ""
+msgstr "Malagasi"
 
 #. Name for phi
+#, fuzzy
 msgid "Philippine languages"
-msgstr ""
+msgstr "Malagasi"
 
 #. Name for plf
 msgid "Central Malayo-Polynesian languages"
@@ -361,8 +378,9 @@ msgid "Quechuan (family)"
 msgstr ""
 
 #. Name for roa
+#, fuzzy
 msgid "Romance languages"
-msgstr ""
+msgstr "Malagasi"
 
 #. Name for sai
 msgid "South American Indian languages"
@@ -377,8 +395,9 @@ msgid "Eastern Sudanic languages"
 msgstr ""
 
 #. Name for sem
+#, fuzzy
 msgid "Semitic languages"
-msgstr ""
+msgstr "Malagasi"
 
 #. Name for sgn
 msgid "sign languages"
@@ -389,8 +408,9 @@ msgid "Siouan languages"
 msgstr ""
 
 #. Name for sit
+#, fuzzy
 msgid "Sino-Tibetan languages"
-msgstr ""
+msgstr "Malagasi"
 
 #. Name for sla
 msgid "Slavic languages"
@@ -401,24 +421,27 @@ msgid "Sami languages"
 msgstr "Ieithoedd Sami"
 
 #. Name for son
+#, fuzzy
 msgid "Songhai languages"
-msgstr ""
+msgstr "Malagasi"
 
 #. Name for sqj
 msgid "Albanian languages"
 msgstr ""
 
 #. Name for ssa
+#, fuzzy
 msgid "Nilo-Saharan languages"
-msgstr ""
+msgstr "Malagasi"
 
 #. Name for syd
 msgid "Samoyedic languages"
 msgstr ""
 
 #. Name for tai
+#, fuzzy
 msgid "Tai languages"
-msgstr ""
+msgstr "Malagasi"
 
 #. Name for tbq
 msgid "Tibeto-Burman languages"
@@ -433,8 +456,9 @@ msgid "Tupi languages"
 msgstr ""
 
 #. Name for tut
+#, fuzzy
 msgid "Altaic languages"
-msgstr ""
+msgstr "Malagasi"
 
 #. Name for tuw
 msgid "Tungus languages"
@@ -481,5 +505,6 @@ msgid "West Slavic languages"
 msgstr ""
 
 #. Name for znd
+#, fuzzy
 msgid "Zande languages"
-msgstr ""
+msgstr "Malagasi"

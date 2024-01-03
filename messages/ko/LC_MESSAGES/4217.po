@@ -6,13 +6,14 @@
 # Copyright ©
 # Sung-Hyun Nam <namsh@lgic.co.kr>, 1998-2000.
 # Alastair McKinstry <mckinstry@debian.org>, 2002.
+# Changwoo Ryu <cwryu@debian.org>, 2024.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_4217\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2022-06-01 15:01+0200\n"
-"PO-Revision-Date: 2018-01-01 13:50+0000\n"
+"PO-Revision-Date: 2024-01-01 01:03+0000\n"
 "Last-Translator: Changwoo Ryu <cwryu@debian.org>\n"
 "Language-Team: Korean <https://hosted.weblate.org/projects/iso-codes/"
 "iso-4217/ko/>\n"
@@ -21,7 +22,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 2.19-dev\n"
+"X-Generator: Weblate 5.4-dev\n"
 
 #. Name for AED
 msgid "UAE Dirham"
@@ -60,10 +61,8 @@ msgid "Aruban Florin"
 msgstr "아루바 플로린"
 
 #. Name for AZN
-#, fuzzy
-#| msgid "Azerbaijanian Manat"
 msgid "Azerbaijan Manat"
-msgstr "아제르바이젠 마나트"
+msgstr "아제르바이잔 마나트"
 
 #. Name for BAM
 msgid "Convertible Mark"
@@ -103,7 +102,7 @@ msgstr "볼리비아노"
 
 #. Name for BOV
 msgid "Mvdol"
-msgstr ""
+msgstr "볼리비아 MVDOL"
 
 #. Name for BRL
 msgid "Brazilian Real"
@@ -138,24 +137,20 @@ msgid "Congolese Franc"
 msgstr "콩고 프랑"
 
 #. Name for CHE
-#, fuzzy
-#| msgid "Euro"
 msgid "WIR Euro"
-msgstr "유로화"
+msgstr "WIR 유로"
 
 #. Name for CHF
 msgid "Swiss Franc"
 msgstr "스위스 프랑달러"
 
 #. Name for CHW
-#, fuzzy
-#| msgid "Rwanda Franc"
 msgid "WIR Franc"
-msgstr "르완다 프랑"
+msgstr "WIR 프랑"
 
 #. Name for CLF
 msgid "Unidad de Fomento"
-msgstr ""
+msgstr "칠레 UF"
 
 #. Name for CLP
 msgid "Chilean Peso"
@@ -171,7 +166,7 @@ msgstr "콜롬비아 페소"
 
 #. Name for COU
 msgid "Unidad de Valor Real"
-msgstr ""
+msgstr "브라질 헤알"
 
 #. Name for CRC
 msgid "Costa Rican Colon"
@@ -254,8 +249,6 @@ msgid "Dalasi"
 msgstr "감비아 달라시"
 
 #. Name for GNF
-#, fuzzy
-#| msgid "Guinea Franc"
 msgid "Guinean Franc"
 msgstr "기니 프랑"
 
@@ -336,8 +329,6 @@ msgid "Riel"
 msgstr "캄보디아 리엘"
 
 #. Name for KMF
-#, fuzzy
-#| msgid "Comoro Franc"
 msgid "Comorian Franc"
 msgstr "코모르 프랑"
 
@@ -363,7 +354,7 @@ msgstr "카자흐스탄 텡게"
 
 #. Name for LAK
 msgid "Lao Kip"
-msgstr ""
+msgstr "라오스 킵"
 
 #. Name for LBP
 msgid "Lebanese Pound"
@@ -435,7 +426,7 @@ msgstr "멕시코 페소"
 
 #. Name for MXV
 msgid "Mexican Unidad de Inversion (UDI)"
-msgstr ""
+msgstr "멕시코 UDI"
 
 #. Name for MYR
 msgid "Malaysian Ringgit"
@@ -630,14 +621,12 @@ msgid "US Dollar"
 msgstr "미국 달러"
 
 #. Name for USN
-#, fuzzy
-#| msgid "US Dollar"
 msgid "US Dollar (Next day)"
-msgstr "미국 달러"
+msgstr "미국 USN"
 
 #. Name for UYI
 msgid "Uruguay Peso en Unidades Indexadas (UI)"
-msgstr ""
+msgstr "우루과이 페소 인덱스 (UI)"
 
 #. Name for UYU
 msgid "Peso Uruguayo"
@@ -645,15 +634,13 @@ msgstr "우루과이 페소"
 
 #. Name for UYW
 msgid "Unidad Previsional"
-msgstr ""
+msgstr "우루과이 UP"
 
 #. Name for UZS
 msgid "Uzbekistan Sum"
 msgstr "우즈베키스탄 숨"
 
 #. Name for VED, Name for VES
-#, fuzzy
-#| msgid "Bolívar"
 msgid "Bolívar Soberano"
 msgstr "베네수엘라 볼리바르"
 

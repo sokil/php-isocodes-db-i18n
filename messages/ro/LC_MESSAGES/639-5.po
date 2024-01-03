@@ -1,9 +1,9 @@
-# Translation of ISO 639-5 to LANGUAGE
+# Translation of ISO 639-5 to Romanian; Moldavian; Moldovan
 # Codes for the representation of names of languages
 # Part 5: Alpha-3 code for language families and groups
-#
+# .
 # This file is distributed under the same license as the iso-codes package.
-#
+# .
 # Copyright ©
 # Remus-Gabriel Chelu <remusgabriel.chelu@disroot.org>, 2023.
 msgid ""
@@ -12,470 +12,503 @@ msgstr ""
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2018-01-17 22:10+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2023-12-28 20:07+0000\n"
+"Last-Translator: Remus-Gabriel Chelu <remusgabriel.chelu@disroot.org>\n"
+"Language-Team: Romanian <https://hosted.weblate.org/projects/iso-codes/"
+"iso-639-5/ro/>\n"
 "Language: ro\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
+"20)) ? 1 : 2;\n"
+"X-Generator: Weblate 5.4-dev\n"
 
 #. Name for aav
 msgid "Austro-Asiatic languages"
-msgstr ""
+msgstr "Limbi austro-asiatice"
 
 #. Name for afa
 msgid "Afro-Asiatic languages"
-msgstr ""
+msgstr "Limbi afro-asiatice"
 
 #. Name for alg
 msgid "Algonquian languages"
-msgstr ""
+msgstr "Limbi algoncviene (vorbite în America de nord)"
 
 #. Name for alv
 msgid "Atlantic-Congo languages"
-msgstr ""
+msgstr "Limbi atlantice-congole"
 
 #. Name for apa
 msgid "Apache languages"
-msgstr ""
+msgstr "Limbi apașe"
 
 #. Name for aqa
 msgid "Alacalufan languages"
-msgstr ""
+msgstr "Limbi alacalufane (vorbite în America de sud)"
 
 #. Name for aql
 msgid "Algic languages"
-msgstr ""
+msgstr "Limbi algice (vorbite în America de nord)"
 
 #. Name for art
 msgid "Artificial languages"
-msgstr ""
+msgstr "Limbi artificiale"
 
 #. Name for ath
 msgid "Athapascan languages"
-msgstr ""
+msgstr "Limbi athapascane (vorbite în Alaska)"
 
 #. Name for auf
 msgid "Arauan languages"
-msgstr ""
+msgstr "Limbi arauane (vorbite în America de sud)"
 
 #. Name for aus
 msgid "Australian languages"
-msgstr ""
+msgstr "Limbi australiene"
 
 #. Name for awd
 msgid "Arawakan languages"
-msgstr ""
+msgstr "Limbi arawakane (vorbite în America de sud)"
 
 #. Name for azc
 msgid "Uto-Aztecan languages"
-msgstr ""
+msgstr "Limbi uto-aztece"
 
 #. Name for bad
 msgid "Banda languages"
-msgstr ""
+msgstr "Limbi banda (vorbite în Africa centrală)"
 
 #. Name for bai
 msgid "Bamileke languages"
-msgstr ""
+msgstr "Limbi bamileke (vorbite în Camerun)"
 
 #. Name for bat
 msgid "Baltic languages"
-msgstr ""
+msgstr "Limbi baltice"
 
 #. Name for ber
 msgid "Berber languages"
-msgstr ""
+msgstr "Limbi berbere (vorbite în nodul Africii)"
 
 #. Name for bih
 msgid "Bihari languages"
-msgstr ""
+msgstr "Limbi bihari (vorbite în India și Nepal)"
 
 #. Name for bnt
 msgid "Bantu languages"
-msgstr ""
+msgstr "Limbi bantu (vorbite în mai multe zone din Africa)"
 
 #. Name for btk
 msgid "Batak languages"
-msgstr ""
+msgstr "Limbi batace (vorbite în Sumatra și Indonezia)"
 
 #. Name for cai
 msgid "Central American Indian languages"
-msgstr ""
+msgstr "Limbi indiene din America centrală"
 
 #. Name for cau
 msgid "Caucasian languages"
-msgstr ""
+msgstr "Limbi caucaziene"
 
 #. Name for cba
 msgid "Chibchan languages"
-msgstr ""
+msgstr "Limbi chibchane (vorbite în America de sud)"
 
 #. Name for ccn
 msgid "North Caucasian languages"
-msgstr ""
+msgstr "Limbi nord-caucaziene"
 
 #. Name for ccs
 msgid "South Caucasian languages"
-msgstr ""
+msgstr "Limbi sud-caucaziene"
 
 #. Name for cdc
 msgid "Chadic languages"
-msgstr ""
+msgstr "Limbi chadice (vorbite în Africa sub-sahariană)"
 
 #. Name for cdd
 msgid "Caddoan languages"
-msgstr ""
+msgstr "Limbi caddoane (vorbite în centrul SUA)"
 
 #. Name for cel
 msgid "Celtic languages"
-msgstr ""
+msgstr "Limbi celtice"
 
 #. Name for cmc
 msgid "Chamic languages"
-msgstr ""
+msgstr "Limbi chamice (vorbite în Sumatra, Indonesia, ș.a)"
 
 #. Name for cpe
 msgid "Creoles and pidgins, English‑based"
-msgstr ""
+msgstr "Limbi creole și pidgine, bazate pe limba engleză"
 
 #. Name for cpf
 msgid "Creoles and pidgins, French‑based"
-msgstr ""
+msgstr "Limbi creole și pidgine, bazate pe limba franceză"
 
 #. Name for cpp
 msgid "Creoles and pidgins, Portuguese-based"
-msgstr ""
+msgstr "Limbi creole și pidgine, bazate pe limba portugheză"
 
 #. Name for crp
 msgid "Creoles and pidgins"
-msgstr ""
+msgstr "Limbi creole și pidgine"
 
 #. Name for csu
 msgid "Central Sudanic languages"
-msgstr ""
+msgstr "Limbi sudanice centrale (vorbite în centrul Africii)"
 
 #. Name for cus
 msgid "Cushitic languages"
-msgstr ""
+msgstr "Limbi cușitice (vorbite în estul Africii)"
 
 #. Name for day
 msgid "Land Dayak languages"
-msgstr ""
+msgstr "Limbi din ținutul Dayak (vorbite în Indonezia și Malaezia)"
 
 #. Name for dmn
 msgid "Mande languages"
-msgstr ""
+msgstr "Limbi mande (vorbite în vestul Africii)"
 
 #. Name for dra
 msgid "Dravidian languages"
-msgstr ""
+msgstr "Limbi dravidiene (vorbite în India, Sri Lanka, Pakistan și Nepal)"
 
 #. Name for egx
 msgid "Egyptian languages"
-msgstr ""
+msgstr "Limbi egiptene (vorbite în vechime în Egipt)"
 
 #. Name for esx
 msgid "Eskimo-Aleut languages"
 msgstr ""
+"Limbi eschimo-aleutine (vorbite în nordul Americii de nord și o mică parte "
+"din nordul Asiei)"
 
 #. Name for euq
 msgid "Basque (family)"
-msgstr ""
+msgstr "Limba bască"
 
 #. Name for fiu
 msgid "Finno-Ugrian languages"
-msgstr ""
+msgstr "Limbi fino-ugrice (vorbite în Ungaria, Finlanda și Estonia)"
 
 #. Name for fox
 msgid "Formosan languages"
-msgstr ""
+msgstr "Limbi formosane (vorbite în Taiwan)"
 
 #. Name for gem
 msgid "Germanic languages"
-msgstr ""
+msgstr "Limbi germanice"
 
 #. Name for gme
 msgid "East Germanic languages"
-msgstr ""
+msgstr "Limbi est-germanice"
 
 #. Name for gmq
 msgid "North Germanic languages"
-msgstr ""
+msgstr "Limbi nord-germanice"
 
 #. Name for gmw
 msgid "West Germanic languages"
-msgstr ""
+msgstr "Limbi vest-germanice"
 
 #. Name for grk
 msgid "Greek languages"
-msgstr ""
+msgstr "Limbi elenice"
 
 #. Name for hmx
 msgid "Hmong-Mien languages"
-msgstr ""
+msgstr "Limbi hmong-mien (vorbite în sudul Chinei și sud-estul Asiei)"
 
 #. Name for hok
 msgid "Hokan languages"
-msgstr ""
+msgstr "Limbi hokane (vorbite în California, Arizona și Baja California)"
 
 #. Name for hyx
 msgid "Armenian (family)"
-msgstr ""
+msgstr "Armeană (familie)"
 
 #. Name for iir
 msgid "Indo-Iranian languages"
-msgstr ""
+msgstr "Limbi indo-iraniene"
 
 #. Name for ijo
 msgid "Ijo languages"
-msgstr ""
+msgstr "Limbi ijo (vorbite în sudul Nigeriei)"
 
 #. Name for inc
 msgid "Indic languages"
-msgstr ""
+msgstr "Limbi indiene"
 
 #. Name for ine
 msgid "Indo-European languages"
-msgstr ""
+msgstr "Limbi indo-europene"
 
 #. Name for ira
 msgid "Iranian languages"
-msgstr ""
+msgstr "Limbi iraniene"
 
 #. Name for iro
 msgid "Iroquoian languages"
-msgstr ""
+msgstr "Limbi irochiene (vorbite în America de nord)"
 
 #. Name for itc
 msgid "Italic languages"
-msgstr ""
+msgstr "Limbi italice"
 
 #. Name for jpx
 msgid "Japanese (family)"
-msgstr ""
+msgstr "Japoneză (familie)"
 
 #. Name for kar
 msgid "Karen languages"
-msgstr ""
+msgstr "Limbi karene (vorbite în sudul Birmaniei și Tailanda)"
 
 #. Name for kdo
 msgid "Kordofanian languages"
-msgstr ""
+msgstr "Limbi kordofane (vorbite în regiunea Kordofan de sud din Sudan)"
 
 #. Name for khi
 msgid "Khoisan languages"
-msgstr ""
+msgstr "Limbi khoisan (vorbite în diferite regiuni din Africa)"
 
 #. Name for kro
 msgid "Kru languages"
-msgstr ""
+msgstr "Limbi kru (vorbite în Liberia și Coasta de fildeș)"
 
 #. Name for map
 msgid "Austronesian languages"
 msgstr ""
+"Limbi austroneziene (vorbite în diferite regiuni din sudul Asiei și "
+"Pacificul de sud)"
 
 #. Name for mkh
 msgid "Mon-Khmer languages"
-msgstr ""
+msgstr "Limbi mon-khmer (vorbite în Cambodgia, Tailanda și Vietnam)"
 
 #. Name for mno
 msgid "Manobo languages"
-msgstr ""
+msgstr "Limbi manobo (vorbite în Filipine)"
 
 #. Name for mun
 msgid "Munda languages"
-msgstr ""
+msgstr "Limbi munda (vorbite =n India și Bangladesh)"
 
 #. Name for myn
 msgid "Mayan languages"
-msgstr ""
+msgstr "Limbi mayașe (vorbite în Guatemala, Mexic, Belize și Honduras)"
 
 #. Name for nah
 msgid "Nahuatl languages"
-msgstr ""
+msgstr "Limbi nahuatl (vorbite în Mexic, SUA și Honduras)"
 
 #. Name for nai
 msgid "North American Indian languages"
-msgstr ""
+msgstr "Limbi indiene din America de Nord"
 
 #. Name for ngf
 msgid "Trans-New Guinea languages"
 msgstr ""
+"Limbi trans-noua Guinee (vorbite în Papua noua Guinee, Indonezia și Timor "
+"oriental)"
 
 #. Name for nic
 msgid "Niger-Kordofanian languages"
-msgstr ""
+msgstr "Limbi nigero-kordofaniene (vorbite în diverse regiuni din Africa)"
 
 #. Name for nub
 msgid "Nubian languages"
-msgstr ""
+msgstr "Limbi nubiene (vorbite în Egipt și Sudan)"
 
 #. Name for omq
 msgid "Oto-Manguean languages"
 msgstr ""
+"Limbi otomangueane (vorbite în Mexic, Honduras, Nicaragua și Costa Rica)"
 
 #. Name for omv
 msgid "Omotic languages"
-msgstr ""
+msgstr "Limbi omotice (vorbite în Etiopia și Sudan)"
 
 #. Name for oto
 msgid "Otomian languages"
-msgstr ""
+msgstr "Limbi otomiene (vorbite în Mexic)"
 
 #. Name for paa
 msgid "Papuan languages"
 msgstr ""
+"Limbi papuane (vorbite în Papua Noua Guinee, Timor oriental, Indonezia, "
+"Insulele Solomon și Tonga"
 
 #. Name for phi
 msgid "Philippine languages"
 msgstr ""
+"Limbi filipineze (vorbite în Republica Filipine, Indonezia, Taiwan și "
+"Malaezia)"
 
 #. Name for plf
 msgid "Central Malayo-Polynesian languages"
 msgstr ""
+"Limbi malaio-polineziene centrale (vorbite în Indonezia și Timor oriental)"
 
 #. Name for poz
 msgid "Malayo-Polynesian languages"
 msgstr ""
+"Limbi malaio-polineziene (vorbite în Asia de Sud-Est, Madagascar, Oceania ș."
+"a.)"
 
 #. Name for pqe
 msgid "Eastern Malayo-Polynesian languages"
 msgstr ""
+"Limbi malaio-polineziene orientale (vorbite în Indonezia și Insule din "
+"Pacific)"
 
 #. Name for pqw
 msgid "Western Malayo-Polynesian languages"
 msgstr ""
+"Limbi malaio-polineziene occidentale (vorbite în sud-estul Asiei și "
+"Madagascar)"
 
 #. Name for pra
 msgid "Prakrit languages"
-msgstr ""
+msgstr "Limbi prakrite (vorbite în antichitate în India)"
 
 #. Name for qwe
 msgid "Quechuan (family)"
 msgstr ""
+"Quechua (familie) (vorbită în Argentina, Bolivia, Chile, Columbia, Ecuador "
+"și Peru)"
 
 #. Name for roa
 msgid "Romance languages"
-msgstr ""
+msgstr "Limbi romanice"
 
 #. Name for sai
 msgid "South American Indian languages"
-msgstr ""
+msgstr "Limbi indiene din America de Sud"
 
 #. Name for sal
 msgid "Salishan languages"
-msgstr ""
+msgstr "Limbi salishan (vorbite în sud-estul Canadei și nord-estul SUA)"
 
 #. Name for sdv
 msgid "Eastern Sudanic languages"
 msgstr ""
+"Limbi sudanice orientale (vorbite din sudul Egiptului până în nordul "
+"Tanzaniei)"
 
 #. Name for sem
 msgid "Semitic languages"
 msgstr ""
+"Limbi semitice (vorbite în Asia de Vest, Africa de Nord și de Nord-est, "
+"Malta)"
 
 #. Name for sgn
 msgid "sign languages"
-msgstr ""
+msgstr "limbajele semnelor"
 
 #. Name for sio
 msgid "Siouan languages"
-msgstr ""
+msgstr "Limbi siouan (vorbite în SUA și Canada)"
 
 #. Name for sit
 msgid "Sino-Tibetan languages"
-msgstr ""
+msgstr "Limbi sino-tibetane (vorbite în estul Asiei)"
 
 #. Name for sla
 msgid "Slavic languages"
-msgstr ""
+msgstr "Limbi slave"
 
 #. Name for smi
 msgid "Sami languages"
-msgstr ""
+msgstr "Limbi sami (vorbite în Finlanda, Norvegia, Rusia, și Suedia)"
 
 #. Name for son
 msgid "Songhai languages"
-msgstr ""
+msgstr "Limbi songhai (vorbite în ținuturile străbătute de râul Niger)"
 
 #. Name for sqj
 msgid "Albanian languages"
-msgstr ""
+msgstr "Limbi albaneze"
 
 #. Name for ssa
 msgid "Nilo-Saharan languages"
-msgstr ""
+msgstr "Limbi nilo-sahariene (vorbite în Sahara, Africa centrală și orientală)"
 
 #. Name for syd
 msgid "Samoyedic languages"
-msgstr ""
+msgstr "Limbi samoiedice (vorbite în nordul Siberiei)"
 
 #. Name for tai
 msgid "Tai languages"
 msgstr ""
+"Limbi tai (vorbite în Birmania, Tailanda, Laos, Cambodgia, Vietnam și China)"
 
 #. Name for tbq
 msgid "Tibeto-Burman languages"
-msgstr ""
+msgstr "Limbi tibeto-burmane (vorbite în sud-estul Asiei, sudul și estul Asiei)"
 
 #. Name for trk
 msgid "Turkic languages"
-msgstr ""
+msgstr "Limbi turcice (vorbite în Anatolia, Asia Centrală, China și Siberia)"
 
 #. Name for tup
 msgid "Tupi languages"
-msgstr ""
+msgstr "Limbi tupi (vorbite în America de sud)"
 
 #. Name for tut
 msgid "Altaic languages"
-msgstr ""
+msgstr "Limbi altaice (vorbite în nordul și centrul Asiei)"
 
 #. Name for tuw
 msgid "Tungus languages"
-msgstr ""
+msgstr "Limbi tunguse (vorbite în Rusia, China și Mongolia)"
 
 #. Name for urj
 msgid "Uralic languages"
 msgstr ""
+"Limbi uralice (vorbite în centrul Europei, Scandinavia și nordul Siberiei)"
 
 #. Name for wak
 msgid "Wakashan languages"
 msgstr ""
+"Limbi wakashan (vorbite în Columbia britanică (Canada), inclusiv Insula "
+"Vancouver)"
 
 #. Name for wen
 msgid "Sorbian languages"
 msgstr ""
+"Limbi sorabe (vorbite în provinciile Saxonia și Branderburg din Germania)"
 
 #. Name for xgn
 msgid "Mongolian languages"
-msgstr ""
+msgstr "Limbi mongole"
 
 #. Name for xnd
 msgid "Na-Dene languages"
-msgstr ""
+msgstr "Limbi na-dene (vorbite în Canada, SUA și Mexic)"
 
 #. Name for ypk
 msgid "Yupik languages"
-msgstr ""
+msgstr "Limbi yupik (Rusia (Tchoukotka) și SUA (Alaska))"
 
 #. Name for zhx
 msgid "Chinese (family)"
-msgstr ""
+msgstr "Chineză (familie)"
 
 #. Name for zle
 msgid "East Slavic languages"
-msgstr ""
+msgstr "Limbi slave orientale"
 
 #. Name for zls
 msgid "South Slavic languages"
-msgstr ""
+msgstr "Limbi slave sudice"
 
 #. Name for zlw
 msgid "West Slavic languages"
-msgstr ""
+msgstr "Limbi slave occidentale"
 
 #. Name for znd
 msgid "Zande languages"
-msgstr ""
+msgstr "Limbi zande (vorbite în Africa centrală)"

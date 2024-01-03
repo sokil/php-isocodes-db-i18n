@@ -1,9 +1,9 @@
-# Translation of ISO 639-5 to LANGUAGE
+# Translation of ISO 639-5 to Occitan (post 1500); Provençal
 # Codes for the representation of names of languages
 # Part 5: Alpha-3 code for language families and groups
-#
+# .
 # This file is distributed under the same license as the iso-codes package.
-#
+# .
 # Copyright ©
 # Quentin PAGÈS <quentinantonin@free.fr>, 2020.
 msgid ""
@@ -28,8 +28,9 @@ msgid "Austro-Asiatic languages"
 msgstr ""
 
 #. Name for afa
+#, fuzzy
 msgid "Afro-Asiatic languages"
-msgstr ""
+msgstr "Afro-asiatic (autre)"
 
 #. Name for alg
 msgid "Algonquian languages"
@@ -52,8 +53,9 @@ msgid "Algic languages"
 msgstr ""
 
 #. Name for art
+#, fuzzy
 msgid "Artificial languages"
-msgstr ""
+msgstr "Lengas nahuatl"
 
 #. Name for ath
 msgid "Athapascan languages"
@@ -84,16 +86,19 @@ msgid "Bamileke languages"
 msgstr ""
 
 #. Name for bat
+#, fuzzy
 msgid "Baltic languages"
-msgstr ""
+msgstr "Lengas nahuatl"
 
 #. Name for ber
+#, fuzzy
 msgid "Berber languages"
-msgstr ""
+msgstr "Lengas nahuatl"
 
 #. Name for bih
+#, fuzzy
 msgid "Bihari languages"
-msgstr ""
+msgstr "Lengas nahuatl"
 
 #. Name for bnt
 msgid "Bantu languages"
@@ -108,8 +113,9 @@ msgid "Central American Indian languages"
 msgstr ""
 
 #. Name for cau
+#, fuzzy
 msgid "Caucasian languages"
-msgstr ""
+msgstr "Lengas nahuatl"
 
 #. Name for cba
 msgid "Chibchan languages"
@@ -160,8 +166,9 @@ msgid "Central Sudanic languages"
 msgstr ""
 
 #. Name for cus
+#, fuzzy
 msgid "Cushitic languages"
-msgstr ""
+msgstr "Lengas nahuatl"
 
 #. Name for day
 msgid "Land Dayak languages"
@@ -172,8 +179,9 @@ msgid "Mande languages"
 msgstr ""
 
 #. Name for dra
+#, fuzzy
 msgid "Dravidian languages"
-msgstr ""
+msgstr "Lengas nahuatl"
 
 #. Name for egx
 msgid "Egyptian languages"
@@ -196,8 +204,9 @@ msgid "Formosan languages"
 msgstr ""
 
 #. Name for gem
+#, fuzzy
 msgid "Germanic languages"
-msgstr ""
+msgstr "Lengas nahuatl"
 
 #. Name for gme
 msgid "East Germanic languages"
@@ -236,16 +245,19 @@ msgid "Ijo languages"
 msgstr ""
 
 #. Name for inc
+#, fuzzy
 msgid "Indic languages"
-msgstr ""
+msgstr "Lengas nahuatl"
 
 #. Name for ine
+#, fuzzy
 msgid "Indo-European languages"
-msgstr ""
+msgstr "Lengas nahuatl"
 
 #. Name for ira
+#, fuzzy
 msgid "Iranian languages"
-msgstr ""
+msgstr "Lengas nahuatl"
 
 #. Name for iro
 msgid "Iroquoian languages"
@@ -268,20 +280,23 @@ msgid "Kordofanian languages"
 msgstr ""
 
 #. Name for khi
+#, fuzzy
 msgid "Khoisan languages"
-msgstr ""
+msgstr "Lengas nahuatl"
 
 #. Name for kro
 msgid "Kru languages"
 msgstr ""
 
 #. Name for map
+#, fuzzy
 msgid "Austronesian languages"
-msgstr ""
+msgstr "Lengas nahuatl"
 
 #. Name for mkh
+#, fuzzy
 msgid "Mon-Khmer languages"
-msgstr ""
+msgstr "Lengas nahuatl"
 
 #. Name for mno
 msgid "Manobo languages"
@@ -297,7 +312,7 @@ msgstr ""
 
 #. Name for nah
 msgid "Nahuatl languages"
-msgstr ""
+msgstr "Lengas nahuatl"
 
 #. Name for nai
 msgid "North American Indian languages"
@@ -328,12 +343,14 @@ msgid "Otomian languages"
 msgstr ""
 
 #. Name for paa
+#, fuzzy
 msgid "Papuan languages"
-msgstr ""
+msgstr "Lengas nahuatl"
 
 #. Name for phi
+#, fuzzy
 msgid "Philippine languages"
-msgstr ""
+msgstr "Lengas nahuatl"
 
 #. Name for plf
 msgid "Central Malayo-Polynesian languages"
@@ -360,8 +377,9 @@ msgid "Quechuan (family)"
 msgstr ""
 
 #. Name for roa
+#, fuzzy
 msgid "Romance languages"
-msgstr ""
+msgstr "Lengas nahuatl"
 
 #. Name for sai
 msgid "South American Indian languages"
@@ -376,8 +394,9 @@ msgid "Eastern Sudanic languages"
 msgstr ""
 
 #. Name for sem
+#, fuzzy
 msgid "Semitic languages"
-msgstr ""
+msgstr "Lengas nahuatl"
 
 #. Name for sgn
 msgid "sign languages"
@@ -392,12 +411,14 @@ msgid "Sino-Tibetan languages"
 msgstr ""
 
 #. Name for sla
+#, fuzzy
 msgid "Slavic languages"
-msgstr ""
+msgstr "Lengas nahuatl"
 
 #. Name for smi
+#, fuzzy
 msgid "Sami languages"
-msgstr ""
+msgstr "Lengas nahuatl"
 
 #. Name for son
 msgid "Songhai languages"
@@ -408,16 +429,18 @@ msgid "Albanian languages"
 msgstr ""
 
 #. Name for ssa
+#, fuzzy
 msgid "Nilo-Saharan languages"
-msgstr ""
+msgstr "Lengas nahuatl"
 
 #. Name for syd
 msgid "Samoyedic languages"
 msgstr ""
 
 #. Name for tai
+#, fuzzy
 msgid "Tai languages"
-msgstr ""
+msgstr "Lengas nahuatl"
 
 #. Name for tbq
 msgid "Tibeto-Burman languages"
@@ -432,8 +455,9 @@ msgid "Tupi languages"
 msgstr ""
 
 #. Name for tut
+#, fuzzy
 msgid "Altaic languages"
-msgstr ""
+msgstr "Lengas nahuatl"
 
 #. Name for tuw
 msgid "Tungus languages"

@@ -1,19 +1,20 @@
-# Translation of ISO 3166-3 to LANGUAGE
+# Translation of ISO 3166-3 to Friulian
 # Codes for the representation of names of countries and their subdivisions
 # Part 3: Code for formerly used names of countries
-#
+# .
 # This file is distributed under the same license as the iso-codes package.
-#
+# .
 # Copyright ©
 # Fabio Tomat <f.t.public@gmail.com>, 2021.
+# adecorte <adecorte@gmail.com>, 2023.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-3\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2023-02-24 21:26+0100\n"
-"PO-Revision-Date: 2021-02-03 11:42+0000\n"
-"Last-Translator: Fabio Tomat <f.t.public@gmail.com>\n"
+"PO-Revision-Date: 2023-12-21 10:55+0000\n"
+"Last-Translator: adecorte <adecorte@gmail.com>\n"
 "Language-Team: Friulian <https://hosted.weblate.org/projects/iso-codes/"
 "iso-3166-3/fur/>\n"
 "Language: fur\n"
@@ -21,7 +22,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.5-dev\n"
+"X-Generator: Weblate 5.3\n"
 
 #. Name for AIDJ
 msgid "French Afars and Issas"
@@ -49,7 +50,7 @@ msgstr ""
 
 #. Name for CSXX
 msgid "Serbia and Montenegro"
-msgstr ""
+msgstr "Serbie e Montenegro"
 
 #. Name for CTKI
 msgid "Canton and Enderbury Islands"
@@ -69,7 +70,7 @@ msgstr "Teritoris austrâi francês"
 
 #. Name for FXFR
 msgid "France, Metropolitan"
-msgstr ""
+msgstr "France metropolitane"
 
 #. Name for GEHH
 msgid "Gilbert and Ellice Islands"
@@ -89,7 +90,7 @@ msgstr ""
 
 #. Name for NHVU
 msgid "New Hebrides"
-msgstr ""
+msgstr "Gnosis Ebridis"
 
 #. Name for NQAQ
 msgid "Dronning Maud Land"
@@ -97,7 +98,7 @@ msgstr ""
 
 #. Name for NTHH
 msgid "Neutral Zone"
-msgstr ""
+msgstr "Zone neutrâl"
 
 #. Name for PCHH
 msgid "Pacific Islands (trust territory)"
@@ -109,7 +110,7 @@ msgstr ""
 
 #. Name for PZPA
 msgid "Panama Canal Zone"
-msgstr ""
+msgstr "Zone dal Canâl di Panama"
 
 #. Name for RHZW
 msgid "Southern Rhodesia"
@@ -125,7 +126,7 @@ msgstr ""
 
 #. Name for TPTL
 msgid "East Timor"
-msgstr ""
+msgstr "Timor orientâl"
 
 #. Name for VDVN
 msgid "Viet-Nam, Democratic Republic of"
@@ -141,7 +142,7 @@ msgstr ""
 
 #. Name for YUCS
 msgid "Yugoslavia, (Socialist) Federal Republic of"
-msgstr ""
+msgstr "Jugoslavie, Republiche federâl socialiste di"
 
 #. Name for ZRCD
 msgid "Zaire, Republic of"
