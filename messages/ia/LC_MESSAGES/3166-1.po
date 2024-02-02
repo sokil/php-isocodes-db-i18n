@@ -7,14 +7,15 @@
 # Copyright ©
 # Nik Kalach <nik.kalach@inbox.ru>, 2013.
 # Giovanni Sora <g.sora@tiscali.it>, 2019.
+# Chris Leonard <cjlhomeaddress@gmail.com>, 2024.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-1\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2023-02-24 21:26+0100\n"
-"PO-Revision-Date: 2019-06-20 21:01+0000\n"
-"Last-Translator: Giovanni Sora <g.sora@tiscali.it>\n"
+"PO-Revision-Date: 2024-01-03 01:08+0000\n"
+"Last-Translator: Chris Leonard <cjlhomeaddress@gmail.com>\n"
 "Language-Team: Interlingua <https://hosted.weblate.org/projects/iso-codes/"
 "iso-3166-1/ia/>\n"
 "Language: ia\n"
@@ -22,7 +23,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.7\n"
+"X-Generator: Weblate 5.4-dev\n"
 
 #. Name for ABW
 msgid "Aruba"
@@ -266,7 +267,7 @@ msgstr "Republica de Botswana"
 
 #. Name for CAF
 msgid "Central African Republic"
-msgstr "Republica African Central"
+msgstr "Republica Centroafrican"
 
 #. Name for CAN
 msgid "Canada"

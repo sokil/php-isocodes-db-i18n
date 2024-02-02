@@ -13,26 +13,27 @@
 # LI Daobing <lidaobing@gmail.com>, 2007-2008, 2010, 2019.
 # Boyuan Yang <073plan@gmail.com>, 2022.
 # yangyangdaji <1504305527@qq.com>, 2022.
+# Tyson Tan <tysontanx@gmail.com>, 2024.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_4217\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2022-06-01 15:01+0200\n"
-"PO-Revision-Date: 2022-08-14 19:19+0000\n"
-"Last-Translator: yangyangdaji <1504305527@qq.com>\n"
-"Language-Team: Chinese (Simplified) <https://hosted.weblate.org/projects/iso-"
-"codes/iso-4217/zh_Hans/>\n"
+"PO-Revision-Date: 2024-01-15 02:23+0000\n"
+"Last-Translator: Tyson Tan <tysontanx@gmail.com>\n"
+"Language-Team: Chinese (Simplified) <https://hosted.weblate.org/projects/"
+"iso-codes/iso-4217/zh_Hans/>\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.14-dev\n"
+"X-Generator: Weblate 5.4-dev\n"
 
 #. Name for AED
 msgid "UAE Dirham"
-msgstr "UAE 迪拉姆"
+msgstr "阿联酋迪拉姆"
 
 #. Name for AFN
 msgid "Afghani"
@@ -72,7 +73,7 @@ msgstr "阿塞拜疆马纳特"
 
 #. Name for BAM
 msgid "Convertible Mark"
-msgstr "波斯尼亚和黑塞哥维那可兑换马克"
+msgstr "波黑可兑换马克"
 
 #. Name for BBD
 msgid "Barbados Dollar"
@@ -108,11 +109,11 @@ msgstr "玻利维亚比索"
 
 #. Name for BOV
 msgid "Mvdol"
-msgstr "玻利维亚语"
+msgstr "MVDOL"
 
 #. Name for BRL
 msgid "Brazilian Real"
-msgstr "巴西瑞尔"
+msgstr "巴西雷亚尔"
 
 #. Name for BSD
 msgid "Bahamian Dollar"
@@ -136,7 +137,7 @@ msgstr "伯利兹元"
 
 #. Name for CAD
 msgid "Canadian Dollar"
-msgstr "加元"
+msgstr "加拿大元"
 
 #. Name for CDF
 msgid "Congolese Franc"
@@ -156,7 +157,7 @@ msgstr "WIR 法郎"
 
 #. Name for CLF
 msgid "Unidad de Fomento"
-msgstr "智利比索"
+msgstr "UF 值"
 
 #. Name for CLP
 msgid "Chilean Peso"
@@ -172,7 +173,7 @@ msgstr "哥伦比亚比索"
 
 #. Name for COU
 msgid "Unidad de Valor Real"
-msgstr "以太坊"
+msgstr "雷亚尔价值单位"
 
 #. Name for CRC
 msgid "Costa Rican Colon"
@@ -180,7 +181,7 @@ msgstr "哥斯达黎加科朗"
 
 #. Name for CUC
 msgid "Peso Convertible"
-msgstr "古巴可兑换比索"
+msgstr "可兑换比索"
 
 #. Name for CUP
 msgid "Cuban Peso"
@@ -268,7 +269,7 @@ msgstr "圭亚那元"
 
 #. Name for HKD
 msgid "Hong Kong Dollar"
-msgstr "香港元"
+msgstr "港元"
 
 #. Name for HNL
 msgid "Lempira"
@@ -276,7 +277,7 @@ msgstr "伦皮拉"
 
 #. Name for HRK
 msgid "Kuna"
-msgstr "克罗地亚库纳"
+msgstr "库纳"
 
 #. Name for HTG
 msgid "Gourde"
@@ -288,7 +289,7 @@ msgstr "福林"
 
 #. Name for IDR
 msgid "Rupiah"
-msgstr "卢比"
+msgstr "印度尼西亚卢比"
 
 #. Name for ILS
 msgid "New Israeli Sheqel"
@@ -324,7 +325,7 @@ msgstr "日元"
 
 #. Name for KES
 msgid "Kenyan Shilling"
-msgstr "肯亚先令"
+msgstr "肯尼亚先令"
 
 #. Name for KGS
 msgid "Som"
@@ -340,11 +341,11 @@ msgstr "科摩罗法郎"
 
 #. Name for KPW
 msgid "North Korean Won"
-msgstr "北朝鲜圆"
+msgstr "朝鲜圆"
 
 #. Name for KRW
 msgid "Won"
-msgstr "圆"
+msgstr "韩元"
 
 #. Name for KWD
 msgid "Kuwaiti Dinar"
@@ -432,7 +433,7 @@ msgstr "墨西哥比索"
 
 #. Name for MXV
 msgid "Mexican Unidad de Inversion (UDI)"
-msgstr "墨西哥(资金)"
+msgstr "墨西哥投资单位 (UDI)"
 
 #. Name for MYR
 msgid "Malaysian Ringgit"
@@ -581,7 +582,7 @@ msgstr "里兰吉尼"
 
 #. Name for THB
 msgid "Baht"
-msgstr "铢"
+msgstr "泰铢"
 
 #. Name for TJS
 msgid "Somoni"
@@ -609,7 +610,7 @@ msgstr "特立尼达和多巴哥元"
 
 #. Name for TWD
 msgid "New Taiwan Dollar"
-msgstr "新台湾元"
+msgstr "新台币元"
 
 #. Name for TZS
 msgid "Tanzanian Shilling"
@@ -617,7 +618,7 @@ msgstr "坦桑尼亚先令"
 
 #. Name for UAH
 msgid "Hryvnia"
-msgstr "格里夫尼亚"
+msgstr "格里夫纳"
 
 #. Name for UGX
 msgid "Uganda Shilling"
@@ -629,11 +630,11 @@ msgstr "美元"
 
 #. Name for USN
 msgid "US Dollar (Next day)"
-msgstr "美元 （次日）"
+msgstr "美元 (次日)"
 
 #. Name for UYI
 msgid "Uruguay Peso en Unidades Indexadas (UI)"
-msgstr "乌拉圭货币指数(UI)"
+msgstr "乌拉圭比索指数 (UI)"
 
 #. Name for UYU
 msgid "Peso Uruguayo"
@@ -641,7 +642,7 @@ msgstr "乌拉圭比索"
 
 #. Name for UYW
 msgid "Unidad Previsional"
-msgstr "估计单位（UYW）"
+msgstr "乌拉圭比索预测单位 (UYW)"
 
 #. Name for UZS
 msgid "Uzbekistan Sum"
@@ -653,7 +654,7 @@ msgstr "主权玻利瓦尔"
 
 #. Name for VND
 msgid "Dong"
-msgstr "盾"
+msgstr "越南盾"
 
 #. Name for VUV
 msgid "Vatu"
@@ -665,11 +666,11 @@ msgstr "塔拉"
 
 #. Name for XAF
 msgid "CFA Franc BEAC"
-msgstr "CFA 法郎 BEAC"
+msgstr "中非金融合作法郎"
 
 #. Name for XAG
 msgid "Silver"
-msgstr "银"
+msgstr "白银"
 
 #. Name for XAU
 msgid "Gold"
@@ -677,7 +678,7 @@ msgstr "黄金"
 
 #. Name for XBA
 msgid "Bond Markets Unit European Composite Unit (EURCO)"
-msgstr "欧洲货币合成单（EURCO）"
+msgstr "欧洲货币综合单位 (EURCO)"
 
 #. Name for XBB
 msgid "Bond Markets Unit European Monetary Unit (E.M.U.-6)"
@@ -685,11 +686,11 @@ msgstr "欧洲货币单位 (E.M.U.-6)"
 
 #. Name for XBC
 msgid "Bond Markets Unit European Unit of Account 9 (E.U.A.-9)"
-msgstr "欧洲账户9单位(E.U.A.-9)"
+msgstr "欧洲记账单位-9 (E.U.A.-9)"
 
 #. Name for XBD
 msgid "Bond Markets Unit European Unit of Account 17 (E.U.A.-17)"
-msgstr "欧洲账户17单位(E.U.A.-17)"
+msgstr "欧洲记账单位-17 (E.U.A.-17)"
 
 #. Name for XCD
 msgid "East Caribbean Dollar"
@@ -697,11 +698,11 @@ msgstr "东加勒比元"
 
 #. Name for XDR
 msgid "SDR (Special Drawing Right)"
-msgstr "特别提款权"
+msgstr "SDR (特别提款权)"
 
 #. Name for XOF
 msgid "CFA Franc BCEAO"
-msgstr "CFA 法郎 BCEAO"
+msgstr "非洲金融共同体法郎"
 
 #. Name for XPD
 msgid "Palladium"
@@ -709,11 +710,11 @@ msgstr "钯"
 
 #. Name for XPF
 msgid "CFP Franc"
-msgstr "CFP 法郎"
+msgstr "太平洋法郎"
 
 #. Name for XPT
 msgid "Platinum"
-msgstr "铂白金"
+msgstr "铂金"
 
 #. Name for XSU
 msgid "Sucre"
@@ -721,15 +722,15 @@ msgstr "苏克雷"
 
 #. Name for XTS
 msgid "Codes specifically reserved for testing purposes"
-msgstr "为测试特别保留的代码"
+msgstr "测试专用保留代码"
 
 #. Name for XUA
 msgid "ADB Unit of Account"
-msgstr "非洲开发银行记帐单位"
+msgstr "非洲开发银行记账单位"
 
 #. Name for XXX
 msgid "The codes assigned for transactions where no currency is involved"
-msgstr "未包括的交易货币代码"
+msgstr "非货币交易代码"
 
 #. Name for YER
 msgid "Yemeni Rial"

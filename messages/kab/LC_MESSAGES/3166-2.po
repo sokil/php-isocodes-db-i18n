@@ -6,14 +6,15 @@
 # .
 # Copyright ©
 # ButterflyOfFire <ButterflyOfFire@protonmail.com>, 2020.
+# ButterflyOfFire <boffire@users.noreply.hosted.weblate.org>, 2024.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-2\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2023-12-18 14:43+0100\n"
-"PO-Revision-Date: 2020-06-25 09:41+0000\n"
-"Last-Translator: ButterflyOfFire <ButterflyOfFire@protonmail.com>\n"
+"PO-Revision-Date: 2024-01-10 05:06+0000\n"
+"Last-Translator: ButterflyOfFire <boffire@users.noreply.hosted.weblate.org>\n"
 "Language-Team: Kabyle <https://hosted.weblate.org/projects/iso-codes/"
 "iso-3166-2/kab/>\n"
 "Language: kab\n"
@@ -21,7 +22,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 4.2-dev\n"
+"X-Generator: Weblate 5.4-dev\n"
 
 #. Name for AD-02
 msgid "Canillo"
@@ -3829,11 +3830,11 @@ msgstr ""
 
 #. Name for DZ-02
 msgid "Chlef"
-msgstr ""
+msgstr "Clef"
 
 #. Name for DZ-03
 msgid "Laghouat"
-msgstr ""
+msgstr "Leɣwaṭ"
 
 #. Name for DZ-04
 msgid "Oum el Bouaghi"
@@ -3845,7 +3846,7 @@ msgstr ""
 
 #. Name for DZ-06
 msgid "Béjaïa"
-msgstr ""
+msgstr "Bgayet"
 
 #. Name for DZ-07
 msgid "Biskra"
@@ -3861,7 +3862,7 @@ msgstr ""
 
 #. Name for DZ-10
 msgid "Bouira"
-msgstr ""
+msgstr "Tubiret"
 
 #. Name for DZ-11
 msgid "Tamanrasset"
@@ -3869,7 +3870,7 @@ msgstr ""
 
 #. Name for DZ-12
 msgid "Tébessa"
-msgstr ""
+msgstr "Tibest"
 
 #. Name for DZ-13
 msgid "Tlemcen"
@@ -3881,7 +3882,7 @@ msgstr ""
 
 #. Name for DZ-15
 msgid "Tizi Ouzou"
-msgstr ""
+msgstr "Tizi Wezzu"
 
 #. Name for DZ-16
 msgid "Alger"
@@ -3889,7 +3890,7 @@ msgstr "Lezzayer"
 
 #. Name for DZ-17
 msgid "Djelfa"
-msgstr ""
+msgstr "Ǧelfa"
 
 #. Name for DZ-18
 msgid "Jijel"
@@ -3897,11 +3898,11 @@ msgstr ""
 
 #. Name for DZ-19
 msgid "Sétif"
-msgstr ""
+msgstr "Sṭif"
 
 #. Name for DZ-20
 msgid "Saïda"
-msgstr ""
+msgstr "Sɛida"
 
 #. Name for DZ-21
 msgid "Skikda"
@@ -3913,7 +3914,7 @@ msgstr ""
 
 #. Name for DZ-23
 msgid "Annaba"
-msgstr ""
+msgstr "Ɛennaba"
 
 #. Name for DZ-24
 msgid "Guelma"
@@ -3921,7 +3922,7 @@ msgstr ""
 
 #. Name for DZ-25
 msgid "Constantine"
-msgstr ""
+msgstr "Qsemṭina"
 
 #. Name for DZ-26
 msgid "Médéa"
@@ -3941,11 +3942,11 @@ msgstr ""
 
 #. Name for DZ-30
 msgid "Ouargla"
-msgstr ""
+msgstr "Wergla"
 
 #. Name for DZ-31
 msgid "Oran"
-msgstr ""
+msgstr "Wahran"
 
 #. Name for DZ-32
 msgid "El Bayadh"
@@ -3953,7 +3954,7 @@ msgstr ""
 
 #. Name for DZ-33
 msgid "Illizi"
-msgstr ""
+msgstr "Illizi"
 
 #. Name for DZ-34
 msgid "Bordj Bou Arréridj"
@@ -4932,7 +4933,7 @@ msgid "Tigrai"
 msgstr ""
 
 #. Name for FI-01
-msgid "Ahvenanmaan maakunta"
+msgid "Landskapet Åland"
 msgstr ""
 
 #. Name for FI-02
@@ -4952,7 +4953,7 @@ msgid "Kainuu"
 msgstr ""
 
 #. Name for FI-06
-msgid "Egentliga Tavastland"
+msgid "Kanta-Häme"
 msgstr ""
 
 #. Name for FI-07
@@ -4972,7 +4973,7 @@ msgid "Lappi"
 msgstr ""
 
 #. Name for FI-11
-msgid "Birkaland"
+msgid "Pirkanmaa"
 msgstr ""
 
 #. Name for FI-12
@@ -4980,19 +4981,19 @@ msgid "Pohjanmaa"
 msgstr ""
 
 #. Name for FI-13
-msgid "Norra Karelen"
+msgid "Pohjois-Karjala"
 msgstr ""
 
 #. Name for FI-14
-msgid "Norra Österbotten"
+msgid "Pohjois-Pohjanmaa"
 msgstr ""
 
 #. Name for FI-15
-msgid "Norra Savolax"
+msgid "Pohjois-Savo"
 msgstr ""
 
 #. Name for FI-16
-msgid "Päijänne-Tavastland"
+msgid "Päijät-Häme"
 msgstr ""
 
 #. Name for FI-17
@@ -5000,11 +5001,11 @@ msgid "Satakunta"
 msgstr ""
 
 #. Name for FI-18
-msgid "Nyland"
+msgid "Uusimaa"
 msgstr ""
 
 #. Name for FI-19
-msgid "Egentliga Finland"
+msgid "Varsinais-Suomi"
 msgstr ""
 
 #. Name for FJ-01
