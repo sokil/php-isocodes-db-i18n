@@ -6,24 +6,27 @@
 # .
 # Copyright ©
 # Dr.T.Vasudevan <agnihot3@gmail.com>, 2007-2008.
+# தமிழ்நேரம் <anishprabu.t@gmail.com>, 2024.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-3\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2023-02-24 21:26+0100\n"
-"PO-Revision-Date: 2008-05-03 21:08+0530\n"
-"Last-Translator: Dr.T.Vasudevan <agnihot3@gmail.com>\n"
-"Language-Team: Tamil <Ubuntu-l10n-tam@lists.ubuntu.com>\n"
+"PO-Revision-Date: 2024-01-17 06:06+0000\n"
+"Last-Translator: தமிழ்நேரம் <anishprabu.t@gmail.com>\n"
+"Language-Team: Tamil <https://hosted.weblate.org/projects/iso-codes/"
+"iso-3166-3/ta/>\n"
 "Language: ta\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: KBabel 1.11.4\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.4-dev\n"
 
 #. Name for AIDJ
 msgid "French Afars and Issas"
-msgstr "பிரெஞ்சு அபார்ஸ் மற்றும் இஸாஸ்"
+msgstr "பிரெஞ்சு அபார்ச் மற்றும் இசாச்"
 
 #. Name for ANHH
 msgid "Netherlands Antilles"
@@ -31,19 +34,19 @@ msgstr "நெதர்லாந்து அன்டில்சு"
 
 #. Name for BQAQ
 msgid "British Antarctic Territory"
-msgstr "ப்ரிட்டிஷ் அண்டார்டிக் பிரதேசம்"
+msgstr "ப்ரிட்டிச் அண்டார்டிக் பிரதேசம்"
 
 #. Name for BUMM
 msgid "Burma, Socialist Republic of the Union of"
-msgstr "பர்மா யூனியன் சோஷலிஸ குடியரசு"
+msgstr "பர்மா யூனியன் சோசலிச குடியரசு"
 
 #. Name for BYAA
 msgid "Byelorussian SSR Soviet Socialist Republic"
-msgstr "பிலோ ரஷ்யன் எஸ்எஸ்ஆர் சோவியத் சோசலிச குடியரசு"
+msgstr "பிலோ ரச்யன் எச்எச்ஆர் சோவியத் சோசலிச குடியரசு"
 
 #. Name for CSHH
 msgid "Czechoslovakia, Czechoslovak Socialist Republic"
-msgstr "செக்கோஸ்லோவாகியா, செக்கோஸ்லோவாகியா சோசலிச குடியரசு"
+msgstr "செக்கோச்லோவாகியா, செக்கோச்லோவாகியா சோசலிச குடியரசு"
 
 #. Name for CSXX
 msgid "Serbia and Montenegro"
@@ -55,7 +58,7 @@ msgstr "கேன்டன் மற்றும் என்டர்புர�
 
 #. Name for DDDE
 msgid "German Democratic Republic"
-msgstr "ஜெர்மானிய ஜனநாயக குடியரசு"
+msgstr "செர்மானிய மக்களாட்சி குடியரசு"
 
 #. Name for DYBJ
 msgid "Dahomey"
@@ -67,11 +70,11 @@ msgstr "ஃப்ரெஞ்ச் தெற்கு மற்றும் அ
 
 #. Name for FXFR
 msgid "France, Metropolitan"
-msgstr "ஃப்ரான்ஸ், பெருநகரம்"
+msgstr "ஃப்ரான்ச், பெருநகரம்"
 
 #. Name for GEHH
 msgid "Gilbert and Ellice Islands"
-msgstr "ஜில்பெர் மற்றும் எலைஸ் தீவுகள்"
+msgstr "சில்பெர் மற்றும் எலைச் தீவுகள்"
 
 #. Name for HVBF
 msgid "Upper Volta, Republic of"
@@ -79,7 +82,7 @@ msgstr "மேல் வோல்டா குடியரசு"
 
 #. Name for JTUM
 msgid "Johnston Island"
-msgstr "ஜான்ஸ்டன் தீவு"
+msgstr "சான்ச்டன் தீவு"
 
 #. Name for MIUM
 msgid "Midway Islands"
@@ -87,7 +90,7 @@ msgstr "மிட்வே தீவுகள்"
 
 #. Name for NHVU
 msgid "New Hebrides"
-msgstr "புதிய ஹெப்ரைட்ஸ்"
+msgstr "புதிய ஹெப்ரைட்ச்"
 
 #. Name for NQAQ
 msgid "Dronning Maud Land"
@@ -103,7 +106,7 @@ msgstr "பசிபிக் தீவுகள் (அறக்கட்டள
 
 #. Name for PUUM
 msgid "US Miscellaneous Pacific Islands"
-msgstr "யூஎஸ் பிற பசிபிக் தீவுகள்"
+msgstr "யூஎச் பிற பசிபிக் தீவுகள்"
 
 #. Name for PZPA
 msgid "Panama Canal Zone"
@@ -119,7 +122,7 @@ msgstr "சிக்கிம்"
 
 #. Name for SUHH
 msgid "USSR, Union of Soviet Socialist Republics"
-msgstr "யூஎஸ்எஸ்ஆர் சோவியத் சோசலிச யூனியன் குடியரசுகள்"
+msgstr "யூஎச்எச்ஆர் சோவியத் சோசலிச யூனியன் குடியரசுகள்"
 
 #. Name for TPTL
 msgid "East Timor"
@@ -127,7 +130,7 @@ msgstr "கிழக்கு தைமோர்"
 
 #. Name for VDVN
 msgid "Viet-Nam, Democratic Republic of"
-msgstr "வியட்நாம் ஜனநாயக மக்கள் குடியரசு"
+msgstr "வியட்நாம் மக்களாட்சி மக்கள் குடியரசு"
 
 #. Name for WKUM
 msgid "Wake Island"
@@ -135,14 +138,12 @@ msgstr "வேக் தீவு"
 
 #. Name for YDYE
 msgid "Yemen, Democratic, People's Democratic Republic of"
-msgstr "யேமான்,ஜனநாயக, ஜனநாயக மக்கள் குடியரசு"
+msgstr "யேமான்,குடியரசு, மக்களாட்சி மக்கள் குடியரசு"
 
 #. Name for YUCS
-#, fuzzy
-#| msgid "Yugoslavia, Socialist Federal Republic of"
 msgid "Yugoslavia, (Socialist) Federal Republic of"
-msgstr "யூகோஸ்லாவாகியா சோஷலிஸ ஐக்கிய குடியரசு"
+msgstr "யூகோச்லாவியா (சோசலிச) ஐக்கிய குடியரசு"
 
 #. Name for ZRCD
 msgid "Zaire, Republic of"
-msgstr "ஜாய்ர் குடியரசு"
+msgstr "சாய்ர் குடியரசு"

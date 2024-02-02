@@ -5,14 +5,14 @@
 # This file is distributed under the same license as the iso-codes package.
 # .
 # Copyright ©
-# Andika Triwidada <andika@gmail.com>, 2018, 2019.
+# Andika Triwidada <andika@gmail.com>, 2018, 2019, 2024.
 msgid ""
 msgstr ""
 "Project-Id-Version: Indonesian (iso-codes)\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2022-07-25 22:15+0200\n"
-"PO-Revision-Date: 2019-10-06 23:56+0000\n"
+"PO-Revision-Date: 2024-01-21 10:56+0000\n"
 "Last-Translator: Andika Triwidada <andika@gmail.com>\n"
 "Language-Team: Indonesian <https://hosted.weblate.org/projects/iso-codes/"
 "iso-639-3/id/>\n"
@@ -21,7 +21,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 3.9-dev\n"
+"X-Generator: Weblate 5.4-dev\n"
 
 #. Name for aaa
 msgid "Ghotuo"
@@ -384,14 +384,12 @@ msgid "Adangme"
 msgstr "Adangme"
 
 #. Name for adb
-#, fuzzy
-#| msgid "Laura"
 msgid "Atauran"
-msgstr "Laura"
+msgstr "Wetar"
 
 #. Name for add
 msgid "Lidzonka"
-msgstr ""
+msgstr "Lidzonka"
 
 #. Name for ade
 msgid "Adele"
@@ -906,10 +904,8 @@ msgid "Ali"
 msgstr "Ali"
 
 #. Name for aja
-#, fuzzy
-#| msgid "Aja (Sudan)"
 msgid "Aja (South Sudan)"
-msgstr "Aja (Sudan)"
+msgstr "Aja (Sudan Selatan)"
 
 #. Name for ajg
 msgid "Aja (Benin)"
@@ -932,10 +928,8 @@ msgid "Arabic, South Levantine"
 msgstr "Arab, Levantine Bagian Selatan"
 
 #. Name for ajs
-#, fuzzy
-#| msgid "Algerian Sign Language"
 msgid "Algerian Jewish Sign Language"
-msgstr "Bahasa Isyarat Aljazair"
+msgstr "Bahasa Isyarat Yahudi Aljazair"
 
 #. Name for aju
 msgid "Judeo-Moroccan Arabic"
@@ -1614,10 +1608,8 @@ msgid "Arigidi"
 msgstr "Arigidi"
 
 #. Name for aqk
-#, fuzzy
-#| msgid "Asháninka"
 msgid "Aninka"
-msgstr "Asháninka"
+msgstr "Aninka"
 
 #. Name for aqm
 msgid "Atohwaim"
@@ -1788,10 +1780,8 @@ msgid "American Sign Language"
 msgstr "Bahasa Isyarat Amerika"
 
 #. Name for asf
-#, fuzzy
-#| msgid "Siuslaw"
 msgid "Auslan"
-msgstr "Siuslaw"
+msgstr "Bahasa Isyarat Australia"
 
 #. Name for asg
 msgid "Cishingini"
@@ -2730,10 +2720,8 @@ msgid "Bardi"
 msgstr "Bardi"
 
 #. Name for bck
-#, fuzzy
-#| msgid "Bunun"
 msgid "Bunuba"
-msgstr "Bunun"
+msgstr "Bunuba"
 
 #. Name for bcl
 msgid "Central Bikol"
@@ -2824,20 +2812,16 @@ msgid "Bonggi"
 msgstr "Bonggi"
 
 #. Name for bdh
-#, fuzzy
-#| msgid "Baka (Sudan)"
 msgid "Baka (South Sudan)"
-msgstr "Baka (Sudan)"
+msgstr "Baka (Sudan Selatan)"
 
 #. Name for bdi
 msgid "Burun"
 msgstr "Burun"
 
 #. Name for bdj
-#, fuzzy
-#| msgid "Beli (Sudan)"
 msgid "Bai (South Sudan)"
-msgstr "Beli (Sudan)"
+msgstr "Bai (Sudan Selatan)"
 
 #. Name for bdk
 msgid "Budukh"
@@ -3724,10 +3708,8 @@ msgid "Biloxi"
 msgstr "Biloxi"
 
 #. Name for blm
-#, fuzzy
-#| msgid "Beli (Sudan)"
 msgid "Beli (South Sudan)"
-msgstr "Beli (Sudan)"
+msgstr "Beli (Sudan Selatan)"
 
 #. Name for bln
 msgid "Southern Catanduanes Bikol"
@@ -3762,10 +3744,8 @@ msgid "Tai Dam"
 msgstr "Tai Dam"
 
 #. Name for blv
-#, fuzzy
-#| msgid "Koibal"
 msgid "Kibala"
-msgstr "Koibal"
+msgstr "Kibala"
 
 #. Name for blw
 msgid "Balangao"
@@ -3813,7 +3793,7 @@ msgstr "Limassa"
 
 #. Name for bmf
 msgid "Bom-Kim"
-msgstr ""
+msgstr "Bom-Kim"
 
 #. Name for bmg
 msgid "Bamwe"
@@ -4112,10 +4092,8 @@ msgid "Daakaka"
 msgstr "Daakaka"
 
 #. Name for bpc
-#, fuzzy
-#| msgid "Mbuko"
 msgid "Mbuk"
-msgstr "Mbuko"
+msgstr "Mbuk"
 
 #. Name for bpd
 msgid "Banda-Banda"
@@ -4123,7 +4101,7 @@ msgstr "Banda-Banda"
 
 #. Name for bpe
 msgid "Bauni"
-msgstr ""
+msgstr "Bauni"
 
 #. Name for bpg
 msgid "Bonggo"
@@ -4331,7 +4309,7 @@ msgstr "Braj"
 
 #. Name for brb
 msgid "Brao"
-msgstr ""
+msgstr "Brao"
 
 #. Name for brc
 msgid "Berbice Creole Dutch"
@@ -4350,10 +4328,8 @@ msgid "Breton"
 msgstr "Breton"
 
 #. Name for brf
-#, fuzzy
-#| msgid "Birao"
 msgid "Bira"
-msgstr "Birao"
+msgstr "Bira"
 
 #. Name for brg
 msgid "Baure"
@@ -5149,7 +5125,7 @@ msgstr "Bayono"
 
 #. Name for bym
 msgid "Bidjara"
-msgstr ""
+msgstr "Bidjara"
 
 #. Name for byn
 msgid "Bilin"
@@ -5245,15 +5221,15 @@ msgstr "Bisu"
 
 #. Name for bzj
 msgid "Belize Kriol English"
-msgstr ""
+msgstr "Inggris Kriol Belize"
 
 #. Inverted name for bzj
 msgid "Kriol English, Belize"
-msgstr ""
+msgstr "Inggris Kriol, Belize"
 
 #. Name for bzk
 msgid "Nicaragua Creole English"
-msgstr ""
+msgstr "Inggris Kreol Nikaragua"
 
 #. Inverted name for bzk
 msgid "Creole English, Nicaragua"
@@ -5660,16 +5636,12 @@ msgid "Centúúm"
 msgstr "Centúúm"
 
 #. Name for cey
-#, fuzzy
-#| msgid "Daai Chin"
 msgid "Ekai Chin"
-msgstr "Daai Chin"
+msgstr "Ekai Chin"
 
 #. Inverted name for cey
-#, fuzzy
-#| msgid "Chin, Daai"
 msgid "Chin, Ekai"
-msgstr "Chin, Daai"
+msgstr "Chin, Ekai"
 
 #. Name for cfa
 msgid "Dijim-Bwilim"
@@ -5970,10 +5942,8 @@ msgid "Cibak"
 msgstr "Cibak"
 
 #. Name for ckm
-#, fuzzy
-#| msgid "Chakali"
 msgid "Chakavian"
-msgstr "Chakali"
+msgstr "Chakavian"
 
 #. Name for ckn
 msgid "Kaang Chin"

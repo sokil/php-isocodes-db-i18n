@@ -12,22 +12,23 @@
 # Boyuan Yang <073plan@gmail.com>, 2019, 2020, 2021, 2022.
 # tao wang <tonywang5@163.com>, 2020.
 # Dingzhong Chen <wsxy162@gmail.com>, 2021.
+# Tyson Tan <tysontanx@gmail.com>, 2024.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-2\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2023-12-18 14:43+0100\n"
-"PO-Revision-Date: 2022-06-02 18:17+0000\n"
-"Last-Translator: Boyuan Yang <073plan@gmail.com>\n"
-"Language-Team: Chinese (Simplified) <https://hosted.weblate.org/projects/iso-"
-"codes/iso-3166-2/zh_Hans/>\n"
+"PO-Revision-Date: 2024-01-15 15:46+0000\n"
+"Last-Translator: Tyson Tan <tysontanx@gmail.com>\n"
+"Language-Team: Chinese (Simplified) <https://hosted.weblate.org/projects/"
+"iso-codes/iso-3166-2/zh_Hans/>\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.13-dev\n"
+"X-Generator: Weblate 5.4-dev\n"
 
 #. Name for AD-02
 msgid "Canillo"
@@ -274,9 +275,8 @@ msgid "Gjirokastër"
 msgstr "吉罗卡斯特区"
 
 #. Name for AL-06
-#, fuzzy
 msgid "Korçë"
-msgstr "科赤区"
+msgstr "科尔察"
 
 #. Name for AL-07
 msgid "Kukës"
@@ -5418,8 +5418,9 @@ msgid "Tigrai"
 msgstr "提格雷"
 
 #. Name for FI-01
-msgid "Ahvenanmaan maakunta"
-msgstr ""
+#, fuzzy
+msgid "Landskapet Åland"
+msgstr "奥兰府"
 
 #. Name for FI-02
 msgid "Etelä-Karjala"
@@ -5439,7 +5440,7 @@ msgid "Kainuu"
 msgstr ""
 
 #. Name for FI-06
-msgid "Egentliga Tavastland"
+msgid "Kanta-Häme"
 msgstr ""
 
 #. Name for FI-07
@@ -5460,27 +5461,28 @@ msgstr ""
 
 #. Name for FI-11
 #, fuzzy
-msgid "Birkaland"
-msgstr "比斯克拉"
+#| msgid "Hordaland"
+msgid "Pirkanmaa"
+msgstr "霍达兰"
 
 #. Name for FI-12
 msgid "Pohjanmaa"
 msgstr ""
 
 #. Name for FI-13
-msgid "Norra Karelen"
+msgid "Pohjois-Karjala"
 msgstr ""
 
 #. Name for FI-14
-msgid "Norra Österbotten"
+msgid "Pohjois-Pohjanmaa"
 msgstr ""
 
 #. Name for FI-15
-msgid "Norra Savolax"
+msgid "Pohjois-Savo"
 msgstr ""
 
 #. Name for FI-16
-msgid "Päijänne-Tavastland"
+msgid "Päijät-Häme"
 msgstr ""
 
 #. Name for FI-17
@@ -5491,11 +5493,11 @@ msgstr "坦巴昆达"
 
 #. Name for FI-18
 #, fuzzy
-msgid "Nyland"
+msgid "Uusimaa"
 msgstr "萨尔"
 
 #. Name for FI-19
-msgid "Egentliga Finland"
+msgid "Varsinais-Suomi"
 msgstr ""
 
 #. Name for FJ-01
@@ -8382,9 +8384,8 @@ msgid "Andhra Pradesh"
 msgstr "安得拉邦"
 
 #. Name for IN-AR
-#, fuzzy
 msgid "Arunāchal Pradesh"
-msgstr "阿鲁纳恰尔邦"
+msgstr "伪阿鲁纳恰尔邦"
 
 #. Name for IN-AS
 msgid "Assam"

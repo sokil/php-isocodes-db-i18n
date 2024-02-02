@@ -7,22 +7,23 @@
 # Copyright ©
 # Boyuan Yang <073plan@gmail.com>, 2021.
 # Dingzhong Chen <wsxy162@gmail.com>, 2021.
+# Tyson Tan <tysontanx@gmail.com>, 2024.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_639-5\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2018-01-17 22:10+0100\n"
-"PO-Revision-Date: 2021-12-27 13:53+0000\n"
-"Last-Translator: Dingzhong Chen <wsxy162@gmail.com>\n"
-"Language-Team: Chinese (Simplified) <https://hosted.weblate.org/projects/iso-"
-"codes/iso-639-5/zh_Hans/>\n"
+"PO-Revision-Date: 2024-01-15 15:46+0000\n"
+"Last-Translator: Tyson Tan <tysontanx@gmail.com>\n"
+"Language-Team: Chinese (Simplified) <https://hosted.weblate.org/projects/"
+"iso-codes/iso-639-5/zh_Hans/>\n"
 "Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.10.1\n"
+"X-Generator: Weblate 5.4-dev\n"
 
 #. Name for aav
 msgid "Austro-Asiatic languages"
@@ -34,423 +35,423 @@ msgstr "亚非语系"
 
 #. Name for alg
 msgid "Algonquian languages"
-msgstr "阿尔冈昆语族"
+msgstr "阿尔冈昆语系"
 
 #. Name for alv
 msgid "Atlantic-Congo languages"
-msgstr "大西洋—刚果语族"
+msgstr "大西洋-刚果语系"
 
 #. Name for apa
 msgid "Apache languages"
-msgstr ""
+msgstr "南德内语系"
 
 #. Name for aqa
 msgid "Alacalufan languages"
-msgstr ""
+msgstr "阿拉卡卢夫语系"
 
 #. Name for aql
 msgid "Algic languages"
-msgstr ""
+msgstr "阿尔吉克语系"
 
 #. Name for art
 msgid "Artificial languages"
-msgstr ""
+msgstr "人造语系"
 
 #. Name for ath
 msgid "Athapascan languages"
-msgstr ""
+msgstr "德内语系"
 
 #. Name for auf
 msgid "Arauan languages"
-msgstr ""
+msgstr "阿拉万语系"
 
 #. Name for aus
 msgid "Australian languages"
-msgstr ""
+msgstr "澳大利亚原住民语系"
 
 #. Name for awd
 msgid "Arawakan languages"
-msgstr ""
+msgstr "阿拉瓦克语系"
 
 #. Name for azc
 msgid "Uto-Aztecan languages"
-msgstr ""
+msgstr "犹他-阿兹特克语系"
 
 #. Name for bad
 msgid "Banda languages"
-msgstr ""
+msgstr "班达语系"
 
 #. Name for bai
 msgid "Bamileke languages"
-msgstr ""
+msgstr "巴米累克语系"
 
 #. Name for bat
 msgid "Baltic languages"
-msgstr ""
+msgstr "波罗的语系"
 
 #. Name for ber
 msgid "Berber languages"
-msgstr ""
+msgstr "柏柏尔语系"
 
 #. Name for bih
 msgid "Bihari languages"
-msgstr ""
+msgstr "比哈尔语系"
 
 #. Name for bnt
 msgid "Bantu languages"
-msgstr ""
+msgstr "班图语系"
 
 #. Name for btk
 msgid "Batak languages"
-msgstr ""
+msgstr "巴塔克语系"
 
 #. Name for cai
 msgid "Central American Indian languages"
-msgstr ""
+msgstr "中美洲原住民语系"
 
 #. Name for cau
 msgid "Caucasian languages"
-msgstr ""
+msgstr "高加索语系"
 
 #. Name for cba
 msgid "Chibchan languages"
-msgstr ""
+msgstr "奇布恰语系"
 
 #. Name for ccn
 msgid "North Caucasian languages"
-msgstr ""
+msgstr "北高加索语系"
 
 #. Name for ccs
 msgid "South Caucasian languages"
-msgstr ""
+msgstr "南高加索语系"
 
 #. Name for cdc
 msgid "Chadic languages"
-msgstr ""
+msgstr "乍得语系"
 
 #. Name for cdd
 msgid "Caddoan languages"
-msgstr ""
+msgstr "卡多安语系"
 
 #. Name for cel
 msgid "Celtic languages"
-msgstr ""
+msgstr "凯尔特语系"
 
 #. Name for cmc
 msgid "Chamic languages"
-msgstr ""
+msgstr "占语系"
 
 #. Name for cpe
 msgid "Creoles and pidgins, English‑based"
-msgstr ""
+msgstr "英语克里奥尔混合语系"
 
 #. Name for cpf
 msgid "Creoles and pidgins, French‑based"
-msgstr ""
+msgstr "法语英语克里奥尔混合语系"
 
 #. Name for cpp
 msgid "Creoles and pidgins, Portuguese-based"
-msgstr ""
+msgstr "葡萄牙语克里奥尔混合语系"
 
 #. Name for crp
 msgid "Creoles and pidgins"
-msgstr ""
+msgstr "克里奥尔混合语系"
 
 #. Name for csu
 msgid "Central Sudanic languages"
-msgstr ""
+msgstr "中苏丹语系"
 
 #. Name for cus
 msgid "Cushitic languages"
-msgstr ""
+msgstr "库希特语系"
 
 #. Name for day
 msgid "Land Dayak languages"
-msgstr ""
+msgstr "陆上达雅克语系"
 
 #. Name for dmn
 msgid "Mande languages"
-msgstr ""
+msgstr "曼德语系"
 
 #. Name for dra
 msgid "Dravidian languages"
-msgstr ""
+msgstr "达罗毗荼语系"
 
 #. Name for egx
 msgid "Egyptian languages"
-msgstr ""
+msgstr "埃及语系"
 
 #. Name for esx
 msgid "Eskimo-Aleut languages"
-msgstr ""
+msgstr "爱斯基摩-阿留申语系"
 
 #. Name for euq
 msgid "Basque (family)"
-msgstr ""
+msgstr "巴斯克语系"
 
 #. Name for fiu
 msgid "Finno-Ugrian languages"
-msgstr ""
+msgstr "芬兰-乌戈尔语系"
 
 #. Name for fox
 msgid "Formosan languages"
-msgstr ""
+msgstr "台湾南岛语系"
 
 #. Name for gem
 msgid "Germanic languages"
-msgstr ""
+msgstr "日耳曼语系"
 
 #. Name for gme
 msgid "East Germanic languages"
-msgstr ""
+msgstr "东日耳曼语系"
 
 #. Name for gmq
 msgid "North Germanic languages"
-msgstr ""
+msgstr "北日耳曼语系"
 
 #. Name for gmw
 msgid "West Germanic languages"
-msgstr ""
+msgstr "西日耳曼语系"
 
 #. Name for grk
 msgid "Greek languages"
-msgstr ""
+msgstr "希腊语系"
 
 #. Name for hmx
 msgid "Hmong-Mien languages"
-msgstr ""
+msgstr "苗瑶语系"
 
 #. Name for hok
 msgid "Hokan languages"
-msgstr ""
+msgstr "霍坎语系"
 
 #. Name for hyx
 msgid "Armenian (family)"
-msgstr ""
+msgstr "亚美尼亚语系"
 
 #. Name for iir
 msgid "Indo-Iranian languages"
-msgstr ""
+msgstr "印度-伊朗语系"
 
 #. Name for ijo
 msgid "Ijo languages"
-msgstr ""
+msgstr "伊爵语系"
 
 #. Name for inc
 msgid "Indic languages"
-msgstr ""
+msgstr "印度语系"
 
 #. Name for ine
 msgid "Indo-European languages"
-msgstr ""
+msgstr "印欧语系"
 
 #. Name for ira
 msgid "Iranian languages"
-msgstr ""
+msgstr "伊朗语系"
 
 #. Name for iro
 msgid "Iroquoian languages"
-msgstr ""
+msgstr "易洛魁语系"
 
 #. Name for itc
 msgid "Italic languages"
-msgstr ""
+msgstr "意大利语系"
 
 #. Name for jpx
 msgid "Japanese (family)"
-msgstr ""
+msgstr "日本语系"
 
 #. Name for kar
 msgid "Karen languages"
-msgstr ""
+msgstr "克伦语系"
 
 #. Name for kdo
 msgid "Kordofanian languages"
-msgstr ""
+msgstr "科尔多凡语系"
 
 #. Name for khi
 msgid "Khoisan languages"
-msgstr ""
+msgstr "科依桑语系"
 
 #. Name for kro
 msgid "Kru languages"
-msgstr ""
+msgstr "克鲁语系"
 
 #. Name for map
 msgid "Austronesian languages"
-msgstr ""
+msgstr "南岛语系"
 
 #. Name for mkh
 msgid "Mon-Khmer languages"
-msgstr ""
+msgstr "南亚语系"
 
 #. Name for mno
 msgid "Manobo languages"
-msgstr ""
+msgstr "马诺博语系"
 
 #. Name for mun
 msgid "Munda languages"
-msgstr ""
+msgstr "蒙达语系"
 
 #. Name for myn
 msgid "Mayan languages"
-msgstr ""
+msgstr "玛雅语系"
 
 #. Name for nah
 msgid "Nahuatl languages"
-msgstr ""
+msgstr "纳瓦特尔语系"
 
 #. Name for nai
 msgid "North American Indian languages"
-msgstr ""
+msgstr "北美洲原住民语系"
 
 #. Name for ngf
 msgid "Trans-New Guinea languages"
-msgstr ""
+msgstr "跨新几内亚语系"
 
 #. Name for nic
 msgid "Niger-Kordofanian languages"
-msgstr ""
+msgstr "尼日尔-刚果语系"
 
 #. Name for nub
 msgid "Nubian languages"
-msgstr ""
+msgstr "努比亚语系"
 
 #. Name for omq
 msgid "Oto-Manguean languages"
-msgstr ""
+msgstr "欧托-曼格语系"
 
 #. Name for omv
 msgid "Omotic languages"
-msgstr ""
+msgstr "奥摩语系"
 
 #. Name for oto
 msgid "Otomian languages"
-msgstr ""
+msgstr "奥托米语系"
 
 #. Name for paa
 msgid "Papuan languages"
-msgstr ""
+msgstr "巴布亚语系"
 
 #. Name for phi
 msgid "Philippine languages"
-msgstr ""
+msgstr "菲律宾语系"
 
 #. Name for plf
 msgid "Central Malayo-Polynesian languages"
-msgstr ""
+msgstr "中马来-波利尼西亚语系"
 
 #. Name for poz
 msgid "Malayo-Polynesian languages"
-msgstr ""
+msgstr "马来-波利尼西亚语系"
 
 #. Name for pqe
 msgid "Eastern Malayo-Polynesian languages"
-msgstr ""
+msgstr "东马来-波利尼西亚语系"
 
 #. Name for pqw
 msgid "Western Malayo-Polynesian languages"
-msgstr ""
+msgstr "西马来-波利尼西亚语系"
 
 #. Name for pra
 msgid "Prakrit languages"
-msgstr ""
+msgstr "普拉克里特语系"
 
 #. Name for qwe
 msgid "Quechuan (family)"
-msgstr ""
+msgstr "克丘亚语系"
 
 #. Name for roa
 msgid "Romance languages"
-msgstr ""
+msgstr "罗曼语系"
 
 #. Name for sai
 msgid "South American Indian languages"
-msgstr ""
+msgstr "南美洲原住民语系"
 
 #. Name for sal
 msgid "Salishan languages"
-msgstr ""
+msgstr "萨利希语系"
 
 #. Name for sdv
 msgid "Eastern Sudanic languages"
-msgstr ""
+msgstr "东苏丹语系"
 
 #. Name for sem
 msgid "Semitic languages"
-msgstr ""
+msgstr "闪米特语系"
 
 #. Name for sgn
 msgid "sign languages"
-msgstr ""
+msgstr "手语语系"
 
 #. Name for sio
 msgid "Siouan languages"
-msgstr ""
+msgstr "苏族语系"
 
 #. Name for sit
 msgid "Sino-Tibetan languages"
-msgstr ""
+msgstr "汉藏语系"
 
 #. Name for sla
 msgid "Slavic languages"
-msgstr ""
+msgstr "斯拉夫语系"
 
 #. Name for smi
 msgid "Sami languages"
-msgstr ""
+msgstr "萨米语系"
 
 #. Name for son
 msgid "Songhai languages"
-msgstr ""
+msgstr "桑海语系"
 
 #. Name for sqj
 msgid "Albanian languages"
-msgstr ""
+msgstr "阿尔巴尼亚语系"
 
 #. Name for ssa
 msgid "Nilo-Saharan languages"
-msgstr ""
+msgstr "尼罗-撒哈拉语系"
 
 #. Name for syd
 msgid "Samoyedic languages"
-msgstr ""
+msgstr "萨莫耶德语系"
 
 #. Name for tai
 msgid "Tai languages"
-msgstr ""
+msgstr "壮傣语系"
 
 #. Name for tbq
 msgid "Tibeto-Burman languages"
-msgstr ""
+msgstr "藏缅语系"
 
 #. Name for trk
 msgid "Turkic languages"
-msgstr ""
+msgstr "突厥语系"
 
 #. Name for tup
 msgid "Tupi languages"
-msgstr ""
+msgstr "图皮语系"
 
 #. Name for tut
 msgid "Altaic languages"
-msgstr ""
+msgstr "阿尔泰语系"
 
 #. Name for tuw
 msgid "Tungus languages"
-msgstr ""
+msgstr "通古斯语系"
 
 #. Name for urj
 msgid "Uralic languages"
-msgstr ""
+msgstr "乌拉尔语系"
 
 #. Name for wak
 msgid "Wakashan languages"
-msgstr ""
+msgstr "瓦卡什语系"
 
 #. Name for wen
 msgid "Sorbian languages"
-msgstr ""
+msgstr "索布语系"
 
 #. Name for xgn
 msgid "Mongolian languages"
@@ -458,28 +459,28 @@ msgstr "蒙古语系"
 
 #. Name for xnd
 msgid "Na-Dene languages"
-msgstr ""
+msgstr "纳-德内语系"
 
 #. Name for ypk
 msgid "Yupik languages"
-msgstr ""
+msgstr "尤皮克语系"
 
 #. Name for zhx
 msgid "Chinese (family)"
-msgstr "汉语族"
+msgstr "汉语语系"
 
 #. Name for zle
 msgid "East Slavic languages"
-msgstr ""
+msgstr "东斯拉夫语系"
 
 #. Name for zls
 msgid "South Slavic languages"
-msgstr ""
+msgstr "南斯拉夫语系"
 
 #. Name for zlw
 msgid "West Slavic languages"
-msgstr ""
+msgstr "西斯拉夫语系"
 
 #. Name for znd
 msgid "Zande languages"
-msgstr ""
+msgstr "赞德语系"

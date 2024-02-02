@@ -5,14 +5,14 @@
 # This file is distributed under the same license as the iso-codes package.
 # .
 # Copyright ©
-# Andika Triwidada <andika@gmail.com>, 2018, 2020, 2021, 2022, 2023.
+# Andika Triwidada <andika@gmail.com>, 2018, 2020, 2021, 2022, 2023, 2024.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_639-5\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2018-01-17 22:10+0100\n"
-"PO-Revision-Date: 2023-03-03 15:38+0000\n"
+"PO-Revision-Date: 2024-01-21 10:56+0000\n"
 "Last-Translator: Andika Triwidada <andika@gmail.com>\n"
 "Language-Team: Indonesian <https://hosted.weblate.org/projects/iso-codes/"
 "iso-639-5/id/>\n"
@@ -21,7 +21,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.16.2-dev\n"
+"X-Generator: Weblate 5.4-dev\n"
 
 #. Name for aav
 msgid "Austro-Asiatic languages"
@@ -337,19 +337,19 @@ msgstr "Bahasa-bahasa Filipina"
 
 #. Name for plf
 msgid "Central Malayo-Polynesian languages"
-msgstr ""
+msgstr "Bahasa-bahasa Melayu Polinesia Tengah"
 
 #. Name for poz
 msgid "Malayo-Polynesian languages"
-msgstr ""
+msgstr "Bahasa-bahasa Melayu Polinesia"
 
 #. Name for pqe
 msgid "Eastern Malayo-Polynesian languages"
-msgstr ""
+msgstr "Bahasa-bahasa Melayu Polinesia Timur"
 
 #. Name for pqw
 msgid "Western Malayo-Polynesian languages"
-msgstr ""
+msgstr "Bahasa-bahasa Melayu Polinesia Barat"
 
 #. Name for pra
 msgid "Prakrit languages"
@@ -357,7 +357,7 @@ msgstr "Bahasa-bahasa Prakrit"
 
 #. Name for qwe
 msgid "Quechuan (family)"
-msgstr ""
+msgstr "Quechua (rumpun bahasa)"
 
 #. Name for roa
 msgid "Romance languages"
@@ -365,7 +365,7 @@ msgstr "Bahasa-bahasa Romance"
 
 #. Name for sai
 msgid "South American Indian languages"
-msgstr ""
+msgstr "Bahasa-bahasa Indian Amerika Selatan"
 
 #. Name for sal
 msgid "Salishan languages"
@@ -373,7 +373,7 @@ msgstr "Bahasa-bahasa Salisha"
 
 #. Name for sdv
 msgid "Eastern Sudanic languages"
-msgstr ""
+msgstr "Bahasa-bahasa Sudan Timur"
 
 #. Name for sem
 msgid "Semitic languages"
@@ -381,7 +381,7 @@ msgstr "Bahasa-bahasa Semit"
 
 #. Name for sgn
 msgid "sign languages"
-msgstr ""
+msgstr "bahasa isyarat"
 
 #. Name for sio
 msgid "Siouan languages"
@@ -405,7 +405,7 @@ msgstr "Bahasa-bahasa Songhai"
 
 #. Name for sqj
 msgid "Albanian languages"
-msgstr ""
+msgstr "Bahasa-bahasa Albania"
 
 #. Name for ssa
 msgid "Nilo-Saharan languages"
@@ -413,7 +413,7 @@ msgstr "Bahasa-bahasa Nilo-Sahara"
 
 #. Name for syd
 msgid "Samoyedic languages"
-msgstr ""
+msgstr "Bahasa-bahasa Samoyed"
 
 #. Name for tai
 msgid "Tai languages"
@@ -421,11 +421,11 @@ msgstr "Bahasa-bahasa Tai"
 
 #. Name for tbq
 msgid "Tibeto-Burman languages"
-msgstr ""
+msgstr "Bahasa-bahasa Tibeto-Burma"
 
 #. Name for trk
 msgid "Turkic languages"
-msgstr ""
+msgstr "Bahasa-bahasa Turkik"
 
 #. Name for tup
 msgid "Tupi languages"
@@ -437,11 +437,11 @@ msgstr "Bahasa-bahasa Altai"
 
 #. Name for tuw
 msgid "Tungus languages"
-msgstr ""
+msgstr "Bahasa-bahasa Tungus"
 
 #. Name for urj
 msgid "Uralic languages"
-msgstr ""
+msgstr "Bahasa-bahasa Ural"
 
 #. Name for wak
 msgid "Wakashan languages"
@@ -453,11 +453,11 @@ msgstr "Bahasa-bahasa Sorbia"
 
 #. Name for xgn
 msgid "Mongolian languages"
-msgstr ""
+msgstr "Bahasa-bahasa Mongolia"
 
 #. Name for xnd
 msgid "Na-Dene languages"
-msgstr ""
+msgstr "Bahasa-bahasa Na-Dene"
 
 #. Name for ypk
 msgid "Yupik languages"
@@ -465,19 +465,19 @@ msgstr "Bahasa-bahasa Yupik"
 
 #. Name for zhx
 msgid "Chinese (family)"
-msgstr ""
+msgstr "Cina (rumpun bahasa)"
 
 #. Name for zle
 msgid "East Slavic languages"
-msgstr ""
+msgstr "Bahasa-bahasa Slavia Timur"
 
 #. Name for zls
 msgid "South Slavic languages"
-msgstr ""
+msgstr "Bahasa-bahasa Slavia Selatan"
 
 #. Name for zlw
 msgid "West Slavic languages"
-msgstr ""
+msgstr "Bahasa-bahasa Slavia Barat"
 
 #. Name for znd
 msgid "Zande languages"

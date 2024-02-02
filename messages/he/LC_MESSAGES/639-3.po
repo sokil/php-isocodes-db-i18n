@@ -7,14 +7,14 @@
 # Copyright ©
 # Meni Livne <livne@kde.org>, 2000.
 # Alastair McKinstry <mckinstry@debian.org>, 2002.
-# Yaron Shahrabani <sh.yaron@gmail.com>, 2018, 2020, 2021.
+# Yaron Shahrabani <sh.yaron@gmail.com>, 2018, 2020, 2021, 2024.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_639-3\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2022-07-25 22:15+0200\n"
-"PO-Revision-Date: 2021-08-11 21:33+0000\n"
+"PO-Revision-Date: 2024-01-23 08:21+0000\n"
 "Last-Translator: Yaron Shahrabani <sh.yaron@gmail.com>\n"
 "Language-Team: Hebrew <https://hosted.weblate.org/projects/iso-codes/"
 "iso-639-3/he/>\n"
@@ -24,7 +24,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=4; plural=(n == 1) ? 0 : ((n == 2) ? 1 : ((n > 10 && "
 "n % 10 == 0) ? 2 : 3));\n"
-"X-Generator: Weblate 4.8-dev\n"
+"X-Generator: Weblate 5.4-dev\n"
 
 #. Name for aaa
 msgid "Ghotuo"
@@ -1767,19 +1767,19 @@ msgstr "ערבית"
 
 #. Name for arb
 msgid "Standard Arabic"
-msgstr ""
+msgstr "ערבית תקנית"
 
 #. Inverted name for arb
 msgid "Arabic, Standard"
-msgstr ""
+msgstr "תקנית, ערבית"
 
 #. Name for arc
 msgid "Official Aramaic (700-300 BCE)"
-msgstr ""
+msgstr "ארמית רשמית (700‏-300 לפנה״ס)"
 
 #. Inverted name for arc
 msgid "Aramaic, Official (700-300 BCE)"
-msgstr ""
+msgstr "רשמית, ארמית (700‏-300 לפנה״ס)"
 
 #. Name for ard
 #, fuzzy
