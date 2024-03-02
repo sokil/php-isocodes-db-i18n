@@ -12,14 +12,15 @@
 # IIDA Yosiaki <iida@gnu.org>, 2004-2005.
 # TANIGUCHI Yasuaki <yasuakit+weblate@gmail.com>, 2021.
 # ht1722 <taichi_19990611@yahoo.co.jp>, 2022.
+# ht1722 <ht1722@users.noreply.hosted.weblate.org>, 2024.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_639-3\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2022-07-25 22:15+0200\n"
-"PO-Revision-Date: 2022-04-09 00:10+0000\n"
-"Last-Translator: ht1722 <taichi_19990611@yahoo.co.jp>\n"
+"PO-Revision-Date: 2024-02-17 17:21+0000\n"
+"Last-Translator: ht1722 <ht1722@users.noreply.hosted.weblate.org>\n"
 "Language-Team: Japanese <https://hosted.weblate.org/projects/iso-codes/"
 "iso-639-3/ja/>\n"
 "Language: ja\n"
@@ -27,7 +28,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.12-dev\n"
+"X-Generator: Weblate 5.4\n"
 
 #. Name for aaa
 msgid "Ghotuo"
@@ -1136,7 +1137,7 @@ msgstr "ビコル語"
 
 #. Name for ain
 msgid "Ainu (Japan)"
-msgstr ""
+msgstr "アイヌ語（日本）"
 
 #. Name for aio
 #, fuzzy
@@ -1238,7 +1239,7 @@ msgstr "ユダヤ・アラビア語"
 
 #. Inverted name for aju
 msgid "Arabic, Judeo-Moroccan"
-msgstr ""
+msgstr "ユダヤ＝モロッコ・アラビア語"
 
 # 国国
 # 北米インディアン
@@ -20830,7 +20831,7 @@ msgstr "カンバ語"
 
 #. Name for kpg
 msgid "Kapingamarangi"
-msgstr ""
+msgstr "カピンガマランギ語"
 
 # ファン語とも
 #. Name for kph

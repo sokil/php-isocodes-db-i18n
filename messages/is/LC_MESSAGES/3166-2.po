@@ -5,14 +5,14 @@
 # This file is distributed under the same license as the iso-codes package.
 # .
 # Copyright ©
-# Sveinn í Felli <sv1@fellsnet.is>, 2017, 2018, 2020.
+# Sveinn í Felli <sv1@fellsnet.is>, 2017, 2018, 2020, 2024.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-2\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2023-12-18 14:43+0100\n"
-"PO-Revision-Date: 2020-06-10 23:41+0000\n"
+"PO-Revision-Date: 2024-02-03 15:01+0000\n"
 "Last-Translator: Sveinn í Felli <sv1@fellsnet.is>\n"
 "Language-Team: Icelandic <https://hosted.weblate.org/projects/iso-codes/"
 "iso-3166-2/is/>\n"
@@ -21,7 +21,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n % 10 != 1 || n % 100 == 11;\n"
-"X-Generator: Weblate 4.1-dev\n"
+"X-Generator: Weblate 5.4-dev\n"
 "X-Bugs: Report translation errors to the Language-Team address.\n"
 
 #. Name for AD-02
@@ -490,7 +490,7 @@ msgstr ""
 
 #. Name for AR-V
 msgid "Tierra del Fuego"
-msgstr ""
+msgstr "Eldland"
 
 #. Name for AR-W
 msgid "Corrientes"
@@ -534,7 +534,7 @@ msgstr ""
 
 #. Name for AT-7
 msgid "Tirol"
-msgstr ""
+msgstr "Tíról"
 
 #. Name for AT-8
 msgid "Vorarlberg"
@@ -546,11 +546,11 @@ msgstr ""
 
 #. Name for AU-ACT
 msgid "Australian Capital Territory"
-msgstr ""
+msgstr "Ástralska höfuðborgarsvæðið"
 
 #. Name for AU-NSW
 msgid "New South Wales"
-msgstr ""
+msgstr "Nýja Suður-Wales"
 
 #. Name for AU-NT
 msgid "Northern Territory"
@@ -562,15 +562,15 @@ msgstr ""
 
 #. Name for AU-SA
 msgid "South Australia"
-msgstr ""
+msgstr "Suður-Ástralía"
 
 #. Name for AU-TAS
 msgid "Tasmania"
-msgstr ""
+msgstr "Tasmanía"
 
 #. Name for AU-VIC
 msgid "Victoria"
-msgstr ""
+msgstr "Viktoría"
 
 #. Name for AU-WA
 msgid "Western Australia"
@@ -874,7 +874,7 @@ msgstr ""
 
 #. Name for BA-BIH
 msgid "Federacija Bosne i Hercegovine"
-msgstr ""
+msgstr "Sambandsríki Bosníu og Hersegóvínu"
 
 #. Name for BA-BRC
 msgid "Brčko distrikt"
@@ -933,10 +933,8 @@ msgid "Bagerhat"
 msgstr ""
 
 #. Name for BD-06, Name for BD-A
-#, fuzzy
-#| msgid "Bari"
 msgid "Barishal"
-msgstr "Barí"
+msgstr "Barishal"
 
 #. Name for BD-07
 msgid "Bhola"
@@ -1232,39 +1230,39 @@ msgstr ""
 
 #. Name for BF-03, Name for CM-CE, Name for HT-CE
 msgid "Centre"
-msgstr ""
+msgstr "Mið"
 
 #. Name for BF-04
 msgid "Centre-Est"
-msgstr ""
+msgstr "Mið-Austur"
 
 #. Name for BF-05
 msgid "Centre-Nord"
-msgstr ""
+msgstr "Mið-Norður"
 
 #. Name for BF-06
 msgid "Centre-Ouest"
-msgstr ""
+msgstr "Mið-Vestur"
 
 #. Name for BF-07
 msgid "Centre-Sud"
-msgstr ""
+msgstr "Mið-Suður"
 
 #. Name for BF-08
 msgid "Est"
-msgstr ""
+msgstr "Austur"
 
 #. Name for BF-09
 msgid "Hauts-Bassins"
-msgstr ""
+msgstr "Hauts-Bassins"
 
 #. Name for BF-10, Name for FR-59, Name for HT-ND
 msgid "Nord"
-msgstr ""
+msgstr "Norður"
 
 #. Name for BF-11
 msgid "Plateau-Central"
-msgstr ""
+msgstr "Plateau-Central"
 
 #. Name for BF-12
 msgid "Sahel"
@@ -1272,7 +1270,7 @@ msgstr ""
 
 #. Name for BF-13
 msgid "Sud-Ouest"
-msgstr ""
+msgstr "Suðð-Vestur"
 
 #. Name for BF-BAL
 msgid "Balé"
@@ -2007,10 +2005,8 @@ msgid "Chhukha"
 msgstr ""
 
 #. Name for BT-13
-#, fuzzy
-#| msgid "Ha"
 msgid "Haa"
-msgstr "Ha"
+msgstr "Haa"
 
 #. Name for BT-14
 msgid "Samtse"
@@ -2206,7 +2202,7 @@ msgstr ""
 
 #. Name for CA-MB
 msgid "Manitoba"
-msgstr ""
+msgstr "Manítóba"
 
 #. Name for CA-NB
 msgid "New Brunswick"
@@ -2214,7 +2210,7 @@ msgstr ""
 
 #. Name for CA-NL
 msgid "Newfoundland and Labrador"
-msgstr ""
+msgstr "Nýfunundnaland og Labrador"
 
 #. Name for CA-NS
 msgid "Nova Scotia"
@@ -2222,7 +2218,7 @@ msgstr ""
 
 #. Name for CA-NT
 msgid "Northwest Territories"
-msgstr ""
+msgstr "Norðvestursvæðin"
 
 #. Name for CA-NU
 msgid "Nunavut"
@@ -2500,7 +2496,7 @@ msgstr ""
 
 #. Name for CH-GE
 msgid "Genève"
-msgstr ""
+msgstr "Genf"
 
 #. Name for CH-GL
 msgid "Glarus"
@@ -2669,10 +2665,8 @@ msgid "Los Ríos"
 msgstr ""
 
 #. Name for CL-MA
-#, fuzzy
-#| msgid "Matagalpa"
 msgid "Magallanes"
-msgstr "Matagalpa"
+msgstr "Magallanes"
 
 #. Name for CL-ML
 msgid "Maule"
@@ -2684,7 +2678,7 @@ msgstr ""
 
 #. Name for CL-RM
 msgid "Región Metropolitana de Santiago"
-msgstr ""
+msgstr "Höfuðborgarsvæði Santíagó"
 
 #. Name for CL-TA
 msgid "Tarapacá"
@@ -2700,7 +2694,7 @@ msgstr ""
 
 #. Name for CM-EN
 msgid "Far North"
-msgstr ""
+msgstr "Lengst norður"
 
 #. Name for CM-ES
 msgid "East"
@@ -2708,23 +2702,23 @@ msgstr "Austur"
 
 #. Name for CM-NO
 msgid "North"
-msgstr ""
+msgstr "Norður"
 
 #. Name for CM-NW, Name for ZA-NW
 msgid "North-West"
-msgstr ""
+msgstr "Norð-vestur"
 
 #. Name for CM-OU
 msgid "West"
-msgstr ""
+msgstr "Vestur"
 
 #. Name for CM-SU
 msgid "South"
-msgstr ""
+msgstr "Suður"
 
 #. Name for CM-SW
 msgid "South-West"
-msgstr ""
+msgstr "Suð-vestur"
 
 #. Name for CN-AH
 msgid "Anhui Sheng"
@@ -3596,7 +3590,7 @@ msgstr ""
 
 #. Name for DE-SH
 msgid "Schleswig-Holstein"
-msgstr ""
+msgstr "Slésvík-Holstein"
 
 #. Name for DE-SL
 msgid "Saarland"
@@ -3640,15 +3634,15 @@ msgstr ""
 
 #. Name for DK-81
 msgid "Nordjylland"
-msgstr "Norður-jótland"
+msgstr "Norður-Jótland"
 
 #. Name for DK-82
 msgid "Midtjylland"
-msgstr "Mið-jótland"
+msgstr "Mið-Jótland"
 
 #. Name for DK-83
 msgid "Syddanmark"
-msgstr "Suður-danmörk"
+msgstr "Suður-Danmörk"
 
 #. Name for DK-84
 msgid "Hovedstaden"
@@ -4211,10 +4205,8 @@ msgid "Järva"
 msgstr ""
 
 #. Name for EE-272
-#, fuzzy
-#| msgid "Madrid"
 msgid "Kadrina"
-msgstr "Madríd"
+msgstr "Kadrina"
 
 #. Name for EE-283
 msgid "Kambja"
@@ -4381,10 +4373,8 @@ msgid "Raasiku"
 msgstr ""
 
 #. Name for EE-653
-#, fuzzy
-#| msgid "Rakhine"
 msgid "Rae"
-msgstr "Kado"
+msgstr "Rae"
 
 #. Name for EE-661, Name for EE-663
 msgid "Rakvere"
@@ -4491,10 +4481,8 @@ msgid "Viimsi"
 msgstr ""
 
 #. Name for EE-897, Name for EE-899
-#, fuzzy
-#| msgid "Nandi"
 msgid "Viljandi"
-msgstr "Nandí"
+msgstr "Viljandi"
 
 #. Name for EE-901
 msgid "Vinni"
