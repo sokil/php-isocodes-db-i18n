@@ -12,14 +12,15 @@
 # Guillermo Segovia <gsegovia2018@my.fit.edu>, 2019.
 # Quentin PAGÈS <quentinantonin@free.fr>, 2020.
 # Adolfo Jayme Barrientos <fitojb@ubuntu.com>, 2021.
+# Nicolas Horacio <nhk.web@gmail.com>, 2024.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-2\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2023-12-18 14:43+0100\n"
-"PO-Revision-Date: 2021-05-24 20:33+0000\n"
-"Last-Translator: Adolfo Jayme Barrientos <fitojb@ubuntu.com>\n"
+"PO-Revision-Date: 2024-02-13 19:23+0000\n"
+"Last-Translator: Nicolas Horacio <nhk.web@gmail.com>\n"
 "Language-Team: Spanish <https://hosted.weblate.org/projects/iso-codes/"
 "iso-3166-2/es/>\n"
 "Language: es\n"
@@ -27,7 +28,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.7-dev\n"
+"X-Generator: Weblate 5.4-dev\n"
 
 #. Name for AD-02
 msgid "Canillo"
@@ -65,7 +66,7 @@ msgstr "Ajman"
 
 #. Name for AE-AZ
 msgid "Abū Z̧aby"
-msgstr ""
+msgstr "Abu Dabi"
 
 #. Name for AE-DU
 msgid "Dubayy"
@@ -81,11 +82,11 @@ msgstr "Ras al-Khaimah"
 
 #. Name for AE-SH
 msgid "Ash Shāriqah"
-msgstr ""
+msgstr "Sharjah"
 
 #. Name for AE-UQ
 msgid "Umm al Qaywayn"
-msgstr ""
+msgstr "Umm al-Qaywayn"
 
 #. Name for AF-BAL
 msgid "Balkh"
@@ -157,11 +158,11 @@ msgstr "Kandahar"
 
 #. Name for AF-KAP
 msgid "Kāpīsā"
-msgstr ""
+msgstr "Kapisa"
 
 #. Name for AF-KDZ
 msgid "Kunduz"
-msgstr ""
+msgstr "Kunduz"
 
 #. Name for AF-KHO
 msgid "Khōst"
@@ -177,7 +178,7 @@ msgstr ""
 
 #. Name for AF-LOG
 msgid "Lōgar"
-msgstr ""
+msgstr "Logar"
 
 #. Name for AF-NAN
 msgid "Nangarhār"
@@ -258,7 +259,7 @@ msgstr "San Marino"
 
 #. Name for AG-08, Name for BB-10
 msgid "Saint Philip"
-msgstr ""
+msgstr "Saint Philip"
 
 #. Name for AG-10
 #, fuzzy
@@ -267,7 +268,7 @@ msgstr "Bermuda"
 
 #. Name for AG-11
 msgid "Redonda"
-msgstr ""
+msgstr "Redonda"
 
 #. Name for AL-01
 #, fuzzy

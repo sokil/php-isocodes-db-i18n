@@ -5,14 +5,14 @@
 # .
 # Copyright ©
 # Sveinn í Felli <sveinki@nett.is>, 2010-2011, 2015, 2017.
-# Sveinn í Felli <sv1@fellsnet.is>, 2020, 2022.
+# Sveinn í Felli <sv1@fellsnet.is>, 2020, 2022, 2024.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_4217\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2022-06-01 15:01+0200\n"
-"PO-Revision-Date: 2022-09-02 09:40+0000\n"
+"PO-Revision-Date: 2024-02-03 15:01+0000\n"
 "Last-Translator: Sveinn í Felli <sv1@fellsnet.is>\n"
 "Language-Team: Icelandic <https://hosted.weblate.org/projects/iso-codes/"
 "iso-4217/is/>\n"
@@ -21,7 +21,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.14.1-dev\n"
+"X-Generator: Weblate 5.4-dev\n"
 "X-Bugs: Report translation errors to the Language-Team address.\n"
 
 #. Name for AED
@@ -166,7 +166,7 @@ msgstr "Kólumbískur pesó"
 
 #. Name for COU
 msgid "Unidad de Valor Real"
-msgstr ""
+msgstr "Kólumbísk raungildiseining (UV)"
 
 #. Name for CRC
 msgid "Costa Rican Colon"
@@ -626,7 +626,7 @@ msgstr "Bandarískur dollari (næsta dags)"
 
 #. Name for UYI
 msgid "Uruguay Peso en Unidades Indexadas (UI)"
-msgstr ""
+msgstr "Úrúgvæskur pesó í verðlagseiningum (UI)"
 
 #. Name for UYU
 msgid "Peso Uruguayo"
@@ -634,7 +634,7 @@ msgstr "Úrúgvæskur pesó"
 
 #. Name for UYW
 msgid "Unidad Previsional"
-msgstr ""
+msgstr "Úrúgvæsk forspáreining (UP)"
 
 #. Name for UZS
 msgid "Uzbekistan Sum"

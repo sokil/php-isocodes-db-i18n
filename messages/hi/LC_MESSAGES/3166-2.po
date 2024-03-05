@@ -1,925 +1,920 @@
-# Translation of ISO 3166-2 to Estonian
+# Translation of ISO 3166-2 to LANGUAGE
 # Codes for the representation of names of countries and their subdivisions
 # Part 2: Country subdivision codes
-# .
+#
 # This file is distributed under the same license as the iso-codes package.
-# .
+#
 # Copyright ©
-# Kristjan Räts <kristjanrats@gmail.com>, 2021, 2024.
-# Janar Leas <janar.leas@gmail.com>, 2021.
-# Priit Jõerüüt <hwlate@joeruut.com>, 2022, 2023.
+# Scrambled777 <weblate.scrambled777@simplelogin.com>, 2024.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-2\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2023-12-18 14:43+0100\n"
-"PO-Revision-Date: 2024-02-03 15:01+0000\n"
-"Last-Translator: Kristjan Räts <kristjanrats@gmail.com>\n"
-"Language-Team: Estonian <https://hosted.weblate.org/projects/iso-codes/"
-"iso-3166-2/et/>\n"
-"Language: et\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: hi\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.4-dev\n"
 
 #. Name for AD-02
 msgid "Canillo"
-msgstr "Canillo"
+msgstr ""
 
 #. Name for AD-03
 msgid "Encamp"
-msgstr "Encamp"
+msgstr ""
 
 #. Name for AD-04
 msgid "La Massana"
-msgstr "La Massana"
+msgstr ""
 
 #. Name for AD-05
 msgid "Ordino"
-msgstr "Ordino"
+msgstr ""
 
 #. Name for AD-06
 msgid "Sant Julià de Lòria"
-msgstr "Sant Julià de Lòria"
+msgstr ""
 
 #. Name for AD-07
 msgid "Andorra la Vella"
-msgstr "Andorra la Vella"
+msgstr ""
 
 #. Name for AD-08
 msgid "Escaldes-Engordany"
-msgstr "Escaldes-Engordany"
+msgstr ""
 
 #. Name for AE-AJ
 msgid "‘Ajmān"
-msgstr "‘Ajmān"
+msgstr ""
 
 #. Name for AE-AZ
 msgid "Abū Z̧aby"
-msgstr "Abu Dhabi"
+msgstr ""
 
 #. Name for AE-DU
 msgid "Dubayy"
-msgstr "Dubai"
+msgstr ""
 
 #. Name for AE-FU
 msgid "Al Fujayrah"
-msgstr "Al-Fujayrah"
+msgstr ""
 
 #. Name for AE-RK
 msgid "Ra’s al Khaymah"
-msgstr "Ra's al-Khaymah"
+msgstr ""
 
 #. Name for AE-SH
 msgid "Ash Shāriqah"
-msgstr "Ash-Shāriqah"
+msgstr ""
 
 #. Name for AE-UQ
 msgid "Umm al Qaywayn"
-msgstr "Umm al-Qaywayn"
+msgstr ""
 
 #. Name for AF-BAL
 msgid "Balkh"
-msgstr "Balkh"
+msgstr ""
 
 #. Name for AF-BAM
 msgid "Bāmyān"
-msgstr "Bāmyān"
+msgstr ""
 
 #. Name for AF-BDG
 msgid "Bādghīs"
-msgstr "Bādghīs"
+msgstr ""
 
 #. Name for AF-BDS
 msgid "Badakhshān"
-msgstr "Badakhshān"
+msgstr ""
 
 #. Name for AF-BGL
 msgid "Baghlān"
-msgstr "Baghlān"
+msgstr ""
 
 #. Name for AF-DAY
 msgid "Dāykundī"
-msgstr "Dāykundī"
+msgstr ""
 
 #. Name for AF-FRA
 msgid "Farāh"
-msgstr "Farāh"
+msgstr ""
 
 #. Name for AF-FYB
 msgid "Fāryāb"
-msgstr "Fāryāb"
+msgstr ""
 
 #. Name for AF-GHA
 msgid "Ghaznī"
-msgstr "Ghaznī"
+msgstr ""
 
 #. Name for AF-GHO
 msgid "Ghōr"
-msgstr "Ghōr"
+msgstr ""
 
 #. Name for AF-HEL
 msgid "Helmand"
-msgstr "Helmand"
+msgstr ""
 
 #. Name for AF-HER
 msgid "Herāt"
-msgstr "Herāt"
+msgstr ""
 
 #. Name for AF-JOW
 msgid "Jowzjān"
-msgstr "Jowzjān"
+msgstr ""
 
 #. Name for AF-KAB
 msgid "Kābul"
-msgstr "Kabul"
+msgstr ""
 
 #. Name for AF-KAN
 msgid "Kandahār"
-msgstr "Kandahār"
+msgstr ""
 
 #. Name for AF-KAP
 msgid "Kāpīsā"
-msgstr "Kāpīsā"
+msgstr ""
 
 #. Name for AF-KDZ
 msgid "Kunduz"
-msgstr "Kunduz"
+msgstr ""
 
 #. Name for AF-KHO
 msgid "Khōst"
-msgstr "Khōst"
+msgstr ""
 
 #. Name for AF-KNR
 msgid "Kunaṟ"
-msgstr "Kunar"
+msgstr ""
 
 #. Name for AF-LAG
 msgid "Laghmān"
-msgstr "Laghmān"
+msgstr ""
 
 #. Name for AF-LOG
 msgid "Lōgar"
-msgstr "Lōgar"
+msgstr ""
 
 #. Name for AF-NAN
 msgid "Nangarhār"
-msgstr "Nangarhār"
+msgstr ""
 
 #. Name for AF-NIM
 msgid "Nīmrōz"
-msgstr "Nīmrōz"
+msgstr ""
 
 #. Name for AF-NUR
 msgid "Nūristān"
-msgstr "Nūristān"
+msgstr ""
 
 #. Name for AF-PAN
 msgid "Panjshayr"
-msgstr "Panjshayr"
+msgstr ""
 
 #. Name for AF-PAR
 msgid "Parwān"
-msgstr "Parvān"
+msgstr ""
 
 #. Name for AF-PIA
 msgid "Paktiyā"
-msgstr "Paktiyā"
+msgstr ""
 
 #. Name for AF-PKA
 msgid "Paktīkā"
-msgstr "Paktīkā"
+msgstr ""
 
 #. Name for AF-SAM
 msgid "Samangān"
-msgstr "Samangān"
+msgstr ""
 
 #. Name for AF-SAR
 msgid "Sar-e Pul"
-msgstr "Sar-e Pul"
+msgstr ""
 
 #. Name for AF-TAK
 msgid "Takhār"
-msgstr "Takhār"
+msgstr ""
 
 #. Name for AF-URU
 msgid "Uruzgān"
-msgstr "Uruzgān"
+msgstr ""
 
 #. Name for AF-WAR
 msgid "Wardak"
-msgstr "Wardak"
+msgstr ""
 
 #. Name for AF-ZAB
 msgid "Zābul"
-msgstr "Zābul"
+msgstr ""
 
 #. Name for AG-03, Name for BB-03, Name for DM-04, Name for GD-03, Name for VC-04
 msgid "Saint George"
-msgstr "Saint George"
+msgstr ""
 
 #. Name for AG-04, Name for BB-05, Name for DM-05, Name for GD-04, Name for MT-49
 msgid "Saint John"
-msgstr "Saint John"
+msgstr ""
 
 #. Name for AG-05, Name for JM-05
 msgid "Saint Mary"
-msgstr "Saint Mary"
+msgstr ""
 
 #. Name for AG-06, Name for DM-10
 msgid "Saint Paul"
-msgstr "Saint Paul"
+msgstr ""
 
 #. Name for AG-07, Name for BB-09, Name for DM-11
 msgid "Saint Peter"
-msgstr "Saint Peter"
+msgstr ""
 
 #. Name for AG-08, Name for BB-10
 msgid "Saint Philip"
-msgstr "Saint Philip"
+msgstr ""
 
 #. Name for AG-10
 msgid "Barbuda"
-msgstr "Barbuda"
+msgstr ""
 
 #. Name for AG-11
 msgid "Redonda"
-msgstr "Redonda"
+msgstr ""
 
 #. Name for AL-01
 msgid "Berat"
-msgstr "Berat"
+msgstr ""
 
 #. Name for AL-02
 msgid "Durrës"
-msgstr "Durrës"
+msgstr ""
 
 #. Name for AL-03
 msgid "Elbasan"
-msgstr "Elbasani"
+msgstr ""
 
 #. Name for AL-04
 msgid "Fier"
-msgstr "Fier"
+msgstr ""
 
 #. Name for AL-05
 msgid "Gjirokastër"
-msgstr "Gjirokastër"
+msgstr ""
 
 #. Name for AL-06
 msgid "Korçë"
-msgstr "Korçë"
+msgstr ""
 
 #. Name for AL-07
 msgid "Kukës"
-msgstr "Kukës"
+msgstr ""
 
 #. Name for AL-08
 msgid "Lezhë"
-msgstr "Lezhë"
+msgstr ""
 
 #. Name for AL-09
 msgid "Dibër"
-msgstr "Dibër"
+msgstr ""
 
 #. Name for AL-10
 msgid "Shkodër"
-msgstr "Shkodër"
+msgstr ""
 
 #. Name for AL-11
 msgid "Tiranë"
-msgstr "Tiranë"
+msgstr ""
 
 #. Name for AL-12
 msgid "Vlorë"
-msgstr "Vlorë"
+msgstr ""
 
 #. Name for AM-AG
 msgid "Aragac̣otn"
-msgstr "Aragatsotn"
+msgstr ""
 
 #. Name for AM-AR
 msgid "Ararat"
-msgstr "Ararat"
+msgstr ""
 
 #. Name for AM-AV
 msgid "Armavir"
-msgstr "Armavir"
+msgstr ""
 
 #. Name for AM-ER
 msgid "Erevan"
-msgstr "Jerevan"
+msgstr ""
 
 #. Name for AM-GR
 msgid "Geġark'unik'"
-msgstr "Gegharkhunikh"
+msgstr ""
 
 #. Name for AM-KT
 msgid "Kotayk'"
-msgstr "Kotajkh"
+msgstr ""
 
 #. Name for AM-LO
 msgid "Loṙi"
-msgstr "Lori"
+msgstr ""
 
 #. Name for AM-SH
 msgid "Širak"
-msgstr "Širak"
+msgstr ""
 
 #. Name for AM-SU
 msgid "Syunik'"
-msgstr "Sjunikh"
+msgstr ""
 
 #. Name for AM-TV
 msgid "Tavuš"
-msgstr "Tavuš"
+msgstr ""
 
 #. Name for AM-VD
 msgid "Vayoć Jor"
-msgstr "Vajotsh Dzor"
+msgstr ""
 
 #. Name for AO-BGO
 msgid "Bengo"
-msgstr "Bengo"
+msgstr ""
 
 #. Name for AO-BGU
 msgid "Benguela"
-msgstr "Benguela"
+msgstr ""
 
 #. Name for AO-BIE
 msgid "Bié"
-msgstr "Bié"
+msgstr ""
 
 #. Name for AO-CAB
 msgid "Cabinda"
-msgstr "Cabinda"
+msgstr ""
 
 #. Name for AO-CCU
 msgid "Cuando Cubango"
-msgstr "Kuando Kubango"
+msgstr ""
 
 #. Name for AO-CNN
 msgid "Cunene"
-msgstr "Cunene"
+msgstr ""
 
 #. Name for AO-CNO
 msgid "Cuanza-Norte"
-msgstr "Põhja-Kwanza"
+msgstr ""
 
 #. Name for AO-CUS
 msgid "Cuanza-Sul"
-msgstr "Lõuna-Kwanza"
+msgstr ""
 
 #. Name for AO-HUA
 msgid "Huambo"
-msgstr "Huambo"
+msgstr ""
 
 #. Name for AO-HUI
 msgid "Huíla"
-msgstr "Huíla"
+msgstr ""
 
 #. Name for AO-LNO
 msgid "Lunda-Norte"
-msgstr "Põhja-Lunda"
+msgstr ""
 
 #. Name for AO-LSU
 msgid "Lunda-Sul"
-msgstr "Lõuna-Lunda"
+msgstr ""
 
 #. Name for AO-LUA
 msgid "Luanda"
-msgstr "Luanda"
+msgstr ""
 
 #. Name for AO-MAL
 msgid "Malange"
-msgstr "Malanje"
+msgstr ""
 
 #. Name for AO-MOX
 msgid "Moxico"
-msgstr "Moxico"
+msgstr ""
 
 #. Name for AO-NAM
 msgid "Namibe"
-msgstr "Namibe"
+msgstr ""
 
 #. Name for AO-UIG
 msgid "Uíge"
-msgstr "Uíge"
+msgstr ""
 
 #. Name for AO-ZAI
 msgid "Zaire"
-msgstr "Zaire"
+msgstr ""
 
 #. Name for AR-A
 msgid "Salta"
-msgstr "Salta"
+msgstr ""
 
 #. Name for AR-B
 msgid "Buenos Aires"
-msgstr "Buenos Aires"
+msgstr ""
 
 #. Name for AR-C
 msgid "Ciudad Autónoma de Buenos Aires"
-msgstr "Buenos Aires"
+msgstr ""
 
 #. Name for AR-D
 msgid "San Luis"
-msgstr "San Luis"
+msgstr ""
 
 #. Name for AR-E
 msgid "Entre Ríos"
-msgstr "Entre Ríos"
+msgstr ""
 
 #. Name for AR-F, Name for ES-LO, Name for ES-RI
 msgid "La Rioja"
-msgstr "La Rioja"
+msgstr ""
 
 #. Name for AR-G
 msgid "Santiago del Estero"
-msgstr "Santiago del Estero"
+msgstr ""
 
 #. Name for AR-H
 msgid "Chaco"
-msgstr "Chaco"
+msgstr ""
 
 #. Name for AR-J, Name for DO-22
 msgid "San Juan"
-msgstr "San Juan"
+msgstr ""
 
 #. Name for AR-K
 msgid "Catamarca"
-msgstr "Catamarca"
+msgstr ""
 
 #. Name for AR-L
 msgid "La Pampa"
-msgstr "La Pampa"
+msgstr ""
 
 #. Name for AR-M
 msgid "Mendoza"
-msgstr "Mendoza"
+msgstr ""
 
 #. Name for AR-N, Name for PY-8
 msgid "Misiones"
-msgstr "Misiones"
+msgstr ""
 
 #. Name for AR-P
 msgid "Formosa"
-msgstr "Formosa"
+msgstr ""
 
 #. Name for AR-Q
 msgid "Neuquén"
-msgstr "Neuquén"
+msgstr ""
 
 #. Name for AR-R, Name for UY-RN
 msgid "Río Negro"
-msgstr "Río Negro"
+msgstr ""
 
 #. Name for AR-S
 msgid "Santa Fe"
-msgstr "Santa Fe"
+msgstr ""
 
 #. Name for AR-T
 msgid "Tucumán"
-msgstr "Tucumán"
+msgstr ""
 
 #. Name for AR-U
 msgid "Chubut"
-msgstr "Chubut"
+msgstr ""
 
 #. Name for AR-V
 msgid "Tierra del Fuego"
-msgstr "Tulemaa"
+msgstr ""
 
 #. Name for AR-W
 msgid "Corrientes"
-msgstr "Corrientes"
+msgstr ""
 
 #. Name for AR-X, Name for CO-COR, Name for ES-CO
 msgid "Córdoba"
-msgstr "Córdoba"
+msgstr ""
 
 #. Name for AR-Y
 msgid "Jujuy"
-msgstr "Jujuy"
+msgstr ""
 
 #. Name for AR-Z, Name for BO-S, Name for CV-CR
 msgid "Santa Cruz"
-msgstr "Santa Cruz"
+msgstr ""
 
 #. Name for AT-1
 msgid "Burgenland"
-msgstr "Burgenland"
+msgstr ""
 
 #. Name for AT-2
 msgid "Kärnten"
-msgstr "Kärnten"
+msgstr ""
 
 #. Name for AT-3
 msgid "Niederösterreich"
-msgstr "Alam-Austria"
+msgstr ""
 
 #. Name for AT-4
 msgid "Oberösterreich"
-msgstr "Ülem-Austria"
+msgstr ""
 
 #. Name for AT-5
 msgid "Salzburg"
-msgstr "Salzburg"
+msgstr ""
 
 #. Name for AT-6
 msgid "Steiermark"
-msgstr "Steiermark"
+msgstr ""
 
 #. Name for AT-7
 msgid "Tirol"
-msgstr "Tirool"
+msgstr ""
 
 #. Name for AT-8
 msgid "Vorarlberg"
-msgstr "Vorarlberg"
+msgstr ""
 
 #. Name for AT-9
 msgid "Wien"
-msgstr "Viin"
+msgstr ""
 
 #. Name for AU-ACT
 msgid "Australian Capital Territory"
-msgstr "Austraalia pealinna ala"
+msgstr ""
 
 #. Name for AU-NSW
 msgid "New South Wales"
-msgstr "Uus-Lõuna-Wales"
+msgstr ""
 
 #. Name for AU-NT
 msgid "Northern Territory"
-msgstr "Põhjaterritoorium"
+msgstr ""
 
 #. Name for AU-QLD
 msgid "Queensland"
-msgstr "Queensland"
+msgstr ""
 
 #. Name for AU-SA
 msgid "South Australia"
-msgstr "Lõuna-Austraalia"
+msgstr ""
 
 #. Name for AU-TAS
 msgid "Tasmania"
-msgstr "Tasmaania"
+msgstr ""
 
 #. Name for AU-VIC
 msgid "Victoria"
-msgstr "Victoria"
+msgstr ""
 
 #. Name for AU-WA
 msgid "Western Australia"
-msgstr "Lääne-Austraalia"
+msgstr ""
 
 #. Name for AZ-ABS
 msgid "Abşeron"
-msgstr "Abşeron"
+msgstr ""
 
 #. Name for AZ-AGA
 msgid "Ağstafa"
-msgstr "Ağstafa"
+msgstr ""
 
 #. Name for AZ-AGC
 msgid "Ağcabədi"
-msgstr "Ağcabədi"
+msgstr ""
 
 #. Name for AZ-AGM
 msgid "Ağdam"
-msgstr "Ağdam"
+msgstr ""
 
 #. Name for AZ-AGS
 msgid "Ağdaş"
-msgstr "Ağdaş"
+msgstr ""
 
 #. Name for AZ-AGU
 msgid "Ağsu"
-msgstr "Ağsu"
+msgstr ""
 
 #. Name for AZ-AST
 msgid "Astara"
-msgstr "Astara"
+msgstr ""
 
 #. Name for AZ-BA
 msgid "Bakı"
-msgstr "Bakuu"
+msgstr ""
 
 #. Name for AZ-BAB
 msgid "Babək"
-msgstr "Babək"
+msgstr ""
 
 #. Name for AZ-BAL
 msgid "Balakən"
-msgstr "Balakən"
+msgstr ""
 
 #. Name for AZ-BAR
 msgid "Bərdə"
-msgstr "Bərdə"
+msgstr ""
 
 #. Name for AZ-BEY
 msgid "Beyləqan"
-msgstr "Beyləqan"
+msgstr ""
 
 #. Name for AZ-BIL
 msgid "Biləsuvar"
-msgstr "Biləsuvar"
+msgstr ""
 
 #. Name for AZ-CAB
 msgid "Cəbrayıl"
-msgstr "Cəbrayıl"
+msgstr ""
 
 #. Name for AZ-CAL
 msgid "Cəlilabad"
-msgstr "Cəlilabad"
+msgstr ""
 
 #. Name for AZ-CUL
 msgid "Culfa"
-msgstr "Culfa"
+msgstr ""
 
 #. Name for AZ-DAS
 msgid "Daşkəsən"
-msgstr "Daşkəsən"
+msgstr ""
 
 #. Name for AZ-FUZ
 msgid "Füzuli"
-msgstr "Füzuli"
+msgstr ""
 
 #. Name for AZ-GA
 msgid "Gəncə"
-msgstr "Gəncə"
+msgstr ""
 
 #. Name for AZ-GAD
 msgid "Gədəbəy"
-msgstr "Gədəbəy"
+msgstr ""
 
 #. Name for AZ-GOR
 msgid "Goranboy"
-msgstr "Goranboy"
+msgstr ""
 
 #. Name for AZ-GOY
 msgid "Göyçay"
-msgstr "Göyçay"
+msgstr ""
 
 #. Name for AZ-GYG
 msgid "Göygöl"
-msgstr "Göygöl"
+msgstr ""
 
 #. Name for AZ-HAC
 msgid "Hacıqabul"
-msgstr "Hacıqabul"
+msgstr ""
 
 #. Name for AZ-IMI
 msgid "İmişli"
-msgstr "İmişli"
+msgstr ""
 
 #. Name for AZ-ISM
 msgid "İsmayıllı"
-msgstr "İsmayıllı"
+msgstr ""
 
 #. Name for AZ-KAL
 msgid "Kəlbəcər"
-msgstr "Kəlbəcər"
+msgstr ""
 
 #. Name for AZ-KAN
 msgid "Kǝngǝrli"
-msgstr "Kǝngǝrli"
+msgstr ""
 
 #. Name for AZ-KUR
 msgid "Kürdəmir"
-msgstr "Kürdəmir"
+msgstr ""
 
 #. Name for AZ-LA, Name for AZ-LAN
 msgid "Lənkəran"
-msgstr "Lənkəran"
+msgstr ""
 
 #. Name for AZ-LAC
 msgid "Laçın"
-msgstr "Laçın"
+msgstr ""
 
 #. Name for AZ-LER
 msgid "Lerik"
-msgstr "Lerik"
+msgstr ""
 
 #. Name for AZ-MAS
 msgid "Masallı"
-msgstr "Masallı"
+msgstr ""
 
 #. Name for AZ-MI
 msgid "Mingəçevir"
-msgstr "Mingəçevir"
+msgstr ""
 
 #. Name for AZ-NA
 msgid "Naftalan"
-msgstr "Naftalan"
+msgstr ""
 
 #. Name for AZ-NEF
 msgid "Neftçala"
-msgstr "Neftçala"
+msgstr ""
 
 #. Name for AZ-NV, Name for AZ-NX
 msgid "Naxçıvan"
-msgstr "Naxçıvan"
+msgstr ""
 
 #. Name for AZ-OGU
 msgid "Oğuz"
-msgstr "Oğuz"
+msgstr ""
 
 #. Name for AZ-ORD
 msgid "Ordubad"
-msgstr "Ordubad"
+msgstr ""
 
 #. Name for AZ-QAB
 msgid "Qəbələ"
-msgstr "Qəbələ"
+msgstr ""
 
 #. Name for AZ-QAX
 msgid "Qax"
-msgstr "Qax"
+msgstr ""
 
 #. Name for AZ-QAZ
 msgid "Qazax"
-msgstr "Qazax"
+msgstr ""
 
 #. Name for AZ-QBA
 msgid "Quba"
-msgstr "Quba"
+msgstr ""
 
 #. Name for AZ-QBI
 msgid "Qubadlı"
-msgstr "Qubadlı"
+msgstr ""
 
 #. Name for AZ-QOB
 msgid "Qobustan"
-msgstr "Qobustan"
+msgstr ""
 
 #. Name for AZ-QUS
 msgid "Qusar"
-msgstr "Qusar"
+msgstr ""
 
 #. Name for AZ-SA, Name for AZ-SAK
 msgid "Şəki"
-msgstr "Şəki"
+msgstr ""
 
 #. Name for AZ-SAB
 msgid "Sabirabad"
-msgstr "Sabirabad"
+msgstr ""
 
 #. Name for AZ-SAD
 msgid "Sədərək"
-msgstr "Sədərək"
+msgstr ""
 
 #. Name for AZ-SAH
 msgid "Şahbuz"
-msgstr "Şahbuz"
+msgstr ""
 
 #. Name for AZ-SAL
 msgid "Salyan"
-msgstr "Salyan"
+msgstr ""
 
 #. Name for AZ-SAR
 msgid "Şərur"
-msgstr "Şərur"
+msgstr ""
 
 #. Name for AZ-SAT
 msgid "Saatlı"
-msgstr "Saatlı"
+msgstr ""
 
 #. Name for AZ-SBN
 msgid "Şabran"
-msgstr "Şabran"
+msgstr ""
 
 #. Name for AZ-SIY
 msgid "Siyəzən"
-msgstr "Siyəzən"
+msgstr ""
 
 #. Name for AZ-SKR
 msgid "Şəmkir"
-msgstr "Şəmkir"
+msgstr ""
 
 #. Name for AZ-SM
 msgid "Sumqayıt"
-msgstr "Sumqayıt"
+msgstr ""
 
 #. Name for AZ-SMI
 msgid "Şamaxı"
-msgstr "Şamaxı"
+msgstr ""
 
 #. Name for AZ-SMX
 msgid "Samux"
-msgstr "Samux"
+msgstr ""
 
 #. Name for AZ-SR
 msgid "Şirvan"
-msgstr "Şirvan"
+msgstr ""
 
 #. Name for AZ-SUS
 msgid "Şuşa"
-msgstr "Şuşa"
+msgstr ""
 
 #. Name for AZ-TAR
 msgid "Tərtər"
-msgstr "Tərtər"
+msgstr ""
 
 #. Name for AZ-TOV
 msgid "Tovuz"
-msgstr "Tovuz"
+msgstr ""
 
 #. Name for AZ-UCA
 msgid "Ucar"
-msgstr "Ucar"
+msgstr ""
 
 #. Name for AZ-XA
 msgid "Xankəndi"
-msgstr "Xankəndi"
+msgstr ""
 
 #. Name for AZ-XAC
 msgid "Xaçmaz"
-msgstr "Xaçmaz"
+msgstr ""
 
 #. Name for AZ-XCI
 msgid "Xocalı"
-msgstr "Xocalı"
+msgstr ""
 
 #. Name for AZ-XIZ
 msgid "Xızı"
-msgstr "Xızı"
+msgstr ""
 
 #. Name for AZ-XVD
 msgid "Xocavənd"
-msgstr "Xocavənd"
+msgstr ""
 
 #. Name for AZ-YAR
 msgid "Yardımlı"
-msgstr "Yardımlı"
+msgstr ""
 
 #. Name for AZ-YE, Name for AZ-YEV
 msgid "Yevlax"
-msgstr "Yevlax"
+msgstr ""
 
 #. Name for AZ-ZAN
 msgid "Zəngilan"
-msgstr "Zəngilan"
+msgstr ""
 
 #. Name for AZ-ZAQ
 msgid "Zaqatala"
-msgstr "Zaqatala"
+msgstr ""
 
 #. Name for AZ-ZAR
 msgid "Zərdab"
-msgstr "Zərdab"
+msgstr ""
 
 #. Name for BA-BIH
 msgid "Federacija Bosne i Hercegovine"
-msgstr "Bosnia ja Hertsegoviina Föderatsioon"
+msgstr ""
 
 #. Name for BA-BRC
 msgid "Brčko distrikt"
-msgstr "Brčko ringkond"
+msgstr ""
 
 #. Name for BA-SRP
 msgid "Republika Srpska"
-msgstr "Serblaste Vabariik"
+msgstr ""
 
 #. Name for BB-01
 msgid "Christ Church"
-msgstr "Christ Church"
+msgstr ""
 
 #. Name for BB-02, Name for DM-02, Name for GD-01, Name for JM-02, Name for VC-02
 msgid "Saint Andrew"
-msgstr "Saint Andrew"
+msgstr ""
 
 #. Name for BB-04, Name for JM-08
 msgid "Saint James"
-msgstr "Saint James"
+msgstr ""
 
 #. Name for BB-06, Name for DM-06
 msgid "Saint Joseph"
-msgstr "Saint Joseph"
+msgstr ""
 
 #. Name for BB-07
 msgid "Saint Lucy"
-msgstr "Saint Lucy"
+msgstr ""
 
 #. Name for BB-08
 msgid "Saint Michael"
-msgstr "Saint Michael"
+msgstr ""
 
 #. Name for BB-11, Name for JM-03
 msgid "Saint Thomas"
-msgstr "Saint Thomas"
+msgstr ""
 
 #. Name for BD-01
 msgid "Bandarban"
-msgstr "Bāndarbān"
+msgstr ""
 
 #. Name for BD-02
 msgid "Barguna"
-msgstr "Barguna"
+msgstr ""
 
 #. Name for BD-03
 msgid "Bogura"
@@ -927,7 +922,7 @@ msgstr ""
 
 #. Name for BD-04
 msgid "Brahmanbaria"
-msgstr "Brāhmanbāria"
+msgstr ""
 
 #. Name for BD-05
 msgid "Bagerhat"
@@ -935,7 +930,7 @@ msgstr ""
 
 #. Name for BD-06, Name for BD-A
 msgid "Barishal"
-msgstr "Barisāl"
+msgstr ""
 
 #. Name for BD-07
 msgid "Bhola"
@@ -1215,7 +1210,7 @@ msgstr ""
 
 #. Name for BE-WLX, Name for LU-LU
 msgid "Luxembourg"
-msgstr "Luksemburg"
+msgstr ""
 
 #. Name for BE-WNA
 msgid "Namur"
@@ -2171,7 +2166,7 @@ msgstr ""
 
 #. Name for BZ-BZ
 msgid "Belize"
-msgstr "Belize"
+msgstr ""
 
 #. Name for BZ-CY
 msgid "Cayo"
@@ -2339,7 +2334,7 @@ msgstr ""
 
 #. Name for CD-TA
 msgid "Tanganyika"
-msgstr "Tanganyika"
+msgstr ""
 
 #. Name for CD-TO
 msgid "Tshopo"
@@ -2579,7 +2574,7 @@ msgstr ""
 
 #. Name for CI-GD
 msgid "Gôh-Djiboua"
-msgstr "Gôh-Djiboua"
+msgstr ""
 
 #. Name for CI-LC
 msgid "Lacs"
@@ -2863,7 +2858,7 @@ msgstr ""
 
 #. Name for CO-BOL, Name for EC-B, Name for VE-F
 msgid "Bolívar"
-msgstr "boliivar"
+msgstr ""
 
 #. Name for CO-BOY
 msgid "Boyacá"
@@ -2955,7 +2950,7 @@ msgstr ""
 
 #. Name for CO-SUC, Name for VE-R
 msgid "Sucre"
-msgstr "sucre"
+msgstr ""
 
 #. Name for CO-TOL
 msgid "Tolima"
@@ -3615,7 +3610,7 @@ msgstr ""
 
 #. Name for DJ-DJ
 msgid "Djibouti"
-msgstr "Djibouti"
+msgstr ""
 
 #. Name for DJ-OB
 msgid "Obock"
@@ -4935,83 +4930,83 @@ msgstr ""
 
 #. Name for FI-01
 msgid "Landskapet Åland"
-msgstr "Ahvenamaa"
+msgstr ""
 
 #. Name for FI-02
 msgid "Etelä-Karjala"
-msgstr "Löuna-Karjala"
+msgstr ""
 
 #. Name for FI-03
 msgid "Etelä-Pohjanmaa"
-msgstr "Löuna-Pohjanmaa"
+msgstr ""
 
 #. Name for FI-04
 msgid "Etelä-Savo"
-msgstr "Löuna-Savo"
+msgstr ""
 
 #. Name for FI-05
 msgid "Kainuu"
-msgstr "Kainuu"
+msgstr ""
 
 #. Name for FI-06
 msgid "Kanta-Häme"
-msgstr "Kanta-Häme"
+msgstr ""
 
 #. Name for FI-07
 msgid "Keski-Pohjanmaa"
-msgstr "Kesk-Pohjanmaa"
+msgstr ""
 
 #. Name for FI-08
 msgid "Keski-Suomi"
-msgstr "Kesk-Soome"
+msgstr ""
 
 #. Name for FI-09
 msgid "Kymenlaakso"
-msgstr "Kymenlaakso"
+msgstr ""
 
 #. Name for FI-10
 msgid "Lappi"
-msgstr "Lapimaa"
+msgstr ""
 
 #. Name for FI-11
 msgid "Pirkanmaa"
-msgstr "Pirkanmaa"
+msgstr ""
 
 #. Name for FI-12
 msgid "Pohjanmaa"
-msgstr "Pohjanmaa"
+msgstr ""
 
 #. Name for FI-13
 msgid "Pohjois-Karjala"
-msgstr "Põhja-Karjala"
+msgstr ""
 
 #. Name for FI-14
 msgid "Pohjois-Pohjanmaa"
-msgstr "Põhja-Pohjanmaa"
+msgstr ""
 
 #. Name for FI-15
 msgid "Pohjois-Savo"
-msgstr "Põhja-Savo"
+msgstr ""
 
 #. Name for FI-16
 msgid "Päijät-Häme"
-msgstr "Päijät-Häme"
+msgstr ""
 
 #. Name for FI-17
 msgid "Satakunta"
-msgstr "Satakunta"
+msgstr ""
 
 #. Name for FI-18
 msgid "Uusimaa"
-msgstr "Uusimaa"
+msgstr ""
 
 #. Name for FI-19
 msgid "Varsinais-Suomi"
-msgstr "Päris-Soome"
+msgstr ""
 
 #. Name for FJ-01
 msgid "Ba"
-msgstr "Ba"
+msgstr ""
 
 #. Name for FJ-02
 msgid "Bua"
@@ -5487,11 +5482,11 @@ msgstr ""
 
 #. Name for FR-971
 msgid "Guadeloupe"
-msgstr "Guadeloupe"
+msgstr ""
 
 #. Name for FR-972
 msgid "Martinique"
-msgstr "Martinique"
+msgstr ""
 
 #. Name for FR-973
 msgid "Guyane (française)"
@@ -5503,7 +5498,7 @@ msgstr ""
 
 #. Name for FR-976
 msgid "Mayotte"
-msgstr "Mayotte"
+msgstr ""
 
 #. Name for FR-ARA
 msgid "Auvergne-Rhône-Alpes"
@@ -5887,7 +5882,7 @@ msgstr ""
 
 #. Name for GB-ENG
 msgid "England"
-msgstr "Inglismaa"
+msgstr ""
 
 #. Name for GB-ERW
 msgid "East Renfrewshire"
@@ -6147,7 +6142,7 @@ msgstr ""
 
 #. Name for GB-NIR
 msgid "Northern Ireland"
-msgstr "Põhja-Iirimaa"
+msgstr ""
 
 #. Name for GB-NLK
 msgid "North Lanarkshire"
@@ -6279,7 +6274,7 @@ msgstr ""
 
 #. Name for GB-SCT
 msgid "Scotland"
-msgstr "Šotimaa"
+msgstr ""
 
 #. Name for GB-SFK
 msgid "Suffolk"
@@ -6751,7 +6746,7 @@ msgstr ""
 
 #. Name for GN-ML
 msgid "Mali"
-msgstr "Mali"
+msgstr ""
 
 #. Name for GN-N, Name for GN-NZ
 msgid "Nzérékoré"
@@ -6799,7 +6794,7 @@ msgstr ""
 
 #. Name for GQ-DJ
 msgid "Djibloho"
-msgstr "Djibloho"
+msgstr ""
 
 #. Name for GQ-I
 msgid "Région Insulaire"
@@ -6871,7 +6866,7 @@ msgstr ""
 
 #. Name for GT-01
 msgid "Guatemala"
-msgstr "Guatemala"
+msgstr ""
 
 #. Name for GT-02
 msgid "El Progreso"
@@ -7091,7 +7086,7 @@ msgstr ""
 
 #. Name for HN-LE
 msgid "Lempira"
-msgstr "Lempira"
+msgstr ""
 
 #. Name for HN-OC
 msgid "Ocotepeque"
@@ -7419,7 +7414,7 @@ msgstr ""
 
 #. Name for ID-GO
 msgid "Gorontalo"
-msgstr "gorontalo"
+msgstr ""
 
 #. Name for ID-JA
 msgid "Jambi"
@@ -7823,7 +7818,7 @@ msgstr ""
 
 #. Name for IN-SK
 msgid "Sikkim"
-msgstr "Sikkim"
+msgstr ""
 
 #. Name for IN-TN
 msgid "Tamil Nādu"
@@ -7835,7 +7830,7 @@ msgstr ""
 
 #. Name for IN-TS
 msgid "Telangāna"
-msgstr "Telangana"
+msgstr ""
 
 #. Name for IN-UK
 msgid "Uttarākhand"
@@ -8451,7 +8446,7 @@ msgstr ""
 
 #. Name for IT-BA, Name for SO-BR
 msgid "Bari"
-msgstr "bari"
+msgstr ""
 
 #. Name for IT-BG
 msgid "Bergamo"
@@ -9115,7 +9110,7 @@ msgstr ""
 
 #. Name for KE-01
 msgid "Baringo"
-msgstr "baringo"
+msgstr ""
 
 #. Name for KE-02
 msgid "Bomet"
@@ -9735,7 +9730,7 @@ msgstr ""
 
 #. Name for KZ-71
 msgid "Astana"
-msgstr "Astana"
+msgstr ""
 
 #. Name for KZ-75
 msgid "Almaty"
@@ -11959,7 +11954,7 @@ msgstr ""
 
 #. Name for MM-17
 msgid "Shan"
-msgstr "šani"
+msgstr ""
 
 #. Name for MM-18
 msgid "Nay Pyi Taw"
@@ -13055,7 +13050,7 @@ msgstr ""
 
 #. Name for NG-NI
 msgid "Niger"
-msgstr "Niger"
+msgstr ""
 
 #. Name for NG-OG
 msgid "Ogun"
@@ -13155,11 +13150,11 @@ msgstr ""
 
 #. Name for NL-AW
 msgid "Aruba"
-msgstr "Aruba"
+msgstr ""
 
 #. Name for NL-CW
 msgid "Curaçao"
-msgstr "Curaçao"
+msgstr ""
 
 #. Name for NL-DR
 msgid "Drenthe"
@@ -13251,7 +13246,7 @@ msgstr ""
 
 #. Name for NO-46
 msgid "Vestland"
-msgstr "Vestland"
+msgstr ""
 
 #. Name for NO-50
 msgid "Trööndelage"
@@ -13599,7 +13594,7 @@ msgstr ""
 
 #. Name for PE-SAM
 msgid "San Martin"
-msgstr "San Martin"
+msgstr ""
 
 #. Name for PE-TAC
 msgid "Tacna"
@@ -13999,7 +13994,7 @@ msgstr ""
 
 #. Name for PH-PAN
 msgid "Pangasinan"
-msgstr "pangasinani"
+msgstr ""
 
 #. Name for PH-PLW
 msgid "Palawan"
@@ -16371,7 +16366,7 @@ msgstr ""
 
 #. Name for SM-07
 msgid "Città di San Marino"
-msgstr "San Marino"
+msgstr ""
 
 #. Name for SM-08
 msgid "Montegiardino"
@@ -18299,7 +18294,7 @@ msgstr ""
 
 #. Name for UG-230
 msgid "Namayingo"
-msgstr "Namayingo"
+msgstr ""
 
 #. Name for UG-231
 msgid "Ngora"
@@ -18623,7 +18618,7 @@ msgstr ""
 
 #. Name for UM-71
 msgid "Midway Islands"
-msgstr "Midway saared"
+msgstr ""
 
 #. Name for UM-76
 msgid "Navassa Island"
@@ -18631,7 +18626,7 @@ msgstr ""
 
 #. Name for UM-79
 msgid "Wake Island"
-msgstr "Wake’i saar"
+msgstr ""
 
 #. Name for UM-81
 msgid "Baker Island"
@@ -18667,7 +18662,7 @@ msgstr ""
 
 #. Name for US-AS
 msgid "American Samoa"
-msgstr "Ameerika Samoa"
+msgstr ""
 
 #. Name for US-AZ
 msgid "Arizona"
@@ -18691,7 +18686,7 @@ msgstr ""
 
 #. Name for US-DE
 msgid "Delaware"
-msgstr "delavari"
+msgstr ""
 
 #. Name for US-FL, Name for UY-FD
 msgid "Florida"
@@ -18699,11 +18694,11 @@ msgstr ""
 
 #. Name for US-GA
 msgid "Georgia"
-msgstr "Gruusia"
+msgstr ""
 
 #. Name for US-GU
 msgid "Guam"
-msgstr "Guam"
+msgstr ""
 
 #. Name for US-HI
 msgid "Hawaii"
@@ -18759,7 +18754,7 @@ msgstr ""
 
 #. Name for US-MP
 msgid "Northern Mariana Islands"
-msgstr "Põhja-Mariaanid"
+msgstr ""
 
 #. Name for US-MS
 msgid "Mississippi"
@@ -18815,7 +18810,7 @@ msgstr ""
 
 #. Name for US-PR
 msgid "Puerto Rico"
-msgstr "Puerto Rico"
+msgstr ""
 
 #. Name for US-RI
 msgid "Rhode Island"
@@ -18839,7 +18834,7 @@ msgstr ""
 
 #. Name for US-UM
 msgid "United States Minor Outlying Islands"
-msgstr "Ühendriikide hajasaared"
+msgstr ""
 
 #. Name for US-UT
 msgid "Utah"
