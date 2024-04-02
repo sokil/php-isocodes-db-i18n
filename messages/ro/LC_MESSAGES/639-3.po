@@ -15,7 +15,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2022-07-25 22:15+0200\n"
-"PO-Revision-Date: 2024-01-23 08:21+0000\n"
+"PO-Revision-Date: 2024-03-17 06:02+0000\n"
 "Last-Translator: Remus-Gabriel Chelu <remusgabriel.chelu@disroot.org>\n"
 "Language-Team: Romanian <https://hosted.weblate.org/projects/iso-codes/"
 "iso-639-3/ro/>\n"
@@ -25,7 +25,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
 "20)) ? 1 : 2;\n"
-"X-Generator: Weblate 5.4-dev\n"
+"X-Generator: Weblate 5.5-dev\n"
 "PO-Creation-Date: 2000-09-24 15:45+0300\n"
 
 #. Name for aaa
@@ -114,7 +114,7 @@ msgstr "afară"
 
 #. Name for aas
 msgid "Aasáx"
-msgstr "aasáx sau asax, asax, assa, afoku, aramanik, lamanik"
+msgstr "aasáx sau asax, assa, afoku, aramanik, lamanik"
 
 #. Name for aat
 msgid "Arvanitika Albanian"
