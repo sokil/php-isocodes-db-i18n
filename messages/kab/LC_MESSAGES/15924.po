@@ -5,14 +5,15 @@
 # .
 # Copyright ©
 # ButterflyOfFire <ButterflyOfFire@protonmail.com>, 2020.
+# ButterflyOfFire <boffire@users.noreply.hosted.weblate.org>, 2024.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_15924\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2018-01-17 22:10+0100\n"
-"PO-Revision-Date: 2020-05-30 10:41+0000\n"
-"Last-Translator: ButterflyOfFire <ButterflyOfFire@protonmail.com>\n"
+"PO-Revision-Date: 2024-03-14 22:01+0000\n"
+"Last-Translator: ButterflyOfFire <boffire@users.noreply.hosted.weblate.org>\n"
 "Language-Team: Kabyle <https://hosted.weblate.org/projects/iso-codes/"
 "iso-15924/kab/>\n"
 "Language: kab\n"
@@ -20,7 +21,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 4.1-dev\n"
+"X-Generator: Weblate 5.5-dev\n"
 
 #. Name for Adlm
 msgid "Adlam"
@@ -668,7 +669,7 @@ msgstr ""
 
 #. Name for Tfng
 msgid "Tifinagh (Berber)"
-msgstr ""
+msgstr "Tifinaɣ (Tamaziɣt)"
 
 #. Name for Tglg
 msgid "Tagalog (Baybayin, Alibata)"

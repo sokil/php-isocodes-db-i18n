@@ -8,19 +8,24 @@
 # Andraz Tori <andraz.tori1@@guest.arnes.si>, 2000.
 # Alastair McKinstry <mckinstry@debian.org>, 2001.
 # Primož Peterlin <primoz.peterlin@biofiz.mf.uni-lj.si>, 2005.
+# Mitja Podreka <mitja@kitaj.net>, 2024.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_639-3\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2022-07-25 22:15+0200\n"
-"PO-Revision-Date: 2005-09-15 16:29+0200\n"
-"Last-Translator: Primož Peterlin <primoz.peterlin@biofiz.mf.uni-lj.si>\n"
-"Language-Team: Slovenian <translation-team-sl@lists.sourceforge.net>\n"
+"PO-Revision-Date: 2024-03-07 11:02+0000\n"
+"Last-Translator: Mitja Podreka <mitja@kitaj.net>\n"
+"Language-Team: Slovenian <https://hosted.weblate.org/projects/iso-codes/"
+"iso-639-3/sl/>\n"
 "Language: sl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=4; plural=n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || "
+"n%100==4 ? 2 : 3;\n"
+"X-Generator: Weblate 5.5-dev\n"
 
 #. Name for aaa
 msgid "Ghotuo"
@@ -13359,9 +13364,8 @@ msgid "Idakho-Isukha-Tiriki"
 msgstr ""
 
 #. Name for idb
-#, fuzzy
 msgid "Indo-Portuguese"
-msgstr "portugalđščina"
+msgstr "indoportugalščina"
 
 #. Name for idc
 msgid "Idon"
@@ -27953,7 +27957,7 @@ msgstr ""
 
 #. Name for por
 msgid "Portuguese"
-msgstr "portugalđščina"
+msgstr "portugalščina"
 
 #. Name for pos
 msgid "Sayula Popoluca"
@@ -28409,9 +28413,8 @@ msgid "Punu"
 msgstr ""
 
 #. Name for puw
-#, fuzzy
 msgid "Puluwatese"
-msgstr "portugalđščina"
+msgstr "puluvatščina"
 
 #. Name for pux
 #, fuzzy
