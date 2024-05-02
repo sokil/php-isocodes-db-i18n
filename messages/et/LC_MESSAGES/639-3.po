@@ -11,14 +11,14 @@
 # Kristjan Räts <kristjanrats@gmail.com>, 2018, 2021.
 # Mihkel Tõnnov <mihhkel@gmail.com>, 2019.
 # Janar Leas <janar.leas@gmail.com>, 2020, 2021.
-# Priit Jõerüüt <hwlate@joeruut.com>, 2022, 2023.
+# Priit Jõerüüt <hwlate@joeruut.com>, 2022, 2023, 2024.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_639-3\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2022-07-25 22:15+0200\n"
-"PO-Revision-Date: 2023-07-29 15:07+0000\n"
+"PO-Revision-Date: 2024-04-02 12:01+0000\n"
 "Last-Translator: Priit Jõerüüt <hwlate@joeruut.com>\n"
 "Language-Team: Estonian <https://hosted.weblate.org/projects/iso-codes/"
 "iso-639-3/et/>\n"
@@ -27,7 +27,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.0-dev\n"
+"X-Generator: Weblate 5.5-dev\n"
 
 #. Name for aaa
 msgid "Ghotuo"
@@ -7563,11 +7563,11 @@ msgstr "Lakota dida"
 
 #. Inverted name for dic
 msgid "Dida, Lakota"
-msgstr ""
+msgstr "Lakota dida"
 
 #. Name for did
 msgid "Didinga"
-msgstr ""
+msgstr "didinga"
 
 #. Name for dif
 msgid "Dieri"
