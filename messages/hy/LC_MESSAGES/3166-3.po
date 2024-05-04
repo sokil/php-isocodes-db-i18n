@@ -7,21 +7,23 @@
 # Copyright ©
 # Alastair McKinstry <mckinstry@debian.org>, 2004.
 # Chris Leonard <cjl@laptop.org>, 2013.
+# At protom <atprotom@gmail.com>, 2024.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-3\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2023-02-24 21:26+0100\n"
-"PO-Revision-Date: 2013-08-02 18:29+0200\n"
-"Last-Translator: Chris Leonard <cjl@laptop.org>\n"
-"Language-Team: Armenian\n"
+"PO-Revision-Date: 2024-04-18 14:30+0000\n"
+"Last-Translator: At protom <atprotom@gmail.com>\n"
+"Language-Team: Armenian <https://hosted.weblate.org/projects/iso-codes/"
+"iso-3166-3/hy/>\n"
 "Language: hy\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Pootle 2.0.5\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 5.5-dev\n"
 
 #. Name for AIDJ
 msgid "French Afars and Issas"
@@ -105,11 +107,11 @@ msgstr "Խաղաղօվկիանոսյան Կղզիներ (հավատարմագր�
 
 #. Name for PUUM
 msgid "US Miscellaneous Pacific Islands"
-msgstr "ՄՆ Բազմազան Խաղաղօվկիանոսյան Կղզիներ"
+msgstr "ԱՄՆ բազմաթիվ բաղաղօվկիանոսյան կղզիներ"
 
 #. Name for PZPA
 msgid "Panama Canal Zone"
-msgstr "Պանամայի Ջրանցք"
+msgstr "Պանամայի ջրանցքի գոտի"
 
 #. Name for RHZW
 msgid "Southern Rhodesia"
@@ -121,7 +123,7 @@ msgstr "Սիքիմ"
 
 #. Name for SUHH
 msgid "USSR, Union of Soviet Socialist Republics"
-msgstr "ԽՍՀՄ Խորհրդային Սոցիալիստական Հանրապետությունների Միություն"
+msgstr "ԽՍՀՄ, Խորհրդային Սոցիալիստական Հանրապետությունների Միություն"
 
 #. Name for TPTL
 msgid "East Timor"
@@ -140,11 +142,9 @@ msgid "Yemen, Democratic, People's Democratic Republic of"
 msgstr "Եմեն, Դեմոկրատական, Ժողովրդական Դեմոկրատական Հանրապետություն"
 
 #. Name for YUCS
-#, fuzzy
-#| msgid "Yugoslavia, Socialist Federal Republic of"
 msgid "Yugoslavia, (Socialist) Federal Republic of"
-msgstr "Հարավսլավիա, Սոցիալիստական Դաշնային Հանրապետություն"
+msgstr "Հարավսլավիայի (Սոցիալիստական) Դաշնային Հանրապետություն"
 
 #. Name for ZRCD
 msgid "Zaire, Republic of"
-msgstr "Զաիր Հանրապետություն"
+msgstr "Զաիրի Հանրապետություն"

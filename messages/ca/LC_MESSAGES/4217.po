@@ -18,14 +18,15 @@
 # Joan Montané <joan@montane.cat>, 2019.
 # Sergi Almacellas Abellana <sergi@koolpi.com>, 2022.
 # d <dmanye@gmail.com>, 2023.
+# Joan Montané <jmontane@gmail.com>, 2024.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_4217\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2022-06-01 15:01+0200\n"
-"PO-Revision-Date: 2023-03-29 20:40+0000\n"
-"Last-Translator: d <dmanye@gmail.com>\n"
+"PO-Revision-Date: 2024-04-29 18:50+0000\n"
+"Last-Translator: Joan Montané <jmontane@gmail.com>\n"
 "Language-Team: Catalan <https://hosted.weblate.org/projects/iso-codes/"
 "iso-4217/ca/>\n"
 "Language: ca\n"
@@ -33,7 +34,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.17-dev\n"
+"X-Generator: Weblate 5.5.2\n"
 "X-Bugs: Report translation errors to the Language-Team address.\n"
 
 #. Name for AED
@@ -134,7 +135,7 @@ msgstr "Pula"
 
 #. Name for BYN
 msgid "Belarusian Ruble"
-msgstr "Ruble bielorús"
+msgstr "Ruble belarús"
 
 #. Name for BZD
 msgid "Belize Dollar"
@@ -162,7 +163,7 @@ msgstr "Franc WIR"
 
 #. Name for CLF
 msgid "Unidad de Fomento"
-msgstr ""
+msgstr "Unidad de fomento"
 
 #. Name for CLP
 msgid "Chilean Peso"
@@ -178,7 +179,7 @@ msgstr "Peso colombià"
 
 #. Name for COU
 msgid "Unidad de Valor Real"
-msgstr ""
+msgstr "Unidad de valor real"
 
 #. Name for CRC
 msgid "Costa Rican Colon"
@@ -238,7 +239,7 @@ msgstr "Dòlar de Fiji"
 
 #. Name for FKP
 msgid "Falkland Islands Pound"
-msgstr "Lliura de les Malvines"
+msgstr "Lliura de les Falkland"
 
 #. Name for GBP
 msgid "Pound Sterling"
@@ -439,7 +440,7 @@ msgstr "Peso mexicà"
 
 #. Name for MXV
 msgid "Mexican Unidad de Inversion (UDI)"
-msgstr ""
+msgstr "Unidad de inversión (UDI) mexicana"
 
 #. Name for MYR
 msgid "Malaysian Ringgit"
@@ -611,7 +612,7 @@ msgstr "Lira turca"
 
 #. Name for TTD
 msgid "Trinidad and Tobago Dollar"
-msgstr "Dòlar de Trinitat i Tobago"
+msgstr "Dòlar de Trinidad i Tobago"
 
 #. Name for TWD
 msgid "New Taiwan Dollar"
@@ -638,8 +639,9 @@ msgid "US Dollar (Next day)"
 msgstr "Dòlar dels Estats Units (per a l'endemà)"
 
 #. Name for UYI
+#, fuzzy
 msgid "Uruguay Peso en Unidades Indexadas (UI)"
-msgstr ""
+msgstr "Peso uruguaià en unitats indexades"
 
 #. Name for UYU
 msgid "Peso Uruguayo"
@@ -647,7 +649,7 @@ msgstr "Peso uruguaià"
 
 #. Name for UYW
 msgid "Unidad Previsional"
-msgstr ""
+msgstr "Unidad previsional"
 
 #. Name for UZS
 msgid "Uzbekistan Sum"
@@ -690,12 +692,13 @@ msgid "Bond Markets Unit European Monetary Unit (E.M.U.-6)"
 msgstr "Unitat monetària europea per al mercat d'obligacions (EMU-6)"
 
 #. Name for XBC
+#, fuzzy
 msgid "Bond Markets Unit European Unit of Account 9 (E.U.A.-9)"
-msgstr ""
+msgstr "Unitat de compte europea 9 (UCE-9)"
 
 #. Name for XBD
 msgid "Bond Markets Unit European Unit of Account 17 (E.U.A.-17)"
-msgstr ""
+msgstr "Unitat de compte europea 17 (UCE-17)"
 
 #. Name for XCD
 msgid "East Caribbean Dollar"
@@ -731,7 +734,7 @@ msgstr "Codis específicament reservats per proves"
 
 #. Name for XUA
 msgid "ADB Unit of Account"
-msgstr ""
+msgstr "Unitat de compte del BAD"
 
 #. Name for XXX
 msgid "The codes assigned for transactions where no currency is involved"
