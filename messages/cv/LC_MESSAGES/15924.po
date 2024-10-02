@@ -5,14 +5,15 @@
 # .
 # Copyright ©
 # İlle <derasetad@gmail.com>, 2020.
+# Мĕтри Сантăр ывалĕ Упа-Миччи <mefisteron@gmail.com>, 2024.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_15924\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2018-01-17 22:10+0100\n"
-"PO-Revision-Date: 2020-07-06 11:41+0000\n"
-"Last-Translator: İlle <derasetad@gmail.com>\n"
+"PO-Revision-Date: 2024-09-16 12:14+0000\n"
+"Last-Translator: Мĕтри Сантăр ывалĕ Упа-Миччи <mefisteron@gmail.com>\n"
 "Language-Team: Chuvash <https://hosted.weblate.org/projects/iso-codes/"
 "iso-15924/cv/>\n"
 "Language: cv\n"
@@ -20,7 +21,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.2-dev\n"
+"X-Generator: Weblate 5.8-dev\n"
 
 #. Name for Adlm
 msgid "Adlam"
@@ -731,21 +732,25 @@ msgid "Mathematical notation"
 msgstr "Математика ҫыру"
 
 #. Name for Zsye
+#, fuzzy
 msgid "Symbols (Emoji variant)"
-msgstr ""
+msgstr "Паллӑсем (эмодзи тӗсӗ)"
 
 #. Name for Zsym
 msgid "Symbols"
-msgstr ""
+msgstr "Паллӑсем"
 
 #. Name for Zxxx
+#, fuzzy
 msgid "Code for unwritten documents"
-msgstr ""
+msgstr "Ҫырӑнман документсем валли кочӗ"
 
 #. Name for Zyyy
+#, fuzzy
 msgid "Code for undetermined script"
-msgstr ""
+msgstr "Тӗлли-паллисӗр ҫырма кочӗ"
 
 #. Name for Zzzz
+#, fuzzy
 msgid "Code for uncoded script"
-msgstr ""
+msgstr "Паллӑ мар е чӑн мар ҫырулӑх"

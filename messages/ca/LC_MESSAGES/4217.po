@@ -19,14 +19,15 @@
 # Sergi Almacellas Abellana <sergi@koolpi.com>, 2022.
 # d <dmanye@gmail.com>, 2023.
 # Joan Montané <jmontane@gmail.com>, 2024.
+# "Josep M. Ferrer" <txemaq@gmail.com>, 2024.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_4217\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2022-06-01 15:01+0200\n"
-"PO-Revision-Date: 2024-04-29 18:50+0000\n"
-"Last-Translator: Joan Montané <jmontane@gmail.com>\n"
+"PO-Revision-Date: 2024-09-15 21:09+0000\n"
+"Last-Translator: \"Josep M. Ferrer\" <txemaq@gmail.com>\n"
 "Language-Team: Catalan <https://hosted.weblate.org/projects/iso-codes/"
 "iso-4217/ca/>\n"
 "Language: ca\n"
@@ -34,7 +35,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.5.2\n"
+"X-Generator: Weblate 5.8-dev\n"
 "X-Bugs: Report translation errors to the Language-Team address.\n"
 
 #. Name for AED
@@ -639,9 +640,8 @@ msgid "US Dollar (Next day)"
 msgstr "Dòlar dels Estats Units (per a l'endemà)"
 
 #. Name for UYI
-#, fuzzy
 msgid "Uruguay Peso en Unidades Indexadas (UI)"
-msgstr "Peso uruguaià en unitats indexades"
+msgstr "Peso uruguaià en unitats indexades (UI)"
 
 #. Name for UYU
 msgid "Peso Uruguayo"
@@ -692,9 +692,8 @@ msgid "Bond Markets Unit European Monetary Unit (E.M.U.-6)"
 msgstr "Unitat monetària europea per al mercat d'obligacions (EMU-6)"
 
 #. Name for XBC
-#, fuzzy
 msgid "Bond Markets Unit European Unit of Account 9 (E.U.A.-9)"
-msgstr "Unitat de compte europea 9 (UCE-9)"
+msgstr "Unitat de compte europea de la unitat de mercats de bons 9 (E.U.A.-9)"
 
 #. Name for XBD
 msgid "Bond Markets Unit European Unit of Account 17 (E.U.A.-17)"
