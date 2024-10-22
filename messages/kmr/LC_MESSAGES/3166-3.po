@@ -6,21 +6,23 @@
 # .
 # Copyright ©
 # Erdal Ronahi <erdal.ronahi@gmail.com>, 2005, 2007.
+# Ahmed kurdish <nikogaming500@gmail.com>, 2024.
 msgid ""
 msgstr ""
 "Project-Id-Version: ISO-falan-ku\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2023-02-24 21:26+0100\n"
-"PO-Revision-Date: 2008-09-21 19:00+0200\n"
-"Last-Translator: Erdal Ronahi <erdal.ronahi@gmail.com>\n"
-"Language-Team: Kurdish <ubuntu-l10n-kur@lists.ubuntu.com>\n"
-"Language: ku\n"
+"PO-Revision-Date: 2024-05-03 10:00+0000\n"
+"Last-Translator: Ahmed kurdish <nikogaming500@gmail.com>\n"
+"Language-Team: Kurdish (Northern) <https://hosted.weblate.org/projects/iso-"
+"codes/iso-3166-3/kmr/>\n"
+"Language: kmr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n!= 1);\n"
-"X-Generator: Pootle 1.1.0\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.5.3\n"
 "X-Poedit-Language: Kurdish\n"
 
 #. Name for AIDJ
@@ -140,11 +142,9 @@ msgid "Yemen, Democratic, People's Democratic Republic of"
 msgstr "Yemen a Demokratîk, Komara Demokratîk a Gelê"
 
 #. Name for YUCS
-#, fuzzy
-#| msgid "Yugoslavia, Socialist Federal Republic of"
 msgid "Yugoslavia, (Socialist) Federal Republic of"
-msgstr "Yugoslavya, Komara Sosyalîst a Federal"
+msgstr "Yugoslavya, Komara Federal a Sosyalîst"
 
 #. Name for ZRCD
 msgid "Zaire, Republic of"
-msgstr "Zaîr, Komara"
+msgstr "Zaire, Komara"

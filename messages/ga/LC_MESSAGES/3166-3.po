@@ -7,19 +7,24 @@
 # Copyright ©
 # Alastair McKinstry <mckinstry@debian.org>, 2001.
 # Kevin Scannell <kscanne@gmail.com>, 2008-2011, 2013.
+# Aindriú Mac Giolla Eoin <aindriu80@gmail.com>, 2024.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-3\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2023-02-24 21:26+0100\n"
-"PO-Revision-Date: 2013-03-03 11:35-0600\n"
-"Last-Translator: Kevin Scannell <kscanne@gmail.com>\n"
-"Language-Team: Irish <gaeilge-gnulinux@lists.sourceforge.net>\n"
+"PO-Revision-Date: 2024-09-14 10:13+0000\n"
+"Last-Translator: Aindriú Mac Giolla Eoin <aindriu80@gmail.com>\n"
+"Language-Team: Irish <https://hosted.weblate.org/projects/iso-codes/"
+"iso-3166-3/ga/>\n"
 "Language: ga\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=5; plural=n==1 ? 0 : n==2 ? 1 : (n>2 && n<7) ? 2 :("
+"n>6 && n<11) ? 3 : 4;\n"
+"X-Generator: Weblate 5.8-dev\n"
 
 #. Name for AIDJ
 msgid "French Afars and Issas"
@@ -103,7 +108,7 @@ msgstr "Oileáin an Aigéin Chiúin (críoch iontaobhais)"
 
 #. Name for PUUM
 msgid "US Miscellaneous Pacific Islands"
-msgstr "Oileáin Éagsúla an Aigéin Chiúin de chuid S.A.M."
+msgstr "US Ilghnéitheach Oileáin an Aigéin Chiúin"
 
 #. Name for PZPA
 msgid "Panama Canal Zone"
@@ -138,10 +143,8 @@ msgid "Yemen, Democratic, People's Democratic Republic of"
 msgstr "Éimin, Daonlathach, Daonphoblacht Dhaonlathach"
 
 #. Name for YUCS
-#, fuzzy
-#| msgid "Yugoslavia, Socialist Federal Republic of"
 msgid "Yugoslavia, (Socialist) Federal Republic of"
-msgstr "An Iúgslaiv, Poblacht Shóisialach Chónaidhme"
+msgstr "Iúgslaiv, (Sóisialach) Poblacht Chónaidhme na"
 
 #. Name for ZRCD
 msgid "Zaire, Republic of"
