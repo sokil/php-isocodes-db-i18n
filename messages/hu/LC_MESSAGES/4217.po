@@ -14,14 +14,15 @@
 # Kalman Kemenczy <kkemenczy@gmail.com>, 2007-2010.
 # Balázs Úr <urbalazs@gmail.com>, 2015.
 # Balázs Meskó <meskobalazs@mailbox.org>, 2023.
+# RViktor <rviktor@ivankapal.com>, 2025.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_4217\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2022-06-01 15:01+0200\n"
-"PO-Revision-Date: 2023-10-08 12:02+0000\n"
-"Last-Translator: Balázs Meskó <meskobalazs@mailbox.org>\n"
+"PO-Revision-Date: 2025-04-08 02:04+0000\n"
+"Last-Translator: RViktor <rviktor@ivankapal.com>\n"
 "Language-Team: Hungarian <https://hosted.weblate.org/projects/iso-codes/"
 "iso-4217/hu/>\n"
 "Language: hu\n"
@@ -29,11 +30,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.1-dev\n"
+"X-Generator: Weblate 5.11-dev\n"
 
 #. Name for AED
 msgid "UAE Dirham"
-msgstr "egyesült arab emírségekbeli dirham"
+msgstr "emirátusi dirham"
 
 #. Name for AFN
 msgid "Afghani"
@@ -49,7 +50,7 @@ msgstr "örmény dram"
 
 #. Name for ANG
 msgid "Netherlands Antillean Guilder"
-msgstr "holland antillákbeli forint"
+msgstr "holland antilláki forint"
 
 #. Name for AOA
 msgid "Kwanza"
@@ -133,7 +134,7 @@ msgstr "belarusz rubel"
 
 #. Name for BZD
 msgid "Belize Dollar"
-msgstr "Belize-i dollár"
+msgstr "belize-i dollár"
 
 #. Name for CAD
 msgid "Canadian Dollar"
@@ -157,7 +158,7 @@ msgstr "WIR frank"
 
 #. Name for CLF
 msgid "Unidad de Fomento"
-msgstr "Chilei unidad de fomento"
+msgstr "Indexált elszámolási egység, Chile"
 
 #. Name for CLP
 msgid "Chilean Peso"
@@ -165,7 +166,7 @@ msgstr "chilei peso"
 
 #. Name for CNY
 msgid "Yuan Renminbi"
-msgstr "renminbi jüan"
+msgstr "kínai jüan"
 
 #. Name for COP
 msgid "Colombian Peso"
@@ -173,11 +174,11 @@ msgstr "kolumbiai peso"
 
 #. Name for COU
 msgid "Unidad de Valor Real"
-msgstr "Kolumbiai unidad de valor real"
+msgstr "Inflációkövető egység, Kolumbia"
 
 #. Name for CRC
 msgid "Costa Rican Colon"
-msgstr "Costa Rica-i colon"
+msgstr "costa rica-i colon"
 
 #. Name for CUC
 msgid "Peso Convertible"
@@ -233,7 +234,7 @@ msgstr "fidzsi dollár"
 
 #. Name for FKP
 msgid "Falkland Islands Pound"
-msgstr "Falkland-szigeteki font"
+msgstr "falkland-szigeteki font"
 
 #. Name for GBP
 msgid "Pound Sterling"
@@ -293,7 +294,7 @@ msgstr "rúpia"
 
 #. Name for ILS
 msgid "New Israeli Sheqel"
-msgstr "izraeli új sékel"
+msgstr "új izraeli sékel"
 
 #. Name for INR
 msgid "Indian Rupee"
@@ -345,7 +346,7 @@ msgstr "észak-koreai won"
 
 #. Name for KRW
 msgid "Won"
-msgstr "von"
+msgstr "won"
 
 #. Name for KWD
 msgid "Kuwaiti Dinar"
@@ -369,7 +370,7 @@ msgstr "libanoni font"
 
 #. Name for LKR
 msgid "Sri Lanka Rupee"
-msgstr "Srí Lanka-i rúpia"
+msgstr "srí lanka-i rúpia"
 
 #. Name for LRD
 msgid "Liberian Dollar"
@@ -389,7 +390,7 @@ msgstr "marokkói dirham"
 
 #. Name for MDL
 msgid "Moldovan Leu"
-msgstr "moldovai leu"
+msgstr "moldován lej"
 
 #. Name for MGA
 msgid "Malagasy Ariary"
@@ -433,7 +434,7 @@ msgstr "mexikói peso"
 
 #. Name for MXV
 msgid "Mexican Unidad de Inversion (UDI)"
-msgstr "mexikói unidad de inversion (UDI)"
+msgstr "mexikói befektetési egység (UDI)"
 
 #. Name for MYR
 msgid "Malaysian Ringgit"
@@ -441,7 +442,7 @@ msgstr "maláj ringgit"
 
 #. Name for MZN
 msgid "Mozambique Metical"
-msgstr "mozambiki metical"
+msgstr "mozambiki metikális"
 
 #. Name for NAD
 msgid "Namibia Dollar"
@@ -485,7 +486,7 @@ msgstr "kina"
 
 #. Name for PHP
 msgid "Philippine Peso"
-msgstr "Fülöp-szigeteki peso"
+msgstr "fülöp-szigeteki peso"
 
 #. Name for PKR
 msgid "Pakistan Rupee"
@@ -501,7 +502,7 @@ msgstr "guarani"
 
 #. Name for QAR
 msgid "Qatari Rial"
-msgstr "katari riyál"
+msgstr "katari riál"
 
 #. Name for RON
 msgid "Romanian Leu"
@@ -509,7 +510,7 @@ msgstr "román lej"
 
 #. Name for RSD
 msgid "Serbian Dinar"
-msgstr "Szerb dinár"
+msgstr "szerb dinár"
 
 #. Name for RUB
 msgid "Russian Ruble"
@@ -521,15 +522,15 @@ msgstr "ruandai frank"
 
 #. Name for SAR
 msgid "Saudi Riyal"
-msgstr "Szaud-arábiai riyál"
+msgstr "szaúdi riál"
 
 #. Name for SBD
 msgid "Solomon Islands Dollar"
-msgstr "Salamon-szigeteki dollár"
+msgstr "salamon-szigeteki dollár"
 
 #. Name for SCR
 msgid "Seychelles Rupee"
-msgstr "Seychelles-szigeteki rúpia"
+msgstr "seychelle-szigeteki rúpia"
 
 #. Name for SDG
 msgid "Sudanese Pound"
@@ -549,7 +550,7 @@ msgstr "Szent Ilona-i font"
 
 #. Name for SLE, Name for SLL
 msgid "Leone"
-msgstr "Sierra Leone-i leone"
+msgstr "leone"
 
 #. Name for SOS
 msgid "Somali Shilling"
@@ -557,7 +558,7 @@ msgstr "szomáliai shilling"
 
 #. Name for SRD
 msgid "Surinam Dollar"
-msgstr "Suriname-i dollár"
+msgstr "suriname-i dollár"
 
 #. Name for SSP
 msgid "South Sudanese Pound"
@@ -569,7 +570,7 @@ msgstr "dobra"
 
 #. Name for SVC
 msgid "El Salvador Colon"
-msgstr "El Salvador-i colón"
+msgstr "salvadori colón"
 
 #. Name for SYP
 msgid "Syrian Pound"
@@ -589,7 +590,7 @@ msgstr "szomoni"
 
 #. Name for TMT
 msgid "Turkmenistan New Manat"
-msgstr "Türkmén új manat"
+msgstr "türkmén új manat"
 
 #. Name for TND
 msgid "Tunisian Dinar"
@@ -625,15 +626,15 @@ msgstr "ugandai shilling"
 
 #. Name for USD
 msgid "US Dollar"
-msgstr "USA dollár"
+msgstr "US dollár"
 
 #. Name for USN
 msgid "US Dollar (Next day)"
-msgstr "USA dollár (holnapi)"
+msgstr "US dollár (következő napi)"
 
 #. Name for UYI
 msgid "Uruguay Peso en Unidades Indexadas (UI)"
-msgstr "uruguayi peso en unidades indexadas (UI)"
+msgstr "uruguayi indexált egységekben kifejezett peso (UI)"
 
 #. Name for UYU
 msgid "Peso Uruguayo"
@@ -641,7 +642,7 @@ msgstr "uruguayi peso"
 
 #. Name for UYW
 msgid "Unidad Previsional"
-msgstr "uruguayi unidad previsional"
+msgstr "uruguayi nyugdíjszámítási egység"
 
 #. Name for UZS
 msgid "Uzbekistan Sum"
@@ -677,19 +678,19 @@ msgstr "arany"
 
 #. Name for XBA
 msgid "Bond Markets Unit European Composite Unit (EURCO)"
-msgstr "európai összetett egység (EURCO) (kötvénypiaci egység)"
+msgstr "Európai kötvénypiaci összetett egység (EURCO)"
 
 #. Name for XBB
 msgid "Bond Markets Unit European Monetary Unit (E.M.U.-6)"
-msgstr "európai pénzügyi egység (E.M.U-6) (kötvénypiaci egység)"
+msgstr "Európai kötvénypiaci monetáris egység (E.M.U.-6)"
 
 #. Name for XBC
 msgid "Bond Markets Unit European Unit of Account 9 (E.U.A.-9)"
-msgstr "európai számlaegység 9 (E.U.A.-9) (kötvénypiaci egység)"
+msgstr "Európai kötvénypiaci elszámolási egység 9 (E.U.A.-9)"
 
 #. Name for XBD
 msgid "Bond Markets Unit European Unit of Account 17 (E.U.A.-17)"
-msgstr "európai számlaegység 17 (E.U.A.-17) (kötvénypiaci egység)"
+msgstr "Európai kötvénypiaci elszámolási egység 17 (E.U.A.-17)"
 
 #. Name for XCD
 msgid "East Caribbean Dollar"
@@ -697,7 +698,7 @@ msgstr "kelet-karib dollár"
 
 #. Name for XDR
 msgid "SDR (Special Drawing Right)"
-msgstr "SDR (különleges lehívási jog)"
+msgstr "SDR (különleges lehívási jog – IMF tartalékeszköz)"
 
 #. Name for XOF
 msgid "CFA Franc BCEAO"

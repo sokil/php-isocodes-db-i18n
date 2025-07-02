@@ -7,14 +7,15 @@
 # Dr. Tobias Quathamer <toddy@debian.org>, 2007.
 # TANIGUCHI Yasuaki <yasuakit+weblate@gmail.com>, 2021.
 # Deleted User <noreply+42563@weblate.org>, 2022.
+# ιMσDzF4Π4ΤιK <audrey91300@gmail.com>, 2025.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_15924\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2018-01-17 22:10+0100\n"
-"PO-Revision-Date: 2022-03-31 04:08+0000\n"
-"Last-Translator: Deleted User <noreply+42563@weblate.org>\n"
+"PO-Revision-Date: 2025-04-23 20:05+0000\n"
+"Last-Translator: ιMσDzF4Π4ΤιK <audrey91300@gmail.com>\n"
 "Language-Team: Japanese <https://hosted.weblate.org/projects/iso-codes/"
 "iso-15924/ja/>\n"
 "Language: ja\n"
@@ -22,27 +23,29 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.12-dev\n"
+"X-Generator: Weblate 5.11.1-dev\n"
 
 #. Name for Adlm
 msgid "Adlam"
-msgstr ""
+msgstr "アドラム"
 
 #. Name for Afak
 msgid "Afaka"
-msgstr ""
+msgstr "アファカ"
 
 #. Name for Aghb
+#, fuzzy
 msgid "Caucasian Albanian"
-msgstr ""
+msgstr "コーカサス・アルバニア人"
 
 #. Name for Ahom
+#, fuzzy
 msgid "Ahom, Tai Ahom"
-msgstr ""
+msgstr "アホム タイ・アホム"
 
 #. Name for Arab
 msgid "Arabic"
-msgstr "アラビア文字"
+msgstr "アラビア語"
 
 #. Name for Aran
 #, fuzzy

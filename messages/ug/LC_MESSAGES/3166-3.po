@@ -6,20 +6,23 @@
 # .
 # Copyright ©
 # Abduqadir Abliz <sahran.ug@gmail.com>, 2011.
+# Abduqadir Abliz <sahranbay@gmail.com>, 2025.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-3\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2023-02-24 21:26+0100\n"
-"PO-Revision-Date: 2013-02-13 11:28+0600\n"
-"Last-Translator: Sahran <sahran.ug@gmail.com>\n"
-"Language-Team: Uyghur Computer Science Association <UKIJ@yahoogroups.com>\n"
+"PO-Revision-Date: 2025-06-01 22:15+0000\n"
+"Last-Translator: Abduqadir Abliz <sahranbay@gmail.com>\n"
+"Language-Team: Uyghur <https://hosted.weblate.org/projects/iso-codes/"
+"iso-3166-3/ug/>\n"
 "Language: ug\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 1.5.5\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.12-dev\n"
 
 #. Name for AIDJ
 msgid "French Afars and Issas"
@@ -138,10 +141,8 @@ msgid "Yemen, Democratic, People's Democratic Republic of"
 msgstr "يەمەن خەلق دېموكراتىك جۇمھۇرىيىتى"
 
 #. Name for YUCS
-#, fuzzy
-#| msgid "Yugoslavia, Socialist Federal Republic of"
 msgid "Yugoslavia, (Socialist) Federal Republic of"
-msgstr "يۇگوسلاۋىيە بىرلەشمە جۇمھۇرىيىتى"
+msgstr "يۇگوسلاۋىيە سوتسىيالىستىك بىرلەشمە جۇمھۇرىيىتى"
 
 #. Name for ZRCD
 msgid "Zaire, Republic of"

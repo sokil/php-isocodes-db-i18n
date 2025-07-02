@@ -1,0 +1,484 @@
+# Translation of ISO 639-5 to LANGUAGE
+# Codes for the representation of names of languages
+# Part 5: Alpha-3 code for language families and groups
+#
+# This file is distributed under the same license as the iso-codes package.
+#
+# Copyright ©
+# Zulfar <mzulfar20@gmail.com>, 2025.
+msgid ""
+msgstr ""
+"Project-Id-Version: iso_639-5\n"
+"Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
+"issues\n"
+"POT-Creation-Date: 2018-01-17 22:10+0100\n"
+"PO-Revision-Date: 2025-06-19 18:06+0000\n"
+"Last-Translator: Zulfar <mzulfar20@gmail.com>\n"
+"Language-Team: Bashkir <https://hosted.weblate.org/projects/iso-codes/"
+"iso-639-5/ba/>\n"
+"Language: ba\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.12.1\n"
+
+#. Name for aav
+msgid "Austro-Asiatic languages"
+msgstr "Австроазиат телдәре"
+
+#. Name for afa
+msgid "Afro-Asiatic languages"
+msgstr "Афро-азиат телдәре"
+
+#. Name for alg
+msgid "Algonquian languages"
+msgstr "Алгонкин телдәре"
+
+#. Name for alv
+msgid "Atlantic-Congo languages"
+msgstr "Атлантик-конго телдәре"
+
+#. Name for apa
+msgid "Apache languages"
+msgstr "Апачи телдәре"
+
+#. Name for aqa
+msgid "Alacalufan languages"
+msgstr "Алакалуф телдәре"
+
+#. Name for aql
+msgid "Algic languages"
+msgstr "Алг телдәре"
+
+#. Name for art
+msgid "Artificial languages"
+msgstr "Яһалма телдәр"
+
+#. Name for ath
+msgid "Athapascan languages"
+msgstr "Атапаск телдәре"
+
+#. Name for auf
+msgid "Arauan languages"
+msgstr "Араван телдәре"
+
+#. Name for aus
+msgid "Australian languages"
+msgstr "Австралия телдәре"
+
+#. Name for awd
+msgid "Arawakan languages"
+msgstr "Аравак телдәре"
+
+#. Name for azc
+msgid "Uto-Aztecan languages"
+msgstr "Юто-ацтек телдәре"
+
+#. Name for bad
+msgid "Banda languages"
+msgstr "Банда телдәре"
+
+#. Name for bai
+msgid "Bamileke languages"
+msgstr "Бамилеке телдәре"
+
+#. Name for bat
+msgid "Baltic languages"
+msgstr "Балтик телдәре"
+
+#. Name for ber
+msgid "Berber languages"
+msgstr "Бербер телдәре"
+
+#. Name for bih
+msgid "Bihari languages"
+msgstr "Бихари телдәре"
+
+#. Name for bnt
+msgid "Bantu languages"
+msgstr "Банту телдәре"
+
+#. Name for btk
+msgid "Batak languages"
+msgstr "Батак телдәре"
+
+#. Name for cai
+msgid "Central American Indian languages"
+msgstr "Үҙәк Америка индеецтары телдәре"
+
+#. Name for cau
+msgid "Caucasian languages"
+msgstr "Кавказ телдәре"
+
+#. Name for cba
+msgid "Chibchan languages"
+msgstr "Чибча телдәре"
+
+#. Name for ccn
+msgid "North Caucasian languages"
+msgstr "Төньяҡ Кавказ телдәре"
+
+#. Name for ccs
+msgid "South Caucasian languages"
+msgstr "Көньяҡ Кавказ телдәре"
+
+#. Name for cdc
+msgid "Chadic languages"
+msgstr "Чад телдәре"
+
+#. Name for cdd
+msgid "Caddoan languages"
+msgstr "Каддо телдәре"
+
+#. Name for cel
+msgid "Celtic languages"
+msgstr "Кельт телдәре"
+
+#. Name for cmc
+msgid "Chamic languages"
+msgstr "Чам телдәре"
+
+#. Name for cpe
+msgid "Creoles and pidgins, English‑based"
+msgstr "Инглиз нигеҙендәге креол һәм пиджин телдәре"
+
+#. Name for cpf
+msgid "Creoles and pidgins, French‑based"
+msgstr "Француз нигеҙендәге креол һәм пиджин телдәре"
+
+#. Name for cpp
+msgid "Creoles and pidgins, Portuguese-based"
+msgstr "Португал нигеҙендәге креол һәм пиджин телдәре"
+
+#. Name for crp
+msgid "Creoles and pidgins"
+msgstr "Креол һәм пиджин телдәре"
+
+#. Name for csu
+msgid "Central Sudanic languages"
+msgstr "Үҙәк Судан телдәре"
+
+#. Name for cus
+msgid "Cushitic languages"
+msgstr "Кушит телдәре"
+
+#. Name for day
+msgid "Land Dayak languages"
+msgstr "Ҡоро ер даяк телдәре"
+
+#. Name for dmn
+msgid "Mande languages"
+msgstr "Манде телдәре"
+
+#. Name for dra
+msgid "Dravidian languages"
+msgstr "Дравид телдәре"
+
+#. Name for egx
+msgid "Egyptian languages"
+msgstr "Мысыр телдәре"
+
+#. Name for esx
+msgid "Eskimo-Aleut languages"
+msgstr "Эскимос-алеут телдәре"
+
+#. Name for euq
+msgid "Basque (family)"
+msgstr "Баск (ғаилә)"
+
+#. Name for fiu
+msgid "Finno-Ugrian languages"
+msgstr "Фин-уғыр телдәре"
+
+#. Name for fox
+msgid "Formosan languages"
+msgstr "Формоз телдәре"
+
+#. Name for gem
+msgid "Germanic languages"
+msgstr "Герман телдәре"
+
+#. Name for gme
+msgid "East Germanic languages"
+msgstr "Көнсығыш герман телдәре"
+
+#. Name for gmq
+msgid "North Germanic languages"
+msgstr "Төньяҡ герман телдәре"
+
+#. Name for gmw
+msgid "West Germanic languages"
+msgstr "Көнбайыш герман телдәре"
+
+#. Name for grk
+msgid "Greek languages"
+msgstr "Грек телдәре"
+
+#. Name for hmx
+msgid "Hmong-Mien languages"
+msgstr "Хмонг-мьен телдәре"
+
+#. Name for hok
+msgid "Hokan languages"
+msgstr "Хока телдәре"
+
+#. Name for hyx
+msgid "Armenian (family)"
+msgstr "Әрмән (ғаилә)"
+
+#. Name for iir
+msgid "Indo-Iranian languages"
+msgstr "Һинд-иран телдәре"
+
+#. Name for ijo
+msgid "Ijo languages"
+msgstr "Иджоид телдәре"
+
+#. Name for inc
+msgid "Indic languages"
+msgstr "Һинд-арий телдәре"
+
+#. Name for ine
+msgid "Indo-European languages"
+msgstr "Һинд-европа телдәре"
+
+#. Name for ira
+msgid "Iranian languages"
+msgstr "Иран телдәре"
+
+#. Name for iro
+msgid "Iroquoian languages"
+msgstr "Ирокез телдәре"
+
+#. Name for itc
+msgid "Italic languages"
+msgstr "Италий телдәре"
+
+#. Name for jpx
+msgid "Japanese (family)"
+msgstr "Япон (ғаилә)"
+
+#. Name for kar
+msgid "Karen languages"
+msgstr "Карен телдәре"
+
+#. Name for kdo
+msgid "Kordofanian languages"
+msgstr "Кордофан телдәре"
+
+#. Name for khi
+msgid "Khoisan languages"
+msgstr "Койсан телдәре"
+
+#. Name for kro
+msgid "Kru languages"
+msgstr "Кру телдәре"
+
+#. Name for map
+msgid "Austronesian languages"
+msgstr "Австронезия телдәре"
+
+#. Name for mkh
+msgid "Mon-Khmer languages"
+msgstr "Мон-кхмер телдәре"
+
+#. Name for mno
+msgid "Manobo languages"
+msgstr "Манобо телдәре"
+
+#. Name for mun
+msgid "Munda languages"
+msgstr "Мунда телдәре"
+
+#. Name for myn
+msgid "Mayan languages"
+msgstr "Майя телдәре"
+
+#. Name for nah
+msgid "Nahuatl languages"
+msgstr "Науатль телдәре"
+
+#. Name for nai
+msgid "North American Indian languages"
+msgstr "Төньяҡ Америка индеецтары телдәре"
+
+#. Name for ngf
+msgid "Trans-New Guinea languages"
+msgstr "Транс-яңы гвинея телдәре"
+
+#. Name for nic
+msgid "Niger-Kordofanian languages"
+msgstr "Нигер-кордофан телдәре"
+
+#. Name for nub
+msgid "Nubian languages"
+msgstr "Нубия телдәре"
+
+#. Name for omq
+msgid "Oto-Manguean languages"
+msgstr "Ото-манг телдәре"
+
+#. Name for omv
+msgid "Omotic languages"
+msgstr "Омот телдәре"
+
+#. Name for oto
+msgid "Otomian languages"
+msgstr "Отоми телдәре"
+
+#. Name for paa
+msgid "Papuan languages"
+msgstr "Папуас телдәре"
+
+#. Name for phi
+msgid "Philippine languages"
+msgstr "Филиппин телдәре"
+
+#. Name for plf
+msgid "Central Malayo-Polynesian languages"
+msgstr "Үҙәк малай-полинезия телдәре"
+
+#. Name for poz
+msgid "Malayo-Polynesian languages"
+msgstr "Малай-полинезия телдәре"
+
+#. Name for pqe
+msgid "Eastern Malayo-Polynesian languages"
+msgstr "Көнсығыш малай-полинезия телдәре"
+
+#. Name for pqw
+msgid "Western Malayo-Polynesian languages"
+msgstr "Көнбайыш малай-полинезия телдәре"
+
+#. Name for pra
+msgid "Prakrit languages"
+msgstr "Пракрит телдәре"
+
+#. Name for qwe
+msgid "Quechuan (family)"
+msgstr "Кечуа (ғаилә)"
+
+#. Name for roa
+msgid "Romance languages"
+msgstr "Роман телдәре"
+
+#. Name for sai
+msgid "South American Indian languages"
+msgstr "Көньяҡ Америка индеецтары телдәре"
+
+#. Name for sal
+msgid "Salishan languages"
+msgstr "Сэлиш телдәре"
+
+#. Name for sdv
+msgid "Eastern Sudanic languages"
+msgstr "Көнсығыш Судан телдәре"
+
+#. Name for sem
+msgid "Semitic languages"
+msgstr "Семит телдәре"
+
+#. Name for sgn
+msgid "sign languages"
+msgstr "Ым-ишара телдәре"
+
+#. Name for sio
+msgid "Siouan languages"
+msgstr "Сиу телдәре"
+
+#. Name for sit
+msgid "Sino-Tibetan languages"
+msgstr "Ҡытай-тибет телдәре"
+
+#. Name for sla
+msgid "Slavic languages"
+msgstr "Славян телдәре"
+
+#. Name for smi
+msgid "Sami languages"
+msgstr "Саам телдәре"
+
+#. Name for son
+msgid "Songhai languages"
+msgstr "Сонгай телдәре"
+
+#. Name for sqj
+msgid "Albanian languages"
+msgstr "Албан телдәре"
+
+#. Name for ssa
+msgid "Nilo-Saharan languages"
+msgstr "Нил-Сахара телдәре"
+
+#. Name for syd
+msgid "Samoyedic languages"
+msgstr "Самодий телдәре"
+
+#. Name for tai
+msgid "Tai languages"
+msgstr "Тай телдәре"
+
+#. Name for tbq
+msgid "Tibeto-Burman languages"
+msgstr "Тибет-бирма телдәре"
+
+#. Name for trk
+msgid "Turkic languages"
+msgstr "Төрки телдәр"
+
+#. Name for tup
+msgid "Tupi languages"
+msgstr "Тупи телдәре"
+
+#. Name for tut
+msgid "Altaic languages"
+msgstr "Алтай телдәре"
+
+#. Name for tuw
+msgid "Tungus languages"
+msgstr "Тунгус телдәре"
+
+#. Name for urj
+msgid "Uralic languages"
+msgstr "Урал телдәре"
+
+#. Name for wak
+msgid "Wakashan languages"
+msgstr "Вакаш телдәре"
+
+#. Name for wen
+msgid "Sorbian languages"
+msgstr "Сорб телдәре"
+
+#. Name for xgn
+msgid "Mongolian languages"
+msgstr "Монгол телдәре"
+
+#. Name for xnd
+msgid "Na-Dene languages"
+msgstr "На-дене телдәре"
+
+#. Name for ypk
+msgid "Yupik languages"
+msgstr "Юпик телдәре"
+
+#. Name for zhx
+msgid "Chinese (family)"
+msgstr "Ҡытай (ғаилә)"
+
+#. Name for zle
+msgid "East Slavic languages"
+msgstr "Көнсығыш славян телдәре"
+
+#. Name for zls
+msgid "South Slavic languages"
+msgstr "Көньяҡ славян телдәре"
+
+#. Name for zlw
+msgid "West Slavic languages"
+msgstr "Көнбайыш славян телдәре"
+
+#. Name for znd
+msgid "Zande languages"
+msgstr "Занде телдәре"

@@ -6,14 +6,15 @@
 # Copyright ©
 # İlle <derasetad@gmail.com>, 2020.
 # Мĕтри Сантăр ывалĕ Упа-Миччи <mefisteron@gmail.com>, 2024.
+# Astahar <p-code@mail.ru>, 2025.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_15924\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2018-01-17 22:10+0100\n"
-"PO-Revision-Date: 2024-09-16 12:14+0000\n"
-"Last-Translator: Мĕтри Сантăр ывалĕ Упа-Миччи <mefisteron@gmail.com>\n"
+"PO-Revision-Date: 2025-03-25 11:22+0000\n"
+"Last-Translator: Astahar <p-code@mail.ru>\n"
 "Language-Team: Chuvash <https://hosted.weblate.org/projects/iso-codes/"
 "iso-15924/cv/>\n"
 "Language: cv\n"
@@ -21,7 +22,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.8-dev\n"
+"X-Generator: Weblate 5.11-dev\n"
 
 #. Name for Adlm
 msgid "Adlam"
@@ -29,11 +30,11 @@ msgstr "Адлам"
 
 #. Name for Afak
 msgid "Afaka"
-msgstr "Афак"
+msgstr "Афака"
 
 #. Name for Aghb
 msgid "Caucasian Albanian"
-msgstr "Кавккас албан"
+msgstr "Кавказ албан"
 
 #. Name for Ahom
 msgid "Ahom, Tai Ahom"
@@ -113,7 +114,7 @@ msgstr "Чакма"
 
 #. Name for Cans
 msgid "Unified Canadian Aboriginal Syllabics"
-msgstr "Канад Аборигенӗсен Унифланӑ Сас Паллисем"
+msgstr "Канада Аборигенӗсен Унификациленӗ Саспаллисем"
 
 #. Name for Cari
 msgid "Carian"
