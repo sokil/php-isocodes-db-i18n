@@ -10,14 +10,15 @@
 # Josip Rodin <joy@debian.org>, 2008.
 # Tomislav Krznar <tomislav.krznar@gmail.com>, 2012-2013.
 # Milo Ivir <mail@milotype.de>, 2020.
+# Valentin Vidić <vvidic@valentin-vidic.from.hr>, 2025.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-3\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2023-02-24 21:26+0100\n"
-"PO-Revision-Date: 2020-04-07 09:54+0000\n"
-"Last-Translator: Milo Ivir <mail@milotype.de>\n"
+"PO-Revision-Date: 2025-03-10 00:55+0000\n"
+"Last-Translator: Valentin Vidić <vvidic@valentin-vidic.from.hr>\n"
 "Language-Team: Croatian <https://hosted.weblate.org/projects/iso-codes/"
 "iso-3166-3/hr/>\n"
 "Language: hr\n"
@@ -26,7 +27,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
 "n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.0-dev\n"
+"X-Generator: Weblate 5.10.3-dev\n"
 
 #. Name for AIDJ
 msgid "French Afars and Issas"
@@ -145,8 +146,6 @@ msgid "Yemen, Democratic, People's Democratic Republic of"
 msgstr "Jemen, Demokratski, Narodna Demokratska Republika"
 
 #. Name for YUCS
-#, fuzzy
-#| msgid "Yugoslavia, Socialist Federal Republic of"
 msgid "Yugoslavia, (Socialist) Federal Republic of"
 msgstr "Jugoslavija, Socijalistička Federativna Republika"
 

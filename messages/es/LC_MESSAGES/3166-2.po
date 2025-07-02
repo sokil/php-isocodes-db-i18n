@@ -9,18 +9,19 @@
 # Juan Manuel García Molina <juanmagm@mail.com>, 2001.
 # advocatux <advocatux@airpost.net>, 2018.
 # Rodrigo Lledó <rodhos92@gmail.com>, 2019.
-# Guillermo Segovia <gsegovia2018@my.fit.edu>, 2019.
+# Guillermo Segovia <gsegovia2018@my.fit.edu>, 2019, 2025.
 # Quentin PAGÈS <quentinantonin@free.fr>, 2020.
 # Adolfo Jayme Barrientos <fitojb@ubuntu.com>, 2021.
 # Nicolas Horacio <nhk.web@gmail.com>, 2024.
+# Walter Paterno <walter.paterno@gmail.com>, 2025.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-2\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2023-12-18 14:43+0100\n"
-"PO-Revision-Date: 2024-02-13 19:23+0000\n"
-"Last-Translator: Nicolas Horacio <nhk.web@gmail.com>\n"
+"PO-Revision-Date: 2025-05-12 19:03+0000\n"
+"Last-Translator: Guillermo Segovia <gsegovia2018@my.fit.edu>\n"
 "Language-Team: Spanish <https://hosted.weblate.org/projects/iso-codes/"
 "iso-3166-2/es/>\n"
 "Language: es\n"
@@ -28,7 +29,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.4-dev\n"
+"X-Generator: Weblate 5.12-dev\n"
 
 #. Name for AD-02
 msgid "Canillo"
@@ -94,11 +95,11 @@ msgstr "Balkh"
 
 #. Name for AF-BAM
 msgid "Bāmyān"
-msgstr ""
+msgstr "Bamyan"
 
 #. Name for AF-BDG
 msgid "Bādghīs"
-msgstr ""
+msgstr "Badghís"
 
 #. Name for AF-BDS
 #, fuzzy
@@ -301,7 +302,7 @@ msgstr "Kenia"
 
 #. Name for AL-07
 msgid "Kukës"
-msgstr ""
+msgstr "Kukes"
 
 #. Name for AL-08
 #, fuzzy
@@ -315,7 +316,7 @@ msgstr "Liberia"
 
 #. Name for AL-10
 msgid "Shkodër"
-msgstr ""
+msgstr "Shkoder"
 
 #. Name for AL-11
 #, fuzzy
@@ -1904,12 +1905,11 @@ msgstr "Palau"
 
 #. Name for BJ-ZO
 msgid "Zou"
-msgstr ""
+msgstr "Zou"
 
 #. Name for BN-BE
-#, fuzzy
 msgid "Belait"
-msgstr "Belice"
+msgstr "Belait"
 
 #. Name for BN-BM
 #, fuzzy
@@ -1922,9 +1922,8 @@ msgid "Temburong"
 msgstr "Luxemburgo"
 
 #. Name for BN-TU
-#, fuzzy
 msgid "Tutong"
-msgstr "Tonga"
+msgstr "Tutong"
 
 #. Name for BO-B
 msgid "El Beni"
@@ -5244,7 +5243,7 @@ msgstr ""
 
 #. Name for ES-GA
 msgid "Galicia [Galicia]"
-msgstr ""
+msgstr "Galicia"
 
 #. Name for ES-GC
 msgid "Las Palmas"

@@ -8,7 +8,7 @@
 # Taco Witte <tcwitte@cs.uu.nl>, 2004.
 # Luk Claes <luk.claes@ugent.be>, 2005.
 # Freek de Kruijf <f.de.kruijf@gmail.com>, 2009-2015, 2017.
-# Pander <pander@users.sourceforge.net>, 2018, 2020, 2021, 2022, 2023.
+# Pander <pander@users.sourceforge.net>, 2018, 2020, 2021, 2022, 2023, 2025.
 # Nathan Follens <nthn@unseen.is>, 2019.
 # Anonymous <noreply@weblate.org>, 2020.
 # Frans Spiesschaert <frans.spiesschaert@gmail.com>, 2023.
@@ -18,7 +18,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2022-07-25 22:15+0200\n"
-"PO-Revision-Date: 2023-04-22 14:41+0000\n"
+"PO-Revision-Date: 2025-04-16 06:01+0000\n"
 "Last-Translator: Pander <pander@users.sourceforge.net>\n"
 "Language-Team: Dutch <https://hosted.weblate.org/projects/iso-codes/"
 "iso-639-3/nl/>\n"
@@ -27,7 +27,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.18-dev\n"
+"X-Generator: Weblate 5.11.1-dev\n"
 "X-Bugs: Report translation errors to the Language-Team address.\n"
 
 #. Name for aaa
@@ -669,11 +669,11 @@ msgstr "Argobba"
 
 #. Name for agk
 msgid "Isarog Agta"
-msgstr ""
+msgstr "Isarog Agta"
 
 #. Inverted name for agk
 msgid "Agta, Isarog"
-msgstr ""
+msgstr "Agta, Isarog"
 
 #. Name for agl
 msgid "Fembe"
@@ -705,11 +705,11 @@ msgstr "Esimbi"
 
 #. Name for agt
 msgid "Central Cagayan Agta"
-msgstr ""
+msgstr "Centraal Cagayan Agta"
 
 #. Inverted name for agt
 msgid "Agta, Central Cagayan"
-msgstr ""
+msgstr "Agta, Centraal Cagayan"
 
 #. Name for agu
 msgid "Aguacateco"
@@ -1211,7 +1211,7 @@ msgstr "War-Jaintia"
 
 #. Name for amm
 msgid "Ama (Papua New Guinea)"
-msgstr ""
+msgstr "Ama (Papoea-Nieuw-Guinea)"
 
 #. Name for amn
 msgid "Amanab"
@@ -1499,7 +1499,7 @@ msgstr "Pahanan Agta"
 
 #. Inverted name for apf
 msgid "Agta, Pahanan"
-msgstr ""
+msgstr "Agta, Pahanan"
 
 #. Name for apg
 msgid "Ampanang"

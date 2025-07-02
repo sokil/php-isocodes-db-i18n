@@ -14,14 +14,15 @@
 # J. Lavoie <j.lavoie@net-c.ca>, 2020.
 # Serge Karpesh <skarpiesz@gmail.com>, 2020.
 # Nathan Schimmoller <nschimmo@gmail.com>, 2022.
+# Serhii Horichenko <serhii@horichenko.com>, 2025.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-2\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2023-12-18 14:43+0100\n"
-"PO-Revision-Date: 2023-02-24 21:01+0000\n"
-"Last-Translator: \"Dr. Tobias Quathamer\" <toddy@debian.org>\n"
+"PO-Revision-Date: 2025-06-18 00:01+0000\n"
+"Last-Translator: Serhii Horichenko <serhii@horichenko.com>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/iso-codes/"
 "iso-3166-2/de/>\n"
 "Language: de\n"
@@ -29,7 +30,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.16-dev\n"
+"X-Generator: Weblate 5.12.1\n"
 
 #. Name for AD-02
 msgid "Canillo"
@@ -18119,11 +18120,11 @@ msgstr "Ivano-Frankivska oblast"
 
 #. Name for UA-30
 msgid "Kyiv"
-msgstr "Kyiv"
+msgstr "Kyjiw"
 
 #. Name for UA-32
 msgid "Kyivska oblast"
-msgstr "Kyivska oblast"
+msgstr "Kyjiwska oblast"
 
 #. Name for UA-35
 msgid "Kirovohradska oblast"
