@@ -1,80 +1,79 @@
-# Translation of ISO 3166-3 to Friulian
+# Translation of ISO 3166-3 to LANGUAGE
 # Codes for the representation of names of countries and their subdivisions
 # Part 3: Code for formerly used names of countries
-# .
+#
 # This file is distributed under the same license as the iso-codes package.
-# .
+#
 # Copyright ©
-# Fabio Tomat <f.t.public@gmail.com>, 2021, 2025.
-# adecorte <adecorte@gmail.com>, 2023.
+# ButterflyOfFire <boffire@users.noreply.hosted.weblate.org>, 2025.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-3\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2023-02-24 21:26+0100\n"
-"PO-Revision-Date: 2025-07-11 17:26+0000\n"
-"Last-Translator: Fabio Tomat <f.t.public@gmail.com>\n"
-"Language-Team: Friulian <https://hosted.weblate.org/projects/iso-codes/"
-"iso-3166-3/fur/>\n"
-"Language: fur\n"
+"PO-Revision-Date: 2025-08-24 21:02+0000\n"
+"Last-Translator: ButterflyOfFire <boffire@users.noreply.hosted.weblate.org>\n"
+"Language-Team: Kabyle <https://hosted.weblate.org/projects/iso-codes/"
+"iso-3166-3/kab/>\n"
+"Language: kab\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.13-dev\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 5.13\n"
 
 #. Name for AIDJ
 msgid "French Afars and Issas"
-msgstr "Teritori francês dai Afar e dai Issa"
+msgstr ""
 
 #. Name for ANHH
 msgid "Netherlands Antilles"
-msgstr "Antilis olandesis"
+msgstr ""
 
 #. Name for BQAQ
 msgid "British Antarctic Territory"
-msgstr "Teritori antartic britanic"
+msgstr ""
 
 #. Name for BUMM
 msgid "Burma, Socialist Republic of the Union of"
-msgstr "Birmanie, Republiche Socialiste de Union de"
+msgstr ""
 
 #. Name for BYAA
 msgid "Byelorussian SSR Soviet Socialist Republic"
-msgstr "Republiche Socialiste Sovietiche Bielorusse"
+msgstr ""
 
 #. Name for CSHH
 msgid "Czechoslovakia, Czechoslovak Socialist Republic"
-msgstr "Cecoslovachie, Republiche Socialiste Cecoslovache"
+msgstr ""
 
 #. Name for CSXX
 msgid "Serbia and Montenegro"
-msgstr "Serbie e Montenegro"
+msgstr ""
 
 #. Name for CTKI
 msgid "Canton and Enderbury Islands"
-msgstr "Isulis Canton e Enderbury"
+msgstr "Tigzirin n Canton akked Enderbury"
 
 #. Name for DDDE
 msgid "German Democratic Republic"
-msgstr "Republiche Democratiche Todescje"
+msgstr ""
 
 #. Name for DYBJ
 msgid "Dahomey"
-msgstr "Dahomey"
+msgstr "Dahumey"
 
 #. Name for FQHH
 msgid "French Southern and Antarctic Territories"
-msgstr "Teritoris austrâi francês"
+msgstr ""
 
 #. Name for FXFR
 msgid "France, Metropolitan"
-msgstr "France metropolitane"
+msgstr ""
 
 #. Name for GEHH
 msgid "Gilbert and Ellice Islands"
-msgstr "Isulis Gilbert e Ellice"
+msgstr ""
 
 #. Name for HVBF
 msgid "Upper Volta, Republic of"
@@ -82,39 +81,39 @@ msgstr ""
 
 #. Name for JTUM
 msgid "Johnston Island"
-msgstr "Atol Johnston"
+msgstr "Tigzirt n Johnston"
 
 #. Name for MIUM
 msgid "Midway Islands"
-msgstr "Atol di Midway"
+msgstr "Tigzirin n Midway"
 
 #. Name for NHVU
 msgid "New Hebrides"
-msgstr "Gnosis Ebridis"
+msgstr ""
 
 #. Name for NQAQ
 msgid "Dronning Maud Land"
-msgstr "Tiere de regjine Maud"
+msgstr ""
 
 #. Name for NTHH
 msgid "Neutral Zone"
-msgstr "Zone neutrâl"
+msgstr ""
 
 #. Name for PCHH
 msgid "Pacific Islands (trust territory)"
-msgstr "Teritori fiduciari des Isulis dal Pacific"
+msgstr ""
 
 #. Name for PUUM
 msgid "US Miscellaneous Pacific Islands"
-msgstr "USA, altris isulis dal Pacific"
+msgstr ""
 
 #. Name for PZPA
 msgid "Panama Canal Zone"
-msgstr "Zone dal Canâl di Panama"
+msgstr ""
 
 #. Name for RHZW
 msgid "Southern Rhodesia"
-msgstr "Rhodesie meridionâl"
+msgstr ""
 
 #. Name for SKIN
 msgid "Sikkim"
@@ -122,28 +121,28 @@ msgstr "Sikkim"
 
 #. Name for SUHH
 msgid "USSR, Union of Soviet Socialist Republics"
-msgstr "URSS, Union des Republichis Socialistis Sovietichis"
+msgstr ""
 
 #. Name for TPTL
 msgid "East Timor"
-msgstr "Timor orientâl"
+msgstr ""
 
 #. Name for VDVN
 msgid "Viet-Nam, Democratic Republic of"
-msgstr "Vietnam, Republiche democratiche dal"
+msgstr ""
 
 #. Name for WKUM
 msgid "Wake Island"
-msgstr "Atol di Wake"
+msgstr "Tigzirt n Wake"
 
 #. Name for YDYE
 msgid "Yemen, Democratic, People's Democratic Republic of"
-msgstr "Yemen, Republiche Democratiche Popolâr dal"
+msgstr ""
 
 #. Name for YUCS
 msgid "Yugoslavia, (Socialist) Federal Republic of"
-msgstr "Jugoslavie, Republiche federâl socialiste di"
+msgstr ""
 
 #. Name for ZRCD
 msgid "Zaire, Republic of"
-msgstr "Zaire, Republiche dal"
+msgstr ""

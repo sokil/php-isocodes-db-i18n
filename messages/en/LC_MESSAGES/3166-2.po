@@ -12,14 +12,15 @@
 # tao wang <tonywang5@163.com>, 2020.
 # Eleanor <5abbwfw5@mailer.me>, 2021.
 # Joe Bennett <joe@assimtech.com>, 2021, 2022.
+# Thibault Gattolliat <gattolliat.thibault@gmail.com>, 2025.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-2\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2023-12-18 14:43+0100\n"
-"PO-Revision-Date: 2022-03-16 13:55+0000\n"
-"Last-Translator: Joe Bennett <joe@assimtech.com>\n"
+"PO-Revision-Date: 2025-07-08 14:05+0000\n"
+"Last-Translator: Thibault Gattolliat <gattolliat.thibault@gmail.com>\n"
 "Language-Team: English <https://hosted.weblate.org/projects/iso-codes/"
 "iso-3166-2/en/>\n"
 "Language: en\n"
@@ -27,7 +28,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.12-dev\n"
+"X-Generator: Weblate 5.13-dev\n"
 
 #. Name for AD-02
 msgid "Canillo"
@@ -2818,10 +2819,8 @@ msgid "Basel-Stadt"
 msgstr "Basel-Stadt"
 
 #. Name for CH-FR
-#, fuzzy
-#| msgid "Maribor"
 msgid "Fribourg"
-msgstr "Maribor"
+msgstr "Fribourg / Freiburg / Friburgo / Friburg"
 
 #. Name for CH-GE
 #, fuzzy

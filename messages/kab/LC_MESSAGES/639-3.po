@@ -7,14 +7,14 @@
 # Copyright ©
 # ButterflyOfFire <ButterflyOfFire@protonmail.com>, 2020.
 # Hakim Oubouali <hakim.oubouali.skr@gmail.com>, 2020.
-# ButterflyOfFire <boffire@users.noreply.hosted.weblate.org>, 2024.
+# ButterflyOfFire <boffire@users.noreply.hosted.weblate.org>, 2024, 2025.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_639-3\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2022-07-25 22:15+0200\n"
-"PO-Revision-Date: 2024-03-14 22:01+0000\n"
+"PO-Revision-Date: 2025-08-24 21:02+0000\n"
 "Last-Translator: ButterflyOfFire <boffire@users.noreply.hosted.weblate.org>\n"
 "Language-Team: Kabyle <https://hosted.weblate.org/projects/iso-codes/"
 "iso-639-3/kab/>\n"
@@ -23,7 +23,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.5-dev\n"
+"X-Generator: Weblate 5.13\n"
 
 #. Name for aaa
 msgid "Ghotuo"
@@ -24550,10 +24550,8 @@ msgid "Phukha"
 msgstr ""
 
 #. Name for phj
-#, fuzzy
-#| msgid "Amharic"
 msgid "Pahari"
-msgstr "Tamharikt"
+msgstr "Pahari"
 
 #. Name for phk
 msgid "Phake"
