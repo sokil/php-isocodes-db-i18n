@@ -4,14 +4,14 @@
 # This file is distributed under the same license as the iso-codes package.
 # .
 # Copyright ©
-# Temuri Doghonadze <temuri.doghonadze@gmail.com>, 2022, 2023.
+# Temuri Doghonadze <temuri.doghonadze@gmail.com>, 2022, 2023, 2025.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_15924\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2018-01-17 22:10+0100\n"
-"PO-Revision-Date: 2023-08-29 16:54+0000\n"
+"PO-Revision-Date: 2025-07-20 11:47+0000\n"
 "Last-Translator: Temuri Doghonadze <temuri.doghonadze@gmail.com>\n"
 "Language-Team: Georgian <https://hosted.weblate.org/projects/iso-codes/"
 "iso-15924/ka/>\n"
@@ -20,7 +20,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.0.1-dev\n"
+"X-Generator: Weblate 5.13-dev\n"
 
 #. Name for Adlm
 msgid "Adlam"
@@ -84,7 +84,7 @@ msgstr "ბჰაიკსუკი"
 
 #. Name for Blis
 msgid "Blissymbols"
-msgstr ""
+msgstr "ბლისსიმბოლოები"
 
 #. Name for Bopo
 msgid "Bopomofo"
@@ -128,7 +128,7 @@ msgstr "ჩეროკი"
 
 #. Name for Cirt
 msgid "Cirth"
-msgstr ""
+msgstr "კირთი"
 
 #. Name for Copt
 msgid "Coptic"
@@ -284,7 +284,7 @@ msgstr ""
 
 #. Name for Jurc
 msgid "Jurchen"
-msgstr ""
+msgstr "ჯურხენი"
 
 #. Name for Kali
 msgid "Kayah Li"
@@ -324,7 +324,7 @@ msgstr ""
 
 #. Name for Kpel
 msgid "Kpelle"
-msgstr ""
+msgstr "კპელლე"
 
 #. Name for Kthi
 msgid "Kaithi"
@@ -352,7 +352,7 @@ msgstr "ლათინური"
 
 #. Name for Leke
 msgid "Leke"
-msgstr ""
+msgstr "ლეკე"
 
 #. Name for Lepc
 msgid "Lepcha (Róng)"
@@ -376,7 +376,7 @@ msgstr ""
 
 #. Name for Loma
 msgid "Loma"
-msgstr ""
+msgstr "ლომა"
 
 #. Name for Lyci
 msgid "Lycian"
@@ -468,11 +468,11 @@ msgstr ""
 
 #. Name for Nkoo
 msgid "N’Ko"
-msgstr ""
+msgstr "ნ'კო"
 
 #. Name for Nshu
 msgid "Nüshu"
-msgstr ""
+msgstr "ნიუიშუ"
 
 #. Name for Ogam
 msgid "Ogham"
@@ -556,7 +556,7 @@ msgstr ""
 
 #. Name for Roro
 msgid "Rongorongo"
-msgstr ""
+msgstr "რონგორონგო"
 
 #. Name for Runr
 msgid "Runic"
@@ -568,7 +568,7 @@ msgstr "სამარიტული"
 
 #. Name for Sara
 msgid "Sarati"
-msgstr ""
+msgstr "სარატი"
 
 #. Name for Sarb
 msgid "Old South Arabian"
@@ -580,7 +580,7 @@ msgstr "საურაშტრა"
 
 #. Name for Sgnw
 msgid "SignWriting"
-msgstr ""
+msgstr "საინვრაითინგი"
 
 #. Name for Shaw
 msgid "Shavian (Shaw)"
@@ -664,7 +664,7 @@ msgstr "ტელუგური"
 
 #. Name for Teng
 msgid "Tengwar"
-msgstr ""
+msgstr "ტენგვარი"
 
 #. Name for Tfng
 msgid "Tifinagh (Berber)"
@@ -708,7 +708,7 @@ msgstr ""
 
 #. Name for Wole
 msgid "Woleai"
-msgstr ""
+msgstr "ვოლეაი"
 
 #. Name for Xpeo
 msgid "Old Persian"

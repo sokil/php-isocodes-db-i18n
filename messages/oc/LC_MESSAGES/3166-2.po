@@ -6,14 +6,14 @@
 # .
 # Copyright ©
 # Yannig Marchegay <yannig@marchegay.org>, 2008.
-# Quentin PAGÈS <quentinantonin@free.fr>, 2020, 2022.
+# Quentin PAGÈS <quentinantonin@free.fr>, 2020, 2022, 2025.
 msgid ""
 msgstr ""
 "Project-Id-Version: oc\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2023-12-18 14:43+0100\n"
-"PO-Revision-Date: 2022-03-31 04:08+0000\n"
+"PO-Revision-Date: 2025-08-23 20:42+0000\n"
 "Last-Translator: Quentin PAGÈS <quentinantonin@free.fr>\n"
 "Language-Team: Occitan <https://hosted.weblate.org/projects/iso-codes/"
 "iso-3166-2/oc/>\n"
@@ -22,7 +22,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: \n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 4.12-dev\n"
+"X-Generator: Weblate 5.13\n"
 
 #. Name for AD-02
 msgid "Canillo"
@@ -5585,10 +5585,8 @@ msgid "Saint-Martin"
 msgstr ""
 
 #. Name for FR-NAQ
-#, fuzzy
-#| msgid "Aquitaine"
 msgid "Nouvelle-Aquitaine"
-msgstr "Aquitània"
+msgstr "Aquitània nòva"
 
 #. Name for FR-NC
 msgid "Nouvelle-Calédonie"

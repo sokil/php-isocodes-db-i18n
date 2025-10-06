@@ -9,14 +9,15 @@
 # Andrea Scialpi <solopec@tiscalinet.it>, 2001.
 # Milo Casagrande <milo@ubuntu.com>, 2008-2013, 2017-2018.
 # Sebastiano Pistore <SebastianoPistore.info@protonmail.ch>, 2019-2022.
+# Thibault Gattolliat <gattolliat.thibault@gmail.com>, 2025.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-2\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2023-12-18 14:43+0100\n"
-"PO-Revision-Date: 2022-12-30 22:00+0100\n"
-"Last-Translator: Sebastiano Pistore <SebastianoPistore.info@protonmail.ch>\n"
+"PO-Revision-Date: 2025-07-08 14:05+0000\n"
+"Last-Translator: Thibault Gattolliat <gattolliat.thibault@gmail.com>\n"
 "Language-Team: Italian <https://hosted.weblate.org/projects/iso-codes/"
 "iso-3166-2/it/>\n"
 "Language: it\n"
@@ -24,7 +25,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Poedit 3.2.2\n"
+"X-Generator: Weblate 5.13-dev\n"
 "X-Bugs: Report translation errors to the Language-Team address.\n"
 
 #. Name for AD-02
@@ -2601,8 +2602,6 @@ msgid "Appenzell Ausserrhoden"
 msgstr "Appenzello Esterno"
 
 #. Name for CH-BE
-#, fuzzy
-#| msgid "Bern"
 msgid "Berne"
 msgstr "Berna"
 
@@ -2615,10 +2614,8 @@ msgid "Basel-Stadt"
 msgstr "Basilea Città"
 
 #. Name for CH-FR
-#, fuzzy
-#| msgid "Maribor"
 msgid "Fribourg"
-msgstr "Maribor"
+msgstr "Friburgo"
 
 #. Name for CH-GE
 msgid "Genève"

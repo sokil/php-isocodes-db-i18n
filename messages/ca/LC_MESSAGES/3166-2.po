@@ -8,7 +8,7 @@
 # Alastair McKinstry <mckinstry@debian.org>, 2001.
 # Softcatalà <info@softcatala.org>, 2001.
 # Joan Montané <joan@montane.cat>, 2019.
-# Quentin PAGÈS <quentinantonin@free.fr>, 2020.
+# Quentin PAGÈS <quentinantonin@free.fr>, 2020, 2025.
 # "Josep M. Ferrer" <txemaq@gmail.com>, 2024.
 msgid ""
 msgstr ""
@@ -16,8 +16,8 @@ msgstr ""
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2023-12-18 14:43+0100\n"
-"PO-Revision-Date: 2024-11-18 14:00+0000\n"
-"Last-Translator: \"Josep M. Ferrer\" <txemaq@gmail.com>\n"
+"PO-Revision-Date: 2025-08-23 20:42+0000\n"
+"Last-Translator: Quentin PAGÈS <quentinantonin@free.fr>\n"
 "Language-Team: Catalan <https://hosted.weblate.org/projects/iso-codes/"
 "iso-3166-2/ca/>\n"
 "Language: ca\n"
@@ -25,7 +25,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.9-dev\n"
+"X-Generator: Weblate 5.13\n"
 
 #. Name for AD-02
 msgid "Canillo"
@@ -6203,9 +6203,8 @@ msgid "Saint-Martin"
 msgstr "San Marino"
 
 #. Name for FR-NAQ
-#, fuzzy
 msgid "Nouvelle-Aquitaine"
-msgstr "Cap"
+msgstr "Aquitània nova"
 
 #. Name for FR-NC
 msgid "Nouvelle-Calédonie"

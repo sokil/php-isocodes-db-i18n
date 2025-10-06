@@ -17,14 +17,15 @@
 # Christophe <2cadz@adiczion.net>, 2020.
 # verdy_p <verdyp@gmail.com>, 2022.
 # un_pogaz <un_pogaz@users.noreply.hosted.weblate.org>, 2023.
+# Thibault Gattolliat <gattolliat.thibault@gmail.com>, 2025.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-2\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2023-12-18 14:43+0100\n"
-"PO-Revision-Date: 2023-07-17 10:08+0000\n"
-"Last-Translator: un_pogaz <un_pogaz@users.noreply.hosted.weblate.org>\n"
+"PO-Revision-Date: 2025-07-08 14:05+0000\n"
+"Last-Translator: Thibault Gattolliat <gattolliat.thibault@gmail.com>\n"
 "Language-Team: French <https://hosted.weblate.org/projects/iso-codes/"
 "iso-3166-2/fr/>\n"
 "Language: fr\n"
@@ -32,7 +33,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.0-dev\n"
+"X-Generator: Weblate 5.13-dev\n"
 
 #. Name for AD-02
 msgid "Canillo"
@@ -2573,10 +2574,8 @@ msgid "Appenzell Ausserrhoden"
 msgstr "Appenzell Rhodes-Extérieures"
 
 #. Name for CH-BE
-#, fuzzy
-#| msgid "Bern"
 msgid "Berne"
-msgstr "Berne"
+msgstr "Bern"
 
 #. Name for CH-BL
 msgid "Basel-Landschaft"
@@ -2587,10 +2586,8 @@ msgid "Basel-Stadt"
 msgstr "Bâle-Ville"
 
 #. Name for CH-FR
-#, fuzzy
-#| msgid "Maribor"
 msgid "Fribourg"
-msgstr "Maribor"
+msgstr "Fribourg"
 
 #. Name for CH-GE
 msgid "Genève"
