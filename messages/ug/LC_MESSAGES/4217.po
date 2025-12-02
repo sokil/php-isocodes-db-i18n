@@ -1,17 +1,16 @@
-# Translation of ISO 4217 to LANGUAGE
+# Translation of ISO 4217 to Uighur; Uyghur
 # Codes for the representation of currencies
-#
-# This file is distributed under the same license as the iso-codes package.
-#
-# Copyright ©
-# Abduqadir Abliz <sahranbay@gmail.com>, 2025.
+# .
+# SPDX-License-Identifier: LGPL-2.1-or-later
+# .
+# SPDX-FileCopyrightText: 2025 Abduqadir Abliz <sahranbay@gmail.com>
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_4217\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2022-06-01 15:01+0200\n"
-"PO-Revision-Date: 2025-06-13 22:40+0000\n"
+"POT-Creation-Date: 2025-11-18 11:09+0100\n"
+"PO-Revision-Date: 2025-10-20 04:50+0000\n"
 "Last-Translator: Abduqadir Abliz <sahranbay@gmail.com>\n"
 "Language-Team: Uyghur <https://hosted.weblate.org/projects/iso-codes/"
 "iso-4217/ug/>\n"
@@ -20,7 +19,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.12-dev\n"
+"X-Generator: Weblate 5.14-dev\n"
 
 #. Name for AED
 msgid "UAE Dirham"
@@ -37,10 +36,6 @@ msgstr "لېكى"
 #. Name for AMD
 msgid "Armenian Dram"
 msgstr "ئەرمېنىيە دىرامى"
-
-#. Name for ANG
-msgid "Netherlands Antillean Guilder"
-msgstr "گوللاندىيەگە قاراشلىق ئانتىللېن گۇلدېنى"
 
 #. Name for AOA
 msgid "Kwanza"
@@ -170,10 +165,6 @@ msgstr "رىيال قىممەت بىرلىكى"
 msgid "Costa Rican Colon"
 msgstr "كوستارىكا كولونى"
 
-#. Name for CUC
-msgid "Peso Convertible"
-msgstr "ئالماشتۇرۇشچان پېسو"
-
 #. Name for CUP
 msgid "Cuban Peso"
 msgstr "كۇبا پېسوسى"
@@ -265,10 +256,6 @@ msgstr "خوڭكوڭ (شياڭگاڭ) دوللىرى"
 #. Name for HNL
 msgid "Lempira"
 msgstr "لېمپىرا"
-
-#. Name for HRK
-msgid "Kuna"
-msgstr "كۇنا"
 
 #. Name for HTG
 msgid "Gourde"
@@ -538,7 +525,7 @@ msgstr "سىنگاپور دوللىرى"
 msgid "Saint Helena Pound"
 msgstr "ساينىت-ھېلېنا پوندى"
 
-#. Name for SLE, Name for SLL
+#. Name for SLE
 msgid "Leone"
 msgstr "لېئون"
 
@@ -654,6 +641,10 @@ msgstr "ۋاتۇ"
 msgid "Tala"
 msgstr "تالا"
 
+#. Name for XAD
+msgid "Arab Accounting Dinar"
+msgstr "ئەرەب بوغالتىرلىق دىنارى"
+
 #. Name for XAF
 msgid "CFA Franc BEAC"
 msgstr "ئافرىقا قىتئەسى پۇل-مۇئامىلە ئىتتىپاقى فرانكى"
@@ -685,6 +676,10 @@ msgstr "ياۋروپا زايوم بازىرى ھېسابات بىرلىكى 17 
 #. Name for XCD
 msgid "East Caribbean Dollar"
 msgstr "شەرقىي كارىب دوللىرى"
+
+#. Name for XCG
+msgid "Caribbean Guilder"
+msgstr "كارىب گۇلدېنى"
 
 #. Name for XDR
 msgid "SDR (Special Drawing Right)"
@@ -734,6 +729,6 @@ msgstr "راند"
 msgid "Zambian Kwacha"
 msgstr "مالاۋى كۋاچاسى"
 
-#. Name for ZWL
-msgid "Zimbabwe Dollar"
-msgstr "زىمبابۋې دوللىرى"
+#. Name for ZWG
+msgid "Zimbabwe Gold"
+msgstr "زىمبابۋې ئالتۇنى"

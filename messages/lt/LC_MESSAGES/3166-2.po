@@ -2,19 +2,18 @@
 # Codes for the representation of names of countries and their subdivisions
 # Part 2: Country subdivision codes
 # .
-# This file is distributed under the same license as the iso-codes package.
+# SPDX-License-Identifier: LGPL-2.1-or-later
 # .
-# Copyright ©
-# Ričardas Čepas <rch@richard.eu.org>
-# Alastair McKinstry <mckinstry@debian.org>, 2002.
-# Kęstutis Biliūnas <kebil@kaunas.init.lt>, 2007-2009.
-# Kornelijus Tvarijanavičius <kornelijus@tvaria.com>, 2023.
+# SPDX-FileCopyrightText: Ričardas Čepas <rch@richard.eu.org>
+# SPDX-FileCopyrightText: 2002 Alastair McKinstry <mckinstry@debian.org>
+# SPDX-FileCopyrightText: 2007-2009 Kęstutis Biliūnas <kebil@kaunas.init.lt>
+# SPDX-FileCopyrightText: 2023 Kornelijus Tvarijanavičius <kornelijus@tvaria.com>
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-2\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2023-12-18 14:43+0100\n"
+"POT-Creation-Date: 2025-11-18 11:09+0100\n"
 "PO-Revision-Date: 2023-01-10 18:51+0000\n"
 "Last-Translator: Kornelijus Tvarijanavičius <kornelijus@tvaria.com>\n"
 "Language-Team: Lithuanian <https://hosted.weblate.org/projects/iso-codes/"
@@ -1856,7 +1855,7 @@ msgstr "Akrė"
 msgid "Alagoas"
 msgstr "Alagoasas"
 
-#. Name for BR-AM, Name for CO-AMA, Name for VE-Z
+#. Name for BR-AM, Name for CO-AMA, Name for PE-AMA, Name for VE-Z
 msgid "Amazonas"
 msgstr "Amazonija"
 
@@ -2269,20 +2268,20 @@ msgid "Bresckaja voblasć"
 msgstr "Bresto sritis"
 
 #. Name for BY-HM
-msgid "Gorod Minsk"
+msgid "Horad Minsk"
 msgstr ""
 
 #. Name for BY-HO
 #, fuzzy
-#| msgid "Tomskaya oblast'"
-msgid "Gomel'skaja oblast'"
-msgstr "Tomsko sritis"
+#| msgid "Vicebskaja voblasc'"
+msgid "Homieĺskaja voblasć"
+msgstr "Vitebsko sritis"
 
 #. Name for BY-HR
 #, fuzzy
-#| msgid "Voronezhskaya oblast'"
-msgid "Grodnenskaja oblast'"
-msgstr "Voronežo sritis"
+#| msgid "Brèsckaja voblasc'"
+msgid "Hrodzienskaja voblasć"
+msgstr "Bresto sritis"
 
 #. Name for BY-MA
 #, fuzzy
@@ -2293,7 +2292,7 @@ msgstr "Mogiliavo sritis"
 #. Name for BY-MI
 #, fuzzy
 #| msgid "Minskaja voblasc'"
-msgid "Minskaja oblast'"
+msgid "Minskaja voblasć"
 msgstr "Minsko sritis"
 
 #. Name for BY-VI
@@ -3423,11 +3422,11 @@ msgid "Ammochostos"
 msgstr ""
 
 #. Name for CY-05
-msgid "Baf"
+msgid "Pafos"
 msgstr ""
 
 #. Name for CY-06
-msgid "Girne"
+msgid "Keryneia"
 msgstr ""
 
 #. Name for CZ-10
@@ -4949,8 +4948,9 @@ msgid "Ansabā"
 msgstr ""
 
 #. Name for ER-DK
-msgid "Debubawi K’eyyĭḥ Baḥri"
-msgstr ""
+#, fuzzy
+msgid "Janūbī al Baḩrī al Aḩmar"
+msgstr "Hizam al Achdaro savivaldybė"
 
 #. Name for ER-DU, Name for IL-D
 #, fuzzy
@@ -4958,7 +4958,7 @@ msgid "Al Janūbī"
 msgstr "Džfaros savivaldybė"
 
 #. Name for ER-GB
-msgid "Gash-Barka"
+msgid "Qāsh-Barkah"
 msgstr ""
 
 #. Name for ER-MA, Name for IL-M
@@ -4966,13 +4966,14 @@ msgid "Al Awsaţ"
 msgstr ""
 
 #. Name for ER-SK
-msgid "Semienawi K’eyyĭḥ Baḥri"
-msgstr ""
+#, fuzzy
+msgid "Shimālī al Baḩrī al Aḩmar"
+msgstr "Hizam al Achdaro savivaldybė"
 
 #. Name for ES-A
 #, fuzzy
 #| msgid "Alicante"
-msgid "Alacant*"
+msgid "Alicante"
 msgstr "Alikantės provincija"
 
 #. Name for ES-AB
@@ -5056,7 +5057,7 @@ msgstr "Siudad Realio provincija"
 #. Name for ES-CS
 #, fuzzy
 #| msgid "Castellón"
-msgid "Castelló*"
+msgid "Castellón"
 msgstr "Kasteljono provincija"
 
 #. Name for ES-CT
@@ -5147,13 +5148,14 @@ msgid "Murcia"
 msgstr "Mursija"
 
 #. Name for ES-NA
-msgid "Nafarroa*"
+msgid "Navarra"
 msgstr ""
 
 #. Name for ES-NC
 #, fuzzy
-msgid "Nafarroako Foru Komunitatea*"
-msgstr "Navara"
+#| msgid "Madrid, Comunidad de"
+msgid "Navarra, Comunidad Foral de"
+msgstr "Madrido regionas"
 
 #. Name for ES-O
 msgid "Asturias"
@@ -5176,8 +5178,10 @@ msgid "Pontevedra [Pontevedra]"
 msgstr "Pontevedros provincija"
 
 #. Name for ES-PV
-msgid "Euskal Herria"
-msgstr ""
+#, fuzzy
+#| msgid "Pasco"
+msgid "País Vasco"
+msgstr "Pasko regionas"
 
 #. Name for ES-SA
 msgid "Salamanca"
@@ -5230,9 +5234,9 @@ msgstr "Valensijos regionas"
 
 #. Name for ES-VI
 #, fuzzy
-#| msgid "Taraba"
-msgid "Araba*"
-msgstr "Tarabos valstija"
+#| msgid "Jihlava"
+msgid "Álava"
+msgstr "Jihlava"
 
 #. Name for ES-Z
 msgid "Zaragoza"
@@ -8212,7 +8216,7 @@ msgid "Wexford"
 msgstr "Veksfordo grafystė"
 
 #. Name for IL-HA
-msgid "H̱efa"
+msgid "Ḩayfā"
 msgstr ""
 
 #. Name for IL-JM
@@ -8438,8 +8442,9 @@ msgid "Kirkūk"
 msgstr "Kirovas"
 
 #. Name for IQ-KR
-msgid "Herêm-î Kurdistan"
-msgstr ""
+#, fuzzy
+msgid "Iqlīm Kūrdistān"
+msgstr "Nurestanas"
 
 #. Name for IQ-MA
 msgid "Maysān"
@@ -8899,7 +8904,7 @@ msgstr "Pjemontas"
 #. Name for IT-23
 #, fuzzy
 #| msgid "Valle d'Aosta"
-msgid "Val d'Aoste"
+msgid "Valle d'Aosta"
 msgstr "Aostos slėnis"
 
 #. Name for IT-25
@@ -9903,10 +9908,8 @@ msgid "Batken"
 msgstr "Batkeno sritis"
 
 #. Name for KG-C
-#, fuzzy
-#| msgid "Kurskaya oblast'"
-msgid "Chuyskaya oblast'"
-msgstr "Kursko sritis"
+msgid "Chüy"
+msgstr ""
 
 #. Name for KG-GB
 #, fuzzy
@@ -9915,14 +9918,14 @@ msgid "Bishkek Shaary"
 msgstr "Biškekas"
 
 #. Name for KG-GO
-msgid "Gorod Osh"
-msgstr ""
+#, fuzzy
+#| msgid "Bishkek"
+msgid "Osh Shaary"
+msgstr "Biškekas"
 
 #. Name for KG-J
-#, fuzzy
-#| msgid "Samaraskaya oblast'"
-msgid "Dzhalal-Abadskaya oblast'"
-msgstr "Samaros sritis"
+msgid "Jalal-Abad"
+msgstr ""
 
 #. Name for KG-N
 msgid "Naryn"
@@ -9937,10 +9940,8 @@ msgid "Talas"
 msgstr "Talaso sritis"
 
 #. Name for KG-Y
-#, fuzzy
-#| msgid "Tul'skaya oblast'"
-msgid "Issyk-Kul'skaja oblast'"
-msgstr "Tulos sritis"
+msgid "Ysyk-Köl"
+msgstr ""
 
 #. Name for KH-1
 msgid "Banteay Mean Choăy"
@@ -9983,7 +9984,7 @@ msgid "Preah Sihanouk"
 msgstr ""
 
 #. Name for KH-19
-msgid "Stoĕng Trêng"
+msgid "Stueng Traeng"
 msgstr ""
 
 #. Name for KH-2
@@ -10144,31 +10145,32 @@ msgstr "Nevis"
 
 #. Name for KP-01
 #, fuzzy
-msgid "P'yǒngyang"
+msgid "Phyeongyang"
 msgstr "Pchenjanas"
 
 #. Name for KP-02
 #, fuzzy
-msgid "P'yǒngan-namdo"
-msgstr "Pietų Pchenjano provincija"
+#| msgid "Gyeongsangnamdo"
+msgid "Phyeongannamto"
+msgstr "Pietų Kiongsang provincija"
 
 #. Name for KP-03
 #, fuzzy
-msgid "P'yǒngan-bukto"
+msgid "Phyeonganpukto"
 msgstr "Šiaurės Pchenjano provincija"
 
 #. Name for KP-04
-msgid "Chagang-do"
-msgstr "Čagango provincija"
+msgid "Jakangto"
+msgstr ""
 
 #. Name for KP-05
 #, fuzzy
-msgid "Hwanghae-namdo"
+msgid "Hwanghainamto"
 msgstr "Pietų Hvanghės provincija"
 
 #. Name for KP-06
 #, fuzzy
-msgid "Hwanghae-bukto"
+msgid "Hwanghaipukto"
 msgstr "Šiaurės Hvanghės provincija"
 
 #. Name for KP-07
@@ -10179,18 +10181,19 @@ msgstr "# Kangvon provincija"
 
 #. Name for KP-08
 #, fuzzy
-msgid "Hamgyǒng-namdo"
-msgstr "Pietų Hamgiongo provincija"
+#| msgid "Gyeongsangnamdo"
+msgid "Hamkyeongnamto"
+msgstr "Pietų Kiongsang provincija"
 
 #. Name for KP-09
 #, fuzzy
-msgid "Hamgyǒng-bukto"
+msgid "Hamkyeongpukto"
 msgstr "Šiaurės Hamgiongo provincija"
 
 #. Name for KP-10
 #, fuzzy
 #| msgid "Yanggang-do"
-msgid "Ryanggang-do"
+msgid "Ryangkangto"
 msgstr "Jangango provincija"
 
 #. Name for KP-13
@@ -10328,33 +10331,27 @@ msgstr ""
 
 #. Name for KZ-10
 #, fuzzy
-#| msgid "Astrakhanskaya oblast'"
-msgid "Abajskaja oblast’"
-msgstr "Astrachanės sritis"
+msgid "Abay oblysy"
+msgstr "Almatos sritis"
 
 #. Name for KZ-11
 #, fuzzy
-#| msgid "Smolenskaya oblast'"
-msgid "Akmolinskaja oblast'"
-msgstr "Smolensko sritis"
+msgid "Aqmola oblysy"
+msgstr "Almatos sritis"
 
 #. Name for KZ-15
-#, fuzzy
-#| msgid "Irkutiskaya oblast'"
-msgid "Aktjubinskaja oblast'"
-msgstr "Irkutsko sritis"
+msgid "Aqtöbe oblysy"
+msgstr ""
 
 #. Name for KZ-19
 #, fuzzy
-#| msgid "Murmanskaya oblast'"
-msgid "Almatinskaja oblast'"
-msgstr "Murmansko sritis"
+msgid "Almaty oblysy"
+msgstr "Almatos sritis"
 
 #. Name for KZ-23
 #, fuzzy
-#| msgid "Astrakhanskaya oblast'"
-msgid "Atyrauskaja oblast'"
-msgstr "Astrachanės sritis"
+msgid "Atyraū oblysy"
+msgstr "Mangyštau sritis"
 
 #. Name for KZ-27
 #, fuzzy
@@ -10373,21 +10370,19 @@ msgstr "Mangyštau sritis"
 
 #. Name for KZ-35
 #, fuzzy
-#| msgid "Kurganskaya oblast'"
-msgid "Karagandinskaja oblast'"
-msgstr "Kurgano sritis"
+msgid "Qaraghandy oblysy"
+msgstr "Almatos sritis"
 
 #. Name for KZ-39
 #, fuzzy
-#| msgid "Kostromskaya oblast'"
-msgid "Kostanajskaja oblast'"
-msgstr "Kostromos sritis"
+msgid "Qostanay oblysy"
+msgstr "Mangyštau sritis"
 
 #. Name for KZ-43
 #, fuzzy
-#| msgid "Belgorodskaya oblast'"
-msgid "Kyzylordinskaja oblast'"
-msgstr "Belgorodo sritis"
+#| msgid "Pavlodar oblysy"
+msgid "Qyzylorda oblysy"
+msgstr "Pavlodaro sritis"
 
 #. Name for KZ-47
 #, fuzzy
@@ -10400,21 +10395,19 @@ msgstr "Pavlodaro sritis"
 
 #. Name for KZ-59
 #, fuzzy
-#| msgid "Sakhalinskaya oblast'"
-msgid "Severo-Kazahstanskaja oblast'"
-msgstr "Sachalino sritis"
+msgid "Soltüstik Qazaqstan oblysy"
+msgstr "Mangyštau sritis"
 
 #. Name for KZ-61
 #, fuzzy
 #| msgid "Kurskaya oblast'"
-msgid "Turkestankaya oblast'"
+msgid "Türkistan oblysy"
 msgstr "Kursko sritis"
 
 #. Name for KZ-62
 #, fuzzy
-#| msgid "Astrakhanskaya oblast'"
-msgid "Ulytauskaja oblast’"
-msgstr "Astrachanės sritis"
+msgid "Ulytaū oblysy"
+msgstr "Mangyštau sritis"
 
 #. Name for KZ-63
 #, fuzzy
@@ -10510,7 +10503,7 @@ msgid "Xaisômboun"
 msgstr ""
 
 #. Name for LB-AK
-msgid "Aakkâr"
+msgid "‘Akkār"
 msgstr ""
 
 #. Name for LB-AS
@@ -10523,7 +10516,7 @@ msgid "Bayrūt"
 msgstr ""
 
 #. Name for LB-BH
-msgid "Baalbek-Hermel"
+msgid "B‘alabak-Al Hirmil"
 msgstr ""
 
 #. Name for LB-BI
@@ -14194,11 +14187,11 @@ msgstr "Vesturlandas"
 
 #. Name for NO-50
 #, fuzzy
-msgid "Trööndelage"
+msgid "Trøndelag"
 msgstr "Pietų Trendelagas"
 
 #. Name for NO-54
-msgid "Romssa ja Finnmárkku"
+msgid "Troms og Finnmark"
 msgstr ""
 
 #. Name for NP-P1
@@ -14479,17 +14472,13 @@ msgstr ""
 msgid "Naso Tjër Di"
 msgstr ""
 
-#. Name for PE-AMA
-msgid "Amarumayu"
-msgstr ""
-
 #. Name for PE-ANC
 msgid "Ancash"
 msgstr "Ankašo departamentas"
 
 #. Name for PE-APU
 #, fuzzy
-msgid "Apurimaq"
+msgid "Apurímac"
 msgstr "Apurimako departamentas"
 
 #. Name for PE-ARE
@@ -14526,7 +14515,7 @@ msgid "Ica"
 msgstr "Ikos regionas"
 
 #. Name for PE-JUN
-msgid "Hunin"
+msgid "Junín"
 msgstr ""
 
 #. Name for PE-LAL, Name for SV-LI
@@ -14542,8 +14531,10 @@ msgid "Lima"
 msgstr "Lima"
 
 #. Name for PE-LMA
-msgid "Lima hatun llaqta"
-msgstr ""
+#, fuzzy
+#| msgid "Región Metropolitana de Santiago"
+msgid "Municipalidad Metropolitana de Lima"
+msgstr "Santjago metropolinis regionas"
 
 #. Name for PE-LOR
 msgid "Loreto"
@@ -14572,7 +14563,7 @@ msgstr "Pūno regionas"
 #. Name for PE-SAM
 #, fuzzy
 #| msgid "San Marino"
-msgid "San Martin"
+msgid "San Martín"
 msgstr "San Marinas"
 
 #. Name for PE-TAC
@@ -15797,37 +15788,37 @@ msgstr "Voivodina"
 #. Name for RU-AD
 #, fuzzy
 #| msgid "Adygeya, Respublika"
-msgid "Adygeja, Respublika"
+msgid "Adygeya, Respublika"
 msgstr "Adygėja, Respublika"
 
 #. Name for RU-AL
 #, fuzzy
 #| msgid "Altay, Respublika"
-msgid "Altaj, Respublika"
+msgid "Altay, Respublika"
 msgstr "Altajus, Respublika"
 
 #. Name for RU-ALT
 #, fuzzy
 #| msgid "Altayskiy kray"
-msgid "Altajskij kraj"
+msgid "Altayskiy kray"
 msgstr "Altajaus kraštas"
 
 #. Name for RU-AMU
 #, fuzzy
 #| msgid "Amurskaya oblast'"
-msgid "Amurskaja oblast'"
+msgid "Amurskaya oblast'"
 msgstr "Amūro sritis"
 
 #. Name for RU-ARK
 #, fuzzy
 #| msgid "Arkhangel'skaya oblast'"
-msgid "Arhangel'skaja oblast'"
+msgid "Arkhangel'skaya oblast'"
 msgstr "Archangelsko sritis"
 
 #. Name for RU-AST
 #, fuzzy
 #| msgid "Astrakhanskaya oblast'"
-msgid "Astrahanskaja oblast'"
+msgid "Astrakhanskaya oblast'"
 msgstr "Astrachanės sritis"
 
 #. Name for RU-BA
@@ -15837,19 +15828,19 @@ msgstr "Baškirija, Respublika"
 #. Name for RU-BEL
 #, fuzzy
 #| msgid "Belgorodskaya oblast'"
-msgid "Belgorodskaja oblast'"
+msgid "Belgorodskaya oblast'"
 msgstr "Belgorodo sritis"
 
 #. Name for RU-BRY
 #, fuzzy
 #| msgid "Bryanskaya oblast'"
-msgid "Brjanskaja oblast'"
+msgid "Bryanskaya oblast'"
 msgstr "Briansko sritis"
 
 #. Name for RU-BU
 #, fuzzy
 #| msgid "Buryatiya, Respublika"
-msgid "Burjatija, Respublika"
+msgid "Buryatiya, Respublika"
 msgstr "Buriatija, Respublika"
 
 #. Name for RU-CE
@@ -15881,13 +15872,13 @@ msgstr "Buriatija, Respublika"
 #. Name for RU-IRK
 #, fuzzy
 #| msgid "Irkutiskaya oblast'"
-msgid "Irkutskaja oblast'"
+msgid "Irkutskaya oblast'"
 msgstr "Irkutsko sritis"
 
 #. Name for RU-IVA
 #, fuzzy
 #| msgid "Ivanovskaya oblast'"
-msgid "Ivanovskaja oblast'"
+msgid "Ivanovskaya oblast'"
 msgstr "Ivanovo sritis"
 
 #. Name for RU-KAM
@@ -15897,7 +15888,7 @@ msgstr "Kamčiatkos kraštas"
 #. Name for RU-KB
 #, fuzzy
 #| msgid "Kabardino-Balkarskaya Respublika"
-msgid "Kabardino-Balkarskaja Respublika"
+msgid "Kabardino-Balkarskaya Respublika"
 msgstr "Kabarda-Balkarijos Respublika"
 
 #. Name for RU-KC
@@ -15907,55 +15898,55 @@ msgstr "Karačiajų Čerkesijos Respublika"
 #. Name for RU-KDA
 #, fuzzy
 #| msgid "Krasnodarskiy kray"
-msgid "Krasnodarskij kraj"
+msgid "Krasnodarskiy kray"
 msgstr "Krasnodaro kraštas"
 
 #. Name for RU-KEM
 #, fuzzy
 #| msgid "Kemerovskaya oblast'"
-msgid "Kemerovskaja oblast'"
+msgid "Kemerovskaya oblast'"
 msgstr "Kemerovo sritis"
 
 #. Name for RU-KGD
 #, fuzzy
 #| msgid "Kaliningradskaya oblast'"
-msgid "Kaliningradskaja oblast'"
+msgid "Kaliningradskaya oblast'"
 msgstr "Kaliningrado sritis"
 
 #. Name for RU-KGN
 #, fuzzy
 #| msgid "Kurganskaya oblast'"
-msgid "Kurganskaja oblast'"
+msgid "Kurganskaya oblast'"
 msgstr "Kurgano sritis"
 
 #. Name for RU-KHA
 #, fuzzy
 #| msgid "Khabarovskiy kray"
-msgid "Habarovskij kraj"
+msgid "Khabarovskiy kray"
 msgstr "Chabarovsko kraštas"
 
 #. Name for RU-KHM
 #, fuzzy
 #| msgid "Khanty-Mansiysky avtonomnyy okrug-Yugra"
-msgid "Hanty-Mansijskij avtonomnyj okrug"
+msgid "Khanty-Mansiyskiy avtonomnyy okrug"
 msgstr "Chantų-mansių autonominė apygarda"
 
 #. Name for RU-KIR
 #, fuzzy
 #| msgid "Kirovskaya oblast'"
-msgid "Kirovskaja oblast'"
+msgid "Kirovskaya oblast'"
 msgstr "Kirovo sritis"
 
 #. Name for RU-KK
 #, fuzzy
 #| msgid "Khakasiya, Respublika"
-msgid "Hakasija, Respublika"
+msgid "Khakasiya, Respublika"
 msgstr "Chakasija, Respublika"
 
 #. Name for RU-KL
 #, fuzzy
 #| msgid "Kalmykiya, Respublika"
-msgid "Kalmykija, Respublika"
+msgid "Kalmykiya, Respublika"
 msgstr "Kalmukija, Respublika"
 
 #. Name for RU-KLU
@@ -15969,61 +15960,61 @@ msgstr "Komija, Respublika"
 #. Name for RU-KOS
 #, fuzzy
 #| msgid "Kostromskaya oblast'"
-msgid "Kostromskaja oblast'"
+msgid "Kostromskaya oblast'"
 msgstr "Kostromos sritis"
 
 #. Name for RU-KR
 #, fuzzy
 #| msgid "Kareliya, Respublika"
-msgid "Karelija, Respublika"
+msgid "Kareliya, Respublika"
 msgstr "Karelija, Respublika"
 
 #. Name for RU-KRS
 #, fuzzy
 #| msgid "Kurskaya oblast'"
-msgid "Kurskaja oblast'"
+msgid "Kurskaya oblast'"
 msgstr "Kursko sritis"
 
 #. Name for RU-KYA
 #, fuzzy
 #| msgid "Krasnodarskiy kray"
-msgid "Krasnojarskij kraj"
+msgid "Krasnoyarskiy kray"
 msgstr "Krasnodaro kraštas"
 
 #. Name for RU-LEN
 #, fuzzy
 #| msgid "Leningradskaya oblast'"
-msgid "Leningradskaja oblast'"
+msgid "Leningradskaya oblast'"
 msgstr "Leningrado sritis"
 
 #. Name for RU-LIP
 #, fuzzy
 #| msgid "Lipetskaya oblast'"
-msgid "Lipeckaja oblast'"
+msgid "Lipetskaya oblast'"
 msgstr "Lipecko sritis"
 
 #. Name for RU-MAG
 #, fuzzy
 #| msgid "Magadanskaya oblast'"
-msgid "Magadanskaja oblast'"
+msgid "Magadanskaya oblast'"
 msgstr "Magadano sritis"
 
 #. Name for RU-ME
 #, fuzzy
 #| msgid "Mariy El, Respublika"
-msgid "Marij Èl, Respublika"
+msgid "Mariy El, Respublika"
 msgstr "Marij El, Respublika"
 
 #. Name for RU-MO
 #, fuzzy
 #| msgid "Mordoviya, Respublika"
-msgid "Mordovija, Respublika"
+msgid "Mordoviya, Respublika"
 msgstr "Mordvija, Respublika"
 
 #. Name for RU-MOS
 #, fuzzy
 #| msgid "Moskovskaya oblast'"
-msgid "Moskovskaja oblast'"
+msgid "Moskovskaya oblast'"
 msgstr "Maskvos sritis"
 
 #. Name for RU-MOW
@@ -16033,19 +16024,19 @@ msgstr "Maskva"
 #. Name for RU-MUR
 #, fuzzy
 #| msgid "Murmanskaya oblast'"
-msgid "Murmanskaja oblast'"
+msgid "Murmanskaya oblast'"
 msgstr "Murmansko sritis"
 
 #. Name for RU-NEN
 #, fuzzy
 #| msgid "Nenetskiy avtonomnyy okrug"
-msgid "Neneckij avtonomnyj okrug"
+msgid "Nenetskiy avtonomnyy okrug"
 msgstr "Nencų autonominė apygarda"
 
 #. Name for RU-NGR
 #, fuzzy
 #| msgid "Novgorodskaya oblast'"
-msgid "Novgorodskaja oblast'"
+msgid "Novgorodskaya oblast'"
 msgstr "Novgorodo sritis"
 
 #. Name for RU-NIZ
@@ -16055,61 +16046,61 @@ msgstr "Žemutinio Naugardo sritis"
 #. Name for RU-NVS
 #, fuzzy
 #| msgid "Novosibirskaya oblast'"
-msgid "Novosibirskaja oblast'"
+msgid "Novosibirskaya oblast'"
 msgstr "Novosibirsko sritis"
 
 #. Name for RU-OMS
 #, fuzzy
 #| msgid "Omskaya oblast'"
-msgid "Omskaja oblast'"
+msgid "Omskaya oblast'"
 msgstr "Omsko sritis"
 
 #. Name for RU-ORE
 #, fuzzy
 #| msgid "Orenburgskaya oblast'"
-msgid "Orenburgskaja oblast'"
+msgid "Orenburgskaya oblast'"
 msgstr "Orenburgo sritis"
 
 #. Name for RU-ORL
 #, fuzzy
 #| msgid "Orlovskaya oblast'"
-msgid "Orlovskaja oblast'"
+msgid "Orlovskaya oblast'"
 msgstr "Oriolo sritis"
 
 #. Name for RU-PER
 #, fuzzy
 #| msgid "Permskiy kray"
-msgid "Permskij kraj"
+msgid "Permskiy kray"
 msgstr "Permės kraštas"
 
 #. Name for RU-PNZ
 #, fuzzy
 #| msgid "Penzenskaya oblast'"
-msgid "Penzenskaja oblast'"
+msgid "Penzenskaya oblast'"
 msgstr "Penzos sritis"
 
 #. Name for RU-PRI
 #, fuzzy
 #| msgid "Primorskiy kray"
-msgid "Primorskij kraj"
+msgid "Primorskiy kray"
 msgstr "Primorės kraštas"
 
 #. Name for RU-PSK
 #, fuzzy
 #| msgid "Pskovskaya oblast'"
-msgid "Pskovskaja oblast'"
+msgid "Pskovskaya oblast'"
 msgstr "Pskovo sritis"
 
 #. Name for RU-ROS
 #, fuzzy
 #| msgid "Rostovskaya oblast'"
-msgid "Rostovskaja oblast'"
+msgid "Rostovskaya oblast'"
 msgstr "Rostovo sritis"
 
 #. Name for RU-RYA
 #, fuzzy
 #| msgid "Ryazanskaya oblast'"
-msgid "Rjazanskaja oblast'"
+msgid "Ryazanskaya oblast'"
 msgstr "Riazanės sritis"
 
 #. Name for RU-SA
@@ -16121,31 +16112,31 @@ msgstr "Altajus, Respublika"
 #. Name for RU-SAK
 #, fuzzy
 #| msgid "Sakhalinskaya oblast'"
-msgid "Sahalinskaja oblast'"
+msgid "Sakhalinskaya oblast'"
 msgstr "Sachalino sritis"
 
 #. Name for RU-SAM
 #, fuzzy
 #| msgid "Samaraskaya oblast'"
-msgid "Samarskaja oblast'"
+msgid "Samarskaya oblast'"
 msgstr "Samaros sritis"
 
 #. Name for RU-SAR
 #, fuzzy
 #| msgid "Saratovskaya oblast'"
-msgid "Saratovskaja oblast'"
+msgid "Saratovskaya oblast'"
 msgstr "Saratovo sritis"
 
 #. Name for RU-SE
 #, fuzzy
 #| msgid "Severnaya Osetiya-Alaniya, Respublika"
-msgid "Severnaja Osetija, Respublika"
+msgid "Severnaya Osetiya, Respublika"
 msgstr "Šiaurės Osetija-Alanija, Respublika"
 
 #. Name for RU-SMO
 #, fuzzy
 #| msgid "Smolenskaya oblast'"
-msgid "Smolenskaja oblast'"
+msgid "Smolenskaya oblast'"
 msgstr "Smolensko sritis"
 
 #. Name for RU-SPE
@@ -16155,13 +16146,13 @@ msgstr "Sankt Peterburgas"
 #. Name for RU-STA
 #, fuzzy
 #| msgid "Stavropol'skiy kray"
-msgid "Stavropol'skij kraj"
+msgid "Stavropol'skiy kray"
 msgstr "Stavropolio kraštas"
 
 #. Name for RU-SVE
 #, fuzzy
 #| msgid "Sverdlovskaya oblast'"
-msgid "Sverdlovskaja oblast'"
+msgid "Sverdlovskaya oblast'"
 msgstr "Sverdlovsko sritis"
 
 #. Name for RU-TA
@@ -16171,25 +16162,25 @@ msgstr "Tatarstanas, Respublika"
 #. Name for RU-TAM
 #, fuzzy
 #| msgid "Tambovskaya oblast'"
-msgid "Tambovskaja oblast'"
+msgid "Tambovskaya oblast'"
 msgstr "Tambovo sritis"
 
 #. Name for RU-TOM
 #, fuzzy
 #| msgid "Tomskaya oblast'"
-msgid "Tomskaja oblast'"
+msgid "Tomskaya oblast'"
 msgstr "Tomsko sritis"
 
 #. Name for RU-TUL
 #, fuzzy
 #| msgid "Tul'skaya oblast'"
-msgid "Tul'skaja oblast'"
+msgid "Tul'skaya oblast'"
 msgstr "Tulos sritis"
 
 #. Name for RU-TVE
 #, fuzzy
 #| msgid "Tverskaya oblast'"
-msgid "Tverskaja oblast'"
+msgid "Tverskaya oblast'"
 msgstr "Tverės sritis"
 
 #. Name for RU-TY
@@ -16201,37 +16192,37 @@ msgstr "Tuva, Respublika"
 #. Name for RU-TYU
 #, fuzzy
 #| msgid "Tyumenskaya oblast'"
-msgid "Tjumenskaja oblast'"
+msgid "Tyumenskaya oblast'"
 msgstr "Tiumenės sritis"
 
 #. Name for RU-UD
 #, fuzzy
 #| msgid "Udmurtskaya Respublika"
-msgid "Udmurtskaja Respublika"
+msgid "Udmurtskaya Respublika"
 msgstr "Udmurtijos Respublika"
 
 #. Name for RU-ULY
 #, fuzzy
 #| msgid "Ul'yanovskaya oblast'"
-msgid "Ul'janovskaja oblast'"
+msgid "Ul'yanovskaya oblast'"
 msgstr "Uljanovsko sritis"
 
 #. Name for RU-VGG
 #, fuzzy
 #| msgid "Volgogradskaya oblast'"
-msgid "Volgogradskaja oblast'"
+msgid "Volgogradskaya oblast'"
 msgstr "Volgogrado sritis"
 
 #. Name for RU-VLA
 #, fuzzy
 #| msgid "Vladimirskaya oblast'"
-msgid "Vladimirskaja oblast'"
+msgid "Vladimirskaya oblast'"
 msgstr "Vladimiro sritis"
 
 #. Name for RU-VLG
 #, fuzzy
 #| msgid "Vologodskaya oblast'"
-msgid "Vologodskaja oblast'"
+msgid "Vologodskaya oblast'"
 msgstr "Vologdos sritis"
 
 #. Name for RU-VOR
@@ -16241,24 +16232,26 @@ msgstr "Voronežo sritis"
 #. Name for RU-YAN
 #, fuzzy
 #| msgid "Yamalo-Nenetskiy avtonomnyy okrug"
-msgid "Jamalo-Neneckij avtonomnyj okrug"
+msgid "Yamalo-Nenetskiy avtonomnyy okrug"
 msgstr "Jamalo nencų autonominė apygarda"
 
 #. Name for RU-YAR
 #, fuzzy
 #| msgid "Yaroslavskaya oblast'"
-msgid "Jaroslavskaja oblast'"
+msgid "Yaroslavskaya oblast'"
 msgstr "Jaroslavlio sritis"
 
 #. Name for RU-YEV
 #, fuzzy
 #| msgid "Yevreyskaya avtonomnaya oblast'"
-msgid "Evrejskaja avtonomnaja oblast'"
+msgid "Yevreyskaya avtonomnaya oblast'"
 msgstr "Žydų autonominė sritis"
 
 #. Name for RU-ZAB
-msgid "Zabajkal'skij kraj"
-msgstr ""
+#, fuzzy
+#| msgid "Kamchatskiy kray"
+msgid "Zabaykal'skiy kray"
+msgstr "Kamčiatkos kraštas"
 
 #. Name for RW-01
 #, fuzzy
@@ -18480,13 +18473,11 @@ msgid "Ermera"
 msgstr "Ermera"
 
 #. Name for TL-LA
-#, fuzzy
-#| msgid "Lautem"
-msgid "Lautein"
-msgstr "Lautein"
+msgid "Lautém"
+msgstr ""
 
 #. Name for TL-LI
-msgid "Likisá"
+msgid "Liquiça"
 msgstr ""
 
 #. Name for TL-MF
@@ -18498,11 +18489,11 @@ msgid "Manatuto"
 msgstr "Manatutu"
 
 #. Name for TL-OE
-msgid "Oekusi-Ambenu"
+msgid "Oé-Cusse Ambeno"
 msgstr ""
 
 #. Name for TL-VI
-msgid "Vikeke"
+msgid "Viqueque"
 msgstr ""
 
 #. Name for TM-A

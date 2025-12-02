@@ -1,16 +1,15 @@
 # Translation of ISO 15924 to Belarusian
 # Codes for the representation of names of scripts
 # .
-# This file is distributed under the same license as the iso-codes package.
+# SPDX-License-Identifier: LGPL-2.1-or-later
 # .
-# Copyright ©
-# Viktar Vauchkevich <victorenator@gmail.com>, 2020.
+# SPDX-FileCopyrightText: 2020 Viktar Vauchkevich <victorenator@gmail.com>
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_15924\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2018-01-17 22:10+0100\n"
+"POT-Creation-Date: 2025-11-18 11:09+0100\n"
 "PO-Revision-Date: 2020-09-24 20:41+0000\n"
 "Last-Translator: Viktar Vauchkevich <victorenator@gmail.com>\n"
 "Language-Team: Belarusian <https://hosted.weblate.org/projects/iso-codes/"
@@ -76,8 +75,14 @@ msgid "Batak"
 msgstr "батакскае"
 
 #. Name for Beng
-msgid "Bengali"
+#, fuzzy
+#| msgid "Bengali"
+msgid "Bengali (Bangla)"
 msgstr "бенгальская"
+
+#. Name for Berf
+msgid "Beria Erfe"
+msgstr ""
 
 #. Name for Bhks
 msgid "Bhaiksuki"
@@ -127,6 +132,14 @@ msgstr "чамскае"
 msgid "Cherokee"
 msgstr "чэрокі"
 
+#. Name for Chis
+msgid "Chisoi"
+msgstr ""
+
+#. Name for Chrs
+msgid "Chorasmian"
+msgstr ""
+
 #. Name for Cirt
 msgid "Cirth"
 msgstr "кіртскае"
@@ -135,9 +148,15 @@ msgstr "кіртскае"
 msgid "Coptic"
 msgstr "копцскае"
 
-#. Name for Cprt
-msgid "Cypriot"
+#. Name for Cpmn
+#, fuzzy
+#| msgid "Cypriot"
+msgid "Cypro-Minoan"
 msgstr "кірпскае"
+
+#. Name for Cprt
+msgid "Cypriot syllabary"
+msgstr ""
 
 #. Name for Cyrl
 msgid "Cyrillic"
@@ -150,6 +169,14 @@ msgstr "кірыліца (стараславянская)"
 #. Name for Deva
 msgid "Devanagari (Nagari)"
 msgstr "дэванагары (нагары)"
+
+#. Name for Diak
+msgid "Dives Akuru"
+msgstr ""
+
+#. Name for Dogr
+msgid "Dogra"
+msgstr ""
 
 #. Name for Dsrt
 msgid "Deseret (Mormon)"
@@ -175,21 +202,39 @@ msgstr "егіпецкае іерагліфічнае"
 msgid "Elbasan"
 msgstr "Эльбасан"
 
+#. Name for Elym
+msgid "Elymaic"
+msgstr ""
+
 #. Name for Ethi
 msgid "Ethiopic (Geʻez)"
 msgstr "эфіопскае (гыыз)"
+
+#. Name for Gara
+msgid "Garay"
+msgstr ""
 
 #. Name for Geok
 msgid "Khutsuri (Asomtavruli and Nuskhuri)"
 msgstr "хуцуры (асомтаврулі і нусхуры)"
 
 #. Name for Geor
-msgid "Georgian (Mkhedruli)"
+#, fuzzy
+#| msgid "Georgian (Mkhedruli)"
+msgid "Georgian (Mkhedruli and Mtavruli)"
 msgstr "грузінскае (мхедрулі)"
 
 #. Name for Glag
 msgid "Glagolitic"
 msgstr "глаголіца"
+
+#. Name for Gong
+msgid "Gunjala Gondi"
+msgstr ""
+
+#. Name for Gonm
+msgid "Masaram Gondi"
+msgstr ""
 
 #. Name for Goth
 msgid "Gothic"
@@ -206,6 +251,10 @@ msgstr "грэцкае"
 #. Name for Gujr
 msgid "Gujarati"
 msgstr "гуджараці"
+
+#. Name for Gukh
+msgid "Gurung Khema"
+msgstr ""
 
 #. Name for Guru
 msgid "Gurmukhi"
@@ -256,6 +305,14 @@ msgstr ""
 msgid "Pahawh Hmong"
 msgstr "пахау хмонг"
 
+#. Name for Hmnp
+msgid "Nyiakeng Puachue Hmong"
+msgstr ""
+
+#. Name for Hntl
+msgid "Han (Traditional variant) with Latin (alias for Hant + Latn)"
+msgstr ""
+
 #. Name for Hrkt
 msgid "Japanese syllabaries (alias for Hiragana + Katakana)"
 msgstr "японскае складовае (псеўданім для хіранані + катакані)"
@@ -296,6 +353,10 @@ msgstr "кайя-лі"
 msgid "Katakana"
 msgstr "катакана"
 
+#. Name for Kawi
+msgid "Kawi"
+msgstr ""
+
 #. Name for Khar
 msgid "Kharoshthi"
 msgstr "кхароштхі"
@@ -327,6 +388,10 @@ msgstr "карэйскае (назва для хантыгаль + хань)"
 #. Name for Kpel
 msgid "Kpelle"
 msgstr "кпела"
+
+#. Name for Krai
+msgid "Kirat Rai"
+msgstr ""
 
 #. Name for Kthi
 msgid "Kaithi"
@@ -392,6 +457,10 @@ msgstr "лідзіскае"
 msgid "Mahajani"
 msgstr "махаянскае"
 
+#. Name for Maka
+msgid "Makasar"
+msgstr ""
+
 #. Name for Mand
 msgid "Mandaic, Mandaean"
 msgstr "мандзейскае"
@@ -407,6 +476,10 @@ msgstr "марчэйскае"
 #. Name for Maya
 msgid "Mayan hieroglyphs"
 msgstr "іерогліфы майя"
+
+#. Name for Medf
+msgid "Medefaidrin (Oberi Okaime, Oberi Ɔkaimɛ)"
+msgstr ""
 
 #. Name for Mend
 msgid "Mende Kikakui"
@@ -452,6 +525,14 @@ msgstr "мултані"
 msgid "Myanmar (Burmese)"
 msgstr "м'янманскае (бірманскае)"
 
+#. Name for Nagm
+msgid "Nag Mundari"
+msgstr ""
+
+#. Name for Nand
+msgid "Nandinagari"
+msgstr ""
+
 #. Name for Narb
 msgid "Old North Arabian (Ancient North Arabian)"
 msgstr "старажытнае паўночнаарабскае"
@@ -464,8 +545,14 @@ msgstr "набатэйскае"
 msgid "Newa, Newar, Newari, Nepāla lipi"
 msgstr "неварскае"
 
+#. Name for Nkdb
+msgid "Naxi Dongba (na²¹ɕi³³ to³³ba²¹, Nakhi Tomba)"
+msgstr ""
+
 #. Name for Nkgb
-msgid "Nakhi Geba ('Na-'Khi ²Ggŏ-¹baw, Naxi Geba)"
+#, fuzzy
+#| msgid "Nakhi Geba ('Na-'Khi ²Ggŏ-¹baw, Naxi Geba)"
+msgid "Naxi Geba (na²¹ɕi³³ gʌ²¹ba²¹, 'Na-'Khi ²Ggŏ-¹baw, Nakhi Geba)"
 msgstr "нахі геба"
 
 #. Name for Nkoo
@@ -484,13 +571,17 @@ msgstr "аргамічнае"
 msgid "Ol Chiki (Ol Cemet’, Ol, Santali)"
 msgstr "ол-чыкі"
 
+#. Name for Onao
+msgid "Ol Onal"
+msgstr ""
+
 #. Name for Orkh
 msgid "Old Turkic, Orkhon Runic"
 msgstr "старажытнацюрскае, архонскае рунічнае"
 
 #. Name for Orya
-msgid "Oriya"
-msgstr "орыя"
+msgid "Oriya (Odia)"
+msgstr ""
 
 #. Name for Osge
 msgid "Osage"
@@ -500,6 +591,10 @@ msgstr "осейдж"
 msgid "Osmanya"
 msgstr "асманскае"
 
+#. Name for Ougr
+msgid "Old Uyghur"
+msgstr ""
+
 #. Name for Palm
 msgid "Palmyrene"
 msgstr "пальмірскае"
@@ -507,6 +602,14 @@ msgstr "пальмірскае"
 #. Name for Pauc
 msgid "Pau Cin Hau"
 msgstr "пау-цін-хау"
+
+#. Name for Pcun
+msgid "Proto-Cuneiform"
+msgstr ""
+
+#. Name for Pelm
+msgid "Proto-Elamite"
+msgstr ""
 
 #. Name for Perm
 msgid "Old Permic"
@@ -544,6 +647,10 @@ msgstr "мяо (полларда)"
 msgid "Inscriptional Parthian"
 msgstr "інскрыпцыйнае парфянскае"
 
+#. Name for Psin
+msgid "Proto-Sinaitic"
+msgstr ""
+
 #. Name for Qaaa
 msgid "Reserved for private use (start)"
 msgstr "зарэзерваванае для прыватнага выкарыстання (пачатак)"
@@ -552,9 +659,17 @@ msgstr "зарэзерваванае для прыватнага выкарыс�
 msgid "Reserved for private use (end)"
 msgstr "зарэзерваванае для прыватнага выкарыстання (канец)"
 
+#. Name for Ranj
+msgid "Ranjana"
+msgstr ""
+
 #. Name for Rjng
 msgid "Rejang (Redjang, Kaganga)"
 msgstr "рэджанг (каганга)"
+
+#. Name for Rohg
+msgid "Hanifi Rohingya"
+msgstr ""
 
 #. Name for Roro
 msgid "Rongorongo"
@@ -580,6 +695,10 @@ msgstr "старажытнае паўднёва-арабскае"
 msgid "Saurashtra"
 msgstr "саураштра"
 
+#. Name for Seal
+msgid "(Small) Seal"
+msgstr ""
+
 #. Name for Sgnw
 msgid "SignWriting"
 msgstr "жэставае"
@@ -592,9 +711,17 @@ msgstr "шавіянскае (шоу)"
 msgid "Sharada, Śāradā"
 msgstr "шарадскае"
 
+#. Name for Shui
+msgid "Shuishu"
+msgstr ""
+
 #. Name for Sidd
 msgid "Siddham, Siddhaṃ, Siddhamātṛkā"
 msgstr "сіддхам"
+
+#. Name for Sidt
+msgid "Sidetic"
+msgstr ""
 
 #. Name for Sind
 msgid "Khudawadi, Sindhi"
@@ -604,13 +731,33 @@ msgstr "худавадзі, сіндхі"
 msgid "Sinhala"
 msgstr "сінгалійскае"
 
+#. Name for Sogd
+#, fuzzy
+#| msgid "Lydian"
+msgid "Sogdian"
+msgstr "лідзіскае"
+
+#. Name for Sogo
+#, fuzzy
+#| msgid "Old South Arabian"
+msgid "Old Sogdian"
+msgstr "старажытнае паўднёва-арабскае"
+
 #. Name for Sora
 msgid "Sora Sompeng"
 msgstr "сора сомпенг"
 
+#. Name for Soyo
+msgid "Soyombo"
+msgstr ""
+
 #. Name for Sund
 msgid "Sundanese"
 msgstr "сунданскае"
+
+#. Name for Sunu
+msgid "Sunuwar"
+msgstr ""
 
 #. Name for Sylo
 msgid "Syloti Nagri"
@@ -660,6 +807,12 @@ msgstr "тангут"
 msgid "Tai Viet"
 msgstr "тайскае в'ет"
 
+#. Name for Tayo
+#, fuzzy
+#| msgid "Tai Le"
+msgid "Tai Yo"
+msgstr "тайскае лы"
+
 #. Name for Telu
 msgid "Telugu"
 msgstr "тэлугу"
@@ -692,6 +845,28 @@ msgstr "тыбецкая"
 msgid "Tirhuta"
 msgstr "ціргута"
 
+#. Name for Tnsa
+#, fuzzy
+#| msgid "Tangut"
+msgid "Tangsa"
+msgstr "тангут"
+
+#. Name for Todr
+msgid "Todhri"
+msgstr ""
+
+#. Name for Tols
+msgid "Tolong Siki"
+msgstr ""
+
+#. Name for Toto
+msgid "Toto"
+msgstr ""
+
+#. Name for Tutg
+msgid "Tulu-Tigalari"
+msgstr ""
+
 #. Name for Ugar
 msgid "Ugaritic"
 msgstr "угарыцкае"
@@ -704,9 +879,17 @@ msgstr "ваі"
 msgid "Visible Speech"
 msgstr "бачная гаворка"
 
+#. Name for Vith
+msgid "Vithkuqi"
+msgstr ""
+
 #. Name for Wara
 msgid "Warang Citi (Varang Kshiti)"
 msgstr "варанг-кшыці"
+
+#. Name for Wcho
+msgid "Wancho"
+msgstr ""
 
 #. Name for Wole
 msgid "Woleai"
@@ -720,9 +903,19 @@ msgstr "стараперсідскае"
 msgid "Cuneiform, Sumero-Akkadian"
 msgstr "клінапіс, шумера-аккадскае"
 
+#. Name for Yezi
+msgid "Yezidi"
+msgstr ""
+
 #. Name for Yiii
 msgid "Yi"
 msgstr "йі"
+
+#. Name for Zanb
+msgid ""
+"Zanabazar Square (Zanabazarin Dörböljin Useg, Xewtee Dörböljin Bicig, "
+"Horizontal Square Script)"
+msgstr ""
 
 #. Name for Zinh
 msgid "Code for inherited script"

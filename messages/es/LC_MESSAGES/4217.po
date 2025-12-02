@@ -1,26 +1,26 @@
 # Translation of ISO 4217 to Spanish; Castilian
 # Codes for the representation of currencies
 # .
-# This file is distributed under the same license as the iso-codes package.
+# SPDX-License-Identifier: LGPL-2.1-or-later
 # .
-# Copyright ©
-# Federico Mena Quintero (Pregonero) <federico@casiopea.quartic.org>, 1998.
-# Pablo Saratxaga <pablo@mandrakesoft.com>, 1999-2000.
-# Germán Poo Caamaño <gpoo@ubiobio.cl>, 2001.
-# Alastair McKinstry <mckinstry@debian.org>, 2002.
-# Javier Fernandez-Sanguino <jfs@debian.org>, 2004-2011.
-# Rodrigo Lledó <rodhos92@gmail.com>, 2019.
-# Guillermo Segovia <gsegovia2018@my.fit.edu>, 2019.
-# Adolfo Jayme Barrientos <fitojb@ubuntu.com>, 2021.
-# Kamborio <Kamborio15@users.noreply.hosted.weblate.org>, 2023.
+# SPDX-FileCopyrightText: 1998 Federico Mena Quintero (Pregonero) <federico@casiopea.quartic.org>
+# SPDX-FileCopyrightText: 1999-2000 Pablo Saratxaga <pablo@mandrakesoft.com>
+# SPDX-FileCopyrightText: 2001 Germán Poo Caamaño <gpoo@ubiobio.cl>
+# SPDX-FileCopyrightText: 2002 Alastair McKinstry <mckinstry@debian.org>
+# SPDX-FileCopyrightText: 2004-2011 Javier Fernandez-Sanguino <jfs@debian.org>
+# SPDX-FileCopyrightText: 2019 Rodrigo Lledó <rodhos92@gmail.com>
+# SPDX-FileCopyrightText: 2019 Guillermo Segovia <gsegovia2018@my.fit.edu>
+# SPDX-FileCopyrightText: 2021 Adolfo Jayme Barrientos <fitojb@ubuntu.com>
+# SPDX-FileCopyrightText: 2023 Kamborio <Kamborio15@users.noreply.hosted.weblate.org>
+# SPDX-FileCopyrightText: 2025 Francisco Serrador <fserrador@gmail.com>
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_4217\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2022-06-01 15:01+0200\n"
-"PO-Revision-Date: 2023-10-13 10:01+0000\n"
-"Last-Translator: Kamborio <Kamborio15@users.noreply.hosted.weblate.org>\n"
+"POT-Creation-Date: 2025-11-18 11:09+0100\n"
+"PO-Revision-Date: 2025-11-17 23:59+0000\n"
+"Last-Translator: Francisco Serrador <fserrador@gmail.com>\n"
 "Language-Team: Spanish <https://hosted.weblate.org/projects/iso-codes/"
 "iso-4217/es/>\n"
 "Language: es\n"
@@ -28,7 +28,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.1-dev\n"
+"X-Generator: Weblate 5.15-dev\n"
 
 #. Name for AED
 msgid "UAE Dirham"
@@ -45,10 +45,6 @@ msgstr "Lek"
 #. Name for AMD
 msgid "Armenian Dram"
 msgstr "Dram armenio"
-
-#. Name for ANG
-msgid "Netherlands Antillean Guilder"
-msgstr "Florín antillano neerlandés"
 
 #. Name for AOA
 msgid "Kwanza"
@@ -178,10 +174,6 @@ msgstr "Unidad de valor real"
 msgid "Costa Rican Colon"
 msgstr "Colón costarricense"
 
-#. Name for CUC
-msgid "Peso Convertible"
-msgstr "Peso convertible"
-
 #. Name for CUP
 msgid "Cuban Peso"
 msgstr "Peso cubano"
@@ -273,10 +265,6 @@ msgstr "Dólar hongkonés"
 #. Name for HNL
 msgid "Lempira"
 msgstr "Lempira"
-
-#. Name for HRK
-msgid "Kuna"
-msgstr "Kuna"
 
 #. Name for HTG
 msgid "Gourde"
@@ -548,7 +536,7 @@ msgstr "Dólar singapurense"
 msgid "Saint Helena Pound"
 msgstr "Libra santaeleniana"
 
-#. Name for SLE, Name for SLL
+#. Name for SLE
 msgid "Leone"
 msgstr "Leone"
 
@@ -664,6 +652,10 @@ msgstr "Vatu"
 msgid "Tala"
 msgstr "Tala"
 
+#. Name for XAD
+msgid "Arab Accounting Dinar"
+msgstr "Dinar de Cuenta Árabe"
+
 #. Name for XAF
 msgid "CFA Franc BEAC"
 msgstr "franco CFA BEAC"
@@ -695,6 +687,10 @@ msgstr "Unidad de Mercados de Bonos Unidad de cuenta europea 17 (E.U.A.-17)"
 #. Name for XCD
 msgid "East Caribbean Dollar"
 msgstr "Dólar del Caribe oriental"
+
+#. Name for XCG
+msgid "Caribbean Guilder"
+msgstr "Gilder Caribeño"
 
 #. Name for XDR
 msgid "SDR (Special Drawing Right)"
@@ -745,6 +741,8 @@ msgstr "Rand"
 msgid "Zambian Kwacha"
 msgstr "Kwacha zambiano"
 
-#. Name for ZWL
-msgid "Zimbabwe Dollar"
+#. Name for ZWG
+#, fuzzy
+#| msgid "Zimbabwe Dollar"
+msgid "Zimbabwe Gold"
 msgstr "Dólar zimbabuense"

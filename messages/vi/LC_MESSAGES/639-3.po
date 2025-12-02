@@ -2,17 +2,16 @@
 # Codes for the representation of names of languages
 # Part 3: Alpha-3 code for comprehensive coverage of languages
 # .
-# This file is distributed under the same license as the iso-codes package.
+# SPDX-License-Identifier: LGPL-2.1-or-later
 # .
-# Copyright ©
-# Nguyễn Hùng Vũ <vuhung16@bigfoot.com>, 2001.
-# Clytie Siddall <clytie@riverland.net.au>, 2005.
+# SPDX-FileCopyrightText: 2001 Nguyễn Hùng Vũ <vuhung16@bigfoot.com>
+# SPDX-FileCopyrightText: 2005 Clytie Siddall <clytie@riverland.net.au>
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_639-3\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2022-07-25 22:15+0200\n"
+"POT-Creation-Date: 2025-11-18 11:09+0100\n"
 "PO-Revision-Date: 2005-09-16 22:17+0930\n"
 "Last-Translator: Clytie Siddall <clytie@riverland.net.au>\n"
 "Language-Team: Vietnamese <gnomevi-list@lists.sourceforge.net>\n"
@@ -1018,16 +1017,6 @@ msgstr ""
 msgid "Andajin"
 msgstr "Tiếng Run-đi"
 
-#. Name for ajp
-#, fuzzy
-msgid "South Levantine Arabic"
-msgstr "Tiếng Xo-tô, Nam"
-
-#. Inverted name for ajp
-#, fuzzy
-msgid "Arabic, South Levantine"
-msgstr "Tiếng Xo-tô, Nam"
-
 #. Name for ajs
 #, fuzzy
 msgid "Algerian Jewish Sign Language"
@@ -1640,13 +1629,13 @@ msgstr "Tiếng Sa-sac"
 
 #. Name for apc
 #, fuzzy
-msgid "North Levantine Arabic"
-msgstr "Tiếng Al-ta (khác)"
+msgid "Levantine Arabic"
+msgstr "Tiếng Xo-tô, Nam"
 
 #. Inverted name for apc
 #, fuzzy
-msgid "Arabic, North Levantine"
-msgstr "Tiếng Al-ta (khác)"
+msgid "Arabic, Levantine"
+msgstr "Tiếng Xo-tô, Nam"
 
 #. Name for apd
 #, fuzzy
@@ -4814,8 +4803,8 @@ msgstr ""
 
 #. Name for bql
 #, fuzzy
-msgid "Bilakura"
-msgstr "Tiếng Bix-la-ma"
+msgid "Karian"
+msgstr "Tiếng Ca-bat"
 
 #. Name for bqm
 msgid "Wumboko"
@@ -6855,7 +6844,7 @@ msgstr "Tiếng Catalăng"
 
 #. Name for clm
 #, fuzzy
-msgid "Clallam"
+msgid "Klallam"
 msgstr "Tiếng Ma-lay-am"
 
 #. Name for clo
@@ -6865,6 +6854,12 @@ msgstr ""
 #. Inverted name for clo
 msgid "Chontal, Lowland Oaxaca"
 msgstr ""
+
+#. Name for cls
+#, fuzzy
+#| msgid "Classical Syriac"
+msgid "Classical Sanskrit"
+msgstr "Tiếng Xi-ri cổ điển"
 
 #. Name for clt
 #, fuzzy
@@ -7854,6 +7849,10 @@ msgstr "Tiếng Chi-pu-i-a"
 msgid "Kuwaataay"
 msgstr ""
 
+#. Name for cxh
+msgid "Cha'ari"
+msgstr ""
+
 #. Name for cya
 msgid "Nopala Chatino"
 msgstr ""
@@ -8022,9 +8021,8 @@ msgid "Dayi"
 msgstr "Tiếng Đan Mạch"
 
 #. Name for daz
-#, fuzzy
-msgid "Dao"
-msgstr "Tiếng Yao"
+msgid "Moi-Wadea"
+msgstr ""
 
 #. Name for dba
 #, fuzzy
@@ -8227,10 +8225,6 @@ msgstr "Tiếng Niu-a-ri"
 msgid "Demisa"
 msgstr ""
 
-#. Name for dek
-msgid "Dek"
-msgstr ""
-
 #. Name for del
 msgid "Delaware"
 msgstr "Tiếng Đe-la-oue"
@@ -8351,8 +8345,9 @@ msgid "Dogri (individual language)"
 msgstr ""
 
 #. Name for dgr
-msgid "Dogrib"
-msgstr "Tiếng Đoc-ric"
+#, fuzzy
+msgid "Tlicho"
+msgstr "Tiếng Hi-ma-cha-li"
 
 #. Name for dgs
 msgid "Dogoso"
@@ -8549,7 +8544,7 @@ msgstr "Tiếng Hi-ri"
 
 #. Name for div
 #, fuzzy
-msgid "Dhivehi"
+msgid "Divehi"
 msgstr "Tiếng Đi-vi-hi"
 
 #. Name for diw
@@ -9084,6 +9079,12 @@ msgstr ""
 msgid "Disa"
 msgstr "Tiếng Đin-ca"
 
+#. Name for dsk
+#, fuzzy
+#| msgid "Moksha"
+msgid "Dokshi"
+msgstr "Tiếng Moc-sa"
+
 #. Name for dsl
 #, fuzzy
 msgid "Danish Sign Language"
@@ -9429,6 +9430,11 @@ msgstr ""
 msgid "Jola-Fonyi"
 msgstr ""
 
+#. Name for dyr
+#, fuzzy
+msgid "Dyarim"
+msgstr "Tiếng Niu-a-ri"
+
 #. Name for dyu
 msgid "Dyula"
 msgstr "Tiếng Đi-u-la"
@@ -9441,6 +9447,11 @@ msgstr ""
 #, fuzzy
 msgid "Tunzu"
 msgstr "Tiếng Tu-va-lu"
+
+#. Name for dzd
+#, fuzzy
+msgid "Daza"
+msgstr "Tiếng Đac-oua"
 
 #. Name for dze
 msgid "Djiwarli"
@@ -10060,6 +10071,10 @@ msgstr ""
 
 #. Name for etz
 msgid "Semimi"
+msgstr ""
+
+#. Name for eud
+msgid "Eudeve"
 msgstr ""
 
 #. Name for eus
@@ -12430,7 +12445,7 @@ msgid "Gane"
 msgstr "Tiếng Dan-đe"
 
 #. Name for haa
-msgid "Han"
+msgid "Hän"
 msgstr ""
 
 #. Name for hab
@@ -13068,6 +13083,12 @@ msgstr "Tiếng Hin-đi"
 #, fuzzy
 msgid "Hmong Njua"
 msgstr "Tiếng Miêu"
+
+#. Name for hnm
+#, fuzzy
+#| msgid "Javanese"
+msgid "Hainanese"
+msgstr "Tiếng Gia-va"
 
 #. Name for hnn
 msgid "Hanunoo"
@@ -13825,6 +13846,10 @@ msgstr ""
 msgid "Inuktitut, Eastern Canadian"
 msgstr ""
 
+#. Name for ikh
+msgid "Ikhin-Arokho"
+msgstr ""
+
 #. Name for iki
 #, fuzzy
 msgid "Iko"
@@ -14186,6 +14211,11 @@ msgstr ""
 msgid "Isu (Menchum Division)"
 msgstr ""
 
+#. Name for isv
+#, fuzzy
+msgid "Interslavic"
+msgstr "Ngôn ngữ lẫn nhau In-tơ-ling-oua"
+
 #. Name for ita
 msgid "Italian"
 msgstr "Tiếng Ý"
@@ -14347,6 +14377,11 @@ msgstr ""
 #, fuzzy
 msgid "Ingrian"
 msgstr "Tiếng Hung Gia Lợi"
+
+#. Name for izm
+#, fuzzy
+msgid "Kizamani"
+msgstr "Tiếng Căm-ba"
 
 #. Name for izr
 #, fuzzy
@@ -15304,9 +15339,8 @@ msgid "Vono"
 msgstr "Tiếng Mon-gô"
 
 #. Name for kci
-#, fuzzy
-msgid "Kamantan"
-msgstr "Tiếng Pam-pan-ga"
+msgid "Ngyian"
+msgstr ""
 
 #. Name for kcj
 #, fuzzy
@@ -15818,10 +15852,6 @@ msgstr "Tiếng Ca-oui"
 #, fuzzy
 msgid "Kunggari"
 msgstr "Tiếng Hung Gia Lợi"
-
-#. Name for kgm
-msgid "Karipúna"
-msgstr ""
 
 #. Name for kgn
 #, fuzzy
@@ -17248,9 +17278,8 @@ msgid "Sapo"
 msgstr "Tiếng San-gô"
 
 #. Name for krp
-#, fuzzy
-msgid "Korop"
-msgstr "Tiếng Nai-o-rô"
+msgid "Durop"
+msgstr ""
 
 #. Name for krr
 #, fuzzy
@@ -17305,10 +17334,6 @@ msgstr "Tiếng Gan-đa"
 
 #. Inverted name for krz
 msgid "Kanum, Sota"
-msgstr ""
-
-#. Name for ksa
-msgid "Shuwa-Zamani"
 msgstr ""
 
 #. Name for ksb
@@ -17886,8 +17911,8 @@ msgstr "Tiếng T-xoua-na"
 
 #. Name for kwk
 #, fuzzy
-msgid "Kwakiutl"
-msgstr "Tiếng Ia-cut"
+msgid "Kwak'wala"
+msgstr "Tiếng T-xoua-na"
 
 #. Name for kwl
 #, fuzzy
@@ -18389,7 +18414,7 @@ msgstr "Tiếng Lào"
 
 #. Name for lag
 #, fuzzy
-msgid "Langi"
+msgid "Rangi"
 msgstr "Tiếng Phang"
 
 #. Name for lah
@@ -18884,6 +18909,11 @@ msgstr "Tiếng Loc-ba"
 #, fuzzy
 msgid "Lengo"
 msgstr "Tiếng Lui-xen-ô"
+
+#. Name for lgs
+#, fuzzy
+msgid "Guinea-Bissau Sign Language"
+msgstr "Cách nói bằng dấu hiệu"
 
 #. Name for lgt
 #, fuzzy
@@ -19497,8 +19527,8 @@ msgstr "Tiếng Mon-gô"
 
 #. Name for loh
 #, fuzzy
-msgid "Narim"
-msgstr "Tiếng Niu-a-ri"
+msgid "Laarim"
+msgstr "Tiếng Ma-oua-ri"
 
 #. Name for loi
 msgid "Loma (Côte d'Ivoire)"
@@ -19875,6 +19905,16 @@ msgstr "Tiếng Lun-đa"
 msgid "Ganda"
 msgstr "Tiếng Gan-đa"
 
+#. Name for luh
+#, fuzzy
+msgid "Leizhou Chinese"
+msgstr "Tiếng Trung Hoa"
+
+#. Inverted name for luh
+#, fuzzy
+msgid "Chinese, Leizhou"
+msgstr "Tiếng Trung Hoa"
+
 #. Name for lui
 msgid "Luiseno"
 msgstr "Tiếng Lui-xen-ô"
@@ -19967,6 +20007,10 @@ msgstr ""
 
 #. Name for lvk
 msgid "Lavukaleve"
+msgstr ""
+
+#. Name for lvl
+msgid "Lwel"
 msgstr ""
 
 #. Name for lvs
@@ -21059,7 +21103,7 @@ msgid "Makhuwa-Moniga"
 msgstr ""
 
 #. Name for mhn
-msgid "Mócheno"
+msgid "Mòcheno"
 msgstr ""
 
 #. Name for mho
@@ -21710,9 +21754,8 @@ msgid "Mehináku"
 msgstr ""
 
 #. Name for mmi
-#, fuzzy
-msgid "Musar"
-msgstr "Tiếng Ma-ca-xa"
+msgid "Hember Avu"
+msgstr ""
 
 #. Name for mmj
 #, fuzzy
@@ -24062,9 +24105,12 @@ msgid "Nyaheun"
 msgstr ""
 
 #. Name for new
-#, fuzzy
-msgid "Newari"
-msgstr "Tiếng Niu-a-ri"
+msgid "Nepal Bhasa"
+msgstr ""
+
+#. Inverted name for new
+msgid "Bhasa, Nepal"
+msgstr ""
 
 #. Name for nex
 msgid "Neme"
@@ -25177,10 +25223,6 @@ msgstr ""
 msgid "Nomlaki"
 msgstr "Tiếng To-ke-lau"
 
-#. Name for nom
-msgid "Nocamán"
-msgstr ""
-
 #. Name for non
 #, fuzzy
 msgid "Old Norse"
@@ -25642,10 +25684,6 @@ msgstr "Tiếng Sa-mi Bắc"
 msgid "Tidung, Northern"
 msgstr "Tiếng Xo-tô, Nam"
 
-#. Name for nte
-msgid "Nathembo"
-msgstr ""
-
 #. Name for ntg
 #, fuzzy
 msgid "Ngantangarra"
@@ -25985,9 +26023,8 @@ msgid "Nafri"
 msgstr "Tiếng Niu-a-ri"
 
 #. Name for nya
-#, fuzzy
-msgid "Nyanja"
-msgstr "Tiếng N-đon-ga"
+msgid "Chichewa"
+msgstr ""
 
 #. Name for nyb
 #, fuzzy
@@ -26131,6 +26168,10 @@ msgstr ""
 msgid "Naga, Zeme"
 msgstr ""
 
+#. Name for nzr
+msgid "Dir-Nyamzak-Mbarimi"
+msgstr ""
+
 #. Name for nzs
 #, fuzzy
 msgid "New Zealand Sign Language"
@@ -26161,6 +26202,11 @@ msgstr "Tiếng O-ro-mô"
 #, fuzzy
 msgid "Oroch"
 msgstr "Tiếng O-ro-mô"
+
+#. Name for oak
+#, fuzzy
+msgid "Noakhali"
+msgstr "Tiếng Na-hu-atơ"
 
 #. Name for oar
 #, fuzzy
@@ -28040,11 +28086,6 @@ msgstr "Tiếng Pa-li"
 msgid "Pali"
 msgstr "Tiếng Pa-li"
 
-#. Name for plj
-#, fuzzy
-msgid "Polci"
-msgstr "Tiếng Ba Lan"
-
 #. Name for plk
 msgid "Kohistani Shina"
 msgstr ""
@@ -28187,11 +28228,6 @@ msgstr "Tiếng Xo-tô, Nam"
 #, fuzzy
 msgid "Pumi, Southern"
 msgstr "Tiếng Xo-tô, Nam"
-
-#. Name for pmk
-#, fuzzy
-msgid "Pamlico"
-msgstr "Tiếng Pa-li"
 
 #. Name for pml
 #, fuzzy
@@ -28642,11 +28678,6 @@ msgstr "Tiếng Po-venh-san, Cũ (Pháp, trước năm 1500)"
 msgid "Provençal, Old (to 1500)"
 msgstr "Tiếng Po-venh-san, Cũ (Pháp, trước năm 1500)"
 
-#. Name for prp
-#, fuzzy
-msgid "Parsi"
-msgstr "Tiếng Pa-li"
-
 #. Name for prq
 msgid "Ashéninka Perené"
 msgstr ""
@@ -29041,6 +29072,10 @@ msgstr ""
 msgid "Pyen"
 msgstr ""
 
+#. Name for pze
+msgid "Pesse"
+msgstr ""
+
 #. Name for pzh
 msgid "Pazeh"
 msgstr ""
@@ -29049,6 +29084,11 @@ msgstr ""
 #, fuzzy
 msgid "Jejara Naga"
 msgstr "Tiếng Ca-ra-Cac-pac"
+
+#. Inverted name for pzn
+#, fuzzy
+msgid "Naga, Jejara"
+msgstr "Tiếng Nau-ru"
 
 #. Name for qua
 #, fuzzy
@@ -30138,6 +30178,11 @@ msgstr "Tiếng La-tinh"
 msgid "Ririo"
 msgstr "Tiếng Hi-ri"
 
+#. Name for rrm
+#, fuzzy
+msgid "Moriori"
+msgstr "Tiếng Maori"
+
 #. Name for rro
 #, fuzzy
 msgid "Waima"
@@ -30171,6 +30216,11 @@ msgstr "Cách nói bằng dấu hiệu"
 #, fuzzy
 msgid "Rwandan Sign Language"
 msgstr "Cách nói bằng dấu hiệu"
+
+#. Name for rsw
+#, fuzzy
+msgid "Rishiwa"
+msgstr "Tiếng Thổ Nhĩ Kỳ"
 
 #. Name for rtc
 #, fuzzy
@@ -31354,6 +31404,16 @@ msgstr "Tiếng Ven-đa"
 msgid "Sajau Basap"
 msgstr ""
 
+#. Name for sjc
+#, fuzzy
+msgid "Shaojiang Chinese"
+msgstr "Tiếng Trung Hoa"
+
+#. Inverted name for sjc
+#, fuzzy
+msgid "Chinese, Shaojiang"
+msgstr "Tiếng Trung Hoa"
+
 #. Name for sjd
 #, fuzzy
 msgid "Kildin Sami"
@@ -31642,11 +31702,6 @@ msgstr "Tiếng Xa-đi-ni-a (Ý)"
 #. Name for slp
 msgid "Lamaholot"
 msgstr ""
-
-#. Name for slq
-#, fuzzy
-msgid "Salchuq"
-msgstr "Tiếng Man-chu (Trung Hoa)"
 
 #. Name for slr
 #, fuzzy
@@ -33063,11 +33118,6 @@ msgstr ""
 msgid "Semaq Beri"
 msgstr ""
 
-#. Name for szd
-#, fuzzy
-msgid "Seru"
-msgstr "Tiếng Xe-re"
-
 #. Name for sze
 #, fuzzy
 msgid "Seze"
@@ -34467,15 +34517,6 @@ msgstr "Tiếng Tum-bu-ka"
 msgid "Samarokena"
 msgstr "Tiếng Xa-mô-a"
 
-#. Name for tmk
-#, fuzzy
-msgid "Northwestern Tamang"
-msgstr "Tiếng Sa-mi Bắc"
-
-#. Inverted name for tmk
-msgid "Tamang, Northwestern"
-msgstr ""
-
 #. Name for tml
 msgid "Tamnim Citak"
 msgstr ""
@@ -34880,10 +34921,6 @@ msgstr "Tiếng Pam-pan-ga"
 #, fuzzy
 msgid "Tanapag"
 msgstr "Tiếng T-xoua-na"
-
-#. Name for tpw
-msgid "Tupí"
-msgstr ""
 
 #. Name for tpx
 msgid "Acatepec Me'phaa"
@@ -35493,6 +35530,11 @@ msgstr "Tiếng Tu-va-lu"
 #, fuzzy
 msgid "Te'un"
 msgstr "Tiếng Te-tum"
+
+#. Name for tvi
+#, fuzzy
+msgid "Tulai"
+msgstr "Tiếng Phu-la"
 
 #. Name for tvk
 #, fuzzy
@@ -36141,6 +36183,10 @@ msgstr ""
 msgid "Ulwa"
 msgstr "Tiếng A-ra-ouac"
 
+#. Name for uly
+msgid "Buli"
+msgstr ""
+
 #. Name for uma
 msgid "Umatilla"
 msgstr ""
@@ -36695,6 +36741,10 @@ msgstr "Tiếng Vo-tic"
 msgid "Iduna"
 msgstr "Tiếng Lun-đa"
 
+#. Name for vjk
+msgid "Bajjika"
+msgstr ""
+
 #. Name for vka
 #, fuzzy
 msgid "Kariyarra"
@@ -36967,6 +37017,12 @@ msgstr "Cách nói bằng dấu hiệu"
 #, fuzzy
 msgid "Venezuelan Sign Language"
 msgstr "Cách nói bằng dấu hiệu"
+
+#. Name for vsn
+#, fuzzy
+#| msgid "Sanskrit"
+msgid "Vedic Sanskrit"
+msgstr "Tiếng Phạn"
 
 #. Name for vsv
 #, fuzzy
@@ -37661,8 +37717,9 @@ msgid "Womo"
 msgstr "Tiếng O-ro-mô"
 
 #. Name for wnb
-msgid "Wanambre"
-msgstr ""
+#, fuzzy
+msgid "Mokati"
+msgstr "Tiếng Ma-ra-ti"
 
 #. Name for wnc
 msgid "Wantoat"
@@ -37937,6 +37994,11 @@ msgstr "Tiếng Oua-sô"
 #. Name for wsv
 msgid "Wotapuri-Katarqalai"
 msgstr ""
+
+#. Name for wtb
+#, fuzzy
+msgid "Matambwe"
+msgstr "Tiếng Tác-ta"
 
 #. Name for wtf
 msgid "Watiwa"
@@ -39394,11 +39456,6 @@ msgstr ""
 msgid "Sherpa"
 msgstr "Tiếng Xéc bi"
 
-#. Name for xss
-#, fuzzy
-msgid "Assan"
-msgstr "Tiếng Nga"
-
 #. Name for xsu
 msgid "Sanumá"
 msgstr ""
@@ -40007,6 +40064,11 @@ msgstr "Tiếng Cue-chu-a"
 msgid "Chepya"
 msgstr "Tiếng Chi-pu-i-a"
 
+#. Name for ycr
+#, fuzzy
+msgid "Yilan Creole"
+msgstr "Tiếng Ma-lay-am"
+
 #. Name for yda
 #, fuzzy
 msgid "Yanda"
@@ -40308,6 +40370,11 @@ msgstr "Tiếng Sa-mi Bắc"
 msgid "Yukaghir, Northern"
 msgstr ""
 
+#. Name for ykh
+#, fuzzy
+msgid "Khamnigan Mongol"
+msgstr "Tiếng Ra-ra-ton-ga"
+
 #. Name for yki
 msgid "Yoke"
 msgstr ""
@@ -40527,6 +40594,11 @@ msgstr "Tiếng Mo-xi"
 #, fuzzy
 msgid "Aluo"
 msgstr "Tiếng San-gô"
+
+#. Name for ynb
+#, fuzzy
+msgid "Yamben"
+msgstr "Tiếng Yat"
 
 #. Name for ynd
 #, fuzzy
@@ -41337,6 +41409,10 @@ msgstr ""
 msgid "Zhuang, Eastern Hongshuihe"
 msgstr ""
 
+#. Name for zem
+msgid "Zeem"
+msgstr ""
+
 #. Name for zen
 msgid "Zenaga"
 msgstr "Tiếng De-na-ga"
@@ -41475,11 +41551,6 @@ msgstr "Tiếng Xi-xi-li"
 msgid "Kaimbulawa"
 msgstr "Tiếng Căm-ba"
 
-#. Name for zkb
-#, fuzzy
-msgid "Koibal"
-msgstr "Tiếng Cô-mi"
-
 #. Name for zkd
 #, fuzzy
 msgid "Kadu"
@@ -41580,6 +41651,12 @@ msgstr "Tiếng Sa-mi Nam"
 msgid "Zhuang, Liuqian"
 msgstr "Tiếng Xo-tô, Nam"
 
+#. Name for zlu
+#, fuzzy
+#| msgid "Zulu"
+msgid "Zul"
+msgstr "Tiếng Du-lu"
+
 #. Name for zma
 msgid "Manda (Australia)"
 msgstr ""
@@ -41649,9 +41726,8 @@ msgid "Molo"
 msgstr "Tiếng Ou-o-loc"
 
 #. Name for zmp
-#, fuzzy
-msgid "Mpuono"
-msgstr "Tiếng Mon-gô"
+msgid "Mbuun"
+msgstr ""
 
 #. Name for zmq
 msgid "Mituku"
@@ -42182,10 +42258,6 @@ msgstr "Tiếng Da-pô-tec"
 #, fuzzy
 msgid "Zapotec, Yatee"
 msgstr "Tiếng Da-pô-tec"
-
-#. Name for zua
-msgid "Zeem"
-msgstr ""
 
 #. Name for zuh
 #, fuzzy

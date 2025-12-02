@@ -1,19 +1,18 @@
 # Translation of ISO 4217 to Dutch; Flemish
 # Codes for the representation of currencies
 # .
-# This file is distributed under the same license as the iso-codes package.
+# SPDX-License-Identifier: LGPL-2.1-or-later
 # .
-# Copyright ©
-# Elros Cyriatan <cyriatan@fastmail.fm>, 2004.
-# Luk Claes <luk.claes@ugent.be>, 2005.
-# Freek de Kruijf <f.de.kruijf@gmail.com>, 2007-2008, 2010.
-# Pander <pander@users.sourceforge.net>, 2022.
+# SPDX-FileCopyrightText: 2004 Elros Cyriatan <cyriatan@fastmail.fm>
+# SPDX-FileCopyrightText: 2005 Luk Claes <luk.claes@ugent.be>
+# SPDX-FileCopyrightText: 2007-2008, 2010 Freek de Kruijf <f.de.kruijf@gmail.com>
+# SPDX-FileCopyrightText: 2022 Pander <pander@users.sourceforge.net>
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_4217\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2022-06-01 15:01+0200\n"
+"POT-Creation-Date: 2025-11-18 11:09+0100\n"
 "PO-Revision-Date: 2022-11-28 16:41+0000\n"
 "Last-Translator: Pander <pander@users.sourceforge.net>\n"
 "Language-Team: Dutch <https://hosted.weblate.org/projects/iso-codes/iso-4217/"
@@ -40,10 +39,6 @@ msgstr "lek"
 #. Name for AMD
 msgid "Armenian Dram"
 msgstr "Armeense dram"
-
-#. Name for ANG
-msgid "Netherlands Antillean Guilder"
-msgstr "Antilliaanse gulden"
 
 #. Name for AOA
 msgid "Kwanza"
@@ -173,10 +168,6 @@ msgstr "Colombiaanse unidad de valor real"
 msgid "Costa Rican Colon"
 msgstr "Costa Ricaanse colon"
 
-#. Name for CUC
-msgid "Peso Convertible"
-msgstr "Converteerbare peso"
-
 #. Name for CUP
 msgid "Cuban Peso"
 msgstr "Cubaanse peso"
@@ -268,10 +259,6 @@ msgstr "Hongkongse dollar"
 #. Name for HNL
 msgid "Lempira"
 msgstr "Hondurese lempira"
-
-#. Name for HRK
-msgid "Kuna"
-msgstr "kuna"
 
 #. Name for HTG
 msgid "Gourde"
@@ -541,7 +528,7 @@ msgstr "Singaporese dollar"
 msgid "Saint Helena Pound"
 msgstr "Sint-Heleens pond"
 
-#. Name for SLE, Name for SLL
+#. Name for SLE
 msgid "Leone"
 msgstr "Sierraleoonse leone"
 
@@ -657,6 +644,12 @@ msgstr "Vanuatu vatu"
 msgid "Tala"
 msgstr "Samoa tala"
 
+#. Name for XAD
+#, fuzzy
+#| msgid "Jordanian Dinar"
+msgid "Arab Accounting Dinar"
+msgstr "Jordaanse dinar"
+
 #. Name for XAF
 msgid "CFA Franc BEAC"
 msgstr "CFA-frank BEAC"
@@ -687,6 +680,12 @@ msgstr "Aandelenmarkteenheid Europese rekeningeneenheid 17 (E.U.A.-17)"
 
 #. Name for XCD
 msgid "East Caribbean Dollar"
+msgstr "Oost-Caribische dollar"
+
+#. Name for XCG
+#, fuzzy
+#| msgid "East Caribbean Dollar"
+msgid "Caribbean Guilder"
 msgstr "Oost-Caribische dollar"
 
 #. Name for XDR
@@ -737,6 +736,8 @@ msgstr "Zuid-Afrikaanse rand"
 msgid "Zambian Kwacha"
 msgstr "Zambiaanse kwacha"
 
-#. Name for ZWL
-msgid "Zimbabwe Dollar"
+#. Name for ZWG
+#, fuzzy
+#| msgid "Zimbabwe Dollar"
+msgid "Zimbabwe Gold"
 msgstr "Zimbabwaanse dollar"

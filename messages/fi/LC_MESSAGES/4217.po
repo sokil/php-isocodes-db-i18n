@@ -1,20 +1,19 @@
 # Translation of ISO 4217 to Finnish
 # Codes for the representation of currencies
 # .
-# This file is distributed under the same license as the iso-codes package.
+# SPDX-License-Identifier: LGPL-2.1-or-later
+# .
+# SPDX-FileCopyrightText: 2005-2009 Tommi Vainikainen <Tommi.Vainikainen@iki.fi>
 # .
 # Notes:
 # Lähde:
 # http://kotoistus.fi/avoimet/tied_valuuttojen-nimet.htm
-# .
-# Copyright ©
-# Tommi Vainikainen <Tommi.Vainikainen@iki.fi>, 2005-2009.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_4217\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2022-06-01 15:01+0200\n"
+"POT-Creation-Date: 2025-11-18 11:09+0100\n"
 "PO-Revision-Date: 2010-05-06 12:49+0300\n"
 "Last-Translator: Tommi Vainikainen <Tommi.Vainikainen@iki.fi>\n"
 "Language-Team: Finnish <translation-team-fi@lists.sourceforge.net>\n"
@@ -39,12 +38,6 @@ msgstr "lek"
 #. Name for AMD
 msgid "Armenian Dram"
 msgstr "Armenian dram"
-
-#. Name for ANG
-#, fuzzy
-#| msgid "Netherlands Antillian Guilder"
-msgid "Netherlands Antillean Guilder"
-msgstr "Alankomaiden Antillien guldeni"
 
 #. Name for AOA
 msgid "Kwanza"
@@ -186,12 +179,6 @@ msgstr ""
 msgid "Costa Rican Colon"
 msgstr "Costa Rican colon"
 
-#. Name for CUC
-#, fuzzy
-#| msgid "Convertible Marks"
-msgid "Peso Convertible"
-msgstr "Bosnia-Hertsegovinan vaihdettava markka"
-
 #. Name for CUP
 msgid "Cuban Peso"
 msgstr "Kuuban peso"
@@ -287,10 +274,6 @@ msgstr "Hongkongin dollari"
 #. Name for HNL
 msgid "Lempira"
 msgstr "lempira"
-
-#. Name for HRK
-msgid "Kuna"
-msgstr ""
 
 #. Name for HTG
 msgid "Gourde"
@@ -566,7 +549,7 @@ msgstr "Singaporen dollari"
 msgid "Saint Helena Pound"
 msgstr "Saint Helenan punta"
 
-#. Name for SLE, Name for SLL
+#. Name for SLE
 msgid "Leone"
 msgstr "Sierra Leonen leone"
 
@@ -690,6 +673,12 @@ msgstr "vatu"
 msgid "Tala"
 msgstr "tala"
 
+#. Name for XAD
+#, fuzzy
+#| msgid "Jordanian Dinar"
+msgid "Arab Accounting Dinar"
+msgstr "Jordanian dinaari"
+
 #. Name for XAF
 msgid "CFA Franc BEAC"
 msgstr "CFA-frangi BEAC"
@@ -728,6 +717,12 @@ msgstr "EUA (XBD)"
 
 #. Name for XCD
 msgid "East Caribbean Dollar"
+msgstr "Itä-Karibian dollari"
+
+#. Name for XCG
+#, fuzzy
+#| msgid "East Caribbean Dollar"
+msgid "Caribbean Guilder"
 msgstr "Itä-Karibian dollari"
 
 #. Name for XDR
@@ -782,6 +777,8 @@ msgstr "randi"
 msgid "Zambian Kwacha"
 msgstr "Sambian kwacha"
 
-#. Name for ZWL
-msgid "Zimbabwe Dollar"
+#. Name for ZWG
+#, fuzzy
+#| msgid "Zimbabwe Dollar"
+msgid "Zimbabwe Gold"
 msgstr "Zimbabwen dollari"

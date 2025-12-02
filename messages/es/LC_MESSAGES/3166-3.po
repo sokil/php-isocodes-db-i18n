@@ -2,20 +2,19 @@
 # Codes for the representation of names of countries and their subdivisions
 # Part 3: Code for formerly used names of countries
 # .
-# This file is distributed under the same license as the iso-codes package.
+# SPDX-License-Identifier: LGPL-2.1-or-later
 # .
-# Copyright ©
-# Alastair McKinstry <mckinstry@debian.org>, 2001.
-# Juan Manuel García Molina <juanmagm@mail.com>, 2001.
-# Javier Fernández-Sanguino <jfs@debian.org>, 2004-2008, 2010.
-# zamir <hades_ni@yahoo.com>, 2013.
-# Kamborio <Kamborio15@users.noreply.hosted.weblate.org>, 2023.
+# SPDX-FileCopyrightText: 2001 Alastair McKinstry <mckinstry@debian.org>
+# SPDX-FileCopyrightText: 2001 Juan Manuel García Molina <juanmagm@mail.com>
+# SPDX-FileCopyrightText: 2004-2008, 2010 Javier Fernández-Sanguino <jfs@debian.org>
+# SPDX-FileCopyrightText: 2013 zamir <hades_ni@yahoo.com>
+# SPDX-FileCopyrightText: 2023 Kamborio <Kamborio15@users.noreply.hosted.weblate.org>
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-3\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2023-02-24 21:26+0100\n"
+"POT-Creation-Date: 2025-11-18 11:09+0100\n"
 "PO-Revision-Date: 2023-10-13 10:01+0000\n"
 "Last-Translator: Kamborio <Kamborio15@users.noreply.hosted.weblate.org>\n"
 "Language-Team: Spanish <https://hosted.weblate.org/projects/iso-codes/"

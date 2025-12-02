@@ -1,18 +1,17 @@
 # Translation of ISO 4217 to Ukrainian
 # Codes for the representation of currencies
 # .
-# This file is distributed under the same license as the iso-codes package.
+# SPDX-License-Identifier: LGPL-2.1-or-later
 # .
-# Copyright ©
-# Maxim V. Dziumanenko <dziumanenko@gmail.com>, 2010.
-# Yuri Chornoivan <yurchor@ukr.net>, 2010, 2015, 2017, 2020, 2022.
+# SPDX-FileCopyrightText: 2010 Maxim V. Dziumanenko <dziumanenko@gmail.com>
+# SPDX-FileCopyrightText: 2010, 2015, 2017, 2020, 2022, 2025 Yuri Chornoivan <yurchor@ukr.net>
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_4217\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2022-06-01 15:01+0200\n"
-"PO-Revision-Date: 2022-06-02 18:17+0000\n"
+"POT-Creation-Date: 2025-11-18 11:09+0100\n"
+"PO-Revision-Date: 2025-10-14 21:22+0000\n"
 "Last-Translator: Yuri Chornoivan <yurchor@ukr.net>\n"
 "Language-Team: Ukrainian <https://hosted.weblate.org/projects/iso-codes/"
 "iso-4217/uk/>\n"
@@ -20,9 +19,9 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
-"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.13-dev\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Weblate 5.14-dev\n"
 "X-Bugs: Report translation errors to the Language-Team address.\n"
 
 #. Name for AED
@@ -40,10 +39,6 @@ msgstr "Лек"
 #. Name for AMD
 msgid "Armenian Dram"
 msgstr "Вірменський драм"
-
-#. Name for ANG
-msgid "Netherlands Antillean Guilder"
-msgstr "Гульден Нідерландських Антильських Островів"
 
 #. Name for AOA
 msgid "Kwanza"
@@ -173,10 +168,6 @@ msgstr "Одиниця дійсної вартості (UVR)"
 msgid "Costa Rican Colon"
 msgstr "Костариканський колон"
 
-#. Name for CUC
-msgid "Peso Convertible"
-msgstr "Конвертовані песо"
-
 #. Name for CUP
 msgid "Cuban Peso"
 msgstr "Кубинське песо"
@@ -268,10 +259,6 @@ msgstr "Гонконгський долар"
 #. Name for HNL
 msgid "Lempira"
 msgstr "Лемпіра"
-
-#. Name for HRK
-msgid "Kuna"
-msgstr "Куна"
 
 #. Name for HTG
 msgid "Gourde"
@@ -541,7 +528,7 @@ msgstr "Сингапурський долар"
 msgid "Saint Helena Pound"
 msgstr "Фунт острова Святої Єлени"
 
-#. Name for SLE, Name for SLL
+#. Name for SLE
 msgid "Leone"
 msgstr "Леоне"
 
@@ -657,6 +644,10 @@ msgstr "Вату"
 msgid "Tala"
 msgstr "Тала"
 
+#. Name for XAD
+msgid "Arab Accounting Dinar"
+msgstr "Арабський обліковий динар"
+
 #. Name for XAF
 msgid "CFA Franc BEAC"
 msgstr "Франк КФА BEAC"
@@ -688,6 +679,10 @@ msgstr "Європейська одиниця розрахунків 17 ринк
 #. Name for XCD
 msgid "East Caribbean Dollar"
 msgstr "Східно-карибський долар"
+
+#. Name for XCG
+msgid "Caribbean Guilder"
+msgstr "Карибський гульден"
 
 #. Name for XDR
 msgid "SDR (Special Drawing Right)"
@@ -737,6 +732,6 @@ msgstr "Ранд"
 msgid "Zambian Kwacha"
 msgstr "Замбійська квача"
 
-#. Name for ZWL
-msgid "Zimbabwe Dollar"
-msgstr "Долар Зімбабве"
+#. Name for ZWG
+msgid "Zimbabwe Gold"
+msgstr "Золотий Зімбабве"

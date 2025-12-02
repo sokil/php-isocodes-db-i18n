@@ -2,20 +2,19 @@
 # Codes for the representation of names of countries and their subdivisions
 # Part 2: Country subdivision codes
 # .
-# This file is distributed under the same license as the iso-codes package.
+# SPDX-License-Identifier: LGPL-2.1-or-later
 # .
-# Copyright ©
-# Alastair McKinstry <mckinstry@debian.org>, 2001.
-# Jaegeum Choe <baedaron@hananet.net>, 2001.
-# Shinjo Park <peremen@gmail.com>, 2020.
-# Changwoo Ryu <cwryu@debian.org>, 2024.
-# Matthew Choi <zeulkin@gmail.com>, 2024.
+# SPDX-FileCopyrightText: 2001 Alastair McKinstry <mckinstry@debian.org>
+# SPDX-FileCopyrightText: 2001 Jaegeum Choe <baedaron@hananet.net>
+# SPDX-FileCopyrightText: 2020 Shinjo Park <peremen@gmail.com>
+# SPDX-FileCopyrightText: 2024 Changwoo Ryu <cwryu@debian.org>
+# SPDX-FileCopyrightText: 2024 Matthew Choi <zeulkin@gmail.com>
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-2\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2023-12-18 14:43+0100\n"
+"POT-Creation-Date: 2025-11-18 11:09+0100\n"
 "PO-Revision-Date: 2024-01-01 01:03+0000\n"
 "Last-Translator: Matthew Choi <zeulkin@gmail.com>\n"
 "Language-Team: Korean <https://hosted.weblate.org/projects/iso-codes/"
@@ -1968,7 +1967,7 @@ msgstr ""
 msgid "Alagoas"
 msgstr "앙골라"
 
-#. Name for BR-AM, Name for CO-AMA, Name for VE-Z
+#. Name for BR-AM, Name for CO-AMA, Name for PE-AMA, Name for VE-Z
 #, fuzzy
 msgid "Amazonas"
 msgstr "아리조나"
@@ -2394,17 +2393,17 @@ msgid "Bresckaja voblasć"
 msgstr ""
 
 #. Name for BY-HM
-msgid "Gorod Minsk"
+msgid "Horad Minsk"
 msgstr ""
 
 #. Name for BY-HO
 #, fuzzy
-msgid "Gomel'skaja oblast'"
+msgid "Homieĺskaja voblasć"
 msgstr "캘리포니아"
 
 #. Name for BY-HR
 #, fuzzy
-msgid "Grodnenskaja oblast'"
+msgid "Hrodzienskaja voblasć"
 msgstr "캘리포니아"
 
 #. Name for BY-MA
@@ -2413,7 +2412,7 @@ msgstr ""
 
 #. Name for BY-MI
 #, fuzzy
-msgid "Minskaja oblast'"
+msgid "Minskaja voblasć"
 msgstr "캘리포니아"
 
 #. Name for BY-VI
@@ -3506,12 +3505,11 @@ msgid "Ammochostos"
 msgstr ""
 
 #. Name for CY-05
-#, fuzzy
-msgid "Baf"
-msgstr "버뮤다"
+msgid "Pafos"
+msgstr ""
 
 #. Name for CY-06
-msgid "Girne"
+msgid "Keryneia"
 msgstr ""
 
 #. Name for CZ-10
@@ -5076,8 +5074,9 @@ msgid "Ansabā"
 msgstr ""
 
 #. Name for ER-DK
-msgid "Debubawi K’eyyĭḥ Baḥri"
-msgstr ""
+#, fuzzy
+msgid "Janūbī al Baḩrī al Aḩmar"
+msgstr "알라바마"
 
 #. Name for ER-DU, Name for IL-D
 #, fuzzy
@@ -5085,7 +5084,7 @@ msgid "Al Janūbī"
 msgstr "알라바마"
 
 #. Name for ER-GB
-msgid "Gash-Barka"
+msgid "Qāsh-Barkah"
 msgstr ""
 
 #. Name for ER-MA, Name for IL-M
@@ -5093,12 +5092,13 @@ msgid "Al Awsaţ"
 msgstr ""
 
 #. Name for ER-SK
-msgid "Semienawi K’eyyĭḥ Baḥri"
-msgstr ""
+#, fuzzy
+msgid "Shimālī al Baḩrī al Aḩmar"
+msgstr "알라바마"
 
 #. Name for ES-A
 #, fuzzy
-msgid "Alacant*"
+msgid "Alicante"
 msgstr "알바니아"
 
 #. Name for ES-AB
@@ -5187,7 +5187,7 @@ msgid "Ciudad Real"
 msgstr ""
 
 #. Name for ES-CS
-msgid "Castelló*"
+msgid "Castellón"
 msgstr ""
 
 #. Name for ES-CT
@@ -5285,11 +5285,11 @@ msgid "Murcia"
 msgstr "오스트리아"
 
 #. Name for ES-NA
-msgid "Nafarroa*"
+msgid "Navarra"
 msgstr ""
 
 #. Name for ES-NC
-msgid "Nafarroako Foru Komunitatea*"
+msgid "Navarra, Comunidad Foral de"
 msgstr ""
 
 #. Name for ES-O
@@ -5312,7 +5312,7 @@ msgid "Pontevedra [Pontevedra]"
 msgstr ""
 
 #. Name for ES-PV
-msgid "Euskal Herria"
+msgid "País Vasco"
 msgstr ""
 
 #. Name for ES-SA
@@ -5366,8 +5366,8 @@ msgstr ""
 
 #. Name for ES-VI
 #, fuzzy
-msgid "Araba*"
-msgstr "레바논"
+msgid "Álava"
+msgstr "알라스카"
 
 #. Name for ES-Z
 #, fuzzy
@@ -8407,7 +8407,7 @@ msgid "Wexford"
 msgstr ""
 
 #. Name for IL-HA
-msgid "H̱efa"
+msgid "Ḩayfā"
 msgstr ""
 
 #. Name for IL-JM
@@ -8625,8 +8625,9 @@ msgid "Kirkūk"
 msgstr "자이레"
 
 #. Name for IQ-KR
-msgid "Herêm-î Kurdistan"
-msgstr ""
+#, fuzzy
+msgid "Iqlīm Kūrdistān"
+msgstr "파키스탄"
 
 #. Name for IQ-MA
 #, fuzzy
@@ -9106,8 +9107,9 @@ msgid "Piemonte"
 msgstr "버몬트"
 
 #. Name for IT-23
-msgid "Val d'Aoste"
-msgstr ""
+#, fuzzy
+msgid "Valle d'Aosta"
+msgstr "슬로베니아"
 
 #. Name for IT-25
 #, fuzzy
@@ -10176,22 +10178,21 @@ msgid "Batken"
 msgstr "가나"
 
 #. Name for KG-C
-#, fuzzy
-msgid "Chuyskaya oblast'"
-msgstr "캘리포니아"
+msgid "Chüy"
+msgstr ""
 
 #. Name for KG-GB
 msgid "Bishkek Shaary"
 msgstr ""
 
 #. Name for KG-GO
-msgid "Gorod Osh"
+msgid "Osh Shaary"
 msgstr ""
 
 #. Name for KG-J
 #, fuzzy
-msgid "Dzhalal-Abadskaya oblast'"
-msgstr "캘리포니아"
+msgid "Jalal-Abad"
+msgstr "일본"
 
 #. Name for KG-N
 #, fuzzy
@@ -10208,7 +10209,7 @@ msgid "Talas"
 msgstr "말레이시아"
 
 #. Name for KG-Y
-msgid "Issyk-Kul'skaja oblast'"
+msgid "Ysyk-Köl"
 msgstr ""
 
 #. Name for KH-1
@@ -10256,7 +10257,7 @@ msgid "Preah Sihanouk"
 msgstr "통가"
 
 #. Name for KH-19
-msgid "Stoĕng Trêng"
+msgid "Stueng Traeng"
 msgstr ""
 
 #. Name for KH-2
@@ -10421,27 +10422,37 @@ msgid "Nevis"
 msgstr ""
 
 #. Name for KP-01
-msgid "P'yǒngyang"
+#, fuzzy
+#| msgid "P'yǒngyang"
+msgid "Phyeongyang"
 msgstr "평양"
 
 #. Name for KP-02
-msgid "P'yǒngan-namdo"
-msgstr "평안남도"
+#, fuzzy
+#| msgid "Gyeongsangnam-do"
+msgid "Phyeongannamto"
+msgstr "경상남도"
 
 #. Name for KP-03
-msgid "P'yǒngan-bukto"
+#, fuzzy
+#| msgid "P'yǒngan-bukto"
+msgid "Phyeonganpukto"
 msgstr "평안북도"
 
 #. Name for KP-04
-msgid "Chagang-do"
-msgstr "자강도"
+msgid "Jakangto"
+msgstr ""
 
 #. Name for KP-05
-msgid "Hwanghae-namdo"
+#, fuzzy
+#| msgid "Hwanghae-namdo"
+msgid "Hwanghainamto"
 msgstr "황해남도"
 
 #. Name for KP-06
-msgid "Hwanghae-bukto"
+#, fuzzy
+#| msgid "Hwanghae-bukto"
+msgid "Hwanghaipukto"
 msgstr "황해북도"
 
 #. Name for KP-07
@@ -10449,15 +10460,21 @@ msgid "Kangweonto"
 msgstr "강원도"
 
 #. Name for KP-08
-msgid "Hamgyǒng-namdo"
-msgstr "함경남도"
+#, fuzzy
+#| msgid "Gyeongsangnam-do"
+msgid "Hamkyeongnamto"
+msgstr "경상남도"
 
 #. Name for KP-09
-msgid "Hamgyǒng-bukto"
+#, fuzzy
+#| msgid "Hamgyǒng-bukto"
+msgid "Hamkyeongpukto"
 msgstr "함경북도"
 
 #. Name for KP-10
-msgid "Ryanggang-do"
+#, fuzzy
+#| msgid "Ryanggang-do"
+msgid "Ryangkangto"
 msgstr "량강도"
 
 #. Name for KP-13
@@ -10564,28 +10581,27 @@ msgstr ""
 
 #. Name for KZ-10
 #, fuzzy
-msgid "Abajskaja oblast’"
-msgstr "캘리포니아"
+msgid "Abay oblysy"
+msgstr "카자흐스탄"
 
 #. Name for KZ-11
 #, fuzzy
-msgid "Akmolinskaja oblast'"
+msgid "Aqmola oblysy"
 msgstr "캘리포니아"
 
 #. Name for KZ-15
-#, fuzzy
-msgid "Aktjubinskaja oblast'"
-msgstr "캘리포니아"
+msgid "Aqtöbe oblysy"
+msgstr ""
 
 #. Name for KZ-19
 #, fuzzy
-msgid "Almatinskaja oblast'"
-msgstr "캘리포니아"
+msgid "Almaty oblysy"
+msgstr "알라바마"
 
 #. Name for KZ-23
 #, fuzzy
-msgid "Atyrauskaja oblast'"
-msgstr "캘리포니아"
+msgid "Atyraū oblysy"
+msgstr "카자흐스탄"
 
 #. Name for KZ-27
 #, fuzzy
@@ -10603,17 +10619,17 @@ msgstr "카자흐스탄"
 
 #. Name for KZ-35
 #, fuzzy
-msgid "Karagandinskaja oblast'"
-msgstr "캘리포니아"
+msgid "Qaraghandy oblysy"
+msgstr "카자흐스탄"
 
 #. Name for KZ-39
 #, fuzzy
-msgid "Kostanajskaja oblast'"
-msgstr "캘리포니아"
+msgid "Qostanay oblysy"
+msgstr "카자흐스탄"
 
 #. Name for KZ-43
 #, fuzzy
-msgid "Kyzylordinskaja oblast'"
+msgid "Qyzylorda oblysy"
 msgstr "캘리포니아"
 
 #. Name for KZ-47
@@ -10626,18 +10642,19 @@ msgid "Pavlodar oblysy"
 msgstr ""
 
 #. Name for KZ-59
-msgid "Severo-Kazahstanskaja oblast'"
-msgstr ""
+#, fuzzy
+msgid "Soltüstik Qazaqstan oblysy"
+msgstr "카자흐스탄"
 
 #. Name for KZ-61
 #, fuzzy
-msgid "Turkestankaya oblast'"
+msgid "Türkistan oblysy"
 msgstr "캘리포니아"
 
 #. Name for KZ-62
 #, fuzzy
-msgid "Ulytauskaja oblast’"
-msgstr "캘리포니아"
+msgid "Ulytaū oblysy"
+msgstr "카자흐스탄"
 
 #. Name for KZ-63
 #, fuzzy
@@ -10736,9 +10753,8 @@ msgid "Xaisômboun"
 msgstr ""
 
 #. Name for LB-AK
-#, fuzzy
-msgid "Aakkâr"
-msgstr "하와이"
+msgid "‘Akkār"
+msgstr ""
 
 #. Name for LB-AS
 msgid "Ash Shimāl"
@@ -10749,7 +10765,7 @@ msgid "Bayrūt"
 msgstr ""
 
 #. Name for LB-BH
-msgid "Baalbek-Hermel"
+msgid "B‘alabak-Al Hirmil"
 msgstr ""
 
 #. Name for LB-BI
@@ -14523,11 +14539,11 @@ msgid "Vestland"
 msgstr "네덜란드"
 
 #. Name for NO-50
-msgid "Trööndelage"
+msgid "Trøndelag"
 msgstr ""
 
 #. Name for NO-54
-msgid "Romssa ja Finnmárkku"
+msgid "Troms og Finnmark"
 msgstr ""
 
 #. Name for NP-P1
@@ -14815,17 +14831,13 @@ msgstr ""
 msgid "Naso Tjër Di"
 msgstr ""
 
-#. Name for PE-AMA
-msgid "Amarumayu"
-msgstr ""
-
 #. Name for PE-ANC
 msgid "Ancash"
 msgstr ""
 
 #. Name for PE-APU
 #, fuzzy
-msgid "Apurimaq"
+msgid "Apurímac"
 msgstr "아리조나"
 
 #. Name for PE-ARE
@@ -14864,7 +14876,7 @@ msgid "Ica"
 msgstr "아이스랜드"
 
 #. Name for PE-JUN
-msgid "Hunin"
+msgid "Junín"
 msgstr ""
 
 #. Name for PE-LAL, Name for SV-LI
@@ -14883,7 +14895,7 @@ msgid "Lima"
 msgstr "라트비아"
 
 #. Name for PE-LMA
-msgid "Lima hatun llaqta"
+msgid "Municipalidad Metropolitana de Lima"
 msgstr ""
 
 #. Name for PE-LOR
@@ -14913,7 +14925,7 @@ msgstr ""
 #. Name for PE-SAM
 #, fuzzy
 #| msgid "San Marino"
-msgid "San Martin"
+msgid "San Martín"
 msgstr "산마리노"
 
 #. Name for PE-TAC
@@ -16198,32 +16210,32 @@ msgstr ""
 
 #. Name for RU-AD
 #, fuzzy
-msgid "Adygeja, Respublika"
+msgid "Adygeya, Respublika"
 msgstr "대한민국"
 
 #. Name for RU-AL
 #, fuzzy
-msgid "Altaj, Respublika"
+msgid "Altay, Respublika"
 msgstr "대한민국"
 
 #. Name for RU-ALT
 #, fuzzy
-msgid "Altajskij kraj"
+msgid "Altayskiy kray"
 msgstr "알라스카"
 
 #. Name for RU-AMU
 #, fuzzy
-msgid "Amurskaja oblast'"
+msgid "Amurskaya oblast'"
 msgstr "캘리포니아"
 
 #. Name for RU-ARK
 #, fuzzy
-msgid "Arhangel'skaja oblast'"
+msgid "Arkhangel'skaya oblast'"
 msgstr "캘리포니아"
 
 #. Name for RU-AST
 #, fuzzy
-msgid "Astrahanskaja oblast'"
+msgid "Astrakhanskaya oblast'"
 msgstr "캘리포니아"
 
 #. Name for RU-BA
@@ -16233,17 +16245,17 @@ msgstr "타이완, 중화민국"
 
 #. Name for RU-BEL
 #, fuzzy
-msgid "Belgorodskaja oblast'"
+msgid "Belgorodskaya oblast'"
 msgstr "캘리포니아"
 
 #. Name for RU-BRY
 #, fuzzy
-msgid "Brjanskaja oblast'"
+msgid "Bryanskaya oblast'"
 msgstr "캘리포니아"
 
 #. Name for RU-BU
 #, fuzzy
-msgid "Burjatija, Respublika"
+msgid "Buryatiya, Respublika"
 msgstr "대한민국"
 
 #. Name for RU-CE
@@ -16276,12 +16288,12 @@ msgstr "대한민국"
 
 #. Name for RU-IRK
 #, fuzzy
-msgid "Irkutskaja oblast'"
+msgid "Irkutskaya oblast'"
 msgstr "캘리포니아"
 
 #. Name for RU-IVA
 #, fuzzy
-msgid "Ivanovskaja oblast'"
+msgid "Ivanovskaya oblast'"
 msgstr "캘리포니아"
 
 #. Name for RU-KAM
@@ -16291,7 +16303,7 @@ msgstr "케냐"
 
 #. Name for RU-KB
 #, fuzzy
-msgid "Kabardino-Balkarskaja Respublika"
+msgid "Kabardino-Balkarskaya Respublika"
 msgstr "대한민국"
 
 #. Name for RU-KC
@@ -16301,46 +16313,46 @@ msgstr "대한민국"
 
 #. Name for RU-KDA
 #, fuzzy
-msgid "Krasnodarskij kraj"
+msgid "Krasnodarskiy kray"
 msgstr "캐나다"
 
 #. Name for RU-KEM
 #, fuzzy
-msgid "Kemerovskaja oblast'"
+msgid "Kemerovskaya oblast'"
 msgstr "캘리포니아"
 
 #. Name for RU-KGD
 #, fuzzy
-msgid "Kaliningradskaja oblast'"
+msgid "Kaliningradskaya oblast'"
 msgstr "캘리포니아"
 
 #. Name for RU-KGN
 #, fuzzy
-msgid "Kurganskaja oblast'"
+msgid "Kurganskaya oblast'"
 msgstr "캘리포니아"
 
 #. Name for RU-KHA
 #, fuzzy
-msgid "Habarovskij kraj"
+msgid "Khabarovskiy kray"
 msgstr "알라스카"
 
 #. Name for RU-KHM
-msgid "Hanty-Mansijskij avtonomnyj okrug"
+msgid "Khanty-Mansiyskiy avtonomnyy okrug"
 msgstr ""
 
 #. Name for RU-KIR
 #, fuzzy
-msgid "Kirovskaja oblast'"
+msgid "Kirovskaya oblast'"
 msgstr "캘리포니아"
 
 #. Name for RU-KK
 #, fuzzy
-msgid "Hakasija, Respublika"
+msgid "Khakasiya, Respublika"
 msgstr "대한민국"
 
 #. Name for RU-KL
 #, fuzzy
-msgid "Kalmykija, Respublika"
+msgid "Kalmykiya, Respublika"
 msgstr "대한민국"
 
 #. Name for RU-KLU
@@ -16354,51 +16366,53 @@ msgstr "도미니카 공화국"
 
 #. Name for RU-KOS
 #, fuzzy
-msgid "Kostromskaja oblast'"
+msgid "Kostromskaya oblast'"
 msgstr "캘리포니아"
 
 #. Name for RU-KR
 #, fuzzy
-msgid "Karelija, Respublika"
+msgid "Kareliya, Respublika"
 msgstr "대한민국"
 
 #. Name for RU-KRS
 #, fuzzy
-msgid "Kurskaja oblast'"
+msgid "Kurskaya oblast'"
 msgstr "캘리포니아"
 
 #. Name for RU-KYA
 #, fuzzy
-msgid "Krasnojarskij kraj"
+msgid "Krasnoyarskiy kray"
 msgstr "캐나다"
 
 #. Name for RU-LEN
 #, fuzzy
-msgid "Leningradskaja oblast'"
+msgid "Leningradskaya oblast'"
 msgstr "캘리포니아"
 
 #. Name for RU-LIP
-msgid "Lipeckaja oblast'"
-msgstr ""
+#, fuzzy
+msgid "Lipetskaya oblast'"
+msgstr "캘리포니아"
 
 #. Name for RU-MAG
 #, fuzzy
-msgid "Magadanskaja oblast'"
+msgid "Magadanskaya oblast'"
 msgstr "캘리포니아"
 
 #. Name for RU-ME
 #, fuzzy
-msgid "Marij Èl, Respublika"
+msgid "Mariy El, Respublika"
 msgstr "대한민국"
 
 #. Name for RU-MO
 #, fuzzy
-msgid "Mordovija, Respublika"
+msgid "Mordoviya, Respublika"
 msgstr "대한민국"
 
 #. Name for RU-MOS
-msgid "Moskovskaja oblast'"
-msgstr ""
+#, fuzzy
+msgid "Moskovskaya oblast'"
+msgstr "캘리포니아"
 
 #. Name for RU-MOW
 #, fuzzy
@@ -16407,16 +16421,16 @@ msgstr "몰도바"
 
 #. Name for RU-MUR
 #, fuzzy
-msgid "Murmanskaja oblast'"
+msgid "Murmanskaya oblast'"
 msgstr "캘리포니아"
 
 #. Name for RU-NEN
-msgid "Neneckij avtonomnyj okrug"
+msgid "Nenetskiy avtonomnyy okrug"
 msgstr ""
 
 #. Name for RU-NGR
 #, fuzzy
-msgid "Novgorodskaja oblast'"
+msgid "Novgorodskaya oblast'"
 msgstr "캘리포니아"
 
 #. Name for RU-NIZ
@@ -16425,50 +16439,52 @@ msgstr ""
 
 #. Name for RU-NVS
 #, fuzzy
-msgid "Novosibirskaja oblast'"
+msgid "Novosibirskaya oblast'"
 msgstr "캘리포니아"
 
 #. Name for RU-OMS
 #, fuzzy
-msgid "Omskaja oblast'"
+msgid "Omskaya oblast'"
 msgstr "캘리포니아"
 
 #. Name for RU-ORE
 #, fuzzy
-msgid "Orenburgskaja oblast'"
+msgid "Orenburgskaya oblast'"
 msgstr "캘리포니아"
 
 #. Name for RU-ORL
 #, fuzzy
-msgid "Orlovskaja oblast'"
+msgid "Orlovskaya oblast'"
 msgstr "캘리포니아"
 
 #. Name for RU-PER
 #, fuzzy
-msgid "Permskij kraj"
+msgid "Permskiy kray"
 msgstr "알라스카"
 
 #. Name for RU-PNZ
 #, fuzzy
-msgid "Penzenskaja oblast'"
+msgid "Penzenskaya oblast'"
 msgstr "캘리포니아"
 
 #. Name for RU-PRI
 #, fuzzy
-msgid "Primorskij kraj"
+msgid "Primorskiy kray"
 msgstr "알라스카"
 
 #. Name for RU-PSK
-msgid "Pskovskaja oblast'"
-msgstr ""
+#, fuzzy
+msgid "Pskovskaya oblast'"
+msgstr "캘리포니아"
 
 #. Name for RU-ROS
-msgid "Rostovskaja oblast'"
-msgstr ""
+#, fuzzy
+msgid "Rostovskaya oblast'"
+msgstr "캘리포니아"
 
 #. Name for RU-RYA
 #, fuzzy
-msgid "Rjazanskaja oblast'"
+msgid "Ryazanskaya oblast'"
 msgstr "캘리포니아"
 
 #. Name for RU-SA
@@ -16478,27 +16494,27 @@ msgstr "대한민국"
 
 #. Name for RU-SAK
 #, fuzzy
-msgid "Sahalinskaja oblast'"
+msgid "Sakhalinskaya oblast'"
 msgstr "캘리포니아"
 
 #. Name for RU-SAM
 #, fuzzy
-msgid "Samarskaja oblast'"
+msgid "Samarskaya oblast'"
 msgstr "캘리포니아"
 
 #. Name for RU-SAR
 #, fuzzy
-msgid "Saratovskaja oblast'"
+msgid "Saratovskaya oblast'"
 msgstr "캘리포니아"
 
 #. Name for RU-SE
 #, fuzzy
-msgid "Severnaja Osetija, Respublika"
+msgid "Severnaya Osetiya, Respublika"
 msgstr "대한민국"
 
 #. Name for RU-SMO
 #, fuzzy
-msgid "Smolenskaja oblast'"
+msgid "Smolenskaya oblast'"
 msgstr "캘리포니아"
 
 #. Name for RU-SPE
@@ -16507,12 +16523,12 @@ msgstr ""
 
 #. Name for RU-STA
 #, fuzzy
-msgid "Stavropol'skij kraj"
+msgid "Stavropol'skiy kray"
 msgstr "알라스카"
 
 #. Name for RU-SVE
 #, fuzzy
-msgid "Sverdlovskaja oblast'"
+msgid "Sverdlovskaya oblast'"
 msgstr "캘리포니아"
 
 #. Name for RU-TA
@@ -16522,22 +16538,22 @@ msgstr "타이완, 중화민국"
 
 #. Name for RU-TAM
 #, fuzzy
-msgid "Tambovskaja oblast'"
+msgid "Tambovskaya oblast'"
 msgstr "캘리포니아"
 
 #. Name for RU-TOM
 #, fuzzy
-msgid "Tomskaja oblast'"
+msgid "Tomskaya oblast'"
 msgstr "캘리포니아"
 
 #. Name for RU-TUL
 #, fuzzy
-msgid "Tul'skaja oblast'"
+msgid "Tul'skaya oblast'"
 msgstr "캘리포니아"
 
 #. Name for RU-TVE
 #, fuzzy
-msgid "Tverskaja oblast'"
+msgid "Tverskaya oblast'"
 msgstr "캘리포니아"
 
 #. Name for RU-TY
@@ -16547,32 +16563,32 @@ msgstr "대한민국"
 
 #. Name for RU-TYU
 #, fuzzy
-msgid "Tjumenskaja oblast'"
+msgid "Tyumenskaya oblast'"
 msgstr "캘리포니아"
 
 #. Name for RU-UD
 #, fuzzy
-msgid "Udmurtskaja Respublika"
+msgid "Udmurtskaya Respublika"
 msgstr "대한민국"
 
 #. Name for RU-ULY
 #, fuzzy
-msgid "Ul'janovskaja oblast'"
+msgid "Ul'yanovskaya oblast'"
 msgstr "캘리포니아"
 
 #. Name for RU-VGG
 #, fuzzy
-msgid "Volgogradskaja oblast'"
+msgid "Volgogradskaya oblast'"
 msgstr "캘리포니아"
 
 #. Name for RU-VLA
 #, fuzzy
-msgid "Vladimirskaja oblast'"
+msgid "Vladimirskaya oblast'"
 msgstr "캘리포니아"
 
 #. Name for RU-VLG
 #, fuzzy
-msgid "Vologodskaja oblast'"
+msgid "Vologodskaya oblast'"
 msgstr "캘리포니아"
 
 #. Name for RU-VOR
@@ -16580,21 +16596,23 @@ msgid "Voronezhskaya oblast'"
 msgstr ""
 
 #. Name for RU-YAN
-msgid "Jamalo-Neneckij avtonomnyj okrug"
+msgid "Yamalo-Nenetskiy avtonomnyy okrug"
 msgstr ""
 
 #. Name for RU-YAR
 #, fuzzy
-msgid "Jaroslavskaja oblast'"
+msgid "Yaroslavskaya oblast'"
 msgstr "캘리포니아"
 
 #. Name for RU-YEV
-msgid "Evrejskaja avtonomnaja oblast'"
-msgstr ""
+#, fuzzy
+msgid "Yevreyskaya avtonomnaya oblast'"
+msgstr "캘리포니아"
 
 #. Name for RU-ZAB
-msgid "Zabajkal'skij kraj"
-msgstr ""
+#, fuzzy
+msgid "Zabaykal'skiy kray"
+msgstr "케냐"
 
 #. Name for RW-01
 msgid "City of Kigali"
@@ -18924,12 +18942,11 @@ msgid "Ermera"
 msgstr "아일랜드"
 
 #. Name for TL-LA
-#, fuzzy
-msgid "Lautein"
-msgstr "말리"
+msgid "Lautém"
+msgstr ""
 
 #. Name for TL-LI
-msgid "Likisá"
+msgid "Liquiça"
 msgstr ""
 
 #. Name for TL-MF
@@ -18943,11 +18960,11 @@ msgid "Manatuto"
 msgstr "파라과이"
 
 #. Name for TL-OE
-msgid "Oekusi-Ambenu"
+msgid "Oé-Cusse Ambeno"
 msgstr ""
 
 #. Name for TL-VI
-msgid "Vikeke"
+msgid "Viqueque"
 msgstr ""
 
 #. Name for TM-A

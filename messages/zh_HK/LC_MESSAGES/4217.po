@@ -1,23 +1,22 @@
 # Translation of ISO 4217 to Chinese (Hong Kong)
 # Codes for the representation of currencies
 # .
-# This file is distributed under the same license as the iso-codes package.
+# SPDX-License-Identifier: LGPL-2.1-or-later
+# .
+# SPDX-FileCopyrightText: 2007, 2023 Abel Cheung <abelcheung@gmail.com>
+# SPDX-FileCopyrightText: 2019 Walter Cheuk <wwycheuk@gmail.com>
+# SPDX-FileCopyrightText: 2022 Jack Liu <ywp033319@gmail.com>
 # .
 # Notes:
 # The translation is taken from several sources:
 # - ICU source code
 # - Wikipedia
-# .
-# Copyright ©
-# Abel Cheung <abelcheung@gmail.com>, 2007, 2023.
-# Walter Cheuk <wwycheuk@gmail.com>, 2019.
-# Jack Liu <ywp033319@gmail.com>, 2022.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_4217\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2022-06-01 15:01+0200\n"
+"POT-Creation-Date: 2025-11-18 11:09+0100\n"
 "PO-Revision-Date: 2023-04-10 05:19+0000\n"
 "Last-Translator: Abel Cheung <abelcheung@gmail.com>\n"
 "Language-Team: Chinese (Traditional, Hong Kong) <https://hosted.weblate.org/"
@@ -44,10 +43,6 @@ msgstr "列克"
 #. Name for AMD
 msgid "Armenian Dram"
 msgstr "亞美尼亞德拉姆"
-
-#. Name for ANG
-msgid "Netherlands Antillean Guilder"
-msgstr "荷屬安的列斯盾"
 
 #. Name for AOA
 msgid "Kwanza"
@@ -177,10 +172,6 @@ msgstr ""
 msgid "Costa Rican Colon"
 msgstr "哥斯達黎加科郎"
 
-#. Name for CUC
-msgid "Peso Convertible"
-msgstr "古巴可兌換披索"
-
 #. Name for CUP
 msgid "Cuban Peso"
 msgstr "古巴披索"
@@ -272,10 +263,6 @@ msgstr "港元"
 #. Name for HNL
 msgid "Lempira"
 msgstr "倫皮拉"
-
-#. Name for HRK
-msgid "Kuna"
-msgstr "庫納"
 
 #. Name for HTG
 msgid "Gourde"
@@ -549,7 +536,7 @@ msgid "Saint Helena Pound"
 msgstr "聖赫勒拿島鎊"
 
 # (Abel) 國家名稱：Sierra Leone (塞拉利昂)
-#. Name for SLE, Name for SLL
+#. Name for SLE
 msgid "Leone"
 msgstr "利昂"
 
@@ -665,6 +652,12 @@ msgstr ""
 msgid "Tala"
 msgstr "塔拉"
 
+#. Name for XAD
+#, fuzzy
+#| msgid "Jordanian Dinar"
+msgid "Arab Accounting Dinar"
+msgstr "約旦元"
+
 #. Name for XAF
 msgid "CFA Franc BEAC"
 msgstr "中非法郎"
@@ -695,6 +688,12 @@ msgstr ""
 
 #. Name for XCD
 msgid "East Caribbean Dollar"
+msgstr "東加勒比元"
+
+#. Name for XCG
+#, fuzzy
+#| msgid "East Caribbean Dollar"
+msgid "Caribbean Guilder"
 msgstr "東加勒比元"
 
 #. Name for XDR
@@ -745,6 +744,8 @@ msgstr "蘭特"
 msgid "Zambian Kwacha"
 msgstr "贊比亞瓜查"
 
-#. Name for ZWL
-msgid "Zimbabwe Dollar"
+#. Name for ZWG
+#, fuzzy
+#| msgid "Zimbabwe Dollar"
+msgid "Zimbabwe Gold"
 msgstr "津巴布韋元"

@@ -2,19 +2,19 @@
 # Codes for the representation of names of languages
 # Part 2: Alpha-3 code
 # .
-# This file is distributed under the same license as the iso-codes package.
+# SPDX-License-Identifier: LGPL-2.1-or-later
 # .
-# Copyright ©
-# Fabio Tomat <f.t.public@gmail.com>, 2020, 2021.
-# adecorte <adecorte@gmail.com>, 2023.
+# SPDX-FileCopyrightText: 2020, 2021 Fabio Tomat <f.t.public@gmail.com>
+# SPDX-FileCopyrightText: 2023 adecorte <adecorte@gmail.com>
+# Fabio Tomat <f.t.public@gmail.com>, 2025.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_639-2\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2022-06-01 15:01+0200\n"
-"PO-Revision-Date: 2023-12-20 20:16+0000\n"
-"Last-Translator: adecorte <adecorte@gmail.com>\n"
+"POT-Creation-Date: 2025-11-18 11:09+0100\n"
+"PO-Revision-Date: 2025-11-26 11:51+0000\n"
+"Last-Translator: Fabio Tomat <f.t.public@gmail.com>\n"
 "Language-Team: Friulian <https://hosted.weblate.org/projects/iso-codes/"
 "iso-639-2/fur/>\n"
 "Language: fur\n"
@@ -22,7 +22,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.3\n"
+"X-Generator: Weblate 5.15-dev\n"
 
 #. Name for aar
 msgid "Afar"
@@ -245,8 +245,10 @@ msgid "Siksika"
 msgstr "Niitsítapi (Siksika)"
 
 #. Name for bnt
-msgid "Bantu (Other)"
-msgstr "Bantu (altre)"
+#, fuzzy
+#| msgid "Banda languages"
+msgid "Bantu languages"
+msgstr "Lenghis banda"
 
 #. Name for bod
 msgid "Tibetan"
@@ -448,14 +450,16 @@ msgstr "Delaware"
 
 #. Name for den
 msgid "Slave (Athapascan)"
-msgstr "Lenghe dai sclâfs (Athapasc)"
+msgstr "Slavey; Lenghe dai sclâfs (Athabasc)"
 
 #. Name for deu
 msgid "German"
 msgstr "Todesc"
 
 #. Name for dgr
-msgid "Dogrib"
+#, fuzzy
+#| msgid "Dogrib"
+msgid "Tlicho; Dogrib"
 msgstr "Tlicho"
 
 #. Name for din
@@ -1243,11 +1247,15 @@ msgid "Navajo; Navaho"
 msgstr "Navajo; Navaho"
 
 #. Name for nbl
-msgid "Ndebele, South; South Ndebele"
+#, fuzzy
+#| msgid "Ndebele, South; South Ndebele"
+msgid "South Ndebele"
 msgstr "Ndebele; Sud; Ndebele dal Sud"
 
 #. Name for nde
-msgid "Ndebele, North; North Ndebele"
+#, fuzzy
+#| msgid "Ndebele, North; North Ndebele"
+msgid "North Ndebele"
 msgstr "Ndebele, Nord; Ndebele dal Nord"
 
 #. Name for ndo
@@ -1263,7 +1271,9 @@ msgid "Nepali"
 msgstr "Nepalês"
 
 #. Name for new
-msgid "Nepal Bhasa; Newari"
+#, fuzzy
+#| msgid "Nepal Bhasa; Newari"
+msgid "Nepal Bhasa; Newar; Newari"
 msgstr "Nepal Bhasa; Newari"
 
 #. Name for nia
@@ -1283,12 +1293,16 @@ msgid "Dutch; Flemish"
 msgstr "Olandês; Flamant"
 
 #. Name for nno
-msgid "Norwegian Nynorsk; Nynorsk, Norwegian"
-msgstr "Nynorsk norvegjês; Nynorsk, Norvegjês"
+#, fuzzy
+#| msgid "Norwegian"
+msgid "Norwegian Nynorsk"
+msgstr "Norvegjês"
 
 #. Name for nob
-msgid "Bokmål, Norwegian; Norwegian Bokmål"
-msgstr "Bokmål, norvegjês ; Bokmål norvegjês"
+#, fuzzy
+#| msgid "Norwegian"
+msgid "Norwegian Bokmål"
+msgstr "Norvegjês"
 
 #. Name for nog
 msgid "Nogai"
@@ -1339,7 +1353,9 @@ msgid "Nzima"
 msgstr "Nzima"
 
 #. Name for oci
-msgid "Occitan (post 1500); Provençal"
+#, fuzzy
+#| msgid "Occitan (post 1500); Provençal"
+msgid "Occitan (post 1500)"
 msgstr "Ocitan (posteriôr 1500); Provençâl"
 
 #. Name for oji
@@ -1431,7 +1447,9 @@ msgid "Prakrit languages"
 msgstr "Lenghis pracritis"
 
 #. Name for pro
-msgid "Provençal, Old (to 1500)"
+#, fuzzy
+#| msgid "Provençal, Old (to 1500)"
+msgid "Provençal, Old (to 1500); Occitan, Old (to 1500)"
 msgstr "Provençâl antîc (fintal 1500)"
 
 #. Name for pus
@@ -1499,8 +1517,10 @@ msgid "Yakut"
 msgstr "Sacha; Yakute"
 
 #. Name for sai
-msgid "South American Indian (Other)"
-msgstr "Lenghis indianis de Americhe dal Sud (altris)"
+#, fuzzy
+#| msgid "North American Indian languages"
+msgid "South American Indian languages"
+msgstr "Lenghis indiandis de Americhe dal Nord"
 
 #. Name for sal
 msgid "Salishan languages"
@@ -1883,8 +1903,8 @@ msgid "Wakashan languages"
 msgstr "Lenghis wakashan"
 
 #. Name for wal
-msgid "Walamo"
-msgstr "Wolaytta; Walamo"
+msgid "Wolaitta; Wolaytta"
+msgstr ""
 
 #. Name for war
 msgid "Waray"

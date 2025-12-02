@@ -1,16 +1,15 @@
 # Translation of ISO 4217 to Kinyarwanda
 # Codes for the representation of currencies
 # .
-# This file is distributed under the same license as the iso-codes package.
+# SPDX-License-Identifier: LGPL-2.1-or-later
 # .
-# Copyright ©
-# Viateur MUGENZI <muvia@hotmail.com>, 2004.
+# SPDX-FileCopyrightText: 2004 Viateur MUGENZI <muvia@hotmail.com>
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_4217\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2022-06-01 15:01+0200\n"
+"POT-Creation-Date: 2025-11-18 11:09+0100\n"
 "PO-Revision-Date: 2004-11-15 15:00+0200\n"
 "Last-Translator: Steve Murphy <murf@e-tools.com>\n"
 "Language-Team: Kinyarwanda <translation-team-rw@lists.sourceforge.net>\n"
@@ -34,12 +33,6 @@ msgstr ""
 #. Name for AMD
 msgid "Armenian Dram"
 msgstr "Idiramu rya Arumeniya"
-
-#. Name for ANG
-#, fuzzy
-#| msgid "Netherlands Antillian Guilder"
-msgid "Netherlands Antillean Guilder"
-msgstr "Igwilida Antiye Nederilande"
 
 #. Name for AOA
 #, fuzzy
@@ -184,12 +177,6 @@ msgstr ""
 msgid "Costa Rican Colon"
 msgstr "Ikoloni rya Cosita Rika"
 
-#. Name for CUC
-#, fuzzy
-#| msgid "Convertible Marks"
-msgid "Peso Convertible"
-msgstr "Amamarike Ahindurwa"
-
 #. Name for CUP
 msgid "Cuban Peso"
 msgstr "Ipezo rya Kiba"
@@ -288,10 +275,6 @@ msgstr "Idolari Hongo Kongo"
 #, fuzzy
 msgid "Lempira"
 msgstr "Ilempira rya Hondurasi"
-
-#. Name for HRK
-msgid "Kuna"
-msgstr ""
 
 #. Name for HTG
 #, fuzzy
@@ -579,7 +562,7 @@ msgstr "Idolari rya Singapuru"
 msgid "Saint Helena Pound"
 msgstr "Ipawundi rya Mutagatifu Helena"
 
-#. Name for SLE, Name for SLL
+#. Name for SLE
 msgid "Leone"
 msgstr "Ilewone"
 
@@ -708,6 +691,12 @@ msgstr ""
 msgid "Tala"
 msgstr ""
 
+#. Name for XAD
+#, fuzzy
+#| msgid "Jordanian Dinar"
+msgid "Arab Accounting Dinar"
+msgstr "Idenari rya Yorudaniya"
+
 #. Name for XAF
 msgid "CFA Franc BEAC"
 msgstr "Ifaranga CFA BEAC"
@@ -743,6 +732,11 @@ msgstr "Urugero rwa konte Nyaburayi EUA"
 #. Name for XCD
 #, fuzzy
 msgid "East Caribbean Dollar"
+msgstr "Idolari rya Karayibe y'Uburasirazuba"
+
+#. Name for XCG
+#, fuzzy
+msgid "Caribbean Guilder"
 msgstr "Idolari rya Karayibe y'Uburasirazuba"
 
 #. Name for XDR
@@ -797,6 +791,8 @@ msgstr ""
 msgid "Zambian Kwacha"
 msgstr "Ikwaca rya Malawi"
 
-#. Name for ZWL
-msgid "Zimbabwe Dollar"
+#. Name for ZWG
+#, fuzzy
+#| msgid "Zimbabwe Dollar"
+msgid "Zimbabwe Gold"
 msgstr "Idolari rya Zimbabwe"

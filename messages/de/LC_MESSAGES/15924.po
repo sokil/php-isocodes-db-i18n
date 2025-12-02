@@ -1,23 +1,22 @@
 # Translation of ISO 15924 to German
 # Codes for the representation of names of scripts
 # .
-# This file is distributed under the same license as the iso-codes package.
+# SPDX-License-Identifier: LGPL-2.1-or-later
 # .
-# Copyright ©
-# Daniel Schury <Daniel.Schury@physik.uni-giessen.de>, 2011.
-# Hendrik Knackstedt <hendrik.knackstedt@t-online.de>, 2012.
-# Mario Blättermann <mario.blaettermann@gmail.com>, 2014.
-# Dr. Tobias Quathamer <toddy@debian.org>, 2007, 2012, 2016.
-# ssantos <ssantos@web.de>, 2018.
-# J. Lavoie <j.lavoie@net-c.ca>, 2020.
+# SPDX-FileCopyrightText: 2011 Daniel Schury <Daniel.Schury@physik.uni-giessen.de>
+# SPDX-FileCopyrightText: 2012 Hendrik Knackstedt <hendrik.knackstedt@t-online.de>
+# SPDX-FileCopyrightText: 2014 Mario Blättermann <mario.blaettermann@gmail.com>
+# SPDX-FileCopyrightText: 2007, 2012, 2016, 2025 Dr. Tobias Quathamer <toddy@debian.org>
+# SPDX-FileCopyrightText: 2018 ssantos <ssantos@web.de>
+# SPDX-FileCopyrightText: 2020 J. Lavoie <j.lavoie@net-c.ca>
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_15924\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2018-01-17 22:10+0100\n"
-"PO-Revision-Date: 2020-05-22 13:41+0000\n"
-"Last-Translator: J. Lavoie <j.lavoie@net-c.ca>\n"
+"POT-Creation-Date: 2025-11-18 11:09+0100\n"
+"PO-Revision-Date: 2025-10-14 23:32+0200\n"
+"Last-Translator: Tobias Quathamer <toddy@debian.org>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/iso-codes/"
 "iso-15924/de/>\n"
 "Language: de\n"
@@ -25,7 +24,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.1-dev\n"
+"X-Generator: Lokalize 25.04.0\n"
 
 #. Name for Adlm
 msgid "Adlam"
@@ -80,8 +79,12 @@ msgid "Batak"
 msgstr "Batakisch"
 
 #. Name for Beng
-msgid "Bengali"
-msgstr "Bengalisch"
+msgid "Bengali (Bangla)"
+msgstr "Bengalisch (Bangla)"
+
+#. Name for Berf
+msgid "Beria Erfe"
+msgstr "Beria Erfe"
 
 #. Name for Bhks
 msgid "Bhaiksuki"
@@ -131,6 +134,14 @@ msgstr "Cham"
 msgid "Cherokee"
 msgstr "Cherokee"
 
+#. Name for Chis
+msgid "Chisoi"
+msgstr "Chisoi"
+
+#. Name for Chrs
+msgid "Chorasmian"
+msgstr "Chorasmisch"
+
 #. Name for Cirt
 msgid "Cirth"
 msgstr "Cirth"
@@ -139,9 +150,13 @@ msgstr "Cirth"
 msgid "Coptic"
 msgstr "Koptisch"
 
+#. Name for Cpmn
+msgid "Cypro-Minoan"
+msgstr "Zypriotisch-Minoisch"
+
 #. Name for Cprt
-msgid "Cypriot"
-msgstr "Zypriotisch"
+msgid "Cypriot syllabary"
+msgstr "Zypriotische Silbenschrift"
 
 #. Name for Cyrl
 msgid "Cyrillic"
@@ -154,6 +169,14 @@ msgstr "Kyrillisch (Altkirchenslawische Variante)"
 #. Name for Deva
 msgid "Devanagari (Nagari)"
 msgstr "Devanagari (Nagari)"
+
+#. Name for Diak
+msgid "Dives Akuru"
+msgstr "Dives Akuru"
+
+#. Name for Dogr
+msgid "Dogra"
+msgstr "Dogra"
 
 #. Name for Dsrt
 msgid "Deseret (Mormon)"
@@ -179,21 +202,37 @@ msgstr "Ägyptische Hieroglyphen"
 msgid "Elbasan"
 msgstr "Elbasan"
 
+#. Name for Elym
+msgid "Elymaic"
+msgstr "Elymaisch"
+
 #. Name for Ethi
 msgid "Ethiopic (Geʻez)"
 msgstr "Äthiopisch (Geʻez)"
+
+#. Name for Gara
+msgid "Garay"
+msgstr "Garay"
 
 #. Name for Geok
 msgid "Khutsuri (Asomtavruli and Nuskhuri)"
 msgstr "Khutsuri (Asomtavruli und Nuskhuri)"
 
 #. Name for Geor
-msgid "Georgian (Mkhedruli)"
-msgstr "Georgisch (Mkhedruli)"
+msgid "Georgian (Mkhedruli and Mtavruli)"
+msgstr "Georgisch (Mkhedruli und Mtavruli)"
 
 #. Name for Glag
 msgid "Glagolitic"
 msgstr "Glagolitisch"
+
+#. Name for Gong
+msgid "Gunjala Gondi"
+msgstr "Gunjala Gondi"
+
+#. Name for Gonm
+msgid "Masaram Gondi"
+msgstr "Masaram Gondi"
 
 #. Name for Goth
 msgid "Gothic"
@@ -210,6 +249,10 @@ msgstr "Griechisch"
 #. Name for Gujr
 msgid "Gujarati"
 msgstr "Gujarati"
+
+#. Name for Gukh
+msgid "Gurung Khema"
+msgstr "Gurung Khema"
 
 #. Name for Guru
 msgid "Gurmukhi"
@@ -259,6 +302,14 @@ msgstr "Anatolische Hieroglyphen (Luwische und hethitische Hieroglyphen)"
 msgid "Pahawh Hmong"
 msgstr "Pahawh Hmong"
 
+#. Name for Hmnp
+msgid "Nyiakeng Puachue Hmong"
+msgstr "Nyiakeng Puachue Hmong"
+
+#. Name for Hntl
+msgid "Han (Traditional variant) with Latin (alias for Hant + Latn)"
+msgstr "Han (Traditionelle Variante) mit Lateinisch (Alias für Hant + Latn)"
+
 #. Name for Hrkt
 msgid "Japanese syllabaries (alias for Hiragana + Katakana)"
 msgstr "Japanische Syllabaries (Alias für Hiragana + Katakana)"
@@ -299,6 +350,10 @@ msgstr "Kayah Li"
 msgid "Katakana"
 msgstr "Katakana"
 
+#. Name for Kawi
+msgid "Kawi"
+msgstr "Kawi"
+
 #. Name for Khar
 msgid "Kharoshthi"
 msgstr "Kharoshthi"
@@ -330,6 +385,10 @@ msgstr "Koreanisch (Alias für Hangul + Han)"
 #. Name for Kpel
 msgid "Kpelle"
 msgstr "Kpelle"
+
+#. Name for Krai
+msgid "Kirat Rai"
+msgstr "Kirat Rai"
 
 #. Name for Kthi
 msgid "Kaithi"
@@ -395,6 +454,10 @@ msgstr "Lydisch"
 msgid "Mahajani"
 msgstr "Mahajani"
 
+#. Name for Maka
+msgid "Makasar"
+msgstr "Makasar"
+
 #. Name for Mand
 msgid "Mandaic, Mandaean"
 msgstr "Mandäisch"
@@ -410,6 +473,10 @@ msgstr "Marchen"
 #. Name for Maya
 msgid "Mayan hieroglyphs"
 msgstr "Maya-Hieroglyphen"
+
+#. Name for Medf
+msgid "Medefaidrin (Oberi Okaime, Oberi Ɔkaimɛ)"
+msgstr "Medefaidrin (Oberi Okaime, Oberi Ɔkaimɛ)"
 
 #. Name for Mend
 msgid "Mende Kikakui"
@@ -455,6 +522,14 @@ msgstr "Multani"
 msgid "Myanmar (Burmese)"
 msgstr "Myanmar (Burmesisch)"
 
+#. Name for Nagm
+msgid "Nag Mundari"
+msgstr "Nag Mundari"
+
+#. Name for Nand
+msgid "Nandinagari"
+msgstr "Nandinagari"
+
 #. Name for Narb
 msgid "Old North Arabian (Ancient North Arabian)"
 msgstr "Alt-Nordarabisch (Antikes Nordarabisch)"
@@ -467,9 +542,13 @@ msgstr "Nabatäisch"
 msgid "Newa, Newar, Newari, Nepāla lipi"
 msgstr "Newari"
 
+#. Name for Nkdb
+msgid "Naxi Dongba (na²¹ɕi³³ to³³ba²¹, Nakhi Tomba)"
+msgstr "Naxi Dongba (na²¹ɕi³³ to³³ba²¹, Nakhi Tomba)"
+
 #. Name for Nkgb
-msgid "Nakhi Geba ('Na-'Khi ²Ggŏ-¹baw, Naxi Geba)"
-msgstr "Nakhi Geba ('Na-'Khi ²Ggŏ-¹baw, Naxi Geba)"
+msgid "Naxi Geba (na²¹ɕi³³ gʌ²¹ba²¹, 'Na-'Khi ²Ggŏ-¹baw, Nakhi Geba)"
+msgstr "Naxi Geba (na²¹ɕi³³ gʌ²¹ba²¹, 'Na-'Khi ²Ggŏ-¹baw, Nakhi Geba)"
 
 #. Name for Nkoo
 msgid "N’Ko"
@@ -487,13 +566,17 @@ msgstr "Ogham"
 msgid "Ol Chiki (Ol Cemet’, Ol, Santali)"
 msgstr "Ol Chiki (Ol Cemet’, Ol, Santali)"
 
+#. Name for Onao
+msgid "Ol Onal"
+msgstr "Ol Onal"
+
 #. Name for Orkh
 msgid "Old Turkic, Orkhon Runic"
 msgstr "Alttürkisch (Orchon-Runen)"
 
 #. Name for Orya
-msgid "Oriya"
-msgstr "Oriya"
+msgid "Oriya (Odia)"
+msgstr "Oriya (Odia)"
 
 #. Name for Osge
 msgid "Osage"
@@ -503,6 +586,10 @@ msgstr "Osage"
 msgid "Osmanya"
 msgstr "Osmanisch"
 
+#. Name for Ougr
+msgid "Old Uyghur"
+msgstr "Old Uyghur"
+
 #. Name for Palm
 msgid "Palmyrene"
 msgstr "Palmyrenisch"
@@ -510,6 +597,14 @@ msgstr "Palmyrenisch"
 #. Name for Pauc
 msgid "Pau Cin Hau"
 msgstr "Pau Cin Hau"
+
+#. Name for Pcun
+msgid "Proto-Cuneiform"
+msgstr "Proto-Cuneiform"
+
+#. Name for Pelm
+msgid "Proto-Elamite"
+msgstr "Proto-Elamite"
 
 #. Name for Perm
 msgid "Old Permic"
@@ -547,6 +642,10 @@ msgstr "Miao (Pollard)"
 msgid "Inscriptional Parthian"
 msgstr "Inskriptionales Parthisch"
 
+#. Name for Psin
+msgid "Proto-Sinaitic"
+msgstr "Proto-Sinaitisch"
+
 #. Name for Qaaa
 msgid "Reserved for private use (start)"
 msgstr "Für private Nutzung reserviert (Beginn)"
@@ -555,9 +654,17 @@ msgstr "Für private Nutzung reserviert (Beginn)"
 msgid "Reserved for private use (end)"
 msgstr "Für private Nutzung reserviert (Ende)"
 
+#. Name for Ranj
+msgid "Ranjana"
+msgstr "Ranjana"
+
 #. Name for Rjng
 msgid "Rejang (Redjang, Kaganga)"
 msgstr "Rejang (Redjang, Kaganga)"
+
+#. Name for Rohg
+msgid "Hanifi Rohingya"
+msgstr "Hanifi Rohingya"
 
 #. Name for Roro
 msgid "Rongorongo"
@@ -583,6 +690,10 @@ msgstr "Alt-Südarabisch"
 msgid "Saurashtra"
 msgstr "Saurashtra"
 
+#. Name for Seal
+msgid "(Small) Seal"
+msgstr "(Kleines) Seal"
+
 #. Name for Sgnw
 msgid "SignWriting"
 msgstr "Gebärdensprache"
@@ -595,9 +706,17 @@ msgstr "Shaw-Alphabet"
 msgid "Sharada, Śāradā"
 msgstr "Sharada, Śāradā"
 
+#. Name for Shui
+msgid "Shuishu"
+msgstr "Shuishu"
+
 #. Name for Sidd
 msgid "Siddham, Siddhaṃ, Siddhamātṛkā"
 msgstr "Siddham, Siddhaṃ, Siddhamātṛkā"
+
+#. Name for Sidt
+msgid "Sidetic"
+msgstr "Sidetisch"
 
 #. Name for Sind
 msgid "Khudawadi, Sindhi"
@@ -607,13 +726,29 @@ msgstr "Khudawadi, Sindhi"
 msgid "Sinhala"
 msgstr "Singhalesisch"
 
+#. Name for Sogd
+msgid "Sogdian"
+msgstr "Sogdianisch"
+
+#. Name for Sogo
+msgid "Old Sogdian"
+msgstr "Alt-Sogdianisch"
+
 #. Name for Sora
 msgid "Sora Sompeng"
 msgstr "Sora Sompeng"
 
+#. Name for Soyo
+msgid "Soyombo"
+msgstr "Soyombo"
+
 #. Name for Sund
 msgid "Sundanese"
 msgstr "Sundanesisch"
+
+#. Name for Sunu
+msgid "Sunuwar"
+msgstr "Sunuwar"
 
 #. Name for Sylo
 msgid "Syloti Nagri"
@@ -663,6 +798,10 @@ msgstr "Tangutisch"
 msgid "Tai Viet"
 msgstr "Tai Viet"
 
+#. Name for Tayo
+msgid "Tai Yo"
+msgstr "Tai Yo"
+
 #. Name for Telu
 msgid "Telugu"
 msgstr "Telugu"
@@ -695,6 +834,26 @@ msgstr "Tibetisch"
 msgid "Tirhuta"
 msgstr "Tirhuta"
 
+#. Name for Tnsa
+msgid "Tangsa"
+msgstr "Tangsa"
+
+#. Name for Todr
+msgid "Todhri"
+msgstr "Todhri"
+
+#. Name for Tols
+msgid "Tolong Siki"
+msgstr "Tolong Siki"
+
+#. Name for Toto
+msgid "Toto"
+msgstr "Toto"
+
+#. Name for Tutg
+msgid "Tulu-Tigalari"
+msgstr "Tulu-Tigalari"
+
 #. Name for Ugar
 msgid "Ugaritic"
 msgstr "Ugaritisch"
@@ -707,9 +866,17 @@ msgstr "Vai"
 msgid "Visible Speech"
 msgstr "Visible Speech"
 
+#. Name for Vith
+msgid "Vithkuqi"
+msgstr "Vithkuqi"
+
 #. Name for Wara
 msgid "Warang Citi (Varang Kshiti)"
 msgstr "Warang Citi (Varang Kshiti)"
+
+#. Name for Wcho
+msgid "Wancho"
+msgstr "Wancho"
 
 #. Name for Wole
 msgid "Woleai"
@@ -723,9 +890,21 @@ msgstr "Altpersisch"
 msgid "Cuneiform, Sumero-Akkadian"
 msgstr "Cuneiform, Sumero-Akkadianisch"
 
+#. Name for Yezi
+msgid "Yezidi"
+msgstr "Yezidi"
+
 #. Name for Yiii
 msgid "Yi"
 msgstr "Yi"
+
+#. Name for Zanb
+msgid ""
+"Zanabazar Square (Zanabazarin Dörböljin Useg, Xewtee Dörböljin Bicig, "
+"Horizontal Square Script)"
+msgstr ""
+"Zanabazar Blockschrift (Zanabazarin Dörböljin Useg, Xewtee Dörböljin Bicig, "
+"Horizontale Blockschrift)"
 
 #. Name for Zinh
 msgid "Code for inherited script"

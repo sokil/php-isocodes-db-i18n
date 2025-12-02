@@ -1,25 +1,24 @@
 # Translation of ISO 4217 to French
 # Codes for the representation of currencies
 # .
-# This file is distributed under the same license as the iso-codes package.
+# SPDX-License-Identifier: LGPL-2.1-or-later
 # .
-# Copyright ©
-# Fabrice Bellet <Fabrice.Bellet@imag.fr>, 1999.
-# Vincent Renardias <vincent@ldsol.com>, 1998-2000.
-# Christophe Merlet (RedFox) <redfox@eikonex.org>, 2000-2001.
-# Olivier Jousselin <oj@marylou.fr>, 2001.
-# Alastair McKinstry <mckinstry@debian.org>, 2002.
-# Christian Perrier <bubulle@debian.org>, 2004-2007, 2010, 2015.
-# Alban Vidal <alban.vidal@zordhak.fr>, 2017.
-# J. Lavoie <j.lavoie@net-c.ca>, 2020.
-# ButterflyOfFire <ButterflyOfFire@protonmail.com>, 2022.
-# un_pogaz <un_pogaz@users.noreply.hosted.weblate.org>, 2023.
+# SPDX-FileCopyrightText: 1999 Fabrice Bellet <Fabrice.Bellet@imag.fr>
+# SPDX-FileCopyrightText: 1998-2000 Vincent Renardias <vincent@ldsol.com>
+# SPDX-FileCopyrightText: 2000-2001 Christophe Merlet (RedFox) <redfox@eikonex.org>
+# SPDX-FileCopyrightText: 2001 Olivier Jousselin <oj@marylou.fr>
+# SPDX-FileCopyrightText: 2002 Alastair McKinstry <mckinstry@debian.org>
+# SPDX-FileCopyrightText: 2004-2007, 2010, 2015 Christian Perrier <bubulle@debian.org>
+# SPDX-FileCopyrightText: 2017 Alban Vidal <alban.vidal@zordhak.fr>
+# SPDX-FileCopyrightText: 2020 J. Lavoie <j.lavoie@net-c.ca>
+# SPDX-FileCopyrightText: 2022 ButterflyOfFire <ButterflyOfFire@protonmail.com>
+# SPDX-FileCopyrightText: 2023 un_pogaz <un_pogaz@users.noreply.hosted.weblate.org>
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_4217\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2022-06-01 15:01+0200\n"
+"POT-Creation-Date: 2025-11-18 11:09+0100\n"
 "PO-Revision-Date: 2023-07-18 11:05+0000\n"
 "Last-Translator: un_pogaz <un_pogaz@users.noreply.hosted.weblate.org>\n"
 "Language-Team: French <https://hosted.weblate.org/projects/iso-codes/"
@@ -46,10 +45,6 @@ msgstr "Lek"
 #. Name for AMD
 msgid "Armenian Dram"
 msgstr "Dram arménien"
-
-#. Name for ANG
-msgid "Netherlands Antillean Guilder"
-msgstr "Florin des Antilles néerlandaises"
 
 #. Name for AOA
 msgid "Kwanza"
@@ -179,10 +174,6 @@ msgstr "Unité de valeur réelle"
 msgid "Costa Rican Colon"
 msgstr "Colón costaricain"
 
-#. Name for CUC
-msgid "Peso Convertible"
-msgstr "Peso convertible"
-
 #. Name for CUP
 msgid "Cuban Peso"
 msgstr "Peso cubain"
@@ -274,10 +265,6 @@ msgstr "Dollar de Hong-Kong"
 #. Name for HNL
 msgid "Lempira"
 msgstr "Lempira"
-
-#. Name for HRK
-msgid "Kuna"
-msgstr "Kuna"
 
 #. Name for HTG
 msgid "Gourde"
@@ -547,7 +534,7 @@ msgstr "Dollar singapourien"
 msgid "Saint Helena Pound"
 msgstr "Livre de Sainte-Hélène"
 
-#. Name for SLE, Name for SLL
+#. Name for SLE
 msgid "Leone"
 msgstr "Leone"
 
@@ -663,6 +650,12 @@ msgstr "Vatu"
 msgid "Tala"
 msgstr "Tala"
 
+#. Name for XAD
+#, fuzzy
+#| msgid "Jordanian Dinar"
+msgid "Arab Accounting Dinar"
+msgstr "Dinar jordanien"
+
 #. Name for XAF
 msgid "CFA Franc BEAC"
 msgstr "Franc CFA (BEAC)"
@@ -698,6 +691,12 @@ msgstr ""
 
 #. Name for XCD
 msgid "East Caribbean Dollar"
+msgstr "Dollar des Caraïbes orientales"
+
+#. Name for XCG
+#, fuzzy
+#| msgid "East Caribbean Dollar"
+msgid "Caribbean Guilder"
 msgstr "Dollar des Caraïbes orientales"
 
 #. Name for XDR
@@ -748,6 +747,8 @@ msgstr "Rand"
 msgid "Zambian Kwacha"
 msgstr "Kwacha zambien"
 
-#. Name for ZWL
-msgid "Zimbabwe Dollar"
+#. Name for ZWG
+#, fuzzy
+#| msgid "Zimbabwe Dollar"
+msgid "Zimbabwe Gold"
 msgstr "Dollar zimbabwéen"

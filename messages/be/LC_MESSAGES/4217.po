@@ -1,16 +1,15 @@
 # Translation of ISO 4217 to Belarusian
 # Codes for the representation of currencies
 # .
-# This file is distributed under the same license as the iso-codes package.
+# SPDX-License-Identifier: LGPL-2.1-or-later
 # .
-# Copyright ©
-# Viktar Vauchkevich <victorenator@gmail.com>, 2022.
+# SPDX-FileCopyrightText: 2022 Viktar Vauchkevich <victorenator@gmail.com>
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_4217\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2022-06-01 15:01+0200\n"
+"POT-Creation-Date: 2025-11-18 11:09+0100\n"
 "PO-Revision-Date: 2022-10-17 00:54+0000\n"
 "Last-Translator: Viktar Vauchkevich <victorenator@gmail.com>\n"
 "Language-Team: Belarusian <https://hosted.weblate.org/projects/iso-codes/"
@@ -38,10 +37,6 @@ msgstr "Лек"
 #. Name for AMD
 msgid "Armenian Dram"
 msgstr "Армянскі драм"
-
-#. Name for ANG
-msgid "Netherlands Antillean Guilder"
-msgstr "Нідэрландскі антыльскі гульдэн"
 
 #. Name for AOA
 msgid "Kwanza"
@@ -171,10 +166,6 @@ msgstr "Адінка фактычнай вартасці Калумбіі"
 msgid "Costa Rican Colon"
 msgstr "Кастарыканскі калон"
 
-#. Name for CUC
-msgid "Peso Convertible"
-msgstr "Кубінскае канверсоўнае песа"
-
 #. Name for CUP
 msgid "Cuban Peso"
 msgstr "Кубінскае песа"
@@ -266,10 +257,6 @@ msgstr "Ганконгскі долар"
 #. Name for HNL
 msgid "Lempira"
 msgstr "Лемпіра"
-
-#. Name for HRK
-msgid "Kuna"
-msgstr "Куна"
 
 #. Name for HTG
 msgid "Gourde"
@@ -539,7 +526,7 @@ msgstr "Сінгапурскі долар"
 msgid "Saint Helena Pound"
 msgstr "Фунт Святой Алены"
 
-#. Name for SLE, Name for SLL
+#. Name for SLE
 msgid "Leone"
 msgstr "Леонэ"
 
@@ -655,6 +642,12 @@ msgstr "Вату"
 msgid "Tala"
 msgstr "Тала"
 
+#. Name for XAD
+#, fuzzy
+#| msgid "Jordanian Dinar"
+msgid "Arab Accounting Dinar"
+msgstr "Іарданскі дынар"
+
 #. Name for XAF
 msgid "CFA Franc BEAC"
 msgstr "Франк КФА"
@@ -685,6 +678,12 @@ msgstr "Еўрапейская разліковая адзінка 17 рынку
 
 #. Name for XCD
 msgid "East Caribbean Dollar"
+msgstr "Усходнекарыбскі долар"
+
+#. Name for XCG
+#, fuzzy
+#| msgid "East Caribbean Dollar"
+msgid "Caribbean Guilder"
 msgstr "Усходнекарыбскі долар"
 
 #. Name for XDR
@@ -735,6 +734,8 @@ msgstr "Ранд"
 msgid "Zambian Kwacha"
 msgstr "Замбійская квача"
 
-#. Name for ZWL
-msgid "Zimbabwe Dollar"
+#. Name for ZWG
+#, fuzzy
+#| msgid "Zimbabwe Dollar"
+msgid "Zimbabwe Gold"
 msgstr "Зімбабвійскі долар"

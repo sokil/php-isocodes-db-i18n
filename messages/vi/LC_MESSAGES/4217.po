@@ -1,16 +1,15 @@
 # Translation of ISO 4217 to Vietnamese
 # Codes for the representation of currencies
 # .
-# This file is distributed under the same license as the iso-codes package.
+# SPDX-License-Identifier: LGPL-2.1-or-later
 # .
-# Copyright ©
-# Clytie Siddall <clytie@riverland.net.au>, 2005-2009.
+# SPDX-FileCopyrightText: 2005-2009 Clytie Siddall <clytie@riverland.net.au>
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_4217\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2022-06-01 15:01+0200\n"
+"POT-Creation-Date: 2025-11-18 11:09+0100\n"
 "PO-Revision-Date: 2013-08-18 00:06+0100\n"
 "Last-Translator: Hai-Nam Nguyen <hainam@jcisio.com>\n"
 "Language-Team: The MOST project <du-an-most@lists.hanoilug.org>\n"
@@ -36,12 +35,6 @@ msgstr "Đồng Léc"
 #. Name for AMD
 msgid "Armenian Dram"
 msgstr "Đồng Đơ-ram Ac-mê-ni"
-
-#. Name for ANG
-#, fuzzy
-#| msgid "Netherlands Antillian Guilder"
-msgid "Netherlands Antillean Guilder"
-msgstr "Đồng guin-đơn An-ti-li Hòa Lan"
 
 #. Name for AOA
 msgid "Kwanza"
@@ -183,12 +176,6 @@ msgstr ""
 msgid "Costa Rican Colon"
 msgstr "Đồng Co-lon Cốt-x-tha Ri-ca"
 
-#. Name for CUC
-#, fuzzy
-#| msgid "Convertible Marks"
-msgid "Peso Convertible"
-msgstr "Đồng Mác có thể chuyển đổi"
-
 #. Name for CUP
 msgid "Cuban Peso"
 msgstr "Đồng Pê-sô Cu-ba"
@@ -284,10 +271,6 @@ msgstr "Đô-la Hồng Kông"
 #. Name for HNL
 msgid "Lempira"
 msgstr "Đồng Lem-pi-ra"
-
-#. Name for HRK
-msgid "Kuna"
-msgstr ""
 
 #. Name for HTG
 msgid "Gourde"
@@ -563,7 +546,7 @@ msgstr "Đô-la Xin-ga-po"
 msgid "Saint Helena Pound"
 msgstr "Đồng Bảng Xan He-le-na"
 
-#. Name for SLE, Name for SLL
+#. Name for SLE
 msgid "Leone"
 msgstr "Đồng Le-ô-ne"
 
@@ -687,6 +670,12 @@ msgstr "Đồng Va-tu"
 msgid "Tala"
 msgstr "Đồng Ta-la"
 
+#. Name for XAD
+#, fuzzy
+#| msgid "Jordanian Dinar"
+msgid "Arab Accounting Dinar"
+msgstr "Đồng Đi-nă Gi-oa-đanh"
+
 #. Name for XAF
 msgid "CFA Franc BEAC"
 msgstr "Đồng Frăng CFA BEAC"
@@ -725,6 +714,12 @@ msgstr "Đơn vị của tài khoản châu Âu 17 (E.U.A.-17)"
 
 #. Name for XCD
 msgid "East Caribbean Dollar"
+msgstr "Đô-la Đông Ca-rib"
+
+#. Name for XCG
+#, fuzzy
+#| msgid "East Caribbean Dollar"
+msgid "Caribbean Guilder"
 msgstr "Đô-la Đông Ca-rib"
 
 #. Name for XDR
@@ -779,6 +774,8 @@ msgstr "Đồng Ran-đợ"
 msgid "Zambian Kwacha"
 msgstr "Đồng Cơ-ouă-cha Dăm-bi-a"
 
-#. Name for ZWL
-msgid "Zimbabwe Dollar"
+#. Name for ZWG
+#, fuzzy
+#| msgid "Zimbabwe Dollar"
+msgid "Zimbabwe Gold"
 msgstr "Đô-la Xim-ba-bui"

@@ -1,17 +1,16 @@
 # Translation of ISO 4217 to Latvian
 # Codes for the representation of currencies
 # .
-# This file is distributed under the same license as the iso-codes package.
+# SPDX-License-Identifier: LGPL-2.1-or-later
 # .
-# Copyright ©
-# Rihards Priedītis <rprieditis@gmail.com>, 2011.
-# Rūdolfs Mazurs <rudolfs.mazurs@gmail.com>, 2011.
+# SPDX-FileCopyrightText: 2011 Rihards Priedītis <rprieditis@gmail.com>
+# SPDX-FileCopyrightText: 2011 Rūdolfs Mazurs <rudolfs.mazurs@gmail.com>
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_4217\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2022-06-01 15:01+0200\n"
+"POT-Creation-Date: 2025-11-18 11:09+0100\n"
 "PO-Revision-Date: 2011-09-01 23:56+0300\n"
 "Last-Translator: Rihards Priedītis <rprieditis@gmail.com>\n"
 "Language-Team: Latvian <translation-team-lv@lists.sourceforge.net>\n"
@@ -38,12 +37,6 @@ msgstr "Leks"
 #. Name for AMD
 msgid "Armenian Dram"
 msgstr "Armēņu drams"
-
-#. Name for ANG
-#, fuzzy
-#| msgid "Netherlands Antillian Guilder"
-msgid "Netherlands Antillean Guilder"
-msgstr "Nīderlandes Antiļu guldenis"
 
 #. Name for AOA
 msgid "Kwanza"
@@ -185,12 +178,6 @@ msgstr ""
 msgid "Costa Rican Colon"
 msgstr "Kostarikas kolons"
 
-#. Name for CUC
-#, fuzzy
-#| msgid "Convertible Marks"
-msgid "Peso Convertible"
-msgstr "Konvertējamā marka"
-
 #. Name for CUP
 msgid "Cuban Peso"
 msgstr "Kubas peso"
@@ -286,10 +273,6 @@ msgstr "Honkongas dolārs"
 #. Name for HNL
 msgid "Lempira"
 msgstr "Lempīra"
-
-#. Name for HRK
-msgid "Kuna"
-msgstr ""
 
 #. Name for HTG
 msgid "Gourde"
@@ -565,7 +548,7 @@ msgstr "Singapūras dolārs"
 msgid "Saint Helena Pound"
 msgstr "Svētās Helēnas salas mārciņa"
 
-#. Name for SLE, Name for SLL
+#. Name for SLE
 msgid "Leone"
 msgstr "Leone"
 
@@ -689,6 +672,12 @@ msgstr "Vatu"
 msgid "Tala"
 msgstr "Tala"
 
+#. Name for XAD
+#, fuzzy
+#| msgid "Jordanian Dinar"
+msgid "Arab Accounting Dinar"
+msgstr "Jordānijas dinārs"
+
 #. Name for XAF
 msgid "CFA Franc BEAC"
 msgstr "Centrālāfrikas CFA franks"
@@ -727,6 +716,12 @@ msgstr "Eiropas konta vienība 17 (E.U.A.-17)"
 
 #. Name for XCD
 msgid "East Caribbean Dollar"
+msgstr "Austrumkarību dolārs"
+
+#. Name for XCG
+#, fuzzy
+#| msgid "East Caribbean Dollar"
+msgid "Caribbean Guilder"
 msgstr "Austrumkarību dolārs"
 
 #. Name for XDR
@@ -781,6 +776,8 @@ msgstr "Rands"
 msgid "Zambian Kwacha"
 msgstr "Zambijas kvača"
 
-#. Name for ZWL
-msgid "Zimbabwe Dollar"
+#. Name for ZWG
+#, fuzzy
+#| msgid "Zimbabwe Dollar"
+msgid "Zimbabwe Gold"
 msgstr "Zimbabves dolārs"

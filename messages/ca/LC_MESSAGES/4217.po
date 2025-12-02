@@ -1,7 +1,16 @@
 # Translation of ISO 4217 to Catalan; Valencian
 # Codes for the representation of currencies
 # .
-# This file is distributed under the same license as the iso-codes package.
+# SPDX-License-Identifier: LGPL-2.1-or-later
+# .
+# SPDX-FileCopyrightText: 2001 Alastair McKinstry <mckinstry@debian.org>
+# SPDX-FileCopyrightText: 2000-2001 Softcatalà <info@softcatala.org>
+# SPDX-FileCopyrightText: 2017 Jordi Mas i Hernàndez <jmas@softcatala.org>
+# SPDX-FileCopyrightText: 2019 Joan Montané <joan@montane.cat>
+# SPDX-FileCopyrightText: 2022 Sergi Almacellas Abellana <sergi@koolpi.com>
+# SPDX-FileCopyrightText: 2023 d <dmanye@gmail.com>
+# SPDX-FileCopyrightText: 2024 Joan Montané <jmontane@gmail.com>
+# SPDX-FileCopyrightText: 2024, 2025 "Josep M. Ferrer" <txemaq@gmail.com>
 # .
 # Notes:
 # Existeix una gran varació en la manera d'anomenar monedes en totes les llengües.
@@ -10,23 +19,13 @@
 # .
 # 1. El diccionari en línia Monedes del món del TERMCAT
 # 2. Nom de monedes en català usades als locale del CLDR (Unicode Common Locale Data Repository)
-# .
-# Copyright ©
-# Alastair McKinstry <mckinstry@debian.org>, 2001.
-# Softcatalà <info@softcatala.org>, 2000-2001.
-# Jordi Mas i Hernàndez <jmas@softcatala.org>, 2017.
-# Joan Montané <joan@montane.cat>, 2019.
-# Sergi Almacellas Abellana <sergi@koolpi.com>, 2022.
-# d <dmanye@gmail.com>, 2023.
-# Joan Montané <jmontane@gmail.com>, 2024.
-# "Josep M. Ferrer" <txemaq@gmail.com>, 2024.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_4217\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2022-06-01 15:01+0200\n"
-"PO-Revision-Date: 2024-09-15 21:09+0000\n"
+"POT-Creation-Date: 2025-11-18 11:09+0100\n"
+"PO-Revision-Date: 2025-10-16 03:08+0000\n"
 "Last-Translator: \"Josep M. Ferrer\" <txemaq@gmail.com>\n"
 "Language-Team: Catalan <https://hosted.weblate.org/projects/iso-codes/"
 "iso-4217/ca/>\n"
@@ -35,7 +34,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.8-dev\n"
+"X-Generator: Weblate 5.14-dev\n"
 "X-Bugs: Report translation errors to the Language-Team address.\n"
 
 #. Name for AED
@@ -53,10 +52,6 @@ msgstr "Lek"
 #. Name for AMD
 msgid "Armenian Dram"
 msgstr "Dram armeni"
-
-#. Name for ANG
-msgid "Netherlands Antillean Guilder"
-msgstr "Florí de les Antilles Neerlandeses"
 
 #. Name for AOA
 msgid "Kwanza"
@@ -186,10 +181,6 @@ msgstr "Unidad de valor real"
 msgid "Costa Rican Colon"
 msgstr "Colon costa-riqueny"
 
-#. Name for CUC
-msgid "Peso Convertible"
-msgstr "Peso convertible"
-
 #. Name for CUP
 msgid "Cuban Peso"
 msgstr "Peso cubà"
@@ -281,11 +272,6 @@ msgstr "Dòlar de Hong Kong"
 #. Name for HNL
 msgid "Lempira"
 msgstr "Lempira"
-
-# Article Q221128 (label)
-#. Name for HRK
-msgid "Kuna"
-msgstr "Kuna"
 
 #. Name for HTG
 msgid "Gourde"
@@ -555,7 +541,7 @@ msgstr "Dòlar de Singapur"
 msgid "Saint Helena Pound"
 msgstr "Lliura de Santa Helena"
 
-#. Name for SLE, Name for SLL
+#. Name for SLE
 msgid "Leone"
 msgstr "Leone"
 
@@ -671,6 +657,10 @@ msgstr "Vatu"
 msgid "Tala"
 msgstr "Tala"
 
+#. Name for XAD
+msgid "Arab Accounting Dinar"
+msgstr "Dinar de comptabilitat àrab"
+
 #. Name for XAF
 msgid "CFA Franc BEAC"
 msgstr "Franc CFA de la BEAC"
@@ -702,6 +692,10 @@ msgstr "Unitat de compte europea 17 (UCE-17)"
 #. Name for XCD
 msgid "East Caribbean Dollar"
 msgstr "Dòlar del Carib Oriental"
+
+#. Name for XCG
+msgid "Caribbean Guilder"
+msgstr "Florí del Carib"
 
 #. Name for XDR
 msgid "SDR (Special Drawing Right)"
@@ -751,6 +745,6 @@ msgstr "Rand"
 msgid "Zambian Kwacha"
 msgstr "Kwacha zambià"
 
-#. Name for ZWL
-msgid "Zimbabwe Dollar"
-msgstr "Dòlar de Zimbàbue"
+#. Name for ZWG
+msgid "Zimbabwe Gold"
+msgstr "Or de Zimbàbue"

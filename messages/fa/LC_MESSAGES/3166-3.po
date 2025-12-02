@@ -2,31 +2,34 @@
 # Codes for the representation of names of countries and their subdivisions
 # Part 3: Code for formerly used names of countries
 # .
-# This file is distributed under the same license as the iso-codes package.
+# SPDX-License-Identifier: LGPL-2.1-or-later
 # .
-# Copyright ©
-# FarsiKDE Team <info@farsikde.org>
-# Alastair McKinstry <mckinstry@debian.org>, 2001.
+# SPDX-FileCopyrightText: FarsiKDE Team <info@farsikde.org>
+# SPDX-FileCopyrightText: 2001 Alastair McKinstry <mckinstry@debian.org>
+# SPDX-FileCopyrightText: 2025 bgo-eiu <huyaqoob+toolforge@gmail.com>
 msgid ""
 msgstr ""
 "Project-Id-Version: fa\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2023-02-24 21:26+0100\n"
-"PO-Revision-Date: 2013-02-18 01:20+0330\n"
-"Last-Translator: Behrad Eslamifar <behrad_es@yahoo.com>\n"
-"Language-Team: debian-l10n-persian <debian-l10n-persian@lists.debian.org>\n"
+"POT-Creation-Date: 2025-11-18 11:09+0100\n"
+"PO-Revision-Date: 2025-11-07 17:51+0000\n"
+"Last-Translator: bgo-eiu <huyaqoob+toolforge@gmail.com>\n"
+"Language-Team: Persian <https://hosted.weblate.org/projects/iso-codes/"
+"iso-3166-3/fa/>\n"
 "Language: fa\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 5.15-dev\n"
 "X-Poedit-Language: Persian\n"
 "X-Poedit-Country: IRAN, ISLAMIC REPUBLIC OF\n"
 "X-Poedit-SourceCharset: utf-8\n"
 
 #. Name for AIDJ
 msgid "French Afars and Issas"
-msgstr "French Afars and Issas"
+msgstr ""
 
 #. Name for ANHH
 msgid "Netherlands Antilles"
@@ -94,7 +97,7 @@ msgstr "جزایر هیبرید"
 
 #. Name for NQAQ
 msgid "Dronning Maud Land"
-msgstr "Dronning Maud Land"
+msgstr ""
 
 #. Name for NTHH
 msgid "Neutral Zone"

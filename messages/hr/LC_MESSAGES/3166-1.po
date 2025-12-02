@@ -2,23 +2,22 @@
 # Codes for the representation of names of countries and their subdivisions
 # Part 1: Country codes
 # .
-# This file is distributed under the same license as the iso-codes package.
+# SPDX-License-Identifier: LGPL-2.1-or-later
 # .
-# Copyright ©
-# Vlatko Kosturjak <kost@iname.com>, 2001.
-# Krunoslav Gernhard <kruno@linux.hr>, 2004.
-# Josip Rodin <joy@debian.org>, 2008.
-# Tomislav Krznar <tomislav.krznar@gmail.com>, 2012-2013.
-# Božidar Putanec <bozidarp@yahoo.com>, 2017.
-# Milo Ivir <mail@milotype.de>, 2019, 2020, 2021, 2022.
-# gogogogi <trebelnik2@gmail.com>, 2020.
-# Valentin Vidić <vvidic@valentin-vidic.from.hr>, 2025.
+# SPDX-FileCopyrightText: 2001 Vlatko Kosturjak <kost@iname.com>
+# SPDX-FileCopyrightText: 2004 Krunoslav Gernhard <kruno@linux.hr>
+# SPDX-FileCopyrightText: 2008 Josip Rodin <joy@debian.org>
+# SPDX-FileCopyrightText: 2012-2013 Tomislav Krznar <tomislav.krznar@gmail.com>
+# SPDX-FileCopyrightText: 2017 Božidar Putanec <bozidarp@yahoo.com>
+# SPDX-FileCopyrightText: 2019, 2020, 2021, 2022 Milo Ivir <mail@milotype.de>
+# SPDX-FileCopyrightText: 2020 gogogogi <trebelnik2@gmail.com>
+# SPDX-FileCopyrightText: 2025 Valentin Vidić <vvidic@valentin-vidic.from.hr>
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-1\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2023-02-24 21:26+0100\n"
+"POT-Creation-Date: 2025-11-18 11:09+0100\n"
 "PO-Revision-Date: 2025-03-10 00:55+0000\n"
 "Last-Translator: Valentin Vidić <vvidic@valentin-vidic.from.hr>\n"
 "Language-Team: Croatian <https://hosted.weblate.org/projects/iso-codes/"

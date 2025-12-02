@@ -1,18 +1,17 @@
 # Translation of ISO 4217 to Irish
 # Codes for the representation of currencies
 # .
-# This file is distributed under the same license as the iso-codes package.
+# SPDX-License-Identifier: LGPL-2.1-or-later
 # .
-# Copyright ©
-# Alastair McKinstry <mckinstry@debian.org>, 2002.
-# Aindriú Mac Giolla Eoin <aindriu80@gmail.com>, 2024.
+# SPDX-FileCopyrightText: 2002 Alastair McKinstry <mckinstry@debian.org>
+# SPDX-FileCopyrightText: 2024, 2025 Aindriú Mac Giolla Eoin <aindriu80@gmail.com>
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_4217\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2022-06-01 15:01+0200\n"
-"PO-Revision-Date: 2024-09-14 10:13+0000\n"
+"POT-Creation-Date: 2025-11-18 11:09+0100\n"
+"PO-Revision-Date: 2025-10-14 21:22+0000\n"
 "Last-Translator: Aindriú Mac Giolla Eoin <aindriu80@gmail.com>\n"
 "Language-Team: Irish <https://hosted.weblate.org/projects/iso-codes/iso-4217/"
 "ga/>\n"
@@ -22,7 +21,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=5; plural=n==1 ? 0 : n==2 ? 1 : (n>2 && n<7) ? 2 :"
 "(n>6 && n<11) ? 3 : 4;\n"
-"X-Generator: Weblate 5.8-dev\n"
+"X-Generator: Weblate 5.14-dev\n"
 
 #. Name for AED
 msgid "UAE Dirham"
@@ -39,10 +38,6 @@ msgstr "Leic"
 #. Name for AMD
 msgid "Armenian Dram"
 msgstr "Dram Airméanach"
-
-#. Name for ANG
-msgid "Netherlands Antillean Guilder"
-msgstr "Guilder Antillean na hÍsiltíre"
 
 #. Name for AOA
 msgid "Kwanza"
@@ -172,10 +167,6 @@ msgstr "Unidad de Valor Real"
 msgid "Costa Rican Colon"
 msgstr "Colon Chósta Ríce"
 
-#. Name for CUC
-msgid "Peso Convertible"
-msgstr "Peso chomhshóite"
-
 #. Name for CUP
 msgid "Cuban Peso"
 msgstr "Peso Cúba"
@@ -267,10 +258,6 @@ msgstr "Dollar Hong Cong"
 #. Name for HNL
 msgid "Lempira"
 msgstr "Lempira"
-
-#. Name for HRK
-msgid "Kuna"
-msgstr "Kuna"
 
 #. Name for HTG
 msgid "Gourde"
@@ -540,7 +527,7 @@ msgstr "Dollar Siombábach"
 msgid "Saint Helena Pound"
 msgstr "Punt San Héilin"
 
-#. Name for SLE, Name for SLL
+#. Name for SLE
 msgid "Leone"
 msgstr "Leon"
 
@@ -656,6 +643,10 @@ msgstr "Vatú"
 msgid "Tala"
 msgstr "Tala"
 
+#. Name for XAD
+msgid "Arab Accounting Dinar"
+msgstr "Dinar Cuntasaíochta Arabach"
+
 #. Name for XAF
 msgid "CFA Franc BEAC"
 msgstr "CFA Franc BEAC"
@@ -687,6 +678,10 @@ msgstr "An tAonad um Margaí Bannaí An tAonad Eorpach Cuntas 17 (E.U.A.-17)"
 #. Name for XCD
 msgid "East Caribbean Dollar"
 msgstr "Dollar na Cairibe Thoir"
+
+#. Name for XCG
+msgid "Caribbean Guilder"
+msgstr "Guilder Cairibeach"
 
 #. Name for XDR
 msgid "SDR (Special Drawing Right)"
@@ -737,6 +732,6 @@ msgstr "Rand"
 msgid "Zambian Kwacha"
 msgstr "Kwacha na Saimbia"
 
-#. Name for ZWL
-msgid "Zimbabwe Dollar"
-msgstr "Dollar Siombábach"
+#. Name for ZWG
+msgid "Zimbabwe Gold"
+msgstr "Ór na Siombáibe"

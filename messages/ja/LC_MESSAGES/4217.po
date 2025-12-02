@@ -1,23 +1,22 @@
 # Translation of ISO 4217 to Japanese
 # Codes for the representation of currencies
 # .
-# This file is distributed under the same license as the iso-codes package.
+# SPDX-License-Identifier: LGPL-2.1-or-later
 # .
-# Copyright ©
-# Mitsuo Hamada <mhamada@redhat.com>, 2000.
-# Mitsuru Oka <mitsu-o@is.aist-nara.ac.jp>, 1998-2000.
-# Takeshi Aihana <aihana@gnome.gr.jp>, 2000-2001.
-# Yukihiro Nakai <nakai@gnome.gr.jp>, 2000-2001.
-# Alastair McKinstry <mckinstry@debian.org>, 2002.
-# IIDA Yosiaki <iida@gnu.org>, 2004.
-# Yasuaki Taniguchi <yasuakit@gmail.com>, 2010.
-# TANIGUCHI Yasuaki <yasuakit+weblate@gmail.com>, 2021.
+# SPDX-FileCopyrightText: 2000 Mitsuo Hamada <mhamada@redhat.com>
+# SPDX-FileCopyrightText: 1998-2000 Mitsuru Oka <mitsu-o@is.aist-nara.ac.jp>
+# SPDX-FileCopyrightText: 2000-2001 Takeshi Aihana <aihana@gnome.gr.jp>
+# SPDX-FileCopyrightText: 2000-2001 Yukihiro Nakai <nakai@gnome.gr.jp>
+# SPDX-FileCopyrightText: 2002 Alastair McKinstry <mckinstry@debian.org>
+# SPDX-FileCopyrightText: 2004 IIDA Yosiaki <iida@gnu.org>
+# SPDX-FileCopyrightText: 2010 Yasuaki Taniguchi <yasuakit@gmail.com>
+# SPDX-FileCopyrightText: 2021 TANIGUCHI Yasuaki <yasuakit+weblate@gmail.com>
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_4217\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2022-06-01 15:01+0200\n"
+"POT-Creation-Date: 2025-11-18 11:09+0100\n"
 "PO-Revision-Date: 2021-08-04 17:47+0000\n"
 "Last-Translator: TANIGUCHI Yasuaki <yasuakit+weblate@gmail.com>\n"
 "Language-Team: Japanese <https://hosted.weblate.org/projects/iso-codes/"
@@ -48,10 +47,6 @@ msgstr "レク"
 #. Name for AMD
 msgid "Armenian Dram"
 msgstr "アルメニア・ドラム"
-
-#. Name for ANG
-msgid "Netherlands Antillean Guilder"
-msgstr "オランダ領アンチル・ギルダー"
 
 # アンゴラ
 #. Name for AOA
@@ -193,10 +188,6 @@ msgstr ""
 msgid "Costa Rican Colon"
 msgstr "コスタリカ・コロン"
 
-#. Name for CUC
-msgid "Peso Convertible"
-msgstr "兌換ペソ"
-
 #. Name for CUP
 msgid "Cuban Peso"
 msgstr "キューバ・ペソ"
@@ -295,11 +286,6 @@ msgstr "香港ドル"
 #. Name for HNL
 msgid "Lempira"
 msgstr "レンピラ"
-
-# クロアチア共和国
-#. Name for HRK
-msgid "Kuna"
-msgstr "クーナ"
 
 # ハイチ
 #. Name for HTG
@@ -597,7 +583,7 @@ msgstr "シンガポール・ドル"
 msgid "Saint Helena Pound"
 msgstr "セントヘレナ・ポンド"
 
-#. Name for SLE, Name for SLL
+#. Name for SLE
 msgid "Leone"
 msgstr "レオネ"
 
@@ -729,6 +715,12 @@ msgstr "バツ"
 msgid "Tala"
 msgstr "タラ"
 
+#. Name for XAD
+#, fuzzy
+#| msgid "Jordanian Dinar"
+msgid "Arab Accounting Dinar"
+msgstr "ヨルダン・ディナール"
+
 #. Name for XAF
 msgid "CFA Franc BEAC"
 msgstr "CFAフランBEAC"
@@ -759,6 +751,12 @@ msgstr "債券市場欧州計算単位-17 (E.U.A.-17)"
 
 #. Name for XCD
 msgid "East Caribbean Dollar"
+msgstr "東カリブ・ドル"
+
+#. Name for XCG
+#, fuzzy
+#| msgid "East Caribbean Dollar"
+msgid "Caribbean Guilder"
 msgstr "東カリブ・ドル"
 
 #. Name for XDR
@@ -811,6 +809,8 @@ msgstr "ランド"
 msgid "Zambian Kwacha"
 msgstr "ザンビア・クワチャ"
 
-#. Name for ZWL
-msgid "Zimbabwe Dollar"
+#. Name for ZWG
+#, fuzzy
+#| msgid "Zimbabwe Dollar"
+msgid "Zimbabwe Gold"
 msgstr "ジンバブエ・ドル"

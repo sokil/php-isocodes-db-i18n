@@ -1,0 +1,736 @@
+# Translation of ISO 4217 to LANGUAGE
+# Codes for the representation of currencies
+#
+# SPDX-License-Identifier: LGPL-2.1-or-later
+#
+# SPDX-FileCopyrightText: YEAR FIRST AUTHOR <EMAIL@ADDRESS>
+#
+# BoneNI <bounkirdni@gmail.com>, 2025.
+msgid ""
+msgstr ""
+"Project-Id-Version: iso_4217\n"
+"Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
+"issues\n"
+"POT-Creation-Date: 2025-11-18 11:09+0100\n"
+"PO-Revision-Date: 2025-11-25 10:32+0000\n"
+"Last-Translator: BoneNI <bounkirdni@gmail.com>\n"
+"Language-Team: Lao <https://hosted.weblate.org/projects/iso-codes/iso-4217/"
+"lo/>\n"
+"Language: lo\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.15-dev\n"
+
+#. Name for AED
+msgid "UAE Dirham"
+msgstr "ເດີແຮມ ສະຫະລັດອາຣັບເອມິເຣດ"
+
+#. Name for AFN
+msgid "Afghani"
+msgstr "ອັບການີ"
+
+#. Name for ALL
+msgid "Lek"
+msgstr "ເລັກ"
+
+#. Name for AMD
+msgid "Armenian Dram"
+msgstr "ດຣາມ ອາກເມນີ"
+
+#. Name for AOA
+msgid "Kwanza"
+msgstr "ຄວານຊາ"
+
+#. Name for ARS
+msgid "Argentine Peso"
+msgstr "ເປໂຊ ອາກຊັງຕິນ"
+
+#. Name for AUD
+msgid "Australian Dollar"
+msgstr "ໂດລາ ອົດສະຕຣາລີ"
+
+#. Name for AWG
+msgid "Aruban Florin"
+msgstr "ຟລໍຣິນ ອາຣູບາ"
+
+#. Name for AZN
+msgid "Azerbaijan Manat"
+msgstr "ມານັດ ອາເຊີໄບຈານ"
+
+#. Name for BAM
+msgid "Convertible Mark"
+msgstr "ມາກ ແປງສະພາບ"
+
+#. Name for BBD
+msgid "Barbados Dollar"
+msgstr "ໂດລາ ບາບາໂດສ"
+
+#. Name for BDT
+msgid "Taka"
+msgstr "ຕາກາ"
+
+#. Name for BGN
+msgid "Bulgarian Lev"
+msgstr "ເລບ ບູນກາຣີ"
+
+#. Name for BHD
+msgid "Bahraini Dinar"
+msgstr "ດີນາ ບາເຣນ"
+
+#. Name for BIF
+msgid "Burundi Franc"
+msgstr "ຟຣັງ ບູຣຸນດີ"
+
+#. Name for BMD
+msgid "Bermudian Dollar"
+msgstr "ໂດລາ ເບີມິວດາ"
+
+#. Name for BND
+msgid "Brunei Dollar"
+msgstr "ໂດລາ ບຣູໄນ"
+
+#. Name for BOB
+msgid "Boliviano"
+msgstr "ໂບລິເວຍໂນ"
+
+#. Name for BOV
+msgid "Mvdol"
+msgstr "ເອັມວີດໍ (Mvdol)"
+
+#. Name for BRL
+msgid "Brazilian Real"
+msgstr "ເຣອານ ບຣາຊິນ"
+
+#. Name for BSD
+msgid "Bahamian Dollar"
+msgstr "ໂດລາ ບາຮາມາ"
+
+#. Name for BTN
+msgid "Ngultrum"
+msgstr "ງຸນຕຣັມ"
+
+#. Name for BWP
+msgid "Pula"
+msgstr "ພູລາ"
+
+#. Name for BYN
+msgid "Belarusian Ruble"
+msgstr "ຣູເບິນ ເບລາຣຸດ"
+
+#. Name for BZD
+msgid "Belize Dollar"
+msgstr "ໂດລາ ເບລີຊ"
+
+#. Name for CAD
+msgid "Canadian Dollar"
+msgstr "ໂດລາ ການາດາ"
+
+#. Name for CDF
+msgid "Congolese Franc"
+msgstr "ຟຣັງ ກົງໂກ"
+
+#. Name for CHE
+msgid "WIR Euro"
+msgstr "ຢູໂຣ WIR"
+
+#. Name for CHF
+msgid "Swiss Franc"
+msgstr "ຟຣັງ ສະວິສ"
+
+#. Name for CHW
+msgid "WIR Franc"
+msgstr "ຟຣັງ WIR"
+
+#. Name for CLF
+msgid "Unidad de Fomento"
+msgstr "ຢູນິດາດ ເດ ໂຟເມນໂຕ (Unidad de Fomento)"
+
+#. Name for CLP
+msgid "Chilean Peso"
+msgstr "ເປໂຊ ຊີລີ"
+
+#. Name for CNY
+msgid "Yuan Renminbi"
+msgstr "ຢວນ ເຣນມິນບິ"
+
+#. Name for COP
+msgid "Colombian Peso"
+msgstr "ເປໂຊ ໂກລົມບີ"
+
+#. Name for COU
+msgid "Unidad de Valor Real"
+msgstr "Unidad de Valor Real"
+
+#. Name for CRC
+msgid "Costa Rican Colon"
+msgstr "ໂກລອນ ຄອດຕາຣິກາ"
+
+#. Name for CUP
+msgid "Cuban Peso"
+msgstr "ເປໂຊ ກູບາ"
+
+#. Name for CVE
+msgid "Cabo Verde Escudo"
+msgstr "ເອສຄູໂດ ກາໂບເວີດ"
+
+#. Name for CZK
+msgid "Czech Koruna"
+msgstr "ໂຄຣູນາ ເຊັກ"
+
+#. Name for DJF
+msgid "Djibouti Franc"
+msgstr "ຟຣັງ ຈິບູຕີ"
+
+#. Name for DKK
+msgid "Danish Krone"
+msgstr "ໂຄຣນ ແດນມາກ"
+
+#. Name for DOP
+msgid "Dominican Peso"
+msgstr "ເປໂຊ ໂດມິນິກັນ"
+
+#. Name for DZD
+msgid "Algerian Dinar"
+msgstr "ດີນາ ອານຈີເຣຍ"
+
+#. Name for EGP
+msgid "Egyptian Pound"
+msgstr "ປອນ ເອຢິບ"
+
+#. Name for ERN
+msgid "Nakfa"
+msgstr "ນາກຟາ"
+
+#. Name for ETB
+msgid "Ethiopian Birr"
+msgstr "ເບີ ເອທິໂອເປຍ"
+
+#. Name for EUR
+msgid "Euro"
+msgstr "ຢູໂຣ"
+
+#. Name for FJD
+msgid "Fiji Dollar"
+msgstr "ໂດລາ ຟິຈິ"
+
+#. Name for FKP
+msgid "Falkland Islands Pound"
+msgstr "ປອນ ຫມູ່ເກາະຟອກແລນ"
+
+#. Name for GBP
+msgid "Pound Sterling"
+msgstr "ປອນ ສະເຕີລິງ"
+
+#. Name for GEL
+msgid "Lari"
+msgstr "ລາຣີ"
+
+#. Name for GHS
+msgid "Ghana Cedi"
+msgstr "ເຊດີ ການາ"
+
+#. Name for GIP
+msgid "Gibraltar Pound"
+msgstr "ປອນ ຈິບຣານຕາ"
+
+#. Name for GMD
+msgid "Dalasi"
+msgstr "ດາລາຊີ"
+
+#. Name for GNF
+msgid "Guinean Franc"
+msgstr "ຟຣັງ ກິນີ"
+
+#. Name for GTQ
+msgid "Quetzal"
+msgstr "ເຄັດຊານ"
+
+#. Name for GYD
+msgid "Guyana Dollar"
+msgstr "ໂດລາ ກາຍຢານາ"
+
+#. Name for HKD
+msgid "Hong Kong Dollar"
+msgstr "ໂດລາ ຮ່ອງກົງ"
+
+#. Name for HNL
+msgid "Lempira"
+msgstr "ເລມປີຣາ"
+
+#. Name for HTG
+msgid "Gourde"
+msgstr "ກູດ"
+
+#. Name for HUF
+msgid "Forint"
+msgstr "ຟໍຣິນ"
+
+#. Name for IDR
+msgid "Rupiah"
+msgstr "ຣູເປຍ"
+
+#. Name for ILS
+msgid "New Israeli Sheqel"
+msgstr "ເຊເກລ ອິດສະຣາແອນ ໃໝ່"
+
+#. Name for INR
+msgid "Indian Rupee"
+msgstr "ຣູປີ ອິນເດຍ"
+
+#. Name for IQD
+msgid "Iraqi Dinar"
+msgstr "ດີນາ ອີຣັກ"
+
+#. Name for IRR
+msgid "Iranian Rial"
+msgstr "ຣຽນ ອີຣານ"
+
+#. Name for ISK
+msgid "Iceland Krona"
+msgstr "ໂຄຣນາ ໄອສແລນ"
+
+#. Name for JMD
+msgid "Jamaican Dollar"
+msgstr "ໂດລາ ຈາໄມກາ"
+
+#. Name for JOD
+msgid "Jordanian Dinar"
+msgstr "ດີນາ ຈໍແດນ"
+
+#. Name for JPY
+msgid "Yen"
+msgstr "ເຢນ"
+
+#. Name for KES
+msgid "Kenyan Shilling"
+msgstr "ຊິນລິງ ເຄນຢາ"
+
+#. Name for KGS
+msgid "Som"
+msgstr "ຊອມ"
+
+#. Name for KHR
+msgid "Riel"
+msgstr "ຣຽນ"
+
+#. Name for KMF
+msgid "Comorian Franc"
+msgstr "ຟຣັງ ໂຄໂມໂຣສ"
+
+#. Name for KPW
+msgid "North Korean Won"
+msgstr "ວອນ ເກົາຫຼີເໜືອ"
+
+#. Name for KRW
+msgid "Won"
+msgstr "ວອນ"
+
+#. Name for KWD
+msgid "Kuwaiti Dinar"
+msgstr "ດີນາ ຄູເວດ"
+
+#. Name for KYD
+msgid "Cayman Islands Dollar"
+msgstr "ໂດລາ ຫມູ່ເກາະເຄແມນ"
+
+#. Name for KZT
+msgid "Tenge"
+msgstr "ເຕັງເກ"
+
+#. Name for LAK
+msgid "Lao Kip"
+msgstr "ກີບ"
+
+#. Name for LBP
+msgid "Lebanese Pound"
+msgstr "ປອນ ເລບານອນ"
+
+#. Name for LKR
+msgid "Sri Lanka Rupee"
+msgstr "ຣູປີ ສີລັງກາ"
+
+#. Name for LRD
+msgid "Liberian Dollar"
+msgstr "ໂດລາ ໄລບີເຣຍ"
+
+#. Name for LSL
+msgid "Loti"
+msgstr "ໂລຕີ"
+
+#. Name for LYD
+msgid "Libyan Dinar"
+msgstr "ດີນາ ລິເບຍ"
+
+#. Name for MAD
+msgid "Moroccan Dirham"
+msgstr "ເດີແຮມ ໂມຣັອກໂຄ"
+
+#. Name for MDL
+msgid "Moldovan Leu"
+msgstr "ລິວ ມອນໂດວາ"
+
+#. Name for MGA
+msgid "Malagasy Ariary"
+msgstr "ອາເຣຍຣີ ມາດາກັດສະກາ"
+
+#. Name for MKD
+msgid "Denar"
+msgstr "ເດນາ"
+
+#. Name for MMK
+msgid "Kyat"
+msgstr "ຈາດ"
+
+#. Name for MNT
+msgid "Tugrik"
+msgstr "ທູກຣິກ"
+
+#. Name for MOP
+msgid "Pataca"
+msgstr "ປາຕາກາ"
+
+#. Name for MRU
+msgid "Ouguiya"
+msgstr "ອູກີຢາ"
+
+#. Name for MUR
+msgid "Mauritius Rupee"
+msgstr "ຣູປີ ມໍຣິເຊຍ"
+
+#. Name for MVR
+msgid "Rufiyaa"
+msgstr "ຣູຟິຢາ"
+
+#. Name for MWK
+msgid "Malawi Kwacha"
+msgstr "ຄວາຊາ ມາລາວີ"
+
+#. Name for MXN
+msgid "Mexican Peso"
+msgstr "ເປໂຊ ເມັກຊິໂກ"
+
+#. Name for MXV
+msgid "Mexican Unidad de Inversion (UDI)"
+msgstr "Mexican Unidad de Inversion (UDI)"
+
+#. Name for MYR
+msgid "Malaysian Ringgit"
+msgstr "ຣິງກິດ ມາເລເຊຍ"
+
+#. Name for MZN
+msgid "Mozambique Metical"
+msgstr "ເມຕິຄານ ໂມຊຳບິກ"
+
+#. Name for NAD
+msgid "Namibia Dollar"
+msgstr "ໂດລາ ນາມີເບຍ"
+
+#. Name for NGN
+msgid "Naira"
+msgstr "ໄນຣາ"
+
+#. Name for NIO
+msgid "Cordoba Oro"
+msgstr "ຄໍໂດບາ ໂອໂຣ"
+
+#. Name for NOK
+msgid "Norwegian Krone"
+msgstr "ໂຄຣນ ນໍເວ"
+
+#. Name for NPR
+msgid "Nepalese Rupee"
+msgstr "ຣູປີ ເນປານ"
+
+#. Name for NZD
+msgid "New Zealand Dollar"
+msgstr "ໂດລາ ນິວຊີແລນ"
+
+#. Name for OMR
+msgid "Rial Omani"
+msgstr "ຣຽນ ໂອມານ"
+
+#. Name for PAB
+msgid "Balboa"
+msgstr "ບານບົວ"
+
+#. Name for PEN
+msgid "Sol"
+msgstr "ໂຊນ"
+
+#. Name for PGK
+msgid "Kina"
+msgstr "ກິນາ"
+
+#. Name for PHP
+msgid "Philippine Peso"
+msgstr "ເປໂຊ ຟິລິບປິນ"
+
+#. Name for PKR
+msgid "Pakistan Rupee"
+msgstr "ຣູປີ ປາກິດສະຖານ"
+
+#. Name for PLN
+msgid "Zloty"
+msgstr "ຊລໍຕີ"
+
+#. Name for PYG
+msgid "Guarani"
+msgstr "ກົວຣານີ"
+
+#. Name for QAR
+msgid "Qatari Rial"
+msgstr "ຣຽນ ກາຕາ"
+
+#. Name for RON
+msgid "Romanian Leu"
+msgstr "ລິວ ໂຣມາເນຍ"
+
+#. Name for RSD
+msgid "Serbian Dinar"
+msgstr "ດີນາ ເຊີເບຍ"
+
+#. Name for RUB
+msgid "Russian Ruble"
+msgstr "ຣູເບິນ ລັດເຊຍ"
+
+#. Name for RWF
+msgid "Rwanda Franc"
+msgstr "ຟຣັງ ຣວັນດາ"
+
+#. Name for SAR
+msgid "Saudi Riyal"
+msgstr "ຣິຍານ ຊາອຸດິດ"
+
+#. Name for SBD
+msgid "Solomon Islands Dollar"
+msgstr "ໂດລາ ຫມູ່ເກາະໂຊໂລມອນ"
+
+#. Name for SCR
+msgid "Seychelles Rupee"
+msgstr "ຣູປີ ເຊເຊວ"
+
+#. Name for SDG
+msgid "Sudanese Pound"
+msgstr "ປອນ ຊູດານ"
+
+#. Name for SEK
+msgid "Swedish Krona"
+msgstr "ໂຄຣນາ ສະວີເດັນ"
+
+#. Name for SGD
+msgid "Singapore Dollar"
+msgstr "ໂດລາ ສິງກະໂປ"
+
+#. Name for SHP
+msgid "Saint Helena Pound"
+msgstr "ປອນ ເຊນເຮເລນາ"
+
+#. Name for SLE
+msgid "Leone"
+msgstr "ລີໂອນ"
+
+#. Name for SOS
+msgid "Somali Shilling"
+msgstr "ຊິນລິງ ໂຊມາລີ"
+
+#. Name for SRD
+msgid "Surinam Dollar"
+msgstr "ໂດລາ ຊູຣິນາມ"
+
+#. Name for SSP
+msgid "South Sudanese Pound"
+msgstr "ປອນ ຊູດານໃຕ້"
+
+#. Name for STN
+msgid "Dobra"
+msgstr "ໂດບຣາ"
+
+#. Name for SVC
+msgid "El Salvador Colon"
+msgstr "ໂກລອນ ເອນຊາວາດໍ"
+
+#. Name for SYP
+msgid "Syrian Pound"
+msgstr "ປອນ ຊີເຣຍ"
+
+#. Name for SZL
+msgid "Lilangeni"
+msgstr "ລິລັງກີນີ"
+
+#. Name for THB
+msgid "Baht"
+msgstr "ບາດ"
+
+#. Name for TJS
+msgid "Somoni"
+msgstr "ໂຊໂມນີ"
+
+#. Name for TMT
+msgid "Turkmenistan New Manat"
+msgstr "ມານັດ ຕວກເມນິດສະຖານ ໃໝ່"
+
+#. Name for TND
+msgid "Tunisian Dinar"
+msgstr "ດີນາ ຕູນີເຊຍ"
+
+#. Name for TOP
+msgid "Pa’anga"
+msgstr "ປາອັງກາ"
+
+#. Name for TRY
+msgid "Turkish Lira"
+msgstr "ລີຣາ ຕວກກີ"
+
+#. Name for TTD
+msgid "Trinidad and Tobago Dollar"
+msgstr "ໂດລາ ຕຣິນິດາດ ແລະ ໂຕບາໂກ"
+
+#. Name for TWD
+msgid "New Taiwan Dollar"
+msgstr "ໂດລາ ໄຕ້ຫວັນ ໃໝ່"
+
+#. Name for TZS
+msgid "Tanzanian Shilling"
+msgstr "ຊິນລິງ ຕານຊານີ"
+
+#. Name for UAH
+msgid "Hryvnia"
+msgstr "ຮຣີບເນຍ"
+
+#. Name for UGX
+msgid "Uganda Shilling"
+msgstr "ຊິນລິງ ອູການດາ"
+
+#. Name for USD
+msgid "US Dollar"
+msgstr "ໂດລາ ສະຫະລັດ"
+
+#. Name for USN
+msgid "US Dollar (Next day)"
+msgstr "ໂດລາ ສະຫະລັດ (ມື້ຖັດໄປ)"
+
+#. Name for UYI
+msgid "Uruguay Peso en Unidades Indexadas (UI)"
+msgstr "ເປໂຊ ອູຣູກວາຍ ໃນຫົວໜ່ວຍດັດຊະນີ (UI)"
+
+#. Name for UYU
+msgid "Peso Uruguayo"
+msgstr "ເປໂຊ ອູຣູກວາຍ"
+
+#. Name for UYW
+msgid "Unidad Previsional"
+msgstr "Unidad Previsional"
+
+#. Name for UZS
+msgid "Uzbekistan Sum"
+msgstr "ຊອມ ອຸດສະເບກິດສະຖານ"
+
+#. Name for VED, Name for VES
+msgid "Bolívar Soberano"
+msgstr "ໂບລິວາ ໂຊເບຣາໂນ"
+
+#. Name for VND
+msgid "Dong"
+msgstr "ດົງ"
+
+#. Name for VUV
+msgid "Vatu"
+msgstr "ວາຕູ"
+
+#. Name for WST
+msgid "Tala"
+msgstr "ຕາລາ"
+
+#. Name for XAD
+msgid "Arab Accounting Dinar"
+msgstr "ດີນາ ບັນຊີອາຣັບ"
+
+#. Name for XAF
+msgid "CFA Franc BEAC"
+msgstr "ຟຣັງ CFA (BEAC)"
+
+#. Name for XAG
+msgid "Silver"
+msgstr "ເງິນ (ໂລຫະ)"
+
+#. Name for XAU
+msgid "Gold"
+msgstr "ຄຳ"
+
+#. Name for XBA
+msgid "Bond Markets Unit European Composite Unit (EURCO)"
+msgstr "ໜ່ວຍຕະຫຼາດພັນທະບັດ ຫົວໜ່ວຍປະກອບເອີຣົບ (EURCO)"
+
+#. Name for XBB
+msgid "Bond Markets Unit European Monetary Unit (E.M.U.-6)"
+msgstr "ໜ່ວຍຕະຫຼາດພັນທະບັດ ຫົວໜ່ວຍເງິນຕາເອີຣົບ (E.M.U.-6)"
+
+#. Name for XBC
+msgid "Bond Markets Unit European Unit of Account 9 (E.U.A.-9)"
+msgstr "ໜ່ວຍຕະຫຼາດພັນທະບັດ ຫົວໜ່ວຍບັນຊີເອີຣົບ 9 (E.U.A.-9)"
+
+#. Name for XBD
+msgid "Bond Markets Unit European Unit of Account 17 (E.U.A.-17)"
+msgstr "ໜ່ວຍຕະຫຼາດພັນທະບັດ ຫົວໜ່ວຍບັນຊີເອີຣົບ 17 (E.U.A.-17)"
+
+#. Name for XCD
+msgid "East Caribbean Dollar"
+msgstr "ໂດລາ ຄາຣິບຽນຕາເວັນອອກ"
+
+#. Name for XCG
+msgid "Caribbean Guilder"
+msgstr "ກິນເດີ ຄາຣິບຽນ"
+
+#. Name for XDR
+msgid "SDR (Special Drawing Right)"
+msgstr "SDR (ສິດທິພິເສດໃນການຖອນເງິນ)"
+
+#. Name for XOF
+msgid "CFA Franc BCEAO"
+msgstr "ຟຣັງ CFA (BCEAO)"
+
+#. Name for XPD
+msgid "Palladium"
+msgstr "ແພລລາດ້ຽມ"
+
+#. Name for XPF
+msgid "CFP Franc"
+msgstr "ຟຣັງ CFP"
+
+#. Name for XPT
+msgid "Platinum"
+msgstr "ແພລັດຕິນຳ"
+
+#. Name for XSU
+msgid "Sucre"
+msgstr "ຊູເຄຣ"
+
+#. Name for XTS
+msgid "Codes specifically reserved for testing purposes"
+msgstr "ລະຫັດທີ່ສະຫງວນໄວ້ສະເພາະສຳລັບຈຸດປະສົງການທົດສອບ"
+
+#. Name for XUA
+msgid "ADB Unit of Account"
+msgstr "ຫົວໜ່ວຍບັນຊີ ADB"
+
+#. Name for XXX
+msgid "The codes assigned for transactions where no currency is involved"
+msgstr "ລະຫັດທີ່ກຳນົດໃຫ້ສຳລັບການເຮັດທຸລະກຳທີ່ບໍ່ມີການໃຊ້ສະກຸນເງິນ"
+
+#. Name for YER
+msgid "Yemeni Rial"
+msgstr "ຣຽນ ເຢເມນ"
+
+#. Name for ZAR
+msgid "Rand"
+msgstr "ແຣນ"
+
+#. Name for ZMW
+msgid "Zambian Kwacha"
+msgstr "ຄວາຊາ ແຊມເບຍ"
+
+#. Name for ZWG
+msgid "Zimbabwe Gold"
+msgstr "ຄຳ ຊິມບັບເວ"

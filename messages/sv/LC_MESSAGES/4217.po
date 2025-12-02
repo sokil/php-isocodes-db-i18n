@@ -1,23 +1,22 @@
 # Translation of ISO 4217 to Swedish
 # Codes for the representation of currencies
 # .
-# This file is distributed under the same license as the iso-codes package.
+# SPDX-License-Identifier: LGPL-2.1-or-later
 # .
-# Copyright ©
-# Andreas Hyden <a.hyden@cyberpoint.se>, 2000.
-# Jörgen Tegnér <jorgen.tegner@telia.com>, 2001.
-# Richard Hult <rhult@codefactory.se>, 1999-2001.
-# Alastair McKinstry <mckinstry@debian.org>, 2002.
-# Christian Rose <menthos@menthos.com>, 2000-2001, 2006.
-# Anders Jonsson <anders.jonsson@norsjovallen.se>, 2015, 2017, 2022, 2023.
-# Allan Nordhøy <epost@anotheragency.no>, 2018.
+# SPDX-FileCopyrightText: 2000 Andreas Hyden <a.hyden@cyberpoint.se>
+# SPDX-FileCopyrightText: 2001 Jörgen Tegnér <jorgen.tegner@telia.com>
+# SPDX-FileCopyrightText: 1999-2001 Richard Hult <rhult@codefactory.se>
+# SPDX-FileCopyrightText: 2002 Alastair McKinstry <mckinstry@debian.org>
+# SPDX-FileCopyrightText: 2000-2001, 2006 Christian Rose <menthos@menthos.com>
+# SPDX-FileCopyrightText: 2015, 2017, 2022, 2023, 2025 Anders Jonsson <anders.jonsson@norsjovallen.se>
+# SPDX-FileCopyrightText: 2018 Allan Nordhøy <epost@anotheragency.no>
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_4217\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2022-06-01 15:01+0200\n"
-"PO-Revision-Date: 2023-02-26 15:37+0000\n"
+"POT-Creation-Date: 2025-11-18 11:09+0100\n"
+"PO-Revision-Date: 2025-10-13 19:05+0000\n"
 "Last-Translator: Anders Jonsson <anders.jonsson@norsjovallen.se>\n"
 "Language-Team: Swedish <https://hosted.weblate.org/projects/iso-codes/"
 "iso-4217/sv/>\n"
@@ -26,7 +25,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.16-dev\n"
+"X-Generator: Weblate 5.14-dev\n"
 "X-Bugs: Report translation errors to the Language-Team address.\n"
 
 #. Name for AED
@@ -44,10 +43,6 @@ msgstr "Lek"
 #. Name for AMD
 msgid "Armenian Dram"
 msgstr "Armeniska dram"
-
-#. Name for ANG
-msgid "Netherlands Antillean Guilder"
-msgstr "Nederländska Antillerna-gulden"
 
 #. Name for AOA
 msgid "Kwanza"
@@ -178,10 +173,6 @@ msgstr ""
 msgid "Costa Rican Colon"
 msgstr "Costaricanska colon"
 
-#. Name for CUC
-msgid "Peso Convertible"
-msgstr "Konvertibla peso"
-
 #. Name for CUP
 msgid "Cuban Peso"
 msgstr "Kubanska peso"
@@ -273,10 +264,6 @@ msgstr "Hong Kong-dollar"
 #. Name for HNL
 msgid "Lempira"
 msgstr "Lempira"
-
-#. Name for HRK
-msgid "Kuna"
-msgstr "Kuna"
 
 #. Name for HTG
 msgid "Gourde"
@@ -546,7 +533,7 @@ msgstr "Singaporianska dollar"
 msgid "Saint Helena Pound"
 msgstr "St. Helena-pund"
 
-#. Name for SLE, Name for SLL
+#. Name for SLE
 msgid "Leone"
 msgstr "Leone"
 
@@ -662,6 +649,10 @@ msgstr "Vatu"
 msgid "Tala"
 msgstr "Tala"
 
+#. Name for XAD
+msgid "Arab Accounting Dinar"
+msgstr "Arabiska bokföringsdinarer"
+
 #. Name for XAF
 msgid "CFA Franc BEAC"
 msgstr "CFA-franc BEAC"
@@ -696,6 +687,10 @@ msgstr "Kreditmarknadsenhet: Europeisk kontoenhet 17 (E.U.A.-17)"
 #. Name for XCD
 msgid "East Caribbean Dollar"
 msgstr "Östkaribiska dollar"
+
+#. Name for XCG
+msgid "Caribbean Guilder"
+msgstr "Karibiska gulden"
 
 #. Name for XDR
 msgid "SDR (Special Drawing Right)"
@@ -745,6 +740,8 @@ msgstr "Rand"
 msgid "Zambian Kwacha"
 msgstr "Zambiska kwacha"
 
-#. Name for ZWL
-msgid "Zimbabwe Dollar"
+#. Name for ZWG
+#, fuzzy
+#| msgid "Zimbabwe Dollar"
+msgid "Zimbabwe Gold"
 msgstr "Zimbabwiska dollar"

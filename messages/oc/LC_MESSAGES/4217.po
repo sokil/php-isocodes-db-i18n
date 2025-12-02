@@ -1,23 +1,26 @@
-# Translation of ISO 4217 to Occitan (post 1500); Provençal
+# Translation of ISO 4217 to Occitan (post 1500)
 # Codes for the representation of currencies
 # .
-# This file is distributed under the same license as the iso-codes package.
+# SPDX-License-Identifier: LGPL-2.1-or-later
 # .
-# Copyright ©
-# Yannig Marchegay <yannig@marchegay.org>, 2008.
+# SPDX-FileCopyrightText: 2008 Yannig Marchegay <yannig@marchegay.org>
+# SPDX-FileCopyrightText: 2025 Quentin PAGÈS <quentinantonin@free.fr>
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_4217\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2022-06-01 15:01+0200\n"
-"PO-Revision-Date: 2008-11-10 01:11+0100\n"
-"Last-Translator: Yannig Marchegay <yannig@marchegay.org>\n"
-"Language-Team: Occitan\n"
-"Language: \n"
+"POT-Creation-Date: 2025-11-18 11:09+0100\n"
+"PO-Revision-Date: 2025-10-10 08:07+0000\n"
+"Last-Translator: Quentin PAGÈS <quentinantonin@free.fr>\n"
+"Language-Team: Occitan <https://hosted.weblate.org/projects/iso-codes/"
+"iso-4217/oc/>\n"
+"Language: oc\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 5.14-dev\n"
 
 #. Name for AED
 msgid "UAE Dirham"
@@ -35,10 +38,6 @@ msgstr ""
 msgid "Armenian Dram"
 msgstr ""
 
-#. Name for ANG
-msgid "Netherlands Antillean Guilder"
-msgstr ""
-
 #. Name for AOA
 msgid "Kwanza"
 msgstr ""
@@ -49,7 +48,7 @@ msgstr ""
 
 #. Name for AUD
 msgid "Australian Dollar"
-msgstr ""
+msgstr "Dòlar australian"
 
 #. Name for AWG
 msgid "Aruban Florin"
@@ -171,10 +170,6 @@ msgstr ""
 msgid "Costa Rican Colon"
 msgstr ""
 
-#. Name for CUC
-msgid "Peso Convertible"
-msgstr ""
-
 #. Name for CUP
 msgid "Cuban Peso"
 msgstr ""
@@ -265,10 +260,6 @@ msgstr ""
 
 #. Name for HNL
 msgid "Lempira"
-msgstr ""
-
-#. Name for HRK
-msgid "Kuna"
 msgstr ""
 
 #. Name for HTG
@@ -539,7 +530,7 @@ msgstr ""
 msgid "Saint Helena Pound"
 msgstr ""
 
-#. Name for SLE, Name for SLL
+#. Name for SLE
 msgid "Leone"
 msgstr ""
 
@@ -655,6 +646,10 @@ msgstr ""
 msgid "Tala"
 msgstr ""
 
+#. Name for XAD
+msgid "Arab Accounting Dinar"
+msgstr ""
+
 #. Name for XAF
 msgid "CFA Franc BEAC"
 msgstr ""
@@ -685,6 +680,10 @@ msgstr ""
 
 #. Name for XCD
 msgid "East Caribbean Dollar"
+msgstr ""
+
+#. Name for XCG
+msgid "Caribbean Guilder"
 msgstr ""
 
 #. Name for XDR
@@ -735,6 +734,6 @@ msgstr ""
 msgid "Zambian Kwacha"
 msgstr ""
 
-#. Name for ZWL
-msgid "Zimbabwe Dollar"
+#. Name for ZWG
+msgid "Zimbabwe Gold"
 msgstr ""

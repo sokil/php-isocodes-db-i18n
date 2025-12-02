@@ -2,20 +2,19 @@
 # Codes for the representation of names of countries and their subdivisions
 # Part 3: Code for formerly used names of countries
 # .
-# This file is distributed under the same license as the iso-codes package.
+# SPDX-License-Identifier: LGPL-2.1-or-later
 # .
-# Copyright ©
-# Ričardas Čepas <rch@richard.eu.org>
-# Alastair McKinstry <mckinstry@debian.org>, 2002.
-# Kęstutis Biliūnas <kebil@kaunas.init.lt>, 2004-2010.
-# Rimas Kudelis <rq@akl.lt>, 2012-2013.
-# Rimas Kudelis <rimas@kudelis.lt>, 2023.
+# SPDX-FileCopyrightText: Ričardas Čepas <rch@richard.eu.org>
+# SPDX-FileCopyrightText: 2002 Alastair McKinstry <mckinstry@debian.org>
+# SPDX-FileCopyrightText: 2004-2010 Kęstutis Biliūnas <kebil@kaunas.init.lt>
+# SPDX-FileCopyrightText: 2012-2013 Rimas Kudelis <rq@akl.lt>
+# SPDX-FileCopyrightText: 2023 Rimas Kudelis <rimas@kudelis.lt>
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-3\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2023-02-24 21:26+0100\n"
+"POT-Creation-Date: 2025-11-18 11:09+0100\n"
 "PO-Revision-Date: 2023-07-15 07:53+0000\n"
 "Last-Translator: Rimas Kudelis <rimas@kudelis.lt>\n"
 "Language-Team: Lithuanian <https://hosted.weblate.org/projects/iso-codes/"

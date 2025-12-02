@@ -1,19 +1,18 @@
 # Translation of ISO 4217 to Portuguese
 # Codes for the representation of currencies
 # .
-# This file is distributed under the same license as the iso-codes package.
+# SPDX-License-Identifier: LGPL-2.1-or-later
 # .
-# Copyright ©
-# Duarte Loreto <happyguy_pt@hotmail.com>, 2001.
-# Alastair McKinstry <mckinstry@debian.org>, 2002.
-# Miguel Figueiredo <elmig@debianpt.org>, 2006-2007.
-# Rui Mendes <xz9@protonmail.com>, 2019.
+# SPDX-FileCopyrightText: 2001 Duarte Loreto <happyguy_pt@hotmail.com>
+# SPDX-FileCopyrightText: 2002 Alastair McKinstry <mckinstry@debian.org>
+# SPDX-FileCopyrightText: 2006-2007 Miguel Figueiredo <elmig@debianpt.org>
+# SPDX-FileCopyrightText: 2019 Rui Mendes <xz9@protonmail.com>
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_4217\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2022-06-01 15:01+0200\n"
+"POT-Creation-Date: 2025-11-18 11:09+0100\n"
 "PO-Revision-Date: 2019-04-27 17:48+0000\n"
 "Last-Translator: Rui Mendes <xz9@protonmail.com>\n"
 "Language-Team: Portuguese <https://hosted.weblate.org/projects/iso-codes/"
@@ -40,10 +39,6 @@ msgstr "Leque da Albânia"
 #. Name for AMD
 msgid "Armenian Dram"
 msgstr "Dram da Arménia"
-
-#. Name for ANG
-msgid "Netherlands Antillean Guilder"
-msgstr "Florim das Antilhas Neerlandesas"
 
 #. Name for AOA
 msgid "Kwanza"
@@ -179,10 +174,6 @@ msgstr ""
 msgid "Costa Rican Colon"
 msgstr "Colón costa-riquenho"
 
-#. Name for CUC
-msgid "Peso Convertible"
-msgstr "Peso convertível"
-
 #. Name for CUP
 msgid "Cuban Peso"
 msgstr "Peso cubano"
@@ -276,10 +267,6 @@ msgstr "Dólar de Hong Kong"
 #. Name for HNL
 msgid "Lempira"
 msgstr "Lempira"
-
-#. Name for HRK
-msgid "Kuna"
-msgstr "Kuna"
 
 #. Name for HTG
 msgid "Gourde"
@@ -551,7 +538,7 @@ msgstr "Dólar de Singapura"
 msgid "Saint Helena Pound"
 msgstr "Libra de Santa Helena"
 
-#. Name for SLE, Name for SLL
+#. Name for SLE
 msgid "Leone"
 msgstr "Leone"
 
@@ -671,6 +658,12 @@ msgstr "Vatu"
 msgid "Tala"
 msgstr "Tala"
 
+#. Name for XAD
+#, fuzzy
+#| msgid "Jordanian Dinar"
+msgid "Arab Accounting Dinar"
+msgstr "Dinar jordano"
+
 #. Name for XAF
 msgid "CFA Franc BEAC"
 msgstr "Franco CFA da África Central"
@@ -704,6 +697,12 @@ msgstr ""
 
 #. Name for XCD
 msgid "East Caribbean Dollar"
+msgstr "Dólar das Caraíbas Orientais"
+
+#. Name for XCG
+#, fuzzy
+#| msgid "East Caribbean Dollar"
+msgid "Caribbean Guilder"
 msgstr "Dólar das Caraíbas Orientais"
 
 #. Name for XDR
@@ -755,6 +754,8 @@ msgstr "Rande"
 msgid "Zambian Kwacha"
 msgstr "Kwacha zambiano"
 
-#. Name for ZWL
-msgid "Zimbabwe Dollar"
+#. Name for ZWG
+#, fuzzy
+#| msgid "Zimbabwe Dollar"
+msgid "Zimbabwe Gold"
 msgstr "Dólar zimbabuense"
