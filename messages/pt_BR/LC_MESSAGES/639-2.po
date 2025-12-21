@@ -2,20 +2,19 @@
 # Codes for the representation of names of languages
 # Part 2: Alpha-3 code
 # .
-# This file is distributed under the same license as the iso-codes package.
+# SPDX-License-Identifier: LGPL-2.1-or-later
 # .
-# Copyright ©
-# Alastair McKinstry <mckinstry@debian.org>, 2001.
-# Juan Carlos Castro y Castro <jcastro@vialink.com.br>, 2000, 2005.
-# Leonardo Ferreira Fontenelle <leonardof@gnome.org>, 2007-2009.
-# Rafael Fontenelle <rafaelff@gnome.org>, 2017, 2020.
-# Luiz Fernando Ranghetti <elchevive@opensuse.org>, 2022.
+# SPDX-FileCopyrightText: 2001 Alastair McKinstry <mckinstry@debian.org>
+# SPDX-FileCopyrightText: 2000, 2005 Juan Carlos Castro y Castro <jcastro@vialink.com.br>
+# SPDX-FileCopyrightText: 2007-2009 Leonardo Ferreira Fontenelle <leonardof@gnome.org>
+# SPDX-FileCopyrightText: 2017, 2020 Rafael Fontenelle <rafaelff@gnome.org>
+# SPDX-FileCopyrightText: 2022 Luiz Fernando Ranghetti <elchevive@opensuse.org>
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_639-2\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2022-06-01 15:01+0200\n"
+"POT-Creation-Date: 2025-11-18 11:09+0100\n"
 "PO-Revision-Date: 2022-12-08 15:47+0000\n"
 "Last-Translator: Luiz Fernando Ranghetti <elchevive@opensuse.org>\n"
 "Language-Team: Portuguese (Brazil) <https://hosted.weblate.org/projects/iso-"
@@ -248,8 +247,10 @@ msgid "Siksika"
 msgstr "Siksika"
 
 #. Name for bnt
-msgid "Bantu (Other)"
-msgstr "Bantu (Outros)"
+#, fuzzy
+#| msgid "Banda languages"
+msgid "Bantu languages"
+msgstr "Idiomas maias"
 
 #. Name for bod
 msgid "Tibetan"
@@ -462,7 +463,9 @@ msgid "German"
 msgstr "Alemão"
 
 #. Name for dgr
-msgid "Dogrib"
+#, fuzzy
+#| msgid "Dogrib"
+msgid "Tlicho; Dogrib"
 msgstr "Dogrib"
 
 #. Name for din
@@ -1258,12 +1261,16 @@ msgstr "Navarro"
 
 # Não consta no Houaiss
 #. Name for nbl
-msgid "Ndebele, South; South Ndebele"
+#, fuzzy
+#| msgid "Ndebele, South; South Ndebele"
+msgid "South Ndebele"
 msgstr "Ndebele do Sul"
 
 # Não consta no Houaiss
 #. Name for nde
-msgid "Ndebele, North; North Ndebele"
+#, fuzzy
+#| msgid "Ndebele, North; North Ndebele"
+msgid "North Ndebele"
 msgstr "Ndebele do Norte"
 
 #. Name for ndo
@@ -1279,7 +1286,9 @@ msgid "Nepali"
 msgstr "Nepali"
 
 #. Name for new
-msgid "Nepal Bhasa; Newari"
+#, fuzzy
+#| msgid "Nepal Bhasa; Newari"
+msgid "Nepal Bhasa; Newar; Newari"
 msgstr "Nepal Bhasa; Neuari"
 
 #. Name for nia
@@ -1299,12 +1308,16 @@ msgid "Dutch; Flemish"
 msgstr "Holandês; Flamengo"
 
 #. Name for nno
-msgid "Norwegian Nynorsk; Nynorsk, Norwegian"
-msgstr "Norueguês Nynorsk"
+#, fuzzy
+#| msgid "Norwegian"
+msgid "Norwegian Nynorsk"
+msgstr "Norueguês"
 
 #. Name for nob
-msgid "Bokmål, Norwegian; Norwegian Bokmål"
-msgstr "Norwegian Bokmål"
+#, fuzzy
+#| msgid "Norwegian"
+msgid "Norwegian Bokmål"
+msgstr "Norueguês"
 
 #. Name for nog
 msgid "Nogai"
@@ -1355,7 +1368,9 @@ msgid "Nzima"
 msgstr "Nzema"
 
 #. Name for oci
-msgid "Occitan (post 1500); Provençal"
+#, fuzzy
+#| msgid "Occitan (post 1500); Provençal"
+msgid "Occitan (post 1500)"
 msgstr "Occitâno (pós-1500); Provençal"
 
 # Não consta no dicionário
@@ -1448,7 +1463,9 @@ msgid "Prakrit languages"
 msgstr "Idiomas prácritos"
 
 #. Name for pro
-msgid "Provençal, Old (to 1500)"
+#, fuzzy
+#| msgid "Provençal, Old (to 1500)"
+msgid "Provençal, Old (to 1500); Occitan, Old (to 1500)"
 msgstr "Provençal, Arcaico (até 1500)"
 
 #. Name for pus
@@ -1516,8 +1533,10 @@ msgid "Yakut"
 msgstr "Yakut"
 
 #. Name for sai
-msgid "South American Indian (Other)"
-msgstr "Nativo Sul-Americano (Outros)"
+#, fuzzy
+#| msgid "North American Indian languages"
+msgid "South American Indian languages"
+msgstr "Idiomas indígenas da América do Norte"
 
 #. Name for sal
 msgid "Salishan languages"
@@ -1905,8 +1924,8 @@ msgid "Wakashan languages"
 msgstr "Idiomas Wakashan"
 
 #. Name for wal
-msgid "Walamo"
-msgstr "Walamo"
+msgid "Wolaitta; Wolaytta"
+msgstr ""
 
 #. Name for war
 msgid "Waray"

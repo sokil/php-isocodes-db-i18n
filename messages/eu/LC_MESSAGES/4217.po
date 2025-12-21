@@ -1,16 +1,15 @@
 # Translation of ISO 4217 to Basque
 # Codes for the representation of currencies
 # .
-# This file is distributed under the same license as the iso-codes package.
+# SPDX-License-Identifier: LGPL-2.1-or-later
 # .
-# Copyright ©
-# Gontzal Manuel Pujana Onaindia <thadahdenyse@gmail.com>, 2021.
+# SPDX-FileCopyrightText: 2021 Gontzal Manuel Pujana Onaindia <thadahdenyse@gmail.com>
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_4217\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2022-06-01 15:01+0200\n"
+"POT-Creation-Date: 2025-11-18 11:09+0100\n"
 "PO-Revision-Date: 2021-01-27 09:32+0000\n"
 "Last-Translator: Gontzal Manuel Pujana Onaindia <thadahdenyse@gmail.com>\n"
 "Language-Team: Basque <https://hosted.weblate.org/projects/iso-codes/"
@@ -37,10 +36,6 @@ msgstr "Lek"
 #. Name for AMD
 msgid "Armenian Dram"
 msgstr "Dram armeniarra"
-
-#. Name for ANG
-msgid "Netherlands Antillean Guilder"
-msgstr ""
 
 #. Name for AOA
 msgid "Kwanza"
@@ -170,10 +165,6 @@ msgstr ""
 msgid "Costa Rican Colon"
 msgstr ""
 
-#. Name for CUC
-msgid "Peso Convertible"
-msgstr ""
-
 #. Name for CUP
 msgid "Cuban Peso"
 msgstr ""
@@ -264,10 +255,6 @@ msgstr ""
 
 #. Name for HNL
 msgid "Lempira"
-msgstr ""
-
-#. Name for HRK
-msgid "Kuna"
 msgstr ""
 
 #. Name for HTG
@@ -538,7 +525,7 @@ msgstr ""
 msgid "Saint Helena Pound"
 msgstr ""
 
-#. Name for SLE, Name for SLL
+#. Name for SLE
 msgid "Leone"
 msgstr ""
 
@@ -654,6 +641,10 @@ msgstr ""
 msgid "Tala"
 msgstr ""
 
+#. Name for XAD
+msgid "Arab Accounting Dinar"
+msgstr ""
+
 #. Name for XAF
 msgid "CFA Franc BEAC"
 msgstr ""
@@ -684,6 +675,10 @@ msgstr ""
 
 #. Name for XCD
 msgid "East Caribbean Dollar"
+msgstr ""
+
+#. Name for XCG
+msgid "Caribbean Guilder"
 msgstr ""
 
 #. Name for XDR
@@ -734,6 +729,6 @@ msgstr ""
 msgid "Zambian Kwacha"
 msgstr ""
 
-#. Name for ZWL
-msgid "Zimbabwe Dollar"
+#. Name for ZWG
+msgid "Zimbabwe Gold"
 msgstr ""

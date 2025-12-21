@@ -1,19 +1,18 @@
 # Translation of ISO 15924 to Romanian; Moldavian; Moldovan
 # Codes for the representation of names of scripts
 # .
-# This file is distributed under the same license as the iso-codes package.
+# SPDX-License-Identifier: LGPL-2.1-or-later
 # .
-# Copyright ©
-# Dr. Tobias Quathamer <toddy@debian.org>, 2007.
-# Lucian Adrian Grijincu <lucian.grijincu@gmail.com>, 2010.
-# Remus-Gabriel Chelu <remusgabriel.chelu@disroot.org>, 2023.
+# SPDX-FileCopyrightText: 2007 Dr. Tobias Quathamer <toddy@debian.org>
+# SPDX-FileCopyrightText: 2010 Lucian Adrian Grijincu <lucian.grijincu@gmail.com>
+# SPDX-FileCopyrightText: 2023, 2025 Remus-Gabriel Chelu <remusgabriel.chelu@disroot.org>
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_15924\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2018-01-17 22:10+0100\n"
-"PO-Revision-Date: 2023-12-30 00:11+0000\n"
+"POT-Creation-Date: 2025-11-18 11:09+0100\n"
+"PO-Revision-Date: 2025-10-14 21:22+0000\n"
 "Last-Translator: Remus-Gabriel Chelu <remusgabriel.chelu@disroot.org>\n"
 "Language-Team: Romanian <https://hosted.weblate.org/projects/iso-codes/"
 "iso-15924/ro/>\n"
@@ -23,7 +22,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
 "20)) ? 1 : 2;\n"
-"X-Generator: Weblate 5.4-dev\n"
+"X-Generator: Weblate 5.14-dev\n"
 "X-Launchpad-Export-Date: 2010-08-15 13:40+0000\n"
 
 #. Name for Adlm
@@ -79,8 +78,12 @@ msgid "Batak"
 msgstr "batak"
 
 #. Name for Beng
-msgid "Bengali"
-msgstr "bengali"
+msgid "Bengali (Bangla)"
+msgstr "bengali (bangla)"
+
+#. Name for Berf
+msgid "Beria Erfe"
+msgstr "beria erfe"
 
 #. Name for Bhks
 msgid "Bhaiksuki"
@@ -130,6 +133,14 @@ msgstr "cham"
 msgid "Cherokee"
 msgstr "cherokee"
 
+#. Name for Chis
+msgid "Chisoi"
+msgstr "Chisoi"
+
+#. Name for Chrs
+msgid "Chorasmian"
+msgstr "chorasmiană"
+
 #. Name for Cirt
 msgid "Cirth"
 msgstr "cirth"
@@ -138,9 +149,13 @@ msgstr "cirth"
 msgid "Coptic"
 msgstr "coptă"
 
+#. Name for Cpmn
+msgid "Cypro-Minoan"
+msgstr "cipro-minoică"
+
 #. Name for Cprt
-msgid "Cypriot"
-msgstr "cipriotă"
+msgid "Cypriot syllabary"
+msgstr "silabară cipriotă"
 
 #. Name for Cyrl
 msgid "Cyrillic"
@@ -153,6 +168,14 @@ msgstr "chirilică (varianta slavonă bisericească veche)"
 #. Name for Deva
 msgid "Devanagari (Nagari)"
 msgstr "devanagari (nagari)"
+
+#. Name for Diak
+msgid "Dives Akuru"
+msgstr "dives akuru"
+
+#. Name for Dogr
+msgid "Dogra"
+msgstr "dogra"
 
 #. Name for Dsrt
 msgid "Deseret (Mormon)"
@@ -178,21 +201,37 @@ msgstr "hieroglife egiptene"
 msgid "Elbasan"
 msgstr "elbasană"
 
+#. Name for Elym
+msgid "Elymaic"
+msgstr "elimaic"
+
 #. Name for Ethi
 msgid "Ethiopic (Geʻez)"
 msgstr "etiopiană (gî'îz)"
+
+#. Name for Gara
+msgid "Garay"
+msgstr "garay"
 
 #. Name for Geok
 msgid "Khutsuri (Asomtavruli and Nuskhuri)"
 msgstr "khutsuri (asomtavruli și nuskhuri)"
 
 #. Name for Geor
-msgid "Georgian (Mkhedruli)"
-msgstr "georgiană (mkhedruli)"
+msgid "Georgian (Mkhedruli and Mtavruli)"
+msgstr "georgiană (mkhedruli și mtavruli)"
 
 #. Name for Glag
 msgid "Glagolitic"
 msgstr "glagolitică"
+
+#. Name for Gong
+msgid "Gunjala Gondi"
+msgstr "gunjala gondi"
+
+#. Name for Gonm
+msgid "Masaram Gondi"
+msgstr "masaram gondi"
 
 #. Name for Goth
 msgid "Gothic"
@@ -209,6 +248,10 @@ msgstr "greacă"
 #. Name for Gujr
 msgid "Gujarati"
 msgstr "gujarati"
+
+#. Name for Gukh
+msgid "Gurung Khema"
+msgstr "gurung khema"
 
 #. Name for Guru
 msgid "Gurmukhi"
@@ -258,6 +301,14 @@ msgstr "hieroglife anatoliene (hieroglife luwiene, hieroglife hitite)"
 msgid "Pahawh Hmong"
 msgstr "pahawh hmong"
 
+#. Name for Hmnp
+msgid "Nyiakeng Puachue Hmong"
+msgstr "nyiakeng puachue hmong"
+
+#. Name for Hntl
+msgid "Han (Traditional variant) with Latin (alias for Hant + Latn)"
+msgstr "Han (varianta tradițională) cu latină (alias pentru Hant + Latn)"
+
 #. Name for Hrkt
 msgid "Japanese syllabaries (alias for Hiragana + Katakana)"
 msgstr "silabare japoneze (alias pentru hiragana + katakana)"
@@ -298,6 +349,10 @@ msgstr "kayah li"
 msgid "Katakana"
 msgstr "katakana"
 
+#. Name for Kawi
+msgid "Kawi"
+msgstr "kawi"
+
 #. Name for Khar
 msgid "Kharoshthi"
 msgstr "kharoshthi"
@@ -329,6 +384,10 @@ msgstr "koreană (alias pentru hangul + han)"
 #. Name for Kpel
 msgid "Kpelle"
 msgstr "kpelenă"
+
+#. Name for Krai
+msgid "Kirat Rai"
+msgstr "kirat rai"
 
 #. Name for Kthi
 msgid "Kaithi"
@@ -394,6 +453,10 @@ msgstr "lidiană"
 msgid "Mahajani"
 msgstr "mahajani"
 
+#. Name for Maka
+msgid "Makasar"
+msgstr "makasar"
+
 #. Name for Mand
 msgid "Mandaic, Mandaean"
 msgstr "mandaică, mandaeană"
@@ -409,6 +472,10 @@ msgstr "marchen"
 #. Name for Maya
 msgid "Mayan hieroglyphs"
 msgstr "hieroglife maiașe"
+
+#. Name for Medf
+msgid "Medefaidrin (Oberi Okaime, Oberi Ɔkaimɛ)"
+msgstr "medefaidrin (oberi okaime, oberi ɔkaimɛ)"
 
 #. Name for Mend
 msgid "Mende Kikakui"
@@ -454,6 +521,14 @@ msgstr "multani"
 msgid "Myanmar (Burmese)"
 msgstr "myanmar (birmaneză)"
 
+#. Name for Nagm
+msgid "Nag Mundari"
+msgstr "nag mundari"
+
+#. Name for Nand
+msgid "Nandinagari"
+msgstr "nandinagari"
+
 #. Name for Narb
 msgid "Old North Arabian (Ancient North Arabian)"
 msgstr "arabă-nordică veche (arabă-nordică antică)"
@@ -466,9 +541,13 @@ msgstr "nabateană"
 msgid "Newa, Newar, Newari, Nepāla lipi"
 msgstr "newa, newar, newari, nepāla lipi (nepaleză)"
 
+#. Name for Nkdb
+msgid "Naxi Dongba (na²¹ɕi³³ to³³ba²¹, Nakhi Tomba)"
+msgstr "naxi dongba (na²¹ɕi³³ to³³ba²¹, nakhi tomba)"
+
 #. Name for Nkgb
-msgid "Nakhi Geba ('Na-'Khi ²Ggŏ-¹baw, Naxi Geba)"
-msgstr "nakhi geba ('na-'khi ²ggŏ-¹baw, naxi geba)"
+msgid "Naxi Geba (na²¹ɕi³³ gʌ²¹ba²¹, 'Na-'Khi ²Ggŏ-¹baw, Nakhi Geba)"
+msgstr "naxi geba (na²¹ɕi³³ gʌ²¹ba²¹, 'na-'khi ²ggŏ-¹baw, nakhi geba)"
 
 #. Name for Nkoo
 msgid "N’Ko"
@@ -486,13 +565,17 @@ msgstr "ogham"
 msgid "Ol Chiki (Ol Cemet’, Ol, Santali)"
 msgstr "ol chiki (ol cemet’, ol, santali)"
 
+#. Name for Onao
+msgid "Ol Onal"
+msgstr "ol onal"
+
 #. Name for Orkh
 msgid "Old Turkic, Orkhon Runic"
 msgstr "turcă veche, orhon runic"
 
 #. Name for Orya
-msgid "Oriya"
-msgstr "oriya"
+msgid "Oriya (Odia)"
+msgstr "oria (odiya)"
 
 #. Name for Osge
 msgid "Osage"
@@ -502,6 +585,10 @@ msgstr "osage"
 msgid "Osmanya"
 msgstr "osmanya"
 
+#. Name for Ougr
+msgid "Old Uyghur"
+msgstr "uigură veche"
+
 #. Name for Palm
 msgid "Palmyrene"
 msgstr "palmyrene"
@@ -509,6 +596,14 @@ msgstr "palmyrene"
 #. Name for Pauc
 msgid "Pau Cin Hau"
 msgstr "pau cin hau"
+
+#. Name for Pcun
+msgid "Proto-Cuneiform"
+msgstr "proto-cuneiformă"
+
+#. Name for Pelm
+msgid "Proto-Elamite"
+msgstr "proto-elamită"
 
 #. Name for Perm
 msgid "Old Permic"
@@ -546,6 +641,10 @@ msgstr "miao pollard)"
 msgid "Inscriptional Parthian"
 msgstr "parthian inscripțională"
 
+#. Name for Psin
+msgid "Proto-Sinaitic"
+msgstr "proto-sinaitică"
+
 #. Name for Qaaa
 msgid "Reserved for private use (start)"
 msgstr "rezervat pentru utilizare privată (început)"
@@ -554,9 +653,17 @@ msgstr "rezervat pentru utilizare privată (început)"
 msgid "Reserved for private use (end)"
 msgstr "rezervat pentru utilizare privată (sfârșit)"
 
+#. Name for Ranj
+msgid "Ranjana"
+msgstr "ranjana"
+
 #. Name for Rjng
 msgid "Rejang (Redjang, Kaganga)"
 msgstr "rejang (redjang,kaganga)"
+
+#. Name for Rohg
+msgid "Hanifi Rohingya"
+msgstr "hanifi"
 
 #. Name for Roro
 msgid "Rongorongo"
@@ -582,6 +689,10 @@ msgstr "arabă-sudică veche"
 msgid "Saurashtra"
 msgstr "saurashtra"
 
+#. Name for Seal
+msgid "(Small) Seal"
+msgstr "micul sigiliu"
+
 #. Name for Sgnw
 msgid "SignWriting"
 msgstr "SignWriting (scrierea de semne)"
@@ -594,9 +705,17 @@ msgstr "shavian (shaw)"
 msgid "Sharada, Śāradā"
 msgstr "sharada, śāradā"
 
+#. Name for Shui
+msgid "Shuishu"
+msgstr "shuishu (sui)"
+
 #. Name for Sidd
 msgid "Siddham, Siddhaṃ, Siddhamātṛkā"
 msgstr "siddham, siddhamātṛkā"
+
+#. Name for Sidt
+msgid "Sidetic"
+msgstr "sidetică"
 
 #. Name for Sind
 msgid "Khudawadi, Sindhi"
@@ -606,13 +725,29 @@ msgstr "khudawadi, sindhi"
 msgid "Sinhala"
 msgstr "singaleză"
 
+#. Name for Sogd
+msgid "Sogdian"
+msgstr "sogdiană"
+
+#. Name for Sogo
+msgid "Old Sogdian"
+msgstr "sogdiană veche"
+
 #. Name for Sora
 msgid "Sora Sompeng"
 msgstr "sora sompeng"
 
+#. Name for Soyo
+msgid "Soyombo"
+msgstr "soyombo"
+
 #. Name for Sund
 msgid "Sundanese"
 msgstr "sudaneză"
+
+#. Name for Sunu
+msgid "Sunuwar"
+msgstr "sunuwar"
 
 #. Name for Sylo
 msgid "Syloti Nagri"
@@ -662,6 +797,10 @@ msgstr "tangut"
 msgid "Tai Viet"
 msgstr "tai viet"
 
+#. Name for Tayo
+msgid "Tai Yo"
+msgstr "tai yo"
+
 #. Name for Telu
 msgid "Telugu"
 msgstr "telugă"
@@ -694,6 +833,26 @@ msgstr "tibetană"
 msgid "Tirhuta"
 msgstr "tirhuta"
 
+#. Name for Tnsa
+msgid "Tangsa"
+msgstr "tangsa"
+
+#. Name for Todr
+msgid "Todhri"
+msgstr "todhri"
+
+#. Name for Tols
+msgid "Tolong Siki"
+msgstr "tolong siki"
+
+#. Name for Toto
+msgid "Toto"
+msgstr "toto"
+
+#. Name for Tutg
+msgid "Tulu-Tigalari"
+msgstr "tulu-tigalari"
+
 #. Name for Ugar
 msgid "Ugaritic"
 msgstr "ugaritică"
@@ -706,9 +865,17 @@ msgstr "vai"
 msgid "Visible Speech"
 msgstr "vorbire vizibilă"
 
+#. Name for Vith
+msgid "Vithkuqi"
+msgstr "vithkuqi"
+
 #. Name for Wara
 msgid "Warang Citi (Varang Kshiti)"
 msgstr "warang citi (varang kshiti)"
+
+#. Name for Wcho
+msgid "Wancho"
+msgstr "wancho"
 
 #. Name for Wole
 msgid "Woleai"
@@ -722,9 +889,19 @@ msgstr "persană veche"
 msgid "Cuneiform, Sumero-Akkadian"
 msgstr "cuneiformă, sumero-acadiană"
 
+#. Name for Yezi
+msgid "Yezidi"
+msgstr "yezidi"
+
 #. Name for Yiii
 msgid "Yi"
 msgstr "yi"
+
+#. Name for Zanb
+msgid ""
+"Zanabazar Square (Zanabazarin Dörböljin Useg, Xewtee Dörböljin Bicig, "
+"Horizontal Square Script)"
+msgstr "zanabazar pătrat (scriere cu pătrate orizontale)"
 
 #. Name for Zinh
 msgid "Code for inherited script"

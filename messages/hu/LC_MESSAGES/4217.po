@@ -1,26 +1,25 @@
 # Translation of ISO 4217 to Hungarian
 # Codes for the representation of currencies
 # .
-# This file is distributed under the same license as the iso-codes package.
+# SPDX-License-Identifier: LGPL-2.1-or-later
+# .
+# SPDX-FileCopyrightText: 2000 Andras TIMAR <timar@gnome.hu>
+# SPDX-FileCopyrightText: 2000 Emese Kovacs <emese@gnome.hu>
+# SPDX-FileCopyrightText: 2004 VERÓK István <vi@fsf.hu>
+# SPDX-FileCopyrightText: 2006 Gabor Kelemen <kelemeng@gnome.hu>
+# SPDX-FileCopyrightText: 2007-2010 Kalman Kemenczy <kkemenczy@gmail.com>
+# SPDX-FileCopyrightText: 2015 Balázs Úr <urbalazs@gmail.com>
+# SPDX-FileCopyrightText: 2023 Balázs Meskó <meskobalazs@mailbox.org>
+# SPDX-FileCopyrightText: 2025 RViktor <rviktor@ivankapal.com>
 # .
 # Notes:
 # http://www.unicode.org/cldr/data/diff/main/hu_HU.html
-# .
-# Copyright ©
-# Andras TIMAR <timar@gnome.hu>, 2000.
-# Emese Kovacs <emese@gnome.hu>, 2000.
-# VERÓK István <vi@fsf.hu>, 2004.
-# Gabor Kelemen <kelemeng@gnome.hu>, 2006.
-# Kalman Kemenczy <kkemenczy@gmail.com>, 2007-2010.
-# Balázs Úr <urbalazs@gmail.com>, 2015.
-# Balázs Meskó <meskobalazs@mailbox.org>, 2023.
-# RViktor <rviktor@ivankapal.com>, 2025.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_4217\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2022-06-01 15:01+0200\n"
+"POT-Creation-Date: 2025-11-18 11:09+0100\n"
 "PO-Revision-Date: 2025-04-08 02:04+0000\n"
 "Last-Translator: RViktor <rviktor@ivankapal.com>\n"
 "Language-Team: Hungarian <https://hosted.weblate.org/projects/iso-codes/"
@@ -47,10 +46,6 @@ msgstr "lek"
 #. Name for AMD
 msgid "Armenian Dram"
 msgstr "örmény dram"
-
-#. Name for ANG
-msgid "Netherlands Antillean Guilder"
-msgstr "holland antilláki forint"
 
 #. Name for AOA
 msgid "Kwanza"
@@ -180,10 +175,6 @@ msgstr "Inflációkövető egység, Kolumbia"
 msgid "Costa Rican Colon"
 msgstr "costa rica-i colon"
 
-#. Name for CUC
-msgid "Peso Convertible"
-msgstr "konvertibilis peso"
-
 #. Name for CUP
 msgid "Cuban Peso"
 msgstr "kubai peso"
@@ -275,10 +266,6 @@ msgstr "hongkongi dollár"
 #. Name for HNL
 msgid "Lempira"
 msgstr "lempira"
-
-#. Name for HRK
-msgid "Kuna"
-msgstr "kuna"
 
 #. Name for HTG
 msgid "Gourde"
@@ -548,7 +535,7 @@ msgstr "szingapúri dollár"
 msgid "Saint Helena Pound"
 msgstr "Szent Ilona-i font"
 
-#. Name for SLE, Name for SLL
+#. Name for SLE
 msgid "Leone"
 msgstr "leone"
 
@@ -664,6 +651,12 @@ msgstr "vatu"
 msgid "Tala"
 msgstr "tala"
 
+#. Name for XAD
+#, fuzzy
+#| msgid "Jordanian Dinar"
+msgid "Arab Accounting Dinar"
+msgstr "jordán dinár"
+
 #. Name for XAF
 msgid "CFA Franc BEAC"
 msgstr "CFA frank BEAC"
@@ -694,6 +687,12 @@ msgstr "Európai kötvénypiaci elszámolási egység 17 (E.U.A.-17)"
 
 #. Name for XCD
 msgid "East Caribbean Dollar"
+msgstr "kelet-karib dollár"
+
+#. Name for XCG
+#, fuzzy
+#| msgid "East Caribbean Dollar"
+msgid "Caribbean Guilder"
 msgstr "kelet-karib dollár"
 
 #. Name for XDR
@@ -745,6 +744,8 @@ msgstr "rand"
 msgid "Zambian Kwacha"
 msgstr "zambiai kwacha"
 
-#. Name for ZWL
-msgid "Zimbabwe Dollar"
+#. Name for ZWG
+#, fuzzy
+#| msgid "Zimbabwe Dollar"
+msgid "Zimbabwe Gold"
 msgstr "zimbabwei dollár"

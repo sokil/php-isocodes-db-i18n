@@ -1,20 +1,19 @@
 # Translation of ISO 4217 to Russian
 # Codes for the representation of currencies
 # .
-# This file is distributed under the same license as the iso-codes package.
+# SPDX-License-Identifier: LGPL-2.1-or-later
 # .
-# Copyright ©
-# Pavel Maryanov <acid_jack@ukr.net>, 2009.
-# Dmitry Sivachenko <trtrmitya@gmail.com>, 2015.
-# Yuri Kozlov <yuray@komyakino.ru>, 2010, 2015, 2017.
-# yurayko <yuray@komyakino.ru>, 2018.
-# kala Asi <maks-s15@mail.ru>, 2024.
+# SPDX-FileCopyrightText: 2009 Pavel Maryanov <acid_jack@ukr.net>
+# SPDX-FileCopyrightText: 2015 Dmitry Sivachenko <trtrmitya@gmail.com>
+# SPDX-FileCopyrightText: 2010, 2015, 2017 Yuri Kozlov <yuray@komyakino.ru>
+# SPDX-FileCopyrightText: 2018 yurayko <yuray@komyakino.ru>
+# SPDX-FileCopyrightText: 2024 kala Asi <maks-s15@mail.ru>
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_4217\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2022-06-01 15:01+0200\n"
+"POT-Creation-Date: 2025-11-18 11:09+0100\n"
 "PO-Revision-Date: 2024-11-13 06:02+0000\n"
 "Last-Translator: kala Asi <maks-s15@mail.ru>\n"
 "Language-Team: Russian <https://hosted.weblate.org/projects/iso-codes/"
@@ -43,10 +42,6 @@ msgstr "Лек"
 #. Name for AMD
 msgid "Armenian Dram"
 msgstr "Армянский драм"
-
-#. Name for ANG
-msgid "Netherlands Antillean Guilder"
-msgstr "Нидерландский антильский гульден"
 
 #. Name for AOA
 msgid "Kwanza"
@@ -180,10 +175,6 @@ msgstr ""
 msgid "Costa Rican Colon"
 msgstr "Костариканский колон"
 
-#. Name for CUC
-msgid "Peso Convertible"
-msgstr "Конвертируемое песо"
-
 #. Name for CUP
 msgid "Cuban Peso"
 msgstr "Кубинское песо"
@@ -275,10 +266,6 @@ msgstr "Гонконгский доллар"
 #. Name for HNL
 msgid "Lempira"
 msgstr "Лемпира"
-
-#. Name for HRK
-msgid "Kuna"
-msgstr "Куна"
 
 #. Name for HTG
 msgid "Gourde"
@@ -548,7 +535,7 @@ msgstr "Сингапурский доллар"
 msgid "Saint Helena Pound"
 msgstr "Фунт Святой Елены"
 
-#. Name for SLE, Name for SLL
+#. Name for SLE
 msgid "Leone"
 msgstr "Леоне"
 
@@ -666,6 +653,12 @@ msgstr "Вату"
 msgid "Tala"
 msgstr "Тала"
 
+#. Name for XAD
+#, fuzzy
+#| msgid "Jordanian Dinar"
+msgid "Arab Accounting Dinar"
+msgstr "Иорданский динар"
+
 #. Name for XAF
 msgid "CFA Franc BEAC"
 msgstr "Франк КФА ВЕАС"
@@ -699,6 +692,12 @@ msgstr ""
 
 #. Name for XCD
 msgid "East Caribbean Dollar"
+msgstr "Восточно-карибский доллар"
+
+#. Name for XCG
+#, fuzzy
+#| msgid "East Caribbean Dollar"
+msgid "Caribbean Guilder"
 msgstr "Восточно-карибский доллар"
 
 #. Name for XDR
@@ -749,6 +748,8 @@ msgstr "Рэнд"
 msgid "Zambian Kwacha"
 msgstr "Замбийская квача"
 
-#. Name for ZWL
-msgid "Zimbabwe Dollar"
+#. Name for ZWG
+#, fuzzy
+#| msgid "Zimbabwe Dollar"
+msgid "Zimbabwe Gold"
 msgstr "Доллар Зимбабве"

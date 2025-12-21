@@ -1,20 +1,20 @@
 # Translation of ISO 4217 to Estonian
 # Codes for the representation of currencies
 # .
-# This file is distributed under the same license as the iso-codes package.
+# SPDX-License-Identifier: LGPL-2.1-or-later
 # .
-# Copyright ©
-# Alastair McKinstry <mckinstry@debian.org>, 2001.
-# Ain Vagula <avagula@gmail.com>, 2007-2008.
-# Priit Jõerüüt <hwlate@joeruut.com>, 2022, 2023.
+# SPDX-FileCopyrightText: 2001 Alastair McKinstry <mckinstry@debian.org>
+# SPDX-FileCopyrightText: 2007-2008 Ain Vagula <avagula@gmail.com>
+# SPDX-FileCopyrightText: 2022, 2023 Priit Jõerüüt <hwlate@joeruut.com>
+# SPDX-FileCopyrightText: 2025 Priit Jõerüüt <jrthwlate@users.noreply.hosted.weblate.org>
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_4217\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2022-06-01 15:01+0200\n"
-"PO-Revision-Date: 2023-07-20 12:54+0000\n"
-"Last-Translator: Priit Jõerüüt <hwlate@joeruut.com>\n"
+"POT-Creation-Date: 2025-11-18 11:09+0100\n"
+"PO-Revision-Date: 2025-10-16 03:08+0000\n"
+"Last-Translator: Priit Jõerüüt <jrthwlate@users.noreply.hosted.weblate.org>\n"
 "Language-Team: Estonian <https://hosted.weblate.org/projects/iso-codes/"
 "iso-4217/et/>\n"
 "Language: et\n"
@@ -22,7 +22,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.0-dev\n"
+"X-Generator: Weblate 5.14-dev\n"
 
 #. Name for AED
 msgid "UAE Dirham"
@@ -39,10 +39,6 @@ msgstr "lekk"
 #. Name for AMD
 msgid "Armenian Dram"
 msgstr "Armeenia dram"
-
-#. Name for ANG
-msgid "Netherlands Antillean Guilder"
-msgstr "Hollandi Antillide kulden"
 
 #. Name for AOA
 msgid "Kwanza"
@@ -172,10 +168,6 @@ msgstr "Colombia arvestusühik"
 msgid "Costa Rican Colon"
 msgstr "Costa Rica kolon"
 
-#. Name for CUC
-msgid "Peso Convertible"
-msgstr "Konverteeritav peeso"
-
 #. Name for CUP
 msgid "Cuban Peso"
 msgstr "Kuuba peeso"
@@ -267,10 +259,6 @@ msgstr "Hongkongi dollar"
 #. Name for HNL
 msgid "Lempira"
 msgstr "Lempira"
-
-#. Name for HRK
-msgid "Kuna"
-msgstr "kuna"
 
 #. Name for HTG
 msgid "Gourde"
@@ -540,7 +528,7 @@ msgstr "Singapuri dollar"
 msgid "Saint Helena Pound"
 msgstr "Püha Helena nael"
 
-#. Name for SLE, Name for SLL
+#. Name for SLE
 msgid "Leone"
 msgstr "leone"
 
@@ -656,6 +644,10 @@ msgstr "vatu"
 msgid "Tala"
 msgstr "tala"
 
+#. Name for XAD
+msgid "Arab Accounting Dinar"
+msgstr "Araabia arveldusdinaar"
+
 #. Name for XAF
 msgid "CFA Franc BEAC"
 msgstr "CFA frank BEAC"
@@ -687,6 +679,10 @@ msgstr "Võlakirjaturu üksus Euroopa arveldusühik 17 (E.U.A.-17)"
 #. Name for XCD
 msgid "East Caribbean Dollar"
 msgstr "Ida-Kariibi dollar"
+
+#. Name for XCG
+msgid "Caribbean Guilder"
+msgstr "Kariibi kulden"
 
 #. Name for XDR
 msgid "SDR (Special Drawing Right)"
@@ -736,6 +732,6 @@ msgstr "rand"
 msgid "Zambian Kwacha"
 msgstr "Sambia kvatša"
 
-#. Name for ZWL
-msgid "Zimbabwe Dollar"
-msgstr "Zimbabwe dollar"
+#. Name for ZWG
+msgid "Zimbabwe Gold"
+msgstr "Zimbabwe kuld"

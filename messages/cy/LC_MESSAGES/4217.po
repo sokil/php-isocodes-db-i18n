@@ -1,16 +1,15 @@
 # Translation of ISO 4217 to Welsh
 # Codes for the representation of currencies
 # .
-# This file is distributed under the same license as the iso-codes package.
+# SPDX-License-Identifier: LGPL-2.1-or-later
 # .
-# Copyright ©
-# dreigiau <sterilgrimed23@gmail.com>, 2023.
+# SPDX-FileCopyrightText: 2023 dreigiau <sterilgrimed23@gmail.com>
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_4217\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2022-06-01 15:01+0200\n"
+"POT-Creation-Date: 2025-11-18 11:09+0100\n"
 "PO-Revision-Date: 2023-04-22 17:42+0000\n"
 "Last-Translator: dreigiau <sterilgrimed23@gmail.com>\n"
 "Language-Team: Welsh <https://hosted.weblate.org/projects/iso-codes/iso-4217/"
@@ -37,10 +36,6 @@ msgstr "Lec"
 
 #. Name for AMD
 msgid "Armenian Dram"
-msgstr ""
-
-#. Name for ANG
-msgid "Netherlands Antillean Guilder"
 msgstr ""
 
 #. Name for AOA
@@ -171,10 +166,6 @@ msgstr ""
 msgid "Costa Rican Colon"
 msgstr ""
 
-#. Name for CUC
-msgid "Peso Convertible"
-msgstr ""
-
 #. Name for CUP
 msgid "Cuban Peso"
 msgstr ""
@@ -265,10 +256,6 @@ msgstr ""
 
 #. Name for HNL
 msgid "Lempira"
-msgstr ""
-
-#. Name for HRK
-msgid "Kuna"
 msgstr ""
 
 #. Name for HTG
@@ -539,7 +526,7 @@ msgstr ""
 msgid "Saint Helena Pound"
 msgstr ""
 
-#. Name for SLE, Name for SLL
+#. Name for SLE
 msgid "Leone"
 msgstr "Leone"
 
@@ -655,6 +642,10 @@ msgstr "Vatu"
 msgid "Tala"
 msgstr "Tala"
 
+#. Name for XAD
+msgid "Arab Accounting Dinar"
+msgstr ""
+
 #. Name for XAF
 msgid "CFA Franc BEAC"
 msgstr ""
@@ -685,6 +676,10 @@ msgstr ""
 
 #. Name for XCD
 msgid "East Caribbean Dollar"
+msgstr ""
+
+#. Name for XCG
+msgid "Caribbean Guilder"
 msgstr ""
 
 #. Name for XDR
@@ -735,6 +730,6 @@ msgstr "Rand"
 msgid "Zambian Kwacha"
 msgstr ""
 
-#. Name for ZWL
-msgid "Zimbabwe Dollar"
+#. Name for ZWG
+msgid "Zimbabwe Gold"
 msgstr ""

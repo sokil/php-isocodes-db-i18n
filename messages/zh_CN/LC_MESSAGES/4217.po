@@ -1,25 +1,24 @@
 # Translation of ISO 4217 to Chinese (Simplified)
 # Codes for the representation of currencies
 # .
-# This file is distributed under the same license as the iso-codes package.
+# SPDX-License-Identifier: LGPL-2.1-or-later
+# .
+# SPDX-FileCopyrightText: 2001 Dillion Chen <dillon.chen@turbolinux.com.cn>
+# SPDX-FileCopyrightText: 2001 Donald Park <xlpark@kankou.cs.uec.ac.jp>
+# SPDX-FileCopyrightText: 2002 Alastair McKinstry <mckinstry@debian.org>
+# SPDX-FileCopyrightText: 2007-2008, 2010, 2019 LI Daobing <lidaobing@gmail.com>
+# SPDX-FileCopyrightText: 2022 Boyuan Yang <073plan@gmail.com>
+# SPDX-FileCopyrightText: 2022 yangyangdaji <1504305527@qq.com>
+# SPDX-FileCopyrightText: 2024 Tyson Tan <tysontanx@gmail.com>
 # .
 # Notes:
 # please refer to GB/T 12406-1996
-# .
-# Copyright ©
-# Dillion Chen <dillon.chen@turbolinux.com.cn>, 2001.
-# Donald Park <xlpark@kankou.cs.uec.ac.jp>, 2001.
-# Alastair McKinstry <mckinstry@debian.org>, 2002.
-# LI Daobing <lidaobing@gmail.com>, 2007-2008, 2010, 2019.
-# Boyuan Yang <073plan@gmail.com>, 2022.
-# yangyangdaji <1504305527@qq.com>, 2022.
-# Tyson Tan <tysontanx@gmail.com>, 2024.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_4217\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2022-06-01 15:01+0200\n"
+"POT-Creation-Date: 2025-11-18 11:09+0100\n"
 "PO-Revision-Date: 2024-01-15 02:23+0000\n"
 "Last-Translator: Tyson Tan <tysontanx@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://hosted.weblate.org/projects/iso-"
@@ -46,10 +45,6 @@ msgstr "列克"
 #. Name for AMD
 msgid "Armenian Dram"
 msgstr "亚美尼亚达姆"
-
-#. Name for ANG
-msgid "Netherlands Antillean Guilder"
-msgstr "荷属安的列斯盾"
 
 #. Name for AOA
 msgid "Kwanza"
@@ -179,10 +174,6 @@ msgstr "雷亚尔价值单位"
 msgid "Costa Rican Colon"
 msgstr "哥斯达黎加科朗"
 
-#. Name for CUC
-msgid "Peso Convertible"
-msgstr "可兑换比索"
-
 #. Name for CUP
 msgid "Cuban Peso"
 msgstr "古巴比索"
@@ -274,10 +265,6 @@ msgstr "港元"
 #. Name for HNL
 msgid "Lempira"
 msgstr "伦皮拉"
-
-#. Name for HRK
-msgid "Kuna"
-msgstr "库纳"
 
 #. Name for HTG
 msgid "Gourde"
@@ -548,7 +535,7 @@ msgstr "新加坡元"
 msgid "Saint Helena Pound"
 msgstr "圣赫勒拿镑"
 
-#. Name for SLE, Name for SLL
+#. Name for SLE
 msgid "Leone"
 msgstr "利昂"
 
@@ -664,6 +651,12 @@ msgstr "瓦图"
 msgid "Tala"
 msgstr "塔拉"
 
+#. Name for XAD
+#, fuzzy
+#| msgid "Jordanian Dinar"
+msgid "Arab Accounting Dinar"
+msgstr "约丹第纳尔"
+
 #. Name for XAF
 msgid "CFA Franc BEAC"
 msgstr "中非金融合作法郎"
@@ -694,6 +687,12 @@ msgstr "欧洲记账单位-17 (E.U.A.-17)"
 
 #. Name for XCD
 msgid "East Caribbean Dollar"
+msgstr "东加勒比元"
+
+#. Name for XCG
+#, fuzzy
+#| msgid "East Caribbean Dollar"
+msgid "Caribbean Guilder"
 msgstr "东加勒比元"
 
 #. Name for XDR
@@ -744,6 +743,8 @@ msgstr "兰特"
 msgid "Zambian Kwacha"
 msgstr "赞比亚克瓦查"
 
-#. Name for ZWL
-msgid "Zimbabwe Dollar"
+#. Name for ZWG
+#, fuzzy
+#| msgid "Zimbabwe Dollar"
+msgid "Zimbabwe Gold"
 msgstr "津巴布韦元"

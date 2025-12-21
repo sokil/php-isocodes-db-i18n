@@ -2,21 +2,20 @@
 # Codes for the representation of names of countries and their subdivisions
 # Part 3: Code for formerly used names of countries
 # .
-# This file is distributed under the same license as the iso-codes package.
+# SPDX-License-Identifier: LGPL-2.1-or-later
 # .
-# Copyright ©
-# Alastair McKinstry <mckinstry@debian.org>, 2001.
-# Andrea Scialpi <solopec@tiscalinet.it>, 2001.
-# Danilo Piazzalunga <danilopiazza@libero.it>, 2004.
-# Davide Viti <zinosat@tiscali.it>, 2006.
-# Milo Casagrande <milo@milo.name>, 2008-2013.
-# Sebastiano Pistore <SebastianoPistore.info@protonmail.ch>, 2018-2022.
+# SPDX-FileCopyrightText: 2001 Alastair McKinstry <mckinstry@debian.org>
+# SPDX-FileCopyrightText: 2001 Andrea Scialpi <solopec@tiscalinet.it>
+# SPDX-FileCopyrightText: 2004 Danilo Piazzalunga <danilopiazza@libero.it>
+# SPDX-FileCopyrightText: 2006 Davide Viti <zinosat@tiscali.it>
+# SPDX-FileCopyrightText: 2008-2013 Milo Casagrande <milo@milo.name>
+# SPDX-FileCopyrightText: 2018-2022 Sebastiano Pistore <SebastianoPistore.info@protonmail.ch>
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-3\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2023-02-24 21:26+0100\n"
+"POT-Creation-Date: 2025-11-18 11:09+0100\n"
 "PO-Revision-Date: 2022-12-30 22:01+0100\n"
 "Last-Translator: Sebastiano Pistore <SebastianoPistore.info@protonmail.ch>\n"
 "Language-Team: Italian <tp@lists.linux.it>\n"

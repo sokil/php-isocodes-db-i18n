@@ -1,18 +1,17 @@
 # Translation of ISO 4217 to Korean
 # Codes for the representation of currencies
 # .
-# This file is distributed under the same license as the iso-codes package.
+# SPDX-License-Identifier: LGPL-2.1-or-later
 # .
-# Copyright ©
-# Sung-Hyun Nam <namsh@lgic.co.kr>, 1998-2000.
-# Alastair McKinstry <mckinstry@debian.org>, 2002.
-# Changwoo Ryu <cwryu@debian.org>, 2024.
+# SPDX-FileCopyrightText: 1998-2000 Sung-Hyun Nam <namsh@lgic.co.kr>
+# SPDX-FileCopyrightText: 2002 Alastair McKinstry <mckinstry@debian.org>
+# SPDX-FileCopyrightText: 2024 Changwoo Ryu <cwryu@debian.org>
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_4217\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2022-06-01 15:01+0200\n"
+"POT-Creation-Date: 2025-11-18 11:09+0100\n"
 "PO-Revision-Date: 2024-01-01 01:03+0000\n"
 "Last-Translator: Changwoo Ryu <cwryu@debian.org>\n"
 "Language-Team: Korean <https://hosted.weblate.org/projects/iso-codes/"
@@ -39,10 +38,6 @@ msgstr "알바니아 레크"
 #. Name for AMD
 msgid "Armenian Dram"
 msgstr "아르메니아 드람"
-
-#. Name for ANG
-msgid "Netherlands Antillean Guilder"
-msgstr "네덜란드령 안틸레스 휠던"
 
 #. Name for AOA
 msgid "Kwanza"
@@ -172,10 +167,6 @@ msgstr "브라질 헤알"
 msgid "Costa Rican Colon"
 msgstr "코스타리카 콜론"
 
-#. Name for CUC
-msgid "Peso Convertible"
-msgstr "쿠바 태환 페소"
-
 #. Name for CUP
 msgid "Cuban Peso"
 msgstr "쿠바 페소"
@@ -267,10 +258,6 @@ msgstr "홍콩 달러"
 #. Name for HNL
 msgid "Lempira"
 msgstr "온두라스 렘피라"
-
-#. Name for HRK
-msgid "Kuna"
-msgstr "크로아티아 쿠나"
 
 #. Name for HTG
 msgid "Gourde"
@@ -540,7 +527,7 @@ msgstr "싱가포르 달러"
 msgid "Saint Helena Pound"
 msgstr "세인트헬레나 파운드"
 
-#. Name for SLE, Name for SLL
+#. Name for SLE
 msgid "Leone"
 msgstr "시에라리온 리온"
 
@@ -656,6 +643,12 @@ msgstr "바누아투 바투"
 msgid "Tala"
 msgstr "사모아 탈라"
 
+#. Name for XAD
+#, fuzzy
+#| msgid "Jordanian Dinar"
+msgid "Arab Accounting Dinar"
+msgstr "요르단 디나르"
+
 #. Name for XAF
 msgid "CFA Franc BEAC"
 msgstr "중앙아프리카 CFA 프랑"
@@ -686,6 +679,12 @@ msgstr "European Unit of Account 17 (E.U.A.-17) (채권 시장 단위)"
 
 #. Name for XCD
 msgid "East Caribbean Dollar"
+msgstr "동카리브 달러"
+
+#. Name for XCG
+#, fuzzy
+#| msgid "East Caribbean Dollar"
+msgid "Caribbean Guilder"
 msgstr "동카리브 달러"
 
 #. Name for XDR
@@ -736,6 +735,8 @@ msgstr "남아프리카 공화국 랜드"
 msgid "Zambian Kwacha"
 msgstr "잠비아 콰차"
 
-#. Name for ZWL
-msgid "Zimbabwe Dollar"
+#. Name for ZWG
+#, fuzzy
+#| msgid "Zimbabwe Dollar"
+msgid "Zimbabwe Gold"
 msgstr "짐비브웨 달러"

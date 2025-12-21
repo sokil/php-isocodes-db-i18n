@@ -1,18 +1,17 @@
 # Translation of ISO 4217 to Romanian; Moldavian; Moldovan
 # Codes for the representation of currencies
 # .
-# This file is distributed under the same license as the iso-codes package.
+# SPDX-License-Identifier: LGPL-2.1-or-later
 # .
-# Copyright ©
-# Lucian Adrian Grijincu <lucian.grijincu@gmail.com>, 2010.
-# Remus-Gabriel Chelu <remusgabriel.chelu@disroot.org>, 2023.
+# SPDX-FileCopyrightText: 2010 Lucian Adrian Grijincu <lucian.grijincu@gmail.com>
+# SPDX-FileCopyrightText: 2023, 2025 Remus-Gabriel Chelu <remusgabriel.chelu@disroot.org>
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_4217\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2022-06-01 15:01+0200\n"
-"PO-Revision-Date: 2023-12-28 20:07+0000\n"
+"POT-Creation-Date: 2025-11-18 11:09+0100\n"
+"PO-Revision-Date: 2025-10-14 21:22+0000\n"
 "Last-Translator: Remus-Gabriel Chelu <remusgabriel.chelu@disroot.org>\n"
 "Language-Team: Romanian <https://hosted.weblate.org/projects/iso-codes/"
 "iso-4217/ro/>\n"
@@ -22,7 +21,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
 "20)) ? 1 : 2;\n"
-"X-Generator: Weblate 5.4-dev\n"
+"X-Generator: Weblate 5.14-dev\n"
 "X-Launchpad-Export-Date: 2010-08-16 11:02+0000\n"
 
 #. Name for AED
@@ -40,10 +39,6 @@ msgstr "Lek"
 #. Name for AMD
 msgid "Armenian Dram"
 msgstr "Dram armean"
-
-#. Name for ANG
-msgid "Netherlands Antillean Guilder"
-msgstr "Gulden antilian din Olanda"
 
 #. Name for AOA
 msgid "Kwanza"
@@ -173,10 +168,6 @@ msgstr "Unitate de valoare validă (UVR)"
 msgid "Costa Rican Colon"
 msgstr "Colon costarican"
 
-#. Name for CUC
-msgid "Peso Convertible"
-msgstr "Peso convertibil"
-
 #. Name for CUP
 msgid "Cuban Peso"
 msgstr "Peso cubanez"
@@ -268,10 +259,6 @@ msgstr "Dolar Hong Kong"
 #. Name for HNL
 msgid "Lempira"
 msgstr "Lempira"
-
-#. Name for HRK
-msgid "Kuna"
-msgstr "Kuna"
 
 #. Name for HTG
 msgid "Gourde"
@@ -541,7 +528,7 @@ msgstr "Dolar singaporez"
 msgid "Saint Helena Pound"
 msgstr "Liră Sfânta Elena"
 
-#. Name for SLE, Name for SLL
+#. Name for SLE
 msgid "Leone"
 msgstr "Leone"
 
@@ -657,6 +644,10 @@ msgstr "Vatu"
 msgid "Tala"
 msgstr "Tala"
 
+#. Name for XAD
+msgid "Arab Accounting Dinar"
+msgstr "Dinar contabil arab"
+
 #. Name for XAF
 msgid "CFA Franc BEAC"
 msgstr "Franc CFA (BEAC)"
@@ -691,6 +682,10 @@ msgstr ""
 #. Name for XCD
 msgid "East Caribbean Dollar"
 msgstr "Dolar est caraibean"
+
+#. Name for XCG
+msgid "Caribbean Guilder"
+msgstr "Gulden caraibian"
 
 #. Name for XDR
 msgid "SDR (Special Drawing Right)"
@@ -741,6 +736,6 @@ msgstr "Rand"
 msgid "Zambian Kwacha"
 msgstr "Kwacha zambian"
 
-#. Name for ZWL
-msgid "Zimbabwe Dollar"
-msgstr "Dolar Zimbabwe"
+#. Name for ZWG
+msgid "Zimbabwe Gold"
+msgstr "Aur Zimbabwe"

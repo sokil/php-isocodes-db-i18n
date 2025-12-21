@@ -1,19 +1,18 @@
 # Translation of ISO 4217 to Indonesian
 # Codes for the representation of currencies
 # .
-# This file is distributed under the same license as the iso-codes package.
+# SPDX-License-Identifier: LGPL-2.1-or-later
 # .
-# Copyright ©
-# Erwid M Jadied <jadied@gmail.com>, 2008.
-# Andhika Padmawan <andhika.padmawan@gmail.com>, 2012-2016.
-# Andika Triwidada <andika@gmail.com>, 2022.
+# SPDX-FileCopyrightText: 2008 Erwid M Jadied <jadied@gmail.com>
+# SPDX-FileCopyrightText: 2012-2016 Andhika Padmawan <andhika.padmawan@gmail.com>
+# SPDX-FileCopyrightText: 2022, 2025 Andika Triwidada <andika@gmail.com>
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_4217\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2022-06-01 15:01+0200\n"
-"PO-Revision-Date: 2022-06-02 18:17+0000\n"
+"POT-Creation-Date: 2025-11-18 11:09+0100\n"
+"PO-Revision-Date: 2025-10-14 21:22+0000\n"
 "Last-Translator: Andika Triwidada <andika@gmail.com>\n"
 "Language-Team: Indonesian <https://hosted.weblate.org/projects/iso-codes/"
 "iso-4217/id/>\n"
@@ -22,7 +21,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.13-dev\n"
+"X-Generator: Weblate 5.14-dev\n"
 "X-Bugs: Report translation errors to the Language-Team address.\n"
 
 #. Name for AED
@@ -40,10 +39,6 @@ msgstr "Lek"
 #. Name for AMD
 msgid "Armenian Dram"
 msgstr "Dram Armenia"
-
-#. Name for ANG
-msgid "Netherlands Antillean Guilder"
-msgstr "Antillian Guilder Belanda"
 
 #. Name for AOA
 msgid "Kwanza"
@@ -173,10 +168,6 @@ msgstr "Unidad de Valor Real"
 msgid "Costa Rican Colon"
 msgstr "Colon Kosta Rika"
 
-#. Name for CUC
-msgid "Peso Convertible"
-msgstr "Peso Konvertibel"
-
 #. Name for CUP
 msgid "Cuban Peso"
 msgstr "Peso Kuba"
@@ -268,10 +259,6 @@ msgstr "Dollar Hongkong"
 #. Name for HNL
 msgid "Lempira"
 msgstr "Lempira"
-
-#. Name for HRK
-msgid "Kuna"
-msgstr "Kuna"
 
 #. Name for HTG
 msgid "Gourde"
@@ -541,7 +528,7 @@ msgstr "Dollar Singapura"
 msgid "Saint Helena Pound"
 msgstr "Pound Saint Helena"
 
-#. Name for SLE, Name for SLL
+#. Name for SLE
 msgid "Leone"
 msgstr "Leona"
 
@@ -657,6 +644,10 @@ msgstr "Vatu"
 msgid "Tala"
 msgstr "Tala"
 
+#. Name for XAD
+msgid "Arab Accounting Dinar"
+msgstr "Dinar Akunting Arab"
+
 #. Name for XAF
 msgid "CFA Franc BEAC"
 msgstr "CFA Franc BEAC"
@@ -688,6 +679,10 @@ msgstr "Unit Eropa Akun 17 Unit Pasar Saham (E.U.A.-17)"
 #. Name for XCD
 msgid "East Caribbean Dollar"
 msgstr "Dollar Karibia"
+
+#. Name for XCG
+msgid "Caribbean Guilder"
+msgstr "Guilder Karibia"
 
 #. Name for XDR
 msgid "SDR (Special Drawing Right)"
@@ -738,6 +733,6 @@ msgstr "rand"
 msgid "Zambian Kwacha"
 msgstr "Kwacha Zambia"
 
-#. Name for ZWL
-msgid "Zimbabwe Dollar"
-msgstr "Dollar Zimbabwe"
+#. Name for ZWG
+msgid "Zimbabwe Gold"
+msgstr "Emas Zimbabwe"

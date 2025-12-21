@@ -1,19 +1,18 @@
 # Translation of ISO 4217 to Greek, Modern (1453-)
 # Codes for the representation of currencies
 # .
-# This file is distributed under the same license as the iso-codes package.
+# SPDX-License-Identifier: LGPL-2.1-or-later
 # .
-# Copyright ©
-# Spiros Papadimitriou <spapadim+@cs.cmu.edu>, 2000.
-# Alastair McKinstry <mckinstry@debian.org>, 2002.
-# Konstantinos Margaritis <markos@debian.org>, 2004.
-# Vangelis Skarmoutsos <skarmoutsosv@gmail.com>, 2015-2017, 2018.
+# SPDX-FileCopyrightText: 2000 Spiros Papadimitriou <spapadim+@cs.cmu.edu>
+# SPDX-FileCopyrightText: 2002 Alastair McKinstry <mckinstry@debian.org>
+# SPDX-FileCopyrightText: 2004 Konstantinos Margaritis <markos@debian.org>
+# SPDX-FileCopyrightText: 2015-2017, 2018 Vangelis Skarmoutsos <skarmoutsosv@gmail.com>
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_4217\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2022-06-01 15:01+0200\n"
+"POT-Creation-Date: 2025-11-18 11:09+0100\n"
 "PO-Revision-Date: 2018-11-29 09:08+0000\n"
 "Last-Translator: Vangelis Skarmoutsos <skarmoutsosv@gmail.com>\n"
 "Language-Team: Greek <https://hosted.weblate.org/projects/iso-codes/iso-4217/"
@@ -41,12 +40,6 @@ msgstr "λεκ"
 #. Name for AMD
 msgid "Armenian Dram"
 msgstr "ντραμ Αρμενίας"
-
-#. Name for ANG
-#, fuzzy
-#| msgid "Netherlands Antillian Guilder"
-msgid "Netherlands Antillean Guilder"
-msgstr "γκίλντερ Ολλανδικών Αντίλλων"
 
 #. Name for AOA
 msgid "Kwanza"
@@ -185,12 +178,6 @@ msgstr ""
 msgid "Costa Rican Colon"
 msgstr "κολόν Κόστα Ρίκας"
 
-#. Name for CUC
-#, fuzzy
-#| msgid "Convertible Marks"
-msgid "Peso Convertible"
-msgstr "κονβερτιμπίλνα πέσο"
-
 #. Name for CUP
 msgid "Cuban Peso"
 msgstr "πέσο Κούβας"
@@ -291,10 +278,6 @@ msgstr "δολάριο Χονγκ Κονγκ"
 #. Name for HNL
 msgid "Lempira"
 msgstr "λεμπίρα"
-
-#. Name for HRK
-msgid "Kuna"
-msgstr "κούνα"
 
 # γκουρντ Αϊτής.
 #. Name for HTG
@@ -577,7 +560,7 @@ msgstr "δολάριο Σιγκαπούρης"
 msgid "Saint Helena Pound"
 msgstr "λίρα Αγίας Ελένης"
 
-#. Name for SLE, Name for SLL
+#. Name for SLE
 msgid "Leone"
 msgstr "λεόνε"
 
@@ -697,6 +680,12 @@ msgstr "βάτου"
 msgid "Tala"
 msgstr "Τάλα"
 
+#. Name for XAD
+#, fuzzy
+#| msgid "Jordanian Dinar"
+msgid "Arab Accounting Dinar"
+msgstr "δηνάριο Ιορδανίας"
+
 #. Name for XAF
 msgid "CFA Franc BEAC"
 msgstr "φράγκο CFA BEAK"
@@ -735,6 +724,12 @@ msgstr "Ευρωπαϊκή λογιστική μονάδα 17 (E.M.U.-17)"
 
 #. Name for XCD
 msgid "East Caribbean Dollar"
+msgstr "δολάριο Ανατολικής Καραϊβικής"
+
+#. Name for XCG
+#, fuzzy
+#| msgid "East Caribbean Dollar"
+msgid "Caribbean Guilder"
 msgstr "δολάριο Ανατολικής Καραϊβικής"
 
 #. Name for XDR
@@ -790,6 +785,8 @@ msgstr "ραντ"
 msgid "Zambian Kwacha"
 msgstr "κουάτσα Ζάμπιας"
 
-#. Name for ZWL
-msgid "Zimbabwe Dollar"
+#. Name for ZWG
+#, fuzzy
+#| msgid "Zimbabwe Dollar"
+msgid "Zimbabwe Gold"
 msgstr "δολάριο Ζιμπάμπουε"

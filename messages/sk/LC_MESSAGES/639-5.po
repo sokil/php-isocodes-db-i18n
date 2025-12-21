@@ -1,17 +1,16 @@
-# Translation of ISO 639-5 to LANGUAGE
+# Translation of ISO 639-5 to Slovak
 # Codes for the representation of names of languages
 # Part 5: Alpha-3 code for language families and groups
-#
-# This file is distributed under the same license as the iso-codes package.
-#
-# Copyright ©
-# Milan Šalka <salka.milan@googlemail.com>, 2024.
+# .
+# SPDX-License-Identifier: LGPL-2.1-or-later
+# .
+# SPDX-FileCopyrightText: 2024 Milan Šalka <salka.milan@googlemail.com>
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_639-5\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2018-01-17 22:10+0100\n"
+"POT-Creation-Date: 2025-11-18 11:09+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -26,11 +25,11 @@ msgstr ""
 
 #. Name for afa
 msgid "Afro-Asiatic languages"
-msgstr ""
+msgstr "afroázijské jazyky"
 
 #. Name for alg
 msgid "Algonquian languages"
-msgstr ""
+msgstr "algonkinské jazyky"
 
 #. Name for alv
 msgid "Atlantic-Congo languages"
@@ -38,7 +37,7 @@ msgstr ""
 
 #. Name for apa
 msgid "Apache languages"
-msgstr ""
+msgstr "apačské jazyky"
 
 #. Name for aqa
 msgid "Alacalufan languages"
@@ -50,11 +49,11 @@ msgstr ""
 
 #. Name for art
 msgid "Artificial languages"
-msgstr ""
+msgstr "umelé jazyky"
 
 #. Name for ath
 msgid "Athapascan languages"
-msgstr ""
+msgstr "athabaské jazyky"
 
 #. Name for auf
 msgid "Arauan languages"
@@ -62,7 +61,7 @@ msgstr ""
 
 #. Name for aus
 msgid "Australian languages"
-msgstr ""
+msgstr "austrálske jazyky"
 
 #. Name for awd
 msgid "Arawakan languages"
@@ -74,23 +73,23 @@ msgstr ""
 
 #. Name for bad
 msgid "Banda languages"
-msgstr ""
+msgstr "jazyky banda"
 
 #. Name for bai
 msgid "Bamileke languages"
-msgstr ""
+msgstr "bamileke"
 
 #. Name for bat
 msgid "Baltic languages"
-msgstr ""
+msgstr "baltské jazyky"
 
 #. Name for ber
 msgid "Berber languages"
-msgstr ""
+msgstr "berberské jazyky"
 
 #. Name for bih
 msgid "Bihari languages"
-msgstr ""
+msgstr "bihárske jazyky"
 
 #. Name for bnt
 msgid "Bantu languages"
@@ -98,15 +97,15 @@ msgstr ""
 
 #. Name for btk
 msgid "Batak languages"
-msgstr ""
+msgstr "batacké jazyky"
 
 #. Name for cai
 msgid "Central American Indian languages"
-msgstr ""
+msgstr "indiánske jazyky strednej Ameriky"
 
 #. Name for cau
 msgid "Caucasian languages"
-msgstr ""
+msgstr "kaukazské jazyky"
 
 #. Name for cba
 msgid "Chibchan languages"
@@ -130,11 +129,11 @@ msgstr ""
 
 #. Name for cel
 msgid "Celtic languages"
-msgstr ""
+msgstr "keltské jazyky"
 
 #. Name for cmc
 msgid "Chamic languages"
-msgstr ""
+msgstr "čamaské jazyky"
 
 #. Name for cpe
 msgid "Creoles and pidgins, English‑based"
@@ -146,11 +145,11 @@ msgstr ""
 
 #. Name for cpp
 msgid "Creoles and pidgins, Portuguese-based"
-msgstr ""
+msgstr "kreolské jazyky a pidžiny na základe portugalčiny"
 
 #. Name for crp
 msgid "Creoles and pidgins"
-msgstr ""
+msgstr "kreolské jazyky a pidžiny"
 
 #. Name for csu
 msgid "Central Sudanic languages"
@@ -158,11 +157,12 @@ msgstr ""
 
 #. Name for cus
 msgid "Cushitic languages"
-msgstr ""
+msgstr "kušitské jazyky"
 
+# ?
 #. Name for day
 msgid "Land Dayak languages"
-msgstr ""
+msgstr "vnútrozemská dajačtina"
 
 #. Name for dmn
 msgid "Mande languages"
@@ -170,7 +170,7 @@ msgstr ""
 
 #. Name for dra
 msgid "Dravidian languages"
-msgstr ""
+msgstr "drávidské jazyky"
 
 #. Name for egx
 msgid "Egyptian languages"
@@ -186,7 +186,7 @@ msgstr ""
 
 #. Name for fiu
 msgid "Finno-Ugrian languages"
-msgstr ""
+msgstr "ugrofínske jazyky"
 
 #. Name for fox
 msgid "Formosan languages"
@@ -194,7 +194,7 @@ msgstr ""
 
 #. Name for gem
 msgid "Germanic languages"
-msgstr ""
+msgstr "germánske jazyky"
 
 #. Name for gme
 msgid "East Germanic languages"
@@ -230,23 +230,23 @@ msgstr ""
 
 #. Name for ijo
 msgid "Ijo languages"
-msgstr ""
+msgstr "jazyky idžo"
 
 #. Name for inc
 msgid "Indic languages"
-msgstr ""
+msgstr "indické jazyky"
 
 #. Name for ine
 msgid "Indo-European languages"
-msgstr ""
+msgstr "indoeurópske jazyky"
 
 #. Name for ira
 msgid "Iranian languages"
-msgstr ""
+msgstr "iránske jazyky"
 
 #. Name for iro
 msgid "Iroquoian languages"
-msgstr ""
+msgstr "irokézske jazyky"
 
 #. Name for itc
 msgid "Italic languages"
@@ -258,7 +258,7 @@ msgstr ""
 
 #. Name for kar
 msgid "Karen languages"
-msgstr ""
+msgstr "karenské jazyky"
 
 #. Name for kdo
 msgid "Kordofanian languages"
@@ -266,39 +266,40 @@ msgstr ""
 
 #. Name for khi
 msgid "Khoisan languages"
-msgstr ""
+msgstr "khoisanské jazyky"
 
 #. Name for kro
 msgid "Kru languages"
-msgstr ""
+msgstr "jazyky kru"
 
 #. Name for map
 msgid "Austronesian languages"
-msgstr ""
+msgstr "austronézske jazyky"
 
 #. Name for mkh
 msgid "Mon-Khmer languages"
-msgstr ""
+msgstr "monsko-khmérske jazyky"
 
 #. Name for mno
 msgid "Manobo languages"
-msgstr ""
+msgstr "jazyky manobo"
 
 #. Name for mun
 msgid "Munda languages"
-msgstr ""
+msgstr "mundské jazyky"
 
 #. Name for myn
 msgid "Mayan languages"
-msgstr ""
+msgstr "mayské jazyky"
 
 #. Name for nah
 msgid "Nahuatl languages"
-msgstr ""
+msgstr "nahuaské jazyky"
 
+# keď si dal indiánske jazyky strednej Ameriky namiesto mezoamerické jazyky strednej Ameriky (čo nemusí byť nevyhnutne to isté) tak aby to bolo konzistentné
 #. Name for nai
 msgid "North American Indian languages"
-msgstr ""
+msgstr "indiánske jazyky severnej Ameriky"
 
 #. Name for ngf
 msgid "Trans-New Guinea languages"
@@ -306,11 +307,11 @@ msgstr ""
 
 #. Name for nic
 msgid "Niger-Kordofanian languages"
-msgstr ""
+msgstr "nigersko-kordofánske jazyky"
 
 #. Name for nub
 msgid "Nubian languages"
-msgstr ""
+msgstr "núbijské jazyky"
 
 #. Name for omq
 msgid "Oto-Manguean languages"
@@ -322,15 +323,15 @@ msgstr ""
 
 #. Name for oto
 msgid "Otomian languages"
-msgstr ""
+msgstr "oto-pameské jazyky okrem pameských jazykov"
 
 #. Name for paa
 msgid "Papuan languages"
-msgstr ""
+msgstr "papuánske jazyky"
 
 #. Name for phi
 msgid "Philippine languages"
-msgstr ""
+msgstr "filipínske jazyky"
 
 #. Name for plf
 msgid "Central Malayo-Polynesian languages"
@@ -350,7 +351,7 @@ msgstr ""
 
 #. Name for pra
 msgid "Prakrit languages"
-msgstr ""
+msgstr "prakrity"
 
 #. Name for qwe
 msgid "Quechuan (family)"
@@ -358,7 +359,7 @@ msgstr ""
 
 #. Name for roa
 msgid "Romance languages"
-msgstr ""
+msgstr "románske jazyky"
 
 #. Name for sai
 msgid "South American Indian languages"
@@ -366,7 +367,7 @@ msgstr ""
 
 #. Name for sal
 msgid "Salishan languages"
-msgstr ""
+msgstr "sališské jazyky"
 
 #. Name for sdv
 msgid "Eastern Sudanic languages"
@@ -374,7 +375,7 @@ msgstr ""
 
 #. Name for sem
 msgid "Semitic languages"
-msgstr ""
+msgstr "semitské jazyky"
 
 #. Name for sgn
 msgid "sign languages"
@@ -382,23 +383,23 @@ msgstr ""
 
 #. Name for sio
 msgid "Siouan languages"
-msgstr ""
+msgstr "siouské jazyky"
 
 #. Name for sit
 msgid "Sino-Tibetan languages"
-msgstr ""
+msgstr "sino-tibetské jazyky"
 
 #. Name for sla
 msgid "Slavic languages"
-msgstr ""
+msgstr "slovanské jazyky"
 
 #. Name for smi
 msgid "Sami languages"
-msgstr ""
+msgstr "saamské jazyky"
 
 #. Name for son
 msgid "Songhai languages"
-msgstr ""
+msgstr "songhajské jazyky"
 
 #. Name for sqj
 msgid "Albanian languages"
@@ -406,7 +407,7 @@ msgstr ""
 
 #. Name for ssa
 msgid "Nilo-Saharan languages"
-msgstr ""
+msgstr "nílsko-saharské jazyky"
 
 #. Name for syd
 msgid "Samoyedic languages"
@@ -414,7 +415,7 @@ msgstr ""
 
 #. Name for tai
 msgid "Tai languages"
-msgstr ""
+msgstr "thajské jazyky"
 
 #. Name for tbq
 msgid "Tibeto-Burman languages"
@@ -426,11 +427,11 @@ msgstr ""
 
 #. Name for tup
 msgid "Tupi languages"
-msgstr ""
+msgstr "jazyky tupi"
 
 #. Name for tut
 msgid "Altaic languages"
-msgstr ""
+msgstr "altajské jazyky"
 
 #. Name for tuw
 msgid "Tungus languages"
@@ -442,11 +443,11 @@ msgstr ""
 
 #. Name for wak
 msgid "Wakashan languages"
-msgstr ""
+msgstr "wakašské jazyky"
 
 #. Name for wen
 msgid "Sorbian languages"
-msgstr ""
+msgstr "lužickosrbské jazyky"
 
 #. Name for xgn
 msgid "Mongolian languages"
@@ -458,7 +459,7 @@ msgstr ""
 
 #. Name for ypk
 msgid "Yupik languages"
-msgstr ""
+msgstr "juitsko-jupické jazyky"
 
 #. Name for zhx
 msgid "Chinese (family)"
@@ -478,4 +479,4 @@ msgstr ""
 
 #. Name for znd
 msgid "Zande languages"
-msgstr ""
+msgstr "zandské jazyky"

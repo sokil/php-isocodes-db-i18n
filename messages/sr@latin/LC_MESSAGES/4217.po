@@ -1,18 +1,17 @@
-# Translation of ISO 4217 to Serbian
+# Translation of ISO 4217 to Serbian (Latin script)
 # Codes for the representation of currencies
 # .
-# This file is distributed under the same license as the iso-codes package.
+# SPDX-License-Identifier: LGPL-2.1-or-later
 # .
-# Copyright ©
-# Aleksandar Jelenak <aleksandar.jelenak@gmail.com>, 2012.
-# Miroslav Nikolić <miroslavnikolic@rocketmail.com>, 2015.
-# Slobodan Simić(Slobodan Simić) <slsimic@gmail.com>, 2021.
+# SPDX-FileCopyrightText: 2012 Aleksandar Jelenak <aleksandar.jelenak@gmail.com>
+# SPDX-FileCopyrightText: 2015 Miroslav Nikolić <miroslavnikolic@rocketmail.com>
+# SPDX-FileCopyrightText: 2021 Slobodan Simić(Slobodan Simić) <slsimic@gmail.com>
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_4217\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2022-06-01 15:01+0200\n"
+"POT-Creation-Date: 2025-11-18 11:09+0100\n"
 "PO-Revision-Date: 2021-02-03 11:41+0000\n"
 "Last-Translator: Slobodan Simić(Slobodan Simić) <slsimic@gmail.com>\n"
 "Language-Team: Serbian <https://hosted.weblate.org/projects/iso-codes/"
@@ -40,12 +39,6 @@ msgstr "lek"
 #. Name for AMD
 msgid "Armenian Dram"
 msgstr "jermenski dram"
-
-#. Name for ANG
-#, fuzzy
-#| msgid "Netherlands Antillian Guilder"
-msgid "Netherlands Antillean Guilder"
-msgstr "gulden Holandskih Antila"
 
 #. Name for AOA
 msgid "Kwanza"
@@ -187,12 +180,6 @@ msgstr ""
 msgid "Costa Rican Colon"
 msgstr "kostarikanski kolon"
 
-#. Name for CUC
-#, fuzzy
-#| msgid "Convertible Marks"
-msgid "Peso Convertible"
-msgstr "konvertibilne marke"
-
 #. Name for CUP
 msgid "Cuban Peso"
 msgstr "kubanski pezo"
@@ -288,10 +275,6 @@ msgstr "hongkonški dolar"
 #. Name for HNL
 msgid "Lempira"
 msgstr "lempira"
-
-#. Name for HRK
-msgid "Kuna"
-msgstr "kuna"
 
 #. Name for HTG
 msgid "Gourde"
@@ -567,7 +550,7 @@ msgstr "singapurski dolar"
 msgid "Saint Helena Pound"
 msgstr "svetohelenska funta"
 
-#. Name for SLE, Name for SLL
+#. Name for SLE
 msgid "Leone"
 msgstr "leon"
 
@@ -693,6 +676,12 @@ msgstr "vatu"
 msgid "Tala"
 msgstr "tala"
 
+#. Name for XAD
+#, fuzzy
+#| msgid "Jordanian Dinar"
+msgid "Arab Accounting Dinar"
+msgstr "jordanski dinar"
+
 #. Name for XAF
 msgid "CFA Franc BEAC"
 msgstr "CFA franak BEAC"
@@ -731,6 +720,12 @@ msgstr "evropska obračunska jedniica 17 (E.U.A.-17)"
 
 #. Name for XCD
 msgid "East Caribbean Dollar"
+msgstr "istočnokaripski dolar"
+
+#. Name for XCG
+#, fuzzy
+#| msgid "East Caribbean Dollar"
+msgid "Caribbean Guilder"
 msgstr "istočnokaripski dolar"
 
 #. Name for XDR
@@ -785,6 +780,8 @@ msgstr "rand"
 msgid "Zambian Kwacha"
 msgstr "zambijska kvača"
 
-#. Name for ZWL
-msgid "Zimbabwe Dollar"
+#. Name for ZWG
+#, fuzzy
+#| msgid "Zimbabwe Dollar"
+msgid "Zimbabwe Gold"
 msgstr "zimbabveanski dolar"
