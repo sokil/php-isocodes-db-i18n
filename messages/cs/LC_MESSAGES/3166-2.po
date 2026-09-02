@@ -8,59 +8,56 @@
 # SPDX-FileCopyrightText: 2001 Radek Vybíral <Radek.Vybiral@vsb.cz>
 # SPDX-FileCopyrightText: 2008 Miroslav Kure <kurem@debian.cz>
 # SPDX-FileCopyrightText: 2019 Miroslav Kure <kurem@upcase.inf.upol.cz>
+# Chris Leonard <cjlhomeaddress@gmail.com>, 2026.
+# Adam Havránek <adamhavra@seznam.cz>, 2026.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-2\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2025-11-18 11:09+0100\n"
-"PO-Revision-Date: 2019-04-02 16:04+0000\n"
-"Last-Translator: Miroslav Kure <kurem@upcase.inf.upol.cz>\n"
-"Language-Team: Czech <https://hosted.weblate.org/projects/iso-codes/"
-"iso-3166-2/cs/>\n"
+"PO-Revision-Date: 2026-04-16 08:10+0000\n"
+"Last-Translator: Adam Havránek <adamhavra@seznam.cz>\n"
+"Language-Team: Czech <https://hosted.weblate.org/projects/iso-codes/iso-3166-"
+"2/cs/>\n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8-bit\n"
-"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Weblate 3.6-dev\n"
+"Plural-Forms: nplurals=3; plural=((n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2);\n"
+"X-Generator: Weblate 5.17.1-dev\n"
 
 #. Name for AD-02
-#, fuzzy
 msgid "Canillo"
-msgstr "El Salvador"
+msgstr "Canillo"
 
 #. Name for AD-03
-#, fuzzy
 msgid "Encamp"
-msgstr "Tonga"
+msgstr "Encamp"
 
 #. Name for AD-04
-#, fuzzy
 msgid "La Massana"
-msgstr "Manitoba"
+msgstr "La Massana"
 
 #. Name for AD-05
-#, fuzzy
 msgid "Ordino"
-msgstr "Pakistan"
+msgstr "Ordíno"
 
 #. Name for AD-06
 msgid "Sant Julià de Lòria"
-msgstr ""
+msgstr "Svatá Julià de Lòria"
 
 #. Name for AD-07
 msgid "Andorra la Vella"
-msgstr ""
+msgstr "Andorra-la-Vella"
 
 #. Name for AD-08
 msgid "Escaldes-Engordany"
-msgstr ""
+msgstr "Escaldes-Engordany"
 
 #. Name for AE-AJ
-#, fuzzy
 msgid "‘Ajmān"
-msgstr "Oman"
+msgstr "Ajmán"
 
 #. Name for AE-AZ
 msgid "Abū Z̧aby"
@@ -21058,7 +21055,7 @@ msgstr "Texas"
 
 #. Name for US-UM
 msgid "United States Minor Outlying Islands"
-msgstr "United States Minor Outlying Islands"
+msgstr "Menší odlehlé ostrovy Spojených států amerických"
 
 #. Name for US-UT
 msgid "Utah"

@@ -8,55 +8,55 @@
 # SPDX-FileCopyrightText: 2001 Alastair McKinstry <mckinstry@debian.org>
 # SPDX-FileCopyrightText: 2001 Stanislav Brabec <utx@penguin.cz>
 # SPDX-FileCopyrightText: 2004 Miroslav Kure <kurem@debian.cz>
+# Adam Havránek <adamhavra@seznam.cz>, 2026.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_639-3\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2025-11-18 11:09+0100\n"
-"PO-Revision-Date: 2004-06-21 18:03+0200\n"
-"Last-Translator: Miroslav Kure <kurem@debian.cz>\n"
-"Language-Team: Czech <debian-l10n-czech@lists.debian.org>\n"
+"PO-Revision-Date: 2026-04-16 08:09+0000\n"
+"Last-Translator: Adam Havránek <adamhavra@seznam.cz>\n"
+"Language-Team: Czech <https://hosted.weblate.org/projects/iso-codes/iso-639-"
+"3/cs/>\n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Weblate 5.17.1-dev\n"
 
 #. Name for aaa
 msgid "Ghotuo"
-msgstr ""
+msgstr "Ghotuo"
 
 #. Name for aab
 msgid "Alumu-Tesu"
-msgstr ""
+msgstr "Alumu-Tesu"
 
 #. Name for aac
-#, fuzzy
 msgid "Ari"
-msgstr "avarština"
+msgstr "Ari"
 
 #. Name for aad
-#, fuzzy
 msgid "Amal"
-msgstr "somálština"
+msgstr "Amal"
 
 #. Name for aae
 msgid "Arbëreshë Albanian"
-msgstr ""
+msgstr "Albánské Arbëreshë"
 
 #. Inverted name for aae
 msgid "Albanian, Arbëreshë"
-msgstr ""
+msgstr "albánština, arbëreshë"
 
 #. Name for aaf
-#, fuzzy
 msgid "Aranadan"
-msgstr "Kannadština"
+msgstr "Aranadan"
 
 #. Name for aag
-#, fuzzy
 msgid "Ambrak"
-msgstr "Aymárština"
+msgstr "Ambrak"
 
 #. Name for aah
 msgid "Abu' Arapesh"

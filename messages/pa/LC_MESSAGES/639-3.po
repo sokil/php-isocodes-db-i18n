@@ -7,22 +7,23 @@
 # SPDX-FileCopyrightText: 2009 A S Alam <aalam@users.sf.net>
 # SPDX-FileCopyrightText: 2009 Jaswinder Singh <jsingh@redhat.com>
 # SPDX-FileCopyrightText: 2019 Aman ALam <alam.yellow@gmail.com>
+# Aman Alam <aalam@users.noreply.hosted.weblate.org>, 2026.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_639-3\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2025-11-18 11:09+0100\n"
-"PO-Revision-Date: 2019-12-30 20:21+0000\n"
-"Last-Translator: Aman ALam <alam.yellow@gmail.com>\n"
-"Language-Team: Punjabi <https://hosted.weblate.org/projects/iso-codes/"
-"iso-639-3/pa/>\n"
+"PO-Revision-Date: 2026-02-19 12:09+0000\n"
+"Last-Translator: Aman Alam <aalam@users.noreply.hosted.weblate.org>\n"
+"Language-Team: Punjabi <https://hosted.weblate.org/projects/iso-codes/iso-"
+"639-3/pa/>\n"
 "Language: pa\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 3.10\n"
+"X-Generator: Weblate 5.16.1-dev\n"
 
 #. Name for aaa
 msgid "Ghotuo"
@@ -26140,9 +26141,8 @@ msgid "Punan Bah-Biau"
 msgstr "ਪੂਨਾਨ ਬਾਹ-ਬਿਆਊ"
 
 #. Name for pnb
-#, fuzzy
 msgid "Western Panjabi"
-msgstr "ਮਿਆਓ, ਪੱਛਮੀ ਮਾਸ਼ਨ"
+msgstr "ਪੱਛਮੀ ਪੰਜਾਬੀ"
 
 #. Inverted name for pnb
 msgid "Panjabi, Western"

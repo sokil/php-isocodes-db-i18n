@@ -7,22 +7,23 @@
 # SPDX-FileCopyrightText: 2018, 2021 Kristjan Räts <kristjanrats@gmail.com>
 # SPDX-FileCopyrightText: 2020 Janar Leas <janar.leas@gmail.com>
 # SPDX-FileCopyrightText: 2025 Priit Jõerüüt <jrthwlate@users.noreply.hosted.weblate.org>
+# Priit Jõerüüt <jrthwlate@users.noreply.hosted.weblate.org>, 2026.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_15924\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2025-11-18 11:09+0100\n"
-"PO-Revision-Date: 2025-10-30 14:02+0000\n"
+"PO-Revision-Date: 2026-01-22 17:05+0000\n"
 "Last-Translator: Priit Jõerüüt <jrthwlate@users.noreply.hosted.weblate.org>\n"
-"Language-Team: Estonian <https://hosted.weblate.org/projects/iso-codes/"
-"iso-15924/et/>\n"
+"Language-Team: Estonian <https://hosted.weblate.org/projects/iso-codes/iso-"
+"15924/et/>\n"
 "Language: et\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.14.1-dev\n"
+"X-Generator: Weblate 5.16-dev\n"
 
 #. Name for Adlm
 msgid "Adlam"
@@ -90,7 +91,7 @@ msgstr "bhaiksuki"
 
 #. Name for Blis
 msgid "Blissymbols"
-msgstr "Blissi sümbolid"
+msgstr "blisskiri"
 
 #. Name for Bopo
 msgid "Bopomofo"
@@ -149,10 +150,8 @@ msgid "Coptic"
 msgstr "kopti"
 
 #. Name for Cpmn
-#, fuzzy
-#| msgid "Cypriot"
 msgid "Cypro-Minoan"
-msgstr "muinasküprose"
+msgstr "küproseminoa"
 
 #. Name for Cprt
 msgid "Cypriot syllabary"
@@ -727,16 +726,12 @@ msgid "Sinhala"
 msgstr "singali"
 
 #. Name for Sogd
-#, fuzzy
-#| msgid "Lydian"
 msgid "Sogdian"
-msgstr "lüüdia"
+msgstr "sogdia"
 
 #. Name for Sogo
-#, fuzzy
-#| msgid "Old South Arabian"
 msgid "Old Sogdian"
-msgstr "Lõuna-Araabia kiri"
+msgstr "vanasogdia"
 
 #. Name for Sora
 msgid "Sora Sompeng"

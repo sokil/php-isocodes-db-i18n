@@ -4,14 +4,15 @@
 # SPDX-License-Identifier: LGPL-2.1-or-later
 # .
 # SPDX-FileCopyrightText: 2023 កុសិនារា <kursinarapok@gmail.com>
+# SeyhaLite <sok123230@gmail.com>, 2026.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_4217\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2025-11-18 11:09+0100\n"
-"PO-Revision-Date: 2023-12-28 20:07+0000\n"
-"Last-Translator: កុសិនារា <kursinarapok@gmail.com>\n"
+"POT-Creation-Date: 2026-01-01 21:08+0100\n"
+"PO-Revision-Date: 2026-08-26 17:51+0000\n"
+"Last-Translator: SeyhaLite <sok123230@gmail.com>\n"
 "Language-Team: Khmer (Central) <https://hosted.weblate.org/projects/iso-"
 "codes/iso-4217/km/>\n"
 "Language: km\n"
@@ -19,7 +20,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.4-dev\n"
+"X-Generator: Weblate 2026.9.dev0\n"
 
 #. Name for AED
 msgid "UAE Dirham"
@@ -69,10 +70,6 @@ msgstr "ដុល្លារ បាបាដុស"
 msgid "Taka"
 msgstr "តាកា បង់ក្លាដែស"
 
-#. Name for BGN
-msgid "Bulgarian Lev"
-msgstr "ឡៅ ប៊ុលហ្ការី"
-
 #. Name for BHD
 msgid "Bahraini Dinar"
 msgstr "ឌីណា បារ៉ែន"
@@ -95,7 +92,7 @@ msgstr "បូលីវីណូ"
 
 #. Name for BOV
 msgid "Mvdol"
-msgstr ""
+msgstr "មវ់ដូល"
 
 #. Name for BRL
 msgid "Brazilian Real"
@@ -107,15 +104,15 @@ msgstr "ដុល្លារ បាហាម៉ា"
 
 #. Name for BTN
 msgid "Ngultrum"
-msgstr ""
+msgstr "ងុលត្រឹម"
 
 #. Name for BWP
 msgid "Pula"
-msgstr ""
+msgstr "ពូឡា"
 
 #. Name for BYN
 msgid "Belarusian Ruble"
-msgstr ""
+msgstr "រ៉ូប៊ែលបេឡារុស្ស"
 
 #. Name for BZD
 msgid "Belize Dollar"
@@ -143,39 +140,39 @@ msgstr "ហ្វ្រង់ស៍ មជ្ឈដ្ឋានសេដ្ឋ�
 
 #. Name for CLF
 msgid "Unidad de Fomento"
-msgstr ""
+msgstr "អ៊ុយនីដាដ ដឺ ហ្វូមិនតូ"
 
 #. Name for CLP
 msgid "Chilean Peso"
-msgstr ""
+msgstr "ប៉េសូឈីលី"
 
 #. Name for CNY
 msgid "Yuan Renminbi"
-msgstr ""
+msgstr "យាន់រិនមីនប៊ី"
 
 #. Name for COP
 msgid "Colombian Peso"
-msgstr ""
+msgstr "ប៉េសូកូឡុំប៊ី"
 
 #. Name for COU
 msgid "Unidad de Valor Real"
-msgstr ""
+msgstr "អ៊ុយនីដាដ ដឺ វ៉ាល័រ រ៉េអាល់"
 
 #. Name for CRC
 msgid "Costa Rican Colon"
-msgstr ""
+msgstr "កូឡុងកូស្តារីកា"
 
 #. Name for CUP
 msgid "Cuban Peso"
-msgstr ""
+msgstr "ប៉េសូគូបា"
 
 #. Name for CVE
 msgid "Cabo Verde Escudo"
-msgstr ""
+msgstr "អេស្កូដូកាបវែរ"
 
 #. Name for CZK
 msgid "Czech Koruna"
-msgstr ""
+msgstr "កូរូណាឆែក"
 
 #. Name for DJF
 msgid "Djibouti Franc"
@@ -183,11 +180,11 @@ msgstr "ហ្វ្រង់ស៍ ជីប៊ូទី"
 
 #. Name for DKK
 msgid "Danish Krone"
-msgstr ""
+msgstr "ក្រូណេដាណឺម៉ាក"
 
 #. Name for DOP
 msgid "Dominican Peso"
-msgstr ""
+msgstr "ប៉េសូដូមីនីកាំង"
 
 #. Name for DZD
 msgid "Algerian Dinar"
@@ -195,19 +192,19 @@ msgstr "ឌីណា អាល់ហ្សេរី"
 
 #. Name for EGP
 msgid "Egyptian Pound"
-msgstr ""
+msgstr "ផោនអេហ្ស៊ីប"
 
 #. Name for ERN
 msgid "Nakfa"
-msgstr ""
+msgstr "ណាក់ហ្វា"
 
 #. Name for ETB
 msgid "Ethiopian Birr"
-msgstr ""
+msgstr "ប៊ីរអេត្យូពី"
 
 #. Name for EUR
 msgid "Euro"
-msgstr ""
+msgstr "អឺរ៉ូ"
 
 #. Name for FJD
 msgid "Fiji Dollar"
@@ -215,27 +212,27 @@ msgstr "ដុល្លារ ហ្វ៊ីជី"
 
 #. Name for FKP
 msgid "Falkland Islands Pound"
-msgstr ""
+msgstr "ផោនកោះហ្វក់ឡែន"
 
 #. Name for GBP
 msgid "Pound Sterling"
-msgstr ""
+msgstr "ផោនស្តែរលីង"
 
 #. Name for GEL
 msgid "Lari"
-msgstr ""
+msgstr "ឡារី"
 
 #. Name for GHS
 msgid "Ghana Cedi"
-msgstr ""
+msgstr "សេឌីហ្កាណា"
 
 #. Name for GIP
 msgid "Gibraltar Pound"
-msgstr ""
+msgstr "ផោនហ្គីប្រាល់តា"
 
 #. Name for GMD
 msgid "Dalasi"
-msgstr ""
+msgstr "ដាឡាស៊ី"
 
 #. Name for GNF
 msgid "Guinean Franc"
@@ -243,7 +240,7 @@ msgstr "ហ្វ្រង់ស៍ ហ្គីណេ"
 
 #. Name for GTQ
 msgid "Quetzal"
-msgstr ""
+msgstr "កេតសាល់"
 
 #. Name for GYD
 msgid "Guyana Dollar"
@@ -255,27 +252,27 @@ msgstr "ដុល្លារ ហុងកុង"
 
 #. Name for HNL
 msgid "Lempira"
-msgstr ""
+msgstr "លិមពីរ៉ា"
 
 #. Name for HTG
 msgid "Gourde"
-msgstr ""
+msgstr "ហ្គួរដ"
 
 #. Name for HUF
 msgid "Forint"
-msgstr ""
+msgstr "ហ្វូរីន"
 
 #. Name for IDR
 msgid "Rupiah"
-msgstr ""
+msgstr "រ៉ូពៀះ"
 
 #. Name for ILS
 msgid "New Israeli Sheqel"
-msgstr ""
+msgstr "សេកែលអ៊ីស្រាអែលថ្មី"
 
 #. Name for INR
 msgid "Indian Rupee"
-msgstr ""
+msgstr "រ៉ូពីឥណ្ឌា"
 
 #. Name for IQD
 msgid "Iraqi Dinar"
@@ -283,11 +280,11 @@ msgstr "ឌីណា អ៊ីរ៉ាក់"
 
 #. Name for IRR
 msgid "Iranian Rial"
-msgstr ""
+msgstr "រៀលអ៊ីរ៉ង់"
 
 #. Name for ISK
 msgid "Iceland Krona"
-msgstr ""
+msgstr "ក្រូណាអ៊ីស្លង់"
 
 #. Name for JMD
 msgid "Jamaican Dollar"
@@ -299,19 +296,19 @@ msgstr "ឌីណា ហ្ស៊កដានី"
 
 #. Name for JPY
 msgid "Yen"
-msgstr ""
+msgstr "យ៉ិន"
 
 #. Name for KES
 msgid "Kenyan Shilling"
-msgstr ""
+msgstr "ស៊ីលីញកេនយ៉ា"
 
 #. Name for KGS
 msgid "Som"
-msgstr ""
+msgstr "សូម"
 
 #. Name for KHR
 msgid "Riel"
-msgstr ""
+msgstr "រៀល"
 
 #. Name for KMF
 msgid "Comorian Franc"
@@ -319,11 +316,11 @@ msgstr "ហ្វ្រង់ស៍ កូម័រ"
 
 #. Name for KPW
 msgid "North Korean Won"
-msgstr ""
+msgstr "វ៉ូនកូរ៉េខាងជើង"
 
 #. Name for KRW
 msgid "Won"
-msgstr ""
+msgstr "វ៉ូន"
 
 #. Name for KWD
 msgid "Kuwaiti Dinar"
@@ -335,19 +332,19 @@ msgstr "ដុល្លារ កោះកៃម៉ង់"
 
 #. Name for KZT
 msgid "Tenge"
-msgstr ""
+msgstr "តេងហ្កេ"
 
 #. Name for LAK
 msgid "Lao Kip"
-msgstr ""
+msgstr "គីបឡាវ"
 
 #. Name for LBP
 msgid "Lebanese Pound"
-msgstr ""
+msgstr "ផោនលីបង់"
 
 #. Name for LKR
 msgid "Sri Lanka Rupee"
-msgstr ""
+msgstr "រ៉ូពីស្រីលង្កា"
 
 #. Name for LRD
 msgid "Liberian Dollar"
@@ -355,7 +352,7 @@ msgstr "ដុល្លារ លីបេរីយ៉ា"
 
 #. Name for LSL
 msgid "Loti"
-msgstr ""
+msgstr "ឡូទី"
 
 #. Name for LYD
 msgid "Libyan Dinar"
@@ -367,59 +364,59 @@ msgstr "ដៀហាម ម៉ារ៉ុក"
 
 #. Name for MDL
 msgid "Moldovan Leu"
-msgstr ""
+msgstr "លឺម៉ុលដាវី"
 
 #. Name for MGA
 msgid "Malagasy Ariary"
-msgstr ""
+msgstr "អាស៊ារីម៉ាដាហ្កាស្ការ"
 
 #. Name for MKD
 msgid "Denar"
-msgstr ""
+msgstr "ដេណារ"
 
 #. Name for MMK
 msgid "Kyat"
-msgstr ""
+msgstr "ចាត"
 
 #. Name for MNT
 msgid "Tugrik"
-msgstr ""
+msgstr "ទូហ្គ្រីក"
 
 #. Name for MOP
 msgid "Pataca"
-msgstr ""
+msgstr "ប៉ាតាកា"
 
 #. Name for MRU
 msgid "Ouguiya"
-msgstr ""
+msgstr "អ៊ូហ្គីយ៉ា"
 
 #. Name for MUR
 msgid "Mauritius Rupee"
-msgstr ""
+msgstr "រ៉ូពីម៉ូរីស"
 
 #. Name for MVR
 msgid "Rufiyaa"
-msgstr ""
+msgstr "រ៉ូហ្វីយ៉ា"
 
 #. Name for MWK
 msgid "Malawi Kwacha"
-msgstr ""
+msgstr "ក្វាចាម៉ាឡាវី"
 
 #. Name for MXN
 msgid "Mexican Peso"
-msgstr ""
+msgstr "ប៉េសូម៉ិកស៊ិក"
 
 #. Name for MXV
 msgid "Mexican Unidad de Inversion (UDI)"
-msgstr ""
+msgstr "អ៊ុយនីដាដ ដឺ អ៊ីនវែរស្យុង (UDI) ម៉ិកស៊ិក"
 
 #. Name for MYR
 msgid "Malaysian Ringgit"
-msgstr ""
+msgstr "រីងហ្គីតម៉ាឡេស៊ី"
 
 #. Name for MZN
 msgid "Mozambique Metical"
-msgstr ""
+msgstr "ម៉េទីកាល់ម៉ូសាំប៊ីក"
 
 #. Name for NAD
 msgid "Namibia Dollar"
@@ -427,19 +424,19 @@ msgstr "ដុល្លារ ណាមីប៊ី"
 
 #. Name for NGN
 msgid "Naira"
-msgstr ""
+msgstr "ណៃរ៉ា"
 
 #. Name for NIO
 msgid "Cordoba Oro"
-msgstr ""
+msgstr "កូដូបា អូរ៉ូ"
 
 #. Name for NOK
 msgid "Norwegian Krone"
-msgstr ""
+msgstr "ក្រូណេន័រវែស"
 
 #. Name for NPR
 msgid "Nepalese Rupee"
-msgstr ""
+msgstr "រ៉ូពីនេប៉ាល់"
 
 #. Name for NZD
 msgid "New Zealand Dollar"
@@ -447,43 +444,43 @@ msgstr "ដុល្លារ នូវែលសេឡង់"
 
 #. Name for OMR
 msgid "Rial Omani"
-msgstr ""
+msgstr "រៀលអូម៉ង់"
 
 #. Name for PAB
 msgid "Balboa"
-msgstr ""
+msgstr "បាល់បៅ"
 
 #. Name for PEN
 msgid "Sol"
-msgstr ""
+msgstr "សូល"
 
 #. Name for PGK
 msgid "Kina"
-msgstr ""
+msgstr "គីណា"
 
 #. Name for PHP
 msgid "Philippine Peso"
-msgstr ""
+msgstr "ប៉េសូហ្វីលីពីន"
 
 #. Name for PKR
 msgid "Pakistan Rupee"
-msgstr ""
+msgstr "រ៉ូពីប៉ាគីស្ថាន"
 
 #. Name for PLN
 msgid "Zloty"
-msgstr ""
+msgstr "ស្លូទី"
 
 #. Name for PYG
 msgid "Guarani"
-msgstr ""
+msgstr "ហ្គួរ៉ានី"
 
 #. Name for QAR
 msgid "Qatari Rial"
-msgstr ""
+msgstr "រៀលកាតា"
 
 #. Name for RON
 msgid "Romanian Leu"
-msgstr ""
+msgstr "លឺរ៉ូម៉ានី"
 
 #. Name for RSD
 msgid "Serbian Dinar"
@@ -491,7 +488,7 @@ msgstr "ឌីណា ស៊ែប៊ី"
 
 #. Name for RUB
 msgid "Russian Ruble"
-msgstr ""
+msgstr "រ៉ូប៊ែលរុស្ស៊ី"
 
 #. Name for RWF
 msgid "Rwanda Franc"
@@ -499,7 +496,7 @@ msgstr "ហ្វ្រង់ស៍ រវ៉ាន់ដា"
 
 #. Name for SAR
 msgid "Saudi Riyal"
-msgstr ""
+msgstr "រ៉ាយ៉ាល់សាអូឌីត"
 
 #. Name for SBD
 msgid "Solomon Islands Dollar"
@@ -507,15 +504,15 @@ msgstr "ដុល្លារ កោះសូឡូម៉ុង"
 
 #. Name for SCR
 msgid "Seychelles Rupee"
-msgstr ""
+msgstr "រ៉ូពីសីសែល"
 
 #. Name for SDG
 msgid "Sudanese Pound"
-msgstr ""
+msgstr "ផោនស៊ូដង់"
 
 #. Name for SEK
 msgid "Swedish Krona"
-msgstr ""
+msgstr "ក្រូណាស៊ុយអែត"
 
 #. Name for SGD
 msgid "Singapore Dollar"
@@ -523,15 +520,15 @@ msgstr "ដុល្លារ សិង្ហបុរី"
 
 #. Name for SHP
 msgid "Saint Helena Pound"
-msgstr ""
+msgstr "ផោនសាំងហេឡេណា"
 
 #. Name for SLE
 msgid "Leone"
-msgstr ""
+msgstr "លេអូន"
 
 #. Name for SOS
 msgid "Somali Shilling"
-msgstr ""
+msgstr "ស៊ីលីញសូម៉ាលី"
 
 #. Name for SRD
 msgid "Surinam Dollar"
@@ -539,35 +536,35 @@ msgstr "ដុល្លារ សូរីណាម"
 
 #. Name for SSP
 msgid "South Sudanese Pound"
-msgstr ""
+msgstr "ផោនស៊ូដង់ខាងត្បូង"
 
 #. Name for STN
 msgid "Dobra"
-msgstr ""
+msgstr "ដូប្រា"
 
 #. Name for SVC
 msgid "El Salvador Colon"
-msgstr ""
+msgstr "កូឡុងអែលសាល់វ៉ាឌ័រ"
 
 #. Name for SYP
 msgid "Syrian Pound"
-msgstr ""
+msgstr "ផោនស៊ីរី"
 
 #. Name for SZL
 msgid "Lilangeni"
-msgstr ""
+msgstr "លីឡាំងហ្កេនី"
 
 #. Name for THB
 msgid "Baht"
-msgstr ""
+msgstr "បាត"
 
 #. Name for TJS
 msgid "Somoni"
-msgstr ""
+msgstr "សូម៉ូនី"
 
 #. Name for TMT
 msgid "Turkmenistan New Manat"
-msgstr ""
+msgstr "ម៉ាណាតទួរគមេនីស្ថានថ្មី"
 
 #. Name for TND
 msgid "Tunisian Dinar"
@@ -575,11 +572,11 @@ msgstr "ឌីណា ទុយនីស៊ី"
 
 #. Name for TOP
 msgid "Pa’anga"
-msgstr ""
+msgstr "ប៉ាអាំងហ្កា"
 
 #. Name for TRY
 msgid "Turkish Lira"
-msgstr ""
+msgstr "លីរ៉ាទួរគី"
 
 #. Name for TTD
 msgid "Trinidad and Tobago Dollar"
@@ -591,15 +588,15 @@ msgstr "ដុល្លារ តៃវ៉ាន់ថ្មី"
 
 #. Name for TZS
 msgid "Tanzanian Shilling"
-msgstr ""
+msgstr "ស៊ីលីញតង់សានី"
 
 #. Name for UAH
 msgid "Hryvnia"
-msgstr ""
+msgstr "ហ្រ៊ីវនៀ"
 
 #. Name for UGX
 msgid "Uganda Shilling"
-msgstr ""
+msgstr "ស៊ីលីញអ៊ូហ្កង់ដា"
 
 #. Name for USD
 msgid "US Dollar"
@@ -611,41 +608,39 @@ msgstr "ដុល្លារ អាមេរិក (ថ្ងៃបន្ទា
 
 #. Name for UYI
 msgid "Uruguay Peso en Unidades Indexadas (UI)"
-msgstr ""
+msgstr "ប៉េសូអ៊ុយរ៉ាហ្គាយ អ៊ុយនីដាដេស អ៊ីនដិកសាដាស (UI)"
 
 #. Name for UYU
 msgid "Peso Uruguayo"
-msgstr ""
+msgstr "ប៉េសូអ៊ុយរ៉ាហ្គាយ"
 
 #. Name for UYW
 msgid "Unidad Previsional"
-msgstr ""
+msgstr "អ៊ុយនីដាដ ព្រេវីស្យូណាល់"
 
 #. Name for UZS
 msgid "Uzbekistan Sum"
-msgstr ""
+msgstr "ស៊ុមអ៊ូសបេគីស្ថាន"
 
 #. Name for VED, Name for VES
 msgid "Bolívar Soberano"
-msgstr ""
+msgstr "បូលីវ៉ា សូបេរ៉ាណូ"
 
 #. Name for VND
 msgid "Dong"
-msgstr ""
+msgstr "ដុង"
 
 #. Name for VUV
 msgid "Vatu"
-msgstr ""
+msgstr "វ៉ាទូ"
 
 #. Name for WST
 msgid "Tala"
-msgstr ""
+msgstr "តាឡា"
 
 #. Name for XAD
-#, fuzzy
-#| msgid "Jordanian Dinar"
 msgid "Arab Accounting Dinar"
-msgstr "ឌីណា ហ្ស៊កដានី"
+msgstr "ឌីណា គណនេយ្យ អារ៉ាប់"
 
 #. Name for XAF
 msgid "CFA Franc BEAC"
@@ -653,88 +648,84 @@ msgstr "ហ្វ្រង់ស៍ សហគមន៍អាហ្វ្រិ�
 
 #. Name for XAG
 msgid "Silver"
-msgstr ""
+msgstr "ប្រាក់"
 
 #. Name for XAU
 msgid "Gold"
-msgstr ""
+msgstr "មាស"
 
 #. Name for XBA
 msgid "Bond Markets Unit European Composite Unit (EURCO)"
-msgstr ""
+msgstr "ឯកតាសមាសភាពអឺរ៉ុបនៃទីផ្សារមូលបត្របំណុល (EURCO)"
 
 #. Name for XBB
 msgid "Bond Markets Unit European Monetary Unit (E.M.U.-6)"
-msgstr ""
+msgstr "ឯកតារូបិយប័ណ្ណអឺរ៉ុបនៃទីផ្សារមូលបត្របំណុល (E.M.U.-6)"
 
 #. Name for XBC
 msgid "Bond Markets Unit European Unit of Account 9 (E.U.A.-9)"
-msgstr ""
+msgstr "ឯកតាគណនេយ្យអឺរ៉ុប ៩ នៃទីផ្សារមូលបត្របំណុល (E.U.A.-9)"
 
 #. Name for XBD
 msgid "Bond Markets Unit European Unit of Account 17 (E.U.A.-17)"
-msgstr ""
+msgstr "ឯកតាគណនេយ្យអឺរ៉ុប ១៧ នៃទីផ្សារមូលបត្របំណុល (E.U.A.-17)"
 
 #. Name for XCD
 msgid "East Caribbean Dollar"
 msgstr "ដុល្លារ ការ៉ាប៊ីនខាងកើត"
 
 #. Name for XCG
-#, fuzzy
-#| msgid "East Caribbean Dollar"
 msgid "Caribbean Guilder"
-msgstr "ដុល្លារ ការ៉ាប៊ីនខាងកើត"
+msgstr "ហ្គីលឌ័រការ៉ាប៊ីន"
 
 #. Name for XDR
 msgid "SDR (Special Drawing Right)"
-msgstr ""
+msgstr "SDR (សិទ្ធិដកពិសេស)"
 
 #. Name for XOF
 msgid "CFA Franc BCEAO"
-msgstr ""
+msgstr "ហ្វ្រង់ CFA BCEAO"
 
 #. Name for XPD
 msgid "Palladium"
-msgstr ""
+msgstr "ប៉ាឡាដ្យូម"
 
 #. Name for XPF
 msgid "CFP Franc"
-msgstr ""
+msgstr "ហ្វ្រង់ CFP"
 
 #. Name for XPT
 msgid "Platinum"
-msgstr ""
+msgstr "ប្លាទីន"
 
 #. Name for XSU
 msgid "Sucre"
-msgstr ""
+msgstr "ស៊ូក្រេ"
 
 #. Name for XTS
 msgid "Codes specifically reserved for testing purposes"
-msgstr ""
+msgstr "កូដបម្រុងទុកសម្រាប់គោលបំណងធ្វើតេស្ត"
 
 #. Name for XUA
 msgid "ADB Unit of Account"
-msgstr ""
+msgstr "ឯកតាគណនេយ្យ ADB"
 
 #. Name for XXX
 msgid "The codes assigned for transactions where no currency is involved"
-msgstr ""
+msgstr "កូដសម្រាប់ប្រតិបត្តិការដែលមិនមានរូបិយប័ណ្ណពាក់ព័ន្ធ"
 
 #. Name for YER
 msgid "Yemeni Rial"
-msgstr ""
+msgstr "រៀលយេម៉ែន"
 
 #. Name for ZAR
 msgid "Rand"
-msgstr ""
+msgstr "រ៉ង់"
 
 #. Name for ZMW
 msgid "Zambian Kwacha"
-msgstr ""
+msgstr "ក្វាចាសាំប៊ី"
 
 #. Name for ZWG
-#, fuzzy
-#| msgid "Zimbabwe Dollar"
 msgid "Zimbabwe Gold"
-msgstr "ដុល្លារ ស៊ីមបាវ៉េ"
+msgstr "មាសស៊ីមបាវ៉េ"

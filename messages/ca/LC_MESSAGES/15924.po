@@ -6,13 +6,14 @@
 # SPDX-FileCopyrightText: 2011-2012 Toni Hermoso Pulido <toniher@softcatala.org>
 # SPDX-FileCopyrightText: 2024 Joan Montané <jmontane@gmail.com>
 # SPDX-FileCopyrightText: 2025 "Josep M. Ferrer" <txemaq@gmail.com>
+# "Josep M. Ferrer" <txemaq@gmail.com>, 2025.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_15924\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2025-11-18 11:09+0100\n"
-"PO-Revision-Date: 2025-10-23 13:42+0000\n"
+"PO-Revision-Date: 2025-12-22 16:43+0000\n"
 "Last-Translator: \"Josep M. Ferrer\" <txemaq@gmail.com>\n"
 "Language-Team: Catalan <https://hosted.weblate.org/projects/iso-codes/"
 "iso-15924/ca/>\n"
@@ -21,7 +22,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.14.1-dev\n"
+"X-Generator: Weblate 5.15.1\n"
 
 #. Name for Adlm
 msgid "Adlam"
@@ -148,10 +149,8 @@ msgid "Coptic"
 msgstr "copte"
 
 #. Name for Cpmn
-#, fuzzy
-#| msgid "Cypriot"
 msgid "Cypro-Minoan"
-msgstr "xipriota"
+msgstr "xiprominoic"
 
 #. Name for Cprt
 msgid "Cypriot syllabary"
@@ -326,10 +325,8 @@ msgid "Old Italic (Etruscan, Oscan, etc.)"
 msgstr "antic itàlic (etrusc, osc, etc.)"
 
 #. Name for Jamo
-#, fuzzy
-#| msgid "Korean (alias for Hangul + Han)"
 msgid "Jamo (alias for Jamo subset of Hangul)"
-msgstr "coreà (àlies de hangul + han)"
+msgstr "jamo (àlies del subconjunt jamo de l'hangul)"
 
 #. Name for Java
 msgid "Javanese"
@@ -732,10 +729,8 @@ msgid "Sogdian"
 msgstr ""
 
 #. Name for Sogo
-#, fuzzy
-#| msgid "Old Persian"
 msgid "Old Sogdian"
-msgstr "persa antic"
+msgstr "sogdià antic"
 
 #. Name for Sora
 msgid "Sora Sompeng"

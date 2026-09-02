@@ -4,14 +4,15 @@
 # SPDX-License-Identifier: LGPL-2.1-or-later
 # .
 # SPDX-FileCopyrightText: 2023 dreigiau <sterilgrimed23@gmail.com>
+# dreigiau <dreigiau@users.noreply.hosted.weblate.org>, 2026.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_4217\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2025-11-18 11:09+0100\n"
-"PO-Revision-Date: 2023-04-22 17:42+0000\n"
-"Last-Translator: dreigiau <sterilgrimed23@gmail.com>\n"
+"POT-Creation-Date: 2026-01-01 21:08+0100\n"
+"PO-Revision-Date: 2026-03-20 18:09+0000\n"
+"Last-Translator: dreigiau <dreigiau@users.noreply.hosted.weblate.org>\n"
 "Language-Team: Welsh <https://hosted.weblate.org/projects/iso-codes/iso-4217/"
 "cy/>\n"
 "Language: cy\n"
@@ -20,15 +21,15 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=6; plural=(n==0) ? 0 : (n==1) ? 1 : (n==2) ? 2 : "
 "(n==3) ? 3 :(n==6) ? 4 : 5;\n"
-"X-Generator: Weblate 4.18-dev\n"
+"X-Generator: Weblate 5.17-dev\n"
 
 #. Name for AED
 msgid "UAE Dirham"
-msgstr ""
+msgstr "Dirham UAE"
 
 #. Name for AFN
 msgid "Afghani"
-msgstr ""
+msgstr "Afghani"
 
 #. Name for ALL
 msgid "Lek"
@@ -36,23 +37,23 @@ msgstr "Lec"
 
 #. Name for AMD
 msgid "Armenian Dram"
-msgstr ""
+msgstr "Dram Armenia"
 
 #. Name for AOA
 msgid "Kwanza"
-msgstr ""
+msgstr "Kwanza"
 
 #. Name for ARS
 msgid "Argentine Peso"
-msgstr ""
+msgstr "Peso'r Ariannin"
 
 #. Name for AUD
 msgid "Australian Dollar"
-msgstr ""
+msgstr "Dolar Awstralia"
 
 #. Name for AWG
 msgid "Aruban Florin"
-msgstr ""
+msgstr "Florin Aruba"
 
 #. Name for AZN
 msgid "Azerbaijan Manat"
@@ -68,10 +69,6 @@ msgstr ""
 
 #. Name for BDT
 msgid "Taka"
-msgstr ""
-
-#. Name for BGN
-msgid "Bulgarian Lev"
 msgstr ""
 
 #. Name for BHD

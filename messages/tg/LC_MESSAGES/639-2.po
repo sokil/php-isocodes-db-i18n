@@ -12,8 +12,8 @@ msgstr ""
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2025-11-18 11:09+0100\n"
-"PO-Revision-Date: 2025-10-30 14:02+0000\n"
-"Last-Translator: bgo-eiu <huyaqoob+toolforge@gmail.com>\n"
+"PO-Revision-Date: 2026-05-11 14:10+0500\n"
+"Last-Translator: Victor Ibragimov <victor.ibragimov@gmail.com>\n"
 "Language-Team: Tajik <https://hosted.weblate.org/projects/iso-codes/"
 "iso-639-2/tg/>\n"
 "Language: tg\n"
@@ -21,7 +21,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.14.1-dev\n"
+"X-Generator: Poedit 3.6\n"
 
 #. Name for aar
 msgid "Afar"
@@ -387,7 +387,7 @@ msgstr "Коптикӣ"
 
 #. Name for cor
 msgid "Cornish"
-msgstr "курнвонӣ"
+msgstr "Корнишӣ"
 
 #. Name for cos
 msgid "Corsican"
@@ -455,7 +455,7 @@ msgstr ""
 
 #. Name for deu
 msgid "German"
-msgstr "олмонӣ"
+msgstr "Олмонӣ"
 
 #. Name for dgr
 msgid "Tlicho; Dogrib"
@@ -1502,8 +1502,6 @@ msgid "Yakut"
 msgstr ""
 
 #. Name for sai
-#, fuzzy
-#| msgid "Central American Indian languages"
 msgid "South American Indian languages"
 msgstr "Забонҳои ҳиндии америкоии марказӣ"
 
@@ -1737,7 +1735,7 @@ msgstr ""
 
 #. Name for tgk
 msgid "Tajik"
-msgstr ""
+msgstr "Тоҷикӣ"
 
 #. Name for tgl
 msgid "Tagalog"

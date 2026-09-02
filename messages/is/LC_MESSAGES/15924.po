@@ -8,22 +8,23 @@
 # Notes:
 # Yfirleitt notað til að tilgreina lyklaborð eða inntakstækni
 # þessvegna haft hér í hvorugkyni, nema þar sem átt er við ritmálið sjálft.
+# Sveinn í Felli <sv1@fellsnet.is>, 2026.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_15924\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2025-11-18 11:09+0100\n"
-"PO-Revision-Date: 2025-10-17 11:07+0000\n"
+"PO-Revision-Date: 2026-04-14 16:09+0000\n"
 "Last-Translator: Sveinn í Felli <sv1@fellsnet.is>\n"
-"Language-Team: Icelandic <https://hosted.weblate.org/projects/iso-codes/"
-"iso-15924/is/>\n"
+"Language-Team: Icelandic <https://hosted.weblate.org/projects/iso-codes/iso-"
+"15924/is/>\n"
 "Language: is\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n % 10 != 1 || n % 100 == 11;\n"
-"X-Generator: Weblate 5.14-dev\n"
+"X-Generator: Weblate 5.17-dev\n"
 "X-Bugs: Report translation errors to the Language-Team address.\n"
 
 #. Name for Adlm
@@ -219,10 +220,8 @@ msgid "Khutsuri (Asomtavruli and Nuskhuri)"
 msgstr "Khutsuri (Asomtavruli og Nuskhuri)"
 
 #. Name for Geor
-#, fuzzy
-#| msgid "Georgian (Mkhedruli)"
 msgid "Georgian (Mkhedruli and Mtavruli)"
-msgstr "Georgíska (Mkhedruli)"
+msgstr "Georgíska (Mkhedruli og Mtavruli)"
 
 #. Name for Glag
 msgid "Glagolitic"
@@ -549,10 +548,8 @@ msgid "Naxi Dongba (na²¹ɕi³³ to³³ba²¹, Nakhi Tomba)"
 msgstr ""
 
 #. Name for Nkgb
-#, fuzzy
-#| msgid "Nakhi Geba ('Na-'Khi ²Ggŏ-¹baw, Naxi Geba)"
 msgid "Naxi Geba (na²¹ɕi³³ gʌ²¹ba²¹, 'Na-'Khi ²Ggŏ-¹baw, Nakhi Geba)"
-msgstr "Nakhi Geba ('Na-'Khi ²Ggŏ-¹baw, Naxi Geba)"
+msgstr "Naxi Geba (na²¹ɕi³³ gʌ²¹ba²¹, 'Na-'Khi ²Ggŏ-¹baw, Nakhi Geba)"
 
 #. Name for Nkoo
 msgid "N’Ko"
@@ -731,16 +728,12 @@ msgid "Sinhala"
 msgstr "Sinhala"
 
 #. Name for Sogd
-#, fuzzy
-#| msgid "Lydian"
 msgid "Sogdian"
-msgstr "Lydian"
+msgstr "Sogdian"
 
 #. Name for Sogo
-#, fuzzy
-#| msgid "Old South Arabian"
 msgid "Old Sogdian"
-msgstr "Forn suður-arabíska"
+msgstr "Forn Sogdian"
 
 #. Name for Sora
 msgid "Sora Sompeng"
@@ -807,10 +800,8 @@ msgid "Tai Viet"
 msgstr "Tai Viet"
 
 #. Name for Tayo
-#, fuzzy
-#| msgid "Tai Le"
 msgid "Tai Yo"
-msgstr "Tai Le"
+msgstr "Tai Yo"
 
 #. Name for Telu
 msgid "Telugu"
@@ -845,10 +836,8 @@ msgid "Tirhuta"
 msgstr "Tirhuta"
 
 #. Name for Tnsa
-#, fuzzy
-#| msgid "Tangut"
 msgid "Tangsa"
-msgstr "Tangút"
+msgstr "Tangsa"
 
 #. Name for Todr
 msgid "Todhri"
