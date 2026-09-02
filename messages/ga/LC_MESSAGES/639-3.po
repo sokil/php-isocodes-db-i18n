@@ -15,23 +15,24 @@
 # references, or in a large (20M word) text corpus.  The others should
 # be treated as more or less authoritative.  Future translators: feel
 # free to fill in gaps but please continue to mark coinages as such.  --KPS
+# Aindriú Mac Giolla Eoin <aindriu80@gmail.com>, 2026.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_639-3\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2025-11-18 11:09+0100\n"
-"PO-Revision-Date: 2025-10-17 11:07+0000\n"
+"PO-Revision-Date: 2026-02-22 12:09+0000\n"
 "Last-Translator: Aindriú Mac Giolla Eoin <aindriu80@gmail.com>\n"
-"Language-Team: Irish <https://hosted.weblate.org/projects/iso-codes/"
-"iso-639-3/ga/>\n"
+"Language-Team: Irish <https://hosted.weblate.org/projects/iso-codes/iso-639-"
+"3/ga/>\n"
 "Language: ga\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=5; plural=n==1 ? 0 : n==2 ? 1 : (n>2 && n<7) ? 2 :"
-"(n>6 && n<11) ? 3 : 4;\n"
-"X-Generator: Weblate 5.14-dev\n"
+"Plural-Forms: nplurals=5; plural=n==1 ? 0 : n==2 ? 1 : (n>2 && n<7) ? 2 :(n>"
+"6 && n<11) ? 3 : 4;\n"
+"X-Generator: Weblate 5.16.1-dev\n"
 
 #. Name for aaa
 msgid "Ghotuo"
@@ -6041,7 +6042,7 @@ msgstr "Cia-Cia"
 
 #. Name for cib
 msgid "Ci Gbe"
-msgstr "CCI Gbe"
+msgstr "Ci Gbe"
 
 #. Inverted name for cib
 msgid "Gbe, Ci"
@@ -10275,7 +10276,7 @@ msgstr "Gao"
 
 #. Name for ggb
 msgid "Gbii"
-msgstr "GBII"
+msgstr "Gbii"
 
 #. Name for ggd
 msgid "Gugadj"
@@ -12935,7 +12936,7 @@ msgstr "Irantxe"
 
 #. Name for irr
 msgid "Ir"
-msgstr "IR"
+msgstr "Ir"
 
 #. Name for iru
 msgid "Irula"
@@ -19093,7 +19094,7 @@ msgstr "Mbembe, Tras-Abhainn"
 
 #. Name for mfo
 msgid "Mbe"
-msgstr "MBE"
+msgstr "Mbe"
 
 #. Name for mfp
 msgid "Makassar Malay"
@@ -20706,7 +20707,7 @@ msgstr "Moscó"
 
 #. Name for mtk
 msgid "Mbe'"
-msgstr "MBE'"
+msgstr "Mbe'"
 
 #. Name for mtl
 msgid "Montol"
@@ -21160,7 +21161,7 @@ msgstr "Maxi Gbe"
 
 #. Inverted name for mxl
 msgid "Gbe, Maxi"
-msgstr "GBE, Maxi"
+msgstr "Gbe, Maxi"
 
 #. Name for mxm
 msgid "Meramera"
@@ -21830,7 +21831,7 @@ msgstr "Ndau"
 
 #. Name for ndd
 msgid "Nde-Nsele-Nta"
-msgstr "Nde-Nsele-NTA"
+msgstr "Nde-Nsele-Nta"
 
 #. Name for nde
 msgid "North Ndebele"
@@ -21956,7 +21957,7 @@ msgstr "Nedebang"
 
 #. Name for ned
 msgid "Nde-Gbite"
-msgstr "NDE-Gbite"
+msgstr "Nde-Gbite"
 
 #. Name for nee
 msgid "Nêlêmwa-Nixumwak"
@@ -24973,7 +24974,7 @@ msgstr "Tenharim"
 
 #. Name for pai
 msgid "Pe"
-msgstr "PE"
+msgstr "Pe"
 
 #. Name for pak
 msgid "Parakanã"
@@ -35150,7 +35151,7 @@ msgstr "Eblan"
 
 #. Name for xed
 msgid "Hdi"
-msgstr "HDI"
+msgstr "Hdi"
 
 #. Name for xeg
 msgid "ǁXegwi"
@@ -36901,7 +36902,7 @@ msgstr "Cap"
 
 #. Name for ykn
 msgid "Kua-nsi"
-msgstr "Co-NSI"
+msgstr "Kua-nsi"
 
 #. Name for yko
 msgid "Yasa"

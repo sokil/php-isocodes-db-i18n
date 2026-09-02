@@ -7,22 +7,23 @@
 # SPDX-FileCopyrightText: 2001 Alastair McKInstry <mckinstry@computer.org>
 # SPDX-FileCopyrightText: 2001 D. Dale Gulledge <dsplat@rochester.rr.com>
 # SPDX-FileCopyrightText: 2021 phlostically <phlostically@mailinator.com>
+# phlostically <phlostically@mailinator.com>, 2026.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-2\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2025-11-18 11:09+0100\n"
-"PO-Revision-Date: 2021-12-19 18:53+0000\n"
+"PO-Revision-Date: 2026-05-06 08:31+0000\n"
 "Last-Translator: phlostically <phlostically@mailinator.com>\n"
-"Language-Team: Esperanto <https://hosted.weblate.org/projects/iso-codes/"
-"iso-3166-2/eo/>\n"
+"Language-Team: Esperanto <https://hosted.weblate.org/projects/iso-codes/iso-"
+"3166-2/eo/>\n"
 "Language: eo\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8-bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.10\n"
+"X-Generator: Weblate 5.17.1\n"
 
 #. Name for AD-02
 #, fuzzy
@@ -5359,10 +5360,8 @@ msgid "Somali"
 msgstr ""
 
 #. Name for ET-SW
-#, fuzzy
-#| msgid "Southern Nations, Nationalities and Peoples"
 msgid "Southwest Ethiopia Peoples"
-msgstr "Sudaj Nacioj, Gentoj kaj Popoloj"
+msgstr "Sudokcidentaj etiopaj popoloj"
 
 #. Name for ET-TI
 #, fuzzy
@@ -6656,10 +6655,8 @@ msgid "Nottingham"
 msgstr "Vajomingo"
 
 #. Name for GB-NIR
-#, fuzzy
-#| msgid "New Ireland"
 msgid "Northern Ireland"
-msgstr "Nov-Irlando"
+msgstr "Nord-Irlando"
 
 #. Name for GB-NLK
 msgid "North Lanarkshire"
@@ -7352,8 +7349,6 @@ msgid "Bioko Sud"
 msgstr ""
 
 #. Name for GQ-C
-#, fuzzy
-#| msgid "Região Continental"
 msgid "Région Continentale"
 msgstr "Kontinenta Regiono"
 
@@ -7368,8 +7363,6 @@ msgid "Djibloho"
 msgstr "Ĝibutio"
 
 #. Name for GQ-I
-#, fuzzy
-#| msgid "Região Insular"
 msgid "Région Insulaire"
 msgstr "Insula Regiono"
 
@@ -8490,9 +8483,8 @@ msgid "Uttar Pradesh"
 msgstr ""
 
 #. Name for IN-WB
-#, fuzzy
 msgid "West Bengal"
-msgstr "Okcidenta Saharo"
+msgstr "Okcident-Bengalio"
 
 #. Name for IQ-AN
 msgid "Al Anbār"

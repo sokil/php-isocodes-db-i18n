@@ -5,20 +5,23 @@
 # .
 # SPDX-FileCopyrightText: 2007, 2009-2013 Edmund GRIMLEY EVANS <edmundo@rano.org>
 # SPDX-FileCopyrightText: 2013 Felipe Castro <fefcas@gmail.com>
+# phlostically <phlostically@mailinator.com>, 2026.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_15924\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2025-11-18 11:09+0100\n"
-"PO-Revision-Date: 2013-10-07 11:03-0300\n"
-"Last-Translator: Felipe Castro <fefcas@gmail.com>\n"
-"Language-Team: Esperanto <translation-team-eo@lists.sourceforge.net>\n"
+"PO-Revision-Date: 2026-05-06 08:31+0000\n"
+"Last-Translator: phlostically <phlostically@mailinator.com>\n"
+"Language-Team: Esperanto <https://hosted.weblate.org/projects/iso-codes/iso-"
+"15924/eo/>\n"
 "Language: eo\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 1.5.4\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.17.1\n"
 
 #. Name for Adlm
 msgid "Adlam"
@@ -41,10 +44,8 @@ msgid "Arabic"
 msgstr "Araba"
 
 #. Name for Aran
-#, fuzzy
-#| msgid "Syriac (Eastern variant)"
 msgid "Arabic (Nastaliq variant)"
-msgstr "Siria (orienta vario)"
+msgstr "Araba (persa-hinda vario)"
 
 #. Name for Armi
 msgid "Imperial Aramaic"
@@ -75,8 +76,6 @@ msgid "Batak"
 msgstr "Bataka"
 
 #. Name for Beng
-#, fuzzy
-#| msgid "Bengali"
 msgid "Bengali (Bangla)"
 msgstr "Bengala"
 
@@ -149,14 +148,12 @@ msgid "Coptic"
 msgstr "Kopta"
 
 #. Name for Cpmn
-#, fuzzy
-#| msgid "Cypriot"
 msgid "Cypro-Minoan"
-msgstr "Kipra"
+msgstr "Kipra-Minoa"
 
 #. Name for Cprt
 msgid "Cypriot syllabary"
-msgstr ""
+msgstr "Kipra Silabaro"
 
 #. Name for Cyrl
 msgid "Cyrillic"
@@ -596,7 +593,7 @@ msgstr "Somalia skribo"
 
 #. Name for Ougr
 msgid "Old Uyghur"
-msgstr ""
+msgstr "Malnova ujgura"
 
 #. Name for Palm
 msgid "Palmyrene"
@@ -608,11 +605,11 @@ msgstr ""
 
 #. Name for Pcun
 msgid "Proto-Cuneiform"
-msgstr ""
+msgstr "Pra-kojnoskribo"
 
 #. Name for Pelm
 msgid "Proto-Elamite"
-msgstr ""
+msgstr "Pra-Elama"
 
 #. Name for Perm
 msgid "Old Permic"
@@ -652,7 +649,7 @@ msgstr "Gravura parta"
 
 #. Name for Psin
 msgid "Proto-Sinaitic"
-msgstr ""
+msgstr "Prasinaja"
 
 #. Name for Qaaa
 msgid "Reserved for private use (start)"
@@ -700,7 +697,7 @@ msgstr "Saŭraŝtra"
 
 #. Name for Seal
 msgid "(Small) Seal"
-msgstr ""
+msgstr "Malgranda sigela"
 
 #. Name for Sgnw
 msgid "SignWriting"
@@ -929,10 +926,8 @@ msgid "Mathematical notation"
 msgstr "Matematika notacio"
 
 #. Name for Zsye
-#, fuzzy
-#| msgid "Syriac (Estrangelo variant)"
 msgid "Symbols (Emoji variant)"
-msgstr "Siria (estrangela vario)"
+msgstr "Simboloj (kolora vario)"
 
 #. Name for Zsym
 msgid "Symbols"

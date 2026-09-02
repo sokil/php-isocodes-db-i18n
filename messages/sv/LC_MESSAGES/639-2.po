@@ -29,14 +29,15 @@
 # the first word in a sentence.
 # But since this is a list, rather than language names used inside
 # sentences, these translated language names use capital initial letters.
+# Erik Palm <erik.p.palm@gmail.com>, 2025.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_639-2\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2025-11-18 11:09+0100\n"
-"PO-Revision-Date: 2022-06-02 18:16+0000\n"
-"Last-Translator: Anders Jonsson <anders.jonsson@norsjovallen.se>\n"
+"PO-Revision-Date: 2025-12-18 21:00+0000\n"
+"Last-Translator: Erik Palm <erik.p.palm@gmail.com>\n"
 "Language-Team: Swedish <https://hosted.weblate.org/projects/iso-codes/"
 "iso-639-2/sv/>\n"
 "Language: sv\n"
@@ -44,7 +45,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.13-dev\n"
+"X-Generator: Weblate 5.15.1\n"
 "X-Bugs: Report translation errors to the Language-Team address.\n"
 
 #. Name for aar
@@ -274,10 +275,8 @@ msgid "Siksika"
 msgstr "Svartfotindianernas språk (siksika)"
 
 #. Name for bnt
-#, fuzzy
-#| msgid "Banda languages"
 msgid "Bantu languages"
-msgstr "Bandaspråk"
+msgstr "Bantuspråk"
 
 #. Name for bod
 msgid "Tibetan"

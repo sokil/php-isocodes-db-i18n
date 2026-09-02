@@ -27,22 +27,23 @@
 # ただし地図帳にアルと表記されている場合は加える
 # .
 # Capital Territory は首都特別地域と訳す (オーストラリアの慣例)
+# Valet <jeanvalet1212@outlook.fr>, 2026.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-2\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2025-11-18 11:09+0100\n"
-"PO-Revision-Date: 2021-08-04 17:47+0000\n"
-"Last-Translator: TANIGUCHI Yasuaki <yasuakit+weblate@gmail.com>\n"
-"Language-Team: Japanese <https://hosted.weblate.org/projects/iso-codes/"
-"iso-3166-2/ja/>\n"
+"PO-Revision-Date: 2026-04-14 16:10+0000\n"
+"Last-Translator: Valet <jeanvalet1212@outlook.fr>\n"
+"Language-Team: Japanese <https://hosted.weblate.org/projects/iso-codes/iso-"
+"3166-2/ja/>\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.8-dev\n"
+"X-Generator: Weblate 5.17-dev\n"
 
 #. Name for AD-02
 msgid "Canillo"
@@ -6157,7 +6158,7 @@ msgstr "バスノルマンディー"
 
 #. Name for FR-OCC
 msgid "Occitanie"
-msgstr ""
+msgstr "オック語"
 
 #. Name for FR-PAC
 #, fuzzy
