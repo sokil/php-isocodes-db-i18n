@@ -9,22 +9,23 @@
 # SPDX-FileCopyrightText: 2019 Guillermo Segovia <gsegovia2018@my.fit.edu>
 # SPDX-FileCopyrightText: 2025 Walter Paterno <walter.paterno@gmail.com>
 # SPDX-FileCopyrightText: 2025 Francisco Serrador <fserrador@gmail.com>
+# Francisco Serrador <fserrador@gmail.com>, 2026.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_15924\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2025-11-18 11:09+0100\n"
-"PO-Revision-Date: 2025-11-17 23:59+0000\n"
+"PO-Revision-Date: 2026-03-29 15:37+0000\n"
 "Last-Translator: Francisco Serrador <fserrador@gmail.com>\n"
-"Language-Team: Spanish <https://hosted.weblate.org/projects/iso-codes/"
-"iso-15924/es/>\n"
+"Language-Team: Spanish <https://hosted.weblate.org/projects/iso-codes/iso-"
+"15924/es/>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.15-dev\n"
+"X-Generator: Weblate 5.17-dev\n"
 
 #. Name for Adlm
 msgid "Adlam"
@@ -32,7 +33,7 @@ msgstr "Adlam"
 
 #. Name for Afak
 msgid "Afaka"
-msgstr "Afaka"
+msgstr "Afaca"
 
 #. Name for Aghb
 msgid "Caucasian Albanian"
@@ -172,11 +173,11 @@ msgstr "Devanagari (Nagari)"
 
 #. Name for Diak
 msgid "Dives Akuru"
-msgstr ""
+msgstr "Dives Akuru"
 
 #. Name for Dogr
 msgid "Dogra"
-msgstr ""
+msgstr "Dogra"
 
 #. Name for Dsrt
 msgid "Deseret (Mormon)"
@@ -204,7 +205,7 @@ msgstr "Elbasan"
 
 #. Name for Elym
 msgid "Elymaic"
-msgstr ""
+msgstr "Elymaic"
 
 #. Name for Ethi
 msgid "Ethiopic (Geʻez)"
@@ -212,7 +213,7 @@ msgstr "Etíope (Geʻez)"
 
 #. Name for Gara
 msgid "Garay"
-msgstr ""
+msgstr "Garay"
 
 #. Name for Geok
 msgid "Khutsuri (Asomtavruli and Nuskhuri)"
@@ -228,11 +229,11 @@ msgstr "glagolítico"
 
 #. Name for Gong
 msgid "Gunjala Gondi"
-msgstr ""
+msgstr "Gunjala Gondi"
 
 #. Name for Gonm
 msgid "Masaram Gondi"
-msgstr ""
+msgstr "Masaram Gondi"
 
 #. Name for Goth
 msgid "Gothic"
@@ -252,7 +253,7 @@ msgstr "guyaratí"
 
 #. Name for Gukh
 msgid "Gurung Khema"
-msgstr ""
+msgstr "Gurung Khema"
 
 #. Name for Guru
 msgid "Gurmukhi"
@@ -304,7 +305,7 @@ msgstr "pahawh hmong"
 
 #. Name for Hmnp
 msgid "Nyiakeng Puachue Hmong"
-msgstr ""
+msgstr "Nyiakeng Puachue Hmong"
 
 #. Name for Hntl
 msgid "Han (Traditional variant) with Latin (alias for Hant + Latn)"
@@ -543,7 +544,6 @@ msgid "Newa, Newar, Newari, Nepāla lipi"
 msgstr "Newa, Newar, Newari, Nepāla lipi"
 
 #. Name for Nkdb
-#, fuzzy
 msgid "Naxi Dongba (na²¹ɕi³³ to³³ba²¹, Nakhi Tomba)"
 msgstr "Naxi Dongba (na²¹ɕi³³ to³³ba²¹, Nakhi Tomba)"
 

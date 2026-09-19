@@ -9,22 +9,23 @@
 # SPDX-FileCopyrightText: 2019 Osoitz <oelkoro@gmail.com>
 # SPDX-FileCopyrightText: 2019 Chris Leonard <cjlhomeaddress@gmail.com>
 # SPDX-FileCopyrightText: 2020 Gontzal Manuel Pujana Onaindia <thadahdenyse@gmail.com>
+# Quentin PAGÈS <quentinantonin@free.fr>, 2026.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-2\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2025-11-18 11:09+0100\n"
-"PO-Revision-Date: 2020-02-17 14:50+0000\n"
-"Last-Translator: Gontzal Manuel Pujana Onaindia <thadahdenyse@gmail.com>\n"
-"Language-Team: Basque <https://hosted.weblate.org/projects/iso-codes/"
-"iso-3166-2/eu/>\n"
+"PO-Revision-Date: 2026-04-25 07:09+0000\n"
+"Last-Translator: Quentin PAGÈS <quentinantonin@free.fr>\n"
+"Language-Team: Basque <https://hosted.weblate.org/projects/iso-codes/iso-"
+"3166-2/eu/>\n"
 "Language: eu\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.11-dev\n"
+"X-Generator: Weblate 5.17.1-dev\n"
 
 #. Name for AD-02
 msgid "Canillo"
@@ -5932,9 +5933,8 @@ msgid "Normandie"
 msgstr ""
 
 #. Name for FR-OCC
-#, fuzzy
 msgid "Occitanie"
-msgstr "Batere ez"
+msgstr "Okzitania"
 
 #. Name for FR-PAC
 msgid "Provence-Alpes-Côte-d’Azur"

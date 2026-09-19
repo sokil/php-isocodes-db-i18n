@@ -9,22 +9,23 @@
 # SPDX-FileCopyrightText: 2019 Joan Montané <joan@montane.cat>
 # SPDX-FileCopyrightText: 2020, 2025 Quentin PAGÈS <quentinantonin@free.fr>
 # SPDX-FileCopyrightText: 2024, 2025 "Josep M. Ferrer" <txemaq@gmail.com>
+# "Josep M. Ferrer" <txemaq@gmail.com>, 2026.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-2\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2025-11-18 11:09+0100\n"
-"PO-Revision-Date: 2025-10-26 07:02+0000\n"
+"PO-Revision-Date: 2026-01-27 03:15+0000\n"
 "Last-Translator: \"Josep M. Ferrer\" <txemaq@gmail.com>\n"
-"Language-Team: Catalan <https://hosted.weblate.org/projects/iso-codes/"
-"iso-3166-2/ca/>\n"
+"Language-Team: Catalan <https://hosted.weblate.org/projects/iso-codes/iso-"
+"3166-2/ca/>\n"
 "Language: ca\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.14.1-dev\n"
+"X-Generator: Weblate 5.16-dev\n"
 
 #. Name for AD-02
 msgid "Canillo"
@@ -6751,9 +6752,8 @@ msgid "Samegrelo-Zemo Svaneti"
 msgstr ""
 
 #. Name for GE-TB
-#, fuzzy
 msgid "Tbilisi"
-msgstr "KMail"
+msgstr "Tbilisi"
 
 #. Name for GH-AA
 msgid "Greater Accra"
@@ -9647,9 +9647,8 @@ msgid "Kiambu"
 msgstr ""
 
 #. Name for KE-14
-#, fuzzy
 msgid "Kilifi"
-msgstr "KMail"
+msgstr "Kilifi"
 
 #. Name for KE-15
 msgid "Kirinyaga"
@@ -11868,9 +11867,8 @@ msgid "Călărași"
 msgstr ""
 
 #. Name for MD-CM
-#, fuzzy
 msgid "Cimișlia"
-msgstr "KMail"
+msgstr "Cimișlia"
 
 #. Name for MD-CR
 msgid "Criuleni"
@@ -12455,9 +12453,8 @@ msgid "Kruševo"
 msgstr ""
 
 #. Name for MK-506
-#, fuzzy
 msgid "Mogila"
-msgstr "KMail"
+msgstr "Mogila"
 
 #. Name for MK-507
 #, fuzzy
@@ -12655,9 +12652,8 @@ msgid "Gao"
 msgstr "Gabon"
 
 #. Name for ML-8
-#, fuzzy
 msgid "Kidal"
-msgstr "KMail"
+msgstr "Kidal"
 
 #. Name for ML-9
 #, fuzzy
@@ -12711,9 +12707,8 @@ msgid "Kayah"
 msgstr "Kenya"
 
 #. Name for MM-13
-#, fuzzy
 msgid "Kayin"
-msgstr "KMail"
+msgstr "Kayin"
 
 #. Name for MM-14
 #, fuzzy
@@ -12923,9 +12918,8 @@ msgid "Bormla"
 msgstr "Geòrgia"
 
 #. Name for MT-07
-#, fuzzy
 msgid "Dingli"
-msgstr "KMail"
+msgstr "Dingli"
 
 #. Name for MT-08
 #, fuzzy
@@ -15730,9 +15724,8 @@ msgid "Tulcea"
 msgstr ""
 
 #. Name for RO-TM
-#, fuzzy
 msgid "Timiș"
-msgstr "KMail"
+msgstr "Timiș"
 
 #. Name for RO-TR
 #, fuzzy
@@ -19076,9 +19069,8 @@ msgid "Mardin"
 msgstr "Maine"
 
 #. Name for TR-48
-#, fuzzy
 msgid "Muğla"
-msgstr "KMail"
+msgstr "Muğla"
 
 #. Name for TR-49
 msgid "Muş"
@@ -19214,9 +19206,8 @@ msgid "Karabük"
 msgstr "Kansas"
 
 #. Name for TR-79
-#, fuzzy
 msgid "Kilis"
-msgstr "KMail"
+msgstr "Kilis"
 
 #. Name for TR-80
 #, fuzzy

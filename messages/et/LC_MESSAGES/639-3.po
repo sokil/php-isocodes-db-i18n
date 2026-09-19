@@ -11,22 +11,23 @@
 # SPDX-FileCopyrightText: 2019 Mihkel Tõnnov <mihhkel@gmail.com>
 # SPDX-FileCopyrightText: 2020, 2021 Janar Leas <janar.leas@gmail.com>
 # SPDX-FileCopyrightText: 2022, 2023, 2024 Priit Jõerüüt <hwlate@joeruut.com>
+# Priit Jõerüüt <jrthwlate@users.noreply.hosted.weblate.org>, 2026.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_639-3\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2025-11-18 11:09+0100\n"
-"PO-Revision-Date: 2024-04-02 12:01+0000\n"
-"Last-Translator: Priit Jõerüüt <hwlate@joeruut.com>\n"
-"Language-Team: Estonian <https://hosted.weblate.org/projects/iso-codes/"
-"iso-639-3/et/>\n"
+"PO-Revision-Date: 2026-01-21 22:01+0000\n"
+"Last-Translator: Priit Jõerüüt <jrthwlate@users.noreply.hosted.weblate.org>\n"
+"Language-Team: Estonian <https://hosted.weblate.org/projects/iso-codes/iso-"
+"639-3/et/>\n"
 "Language: et\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.5-dev\n"
+"X-Generator: Weblate 5.16-dev\n"
 
 #. Name for aaa
 msgid "Ghotuo"
@@ -447,7 +448,7 @@ msgstr ""
 
 #. Name for ads
 msgid "Adamorobe Sign Language"
-msgstr ""
+msgstr "adamorobe viipekeel"
 
 #. Name for adt
 msgid "Adnyamathanha"
@@ -499,7 +500,7 @@ msgstr "Araabia, ülem-egiptuse"
 
 #. Name for aed
 msgid "Argentine Sign Language"
-msgstr ""
+msgstr "argentina viipekeel"
 
 #. Name for aee
 msgid "Northeast Pashai"
@@ -523,7 +524,7 @@ msgstr ""
 
 #. Name for aen
 msgid "Armenian Sign Language"
-msgstr ""
+msgstr "armeenia viipekeel"
 
 #. Name for aeq
 msgid "Aer"
@@ -576,7 +577,7 @@ msgstr ""
 
 #. Name for afg
 msgid "Afghan Sign Language"
-msgstr ""
+msgstr "afgaani viipekeel"
 
 #. Name for afh
 msgid "Afrihili"
@@ -1612,10 +1613,8 @@ msgid "Arigidi"
 msgstr ""
 
 #. Name for aqk
-#, fuzzy
-#| msgid "Dinka"
 msgid "Aninka"
-msgstr "dinka"
+msgstr "aninka"
 
 #. Name for aqm
 msgid "Atohwaim"
@@ -1787,7 +1786,7 @@ msgstr ""
 
 #. Name for ase
 msgid "American Sign Language"
-msgstr ""
+msgstr "ameerika viipekeel"
 
 #. Name for asf
 msgid "Auslan"
@@ -1836,11 +1835,11 @@ msgstr "dano"
 
 #. Name for asp
 msgid "Algerian Sign Language"
-msgstr ""
+msgstr "alžeeria viipekeel"
 
 #. Name for asq
 msgid "Austrian Sign Language"
-msgstr ""
+msgstr "austria viipekeel"
 
 #. Name for asr
 msgid "Asuri"
@@ -1868,7 +1867,7 @@ msgstr ""
 
 #. Name for asw
 msgid "Australian Aborigines Sign Language"
-msgstr ""
+msgstr "austraalia aborigeenide viipekeel"
 
 #. Name for asx
 msgid "Muratayak"
@@ -2876,11 +2875,11 @@ msgstr "bahnari"
 
 #. Name for bdr
 msgid "West Coast Bajau"
-msgstr ""
+msgstr "lääneranniku badžau"
 
 #. Inverted name for bdr
 msgid "Bajau, West Coast"
-msgstr ""
+msgstr "lääneranniku badžau"
 
 #. Name for bds
 msgid "Burunge"
@@ -2965,7 +2964,7 @@ msgstr "valgevene"
 
 #. Name for bem
 msgid "Bemba (Zambia)"
-msgstr ""
+msgstr "bemba"
 
 # src/trans.h:27
 #. Name for ben
@@ -3069,7 +3068,7 @@ msgstr "Busangi kajani"
 
 #. Inverted name for bfg
 msgid "Kayan, Busang"
-msgstr ""
+msgstr "Busangi kajani"
 
 #. Name for bfh
 msgid "Blafe"
@@ -3077,7 +3076,7 @@ msgstr ""
 
 #. Name for bfi
 msgid "British Sign Language"
-msgstr ""
+msgstr "briti viipekeel"
 
 #. Name for bfj
 msgid "Bafanji"
@@ -3085,7 +3084,7 @@ msgstr ""
 
 #. Name for bfk
 msgid "Ban Khor Sign Language"
-msgstr ""
+msgstr "ban khori viipekeel"
 
 #. Name for bfl
 msgid "Banda-Ndélé"
@@ -3205,11 +3204,11 @@ msgstr ""
 
 #. Name for bgn
 msgid "Western Balochi"
-msgstr ""
+msgstr "läänebelutši"
 
 #. Inverted name for bgn
 msgid "Balochi, Western"
-msgstr ""
+msgstr "läänebelutši"
 
 #. Name for bgo
 msgid "Baga Koga"
@@ -3217,11 +3216,11 @@ msgstr ""
 
 #. Name for bgp
 msgid "Eastern Balochi"
-msgstr ""
+msgstr "idabelutši"
 
 #. Inverted name for bgp
 msgid "Balochi, Eastern"
-msgstr ""
+msgstr "idabelutši"
 
 #. Name for bgq
 msgid "Bagri"
@@ -3658,7 +3657,7 @@ msgstr "põhjasorsoganoni"
 
 #. Inverted name for bks
 msgid "Sorsoganon, Northern"
-msgstr ""
+msgstr "põhjasorsoganoni"
 
 #. Name for bkt
 msgid "Boloki"
@@ -4035,7 +4034,7 @@ msgstr ""
 
 #. Name for bog
 msgid "Bamako Sign Language"
-msgstr ""
+msgstr "bamako viipekeel"
 
 #. Name for boh
 msgid "Boma"
@@ -4288,7 +4287,7 @@ msgstr ""
 
 #. Name for bqn
 msgid "Bulgarian Sign Language"
-msgstr ""
+msgstr "bulgaaria viipekeel"
 
 #. Name for bqo
 msgid "Balo"
@@ -4333,7 +4332,7 @@ msgstr ""
 
 #. Name for bqy
 msgid "Bengkala Sign Language"
-msgstr ""
+msgstr "bengkala viipekeel"
 
 #. Name for bqz
 msgid "Bakaka"
@@ -4823,7 +4822,7 @@ msgstr ""
 
 #. Name for bvl
 msgid "Bolivian Sign Language"
-msgstr ""
+msgstr "boliivia viipekeel"
 
 #. Name for bvm
 msgid "Bamunka"
@@ -5306,7 +5305,7 @@ msgstr ""
 
 #. Name for bzs
 msgid "Brazilian Sign Language"
-msgstr ""
+msgstr "brasiilia viipekeel"
 
 #. Name for bzt
 msgid "Brithenig"
@@ -5635,7 +5634,7 @@ msgstr ""
 
 #. Name for cds
 msgid "Chadian Sign Language"
-msgstr ""
+msgstr "tšaadi viipekeel"
 
 #. Name for cdy
 msgid "Chadong"
@@ -6648,23 +6647,23 @@ msgstr "kašuubi"
 
 #. Name for csc
 msgid "Catalan Sign Language"
-msgstr ""
+msgstr "katalaani viipekeel"
 
 #. Name for csd
 msgid "Chiangmai Sign Language"
-msgstr ""
+msgstr "chiangmai viipekeel"
 
 #. Name for cse
 msgid "Czech Sign Language"
-msgstr ""
+msgstr "tšehhi viipekeel"
 
 #. Name for csf
 msgid "Cuba Sign Language"
-msgstr ""
+msgstr "kuuba viipekeel"
 
 #. Name for csg
 msgid "Chilean Sign Language"
-msgstr ""
+msgstr "tšiili viipekeel"
 
 #. Name for csh
 msgid "Asho Chin"
@@ -6697,7 +6696,7 @@ msgstr ""
 
 #. Name for csl
 msgid "Chinese Sign Language"
-msgstr ""
+msgstr "hiina viipekeel"
 
 #. Name for csm
 msgid "Central Sierra Miwok"
@@ -6709,7 +6708,7 @@ msgstr ""
 
 #. Name for csn
 msgid "Colombian Sign Language"
-msgstr ""
+msgstr "kolumbia viipekeel"
 
 #. Name for cso
 msgid "Sochiapam Chinantec"
@@ -6731,11 +6730,11 @@ msgstr "Ukraina"
 
 #. Name for csq
 msgid "Croatia Sign Language"
-msgstr ""
+msgstr "horvaadi viipekeel"
 
 #. Name for csr
 msgid "Costa Rican Sign Language"
-msgstr ""
+msgstr "kostariika viipekeel"
 
 #. Name for css
 msgid "Southern Ohlone"
@@ -8001,7 +8000,7 @@ msgstr "lukpa"
 
 #. Name for doq
 msgid "Dominican Sign Language"
-msgstr ""
+msgstr "dominikaani viipekeel"
 
 #. Name for dor
 #, fuzzy
@@ -8123,7 +8122,7 @@ msgstr "alamsorbi"
 
 #. Name for dse
 msgid "Dutch Sign Language"
-msgstr ""
+msgstr "hollandi viipekeel"
 
 #. Name for dsh
 msgid "Daasanach"
@@ -8158,10 +8157,8 @@ msgid "Tadaksahak"
 msgstr ""
 
 #. Name for dsz
-#, fuzzy
-#| msgid "Hungarian Sign Language"
 msgid "Mardin Sign Language"
-msgstr "ungari viipekeel"
+msgstr "mardini viipekeel"
 
 #. Name for dta
 msgid "Daur"
@@ -8551,7 +8548,7 @@ msgstr "Korea"
 
 #. Name for ecs
 msgid "Ecuadorian Sign Language"
-msgstr ""
+msgstr "ekvadori viipekeel"
 
 #. Name for ecy
 msgid "Eteocypriot"
@@ -8596,9 +8593,8 @@ msgid "Egyptian (Ancient)"
 msgstr "egiptuse"
 
 #. Name for ehs
-#, fuzzy
 msgid "Miyakubo Sign Language"
-msgstr "Korea"
+msgstr "miyakubo viipekeel"
 
 #. Name for ehu
 msgid "Ehueun"
@@ -8992,7 +8988,7 @@ msgstr ""
 
 #. Name for esl
 msgid "Egypt Sign Language"
-msgstr ""
+msgstr "egiptuse viipekeel"
 
 #. Name for esm
 msgid "Esuma"
@@ -9000,7 +8996,7 @@ msgstr ""
 
 #. Name for esn
 msgid "Salvadoran Sign Language"
-msgstr ""
+msgstr "salvadori viipekeel"
 
 #. Name for eso
 msgid "Estonian Sign Language"
@@ -9045,7 +9041,7 @@ msgstr ""
 
 #. Name for eth
 msgid "Ethiopian Sign Language"
-msgstr ""
+msgstr "etioopia viipekeel"
 
 #. Name for etn
 msgid "Eton (Vanuatu)"
@@ -9250,7 +9246,7 @@ msgstr ""
 
 #. Name for fcs
 msgid "Quebec Sign Language"
-msgstr ""
+msgstr "quebeci viipekeel"
 
 #. Name for fer
 #, fuzzy
@@ -10033,7 +10029,7 @@ msgstr ""
 
 #. Name for gds
 msgid "Ghandruk Sign Language"
-msgstr ""
+msgstr "ghandruki viipekeel"
 
 #. Name for gdt
 #, fuzzy
@@ -10942,7 +10938,7 @@ msgstr ""
 
 #. Name for gse
 msgid "Ghanaian Sign Language"
-msgstr ""
+msgstr "ghaana viipekeel"
 
 #. Name for gsg
 msgid "German Sign Language"
@@ -10954,7 +10950,7 @@ msgstr ""
 
 #. Name for gsm
 msgid "Guatemalan Sign Language"
-msgstr ""
+msgstr "guatemaala viipekeel"
 
 #. Name for gsn
 msgid "Nema"
@@ -10974,7 +10970,7 @@ msgstr ""
 
 #. Name for gss
 msgid "Greek Sign Language"
-msgstr ""
+msgstr "kreeka viipekeel"
 
 #. Name for gsw
 msgid "Swiss German"
@@ -11022,11 +11018,11 @@ msgstr ""
 
 #. Name for gug
 msgid "Paraguayan Guaraní"
-msgstr ""
+msgstr "Paraguay guaranii"
 
 #. Inverted name for gug
 msgid "Guaraní, Paraguayan"
-msgstr ""
+msgstr "Paraguay guaranii"
 
 #. Name for guh
 msgid "Guahibo"
@@ -11087,7 +11083,7 @@ msgstr "Fääri"
 
 #. Name for gus
 msgid "Guinean Sign Language"
-msgstr ""
+msgstr "guinea viipekeel"
 
 #. Name for gut
 msgid "Maléku Jaíka"
@@ -11331,7 +11327,7 @@ msgstr ""
 
 #. Name for hab
 msgid "Hanoi Sign Language"
-msgstr ""
+msgstr "hanoi viipekeel"
 
 #. Name for hac
 #, fuzzy
@@ -11353,7 +11349,7 @@ msgstr ""
 
 #. Name for haf
 msgid "Haiphong Sign Language"
-msgstr ""
+msgstr "haiphongi viipekeel"
 
 #. Name for hag
 #, fuzzy
@@ -11513,7 +11509,7 @@ msgstr ""
 
 #. Name for hds
 msgid "Honduras Sign Language"
-msgstr ""
+msgstr "hondurase viipekeel"
 
 #. Name for hdy
 #, fuzzy
@@ -11685,7 +11681,7 @@ msgstr ""
 
 #. Name for hks
 msgid "Hong Kong Sign Language"
-msgstr ""
+msgstr "hongkongi viipekeel"
 
 #. Name for hla
 #, fuzzy
@@ -12021,7 +12017,7 @@ msgstr "Heebrea"
 
 #. Name for hos
 msgid "Ho Chi Minh City Sign Language"
-msgstr ""
+msgstr "saigoni viipekeel"
 
 #. Name for hot
 msgid "Hote"
@@ -12050,7 +12046,7 @@ msgstr ""
 
 #. Name for hps
 msgid "Hawai'i Sign Language (HSL)"
-msgstr ""
+msgstr "havai viipekeel"
 
 #. Name for hra
 msgid "Hrangkhol"
@@ -12129,7 +12125,7 @@ msgstr "ungari viipekeel"
 
 #. Name for hsl
 msgid "Hausa Sign Language"
-msgstr ""
+msgstr "hausa viipekeel"
 
 #. Name for hsn
 #, fuzzy
@@ -12689,9 +12685,8 @@ msgid "Ikaranggal"
 msgstr "Korea"
 
 #. Name for iks
-#, fuzzy
 msgid "Inuit Sign Language"
-msgstr "Korea"
+msgstr "inuiti viipekeel"
 
 #. Name for ikt
 msgid "Inuinnaqtun"
@@ -12759,7 +12754,7 @@ msgstr ""
 
 #. Name for ils
 msgid "International Sign"
-msgstr ""
+msgstr "rahvusvaheline viipekeel"
 
 #. Name for ilu
 msgid "Ili'uun"
@@ -12846,7 +12841,7 @@ msgstr ""
 
 #. Name for inl
 msgid "Indonesian Sign Language"
-msgstr ""
+msgstr "indoneesia viipekeel"
 
 #. Name for inm
 msgid "Minaean"
@@ -12867,7 +12862,7 @@ msgstr ""
 
 #. Name for ins
 msgid "Indian Sign Language"
-msgstr ""
+msgstr "india viipekeel"
 
 #. Name for int
 msgid "Intha"
@@ -12962,11 +12957,11 @@ msgstr ""
 
 #. Name for ise
 msgid "Italian Sign Language"
-msgstr ""
+msgstr "itaalia viipekeel"
 
 #. Name for isg
 msgid "Irish Sign Language"
-msgstr ""
+msgstr "iiri viipekeel"
 
 #. Name for ish
 #, fuzzy
@@ -13000,7 +12995,7 @@ msgstr ""
 
 #. Name for isr
 msgid "Israeli Sign Language"
-msgstr ""
+msgstr "iisraeli viipekeel"
 
 #. Name for ist
 msgid "Istriot"
@@ -13335,7 +13330,7 @@ msgstr ""
 
 #. Name for jcs
 msgid "Jamaican Country Sign Language"
-msgstr ""
+msgstr "jamaika maapiirkonna viipekeel"
 
 #. Name for jct
 #, fuzzy
@@ -13421,7 +13416,7 @@ msgstr "Tai"
 
 #. Name for jhs
 msgid "Jhankot Sign Language"
-msgstr ""
+msgstr "jhankoti viipekeel"
 
 #. Name for jia
 msgid "Jina"
@@ -13535,10 +13530,8 @@ msgid "Koro (India)"
 msgstr "Indoneesia"
 
 #. Name for jks
-#, fuzzy
-#| msgid "Estonian Sign Language"
 msgid "Amami Koniya Sign Language"
-msgstr "eesti viipekeel"
+msgstr "amami-koniya viipekeel"
 
 # src/trans.h:148
 #. Name for jku
@@ -13553,7 +13546,7 @@ msgstr "Otsi"
 
 #. Name for jls
 msgid "Jamaican Sign Language"
-msgstr ""
+msgstr "jamaika viipekeel"
 
 #. Name for jma
 msgid "Dima"
@@ -13658,7 +13651,7 @@ msgstr ""
 
 #. Name for jos
 msgid "Jordanian Sign Language"
-msgstr ""
+msgstr "jordaania viipekeel"
 
 #. Name for jow
 msgid "Jowulu"
@@ -13707,7 +13700,7 @@ msgstr ""
 
 #. Name for jsl
 msgid "Japanese Sign Language"
-msgstr ""
+msgstr "jaapani viipekeel"
 
 #. Name for jua
 msgid "Júma"
@@ -13767,7 +13760,7 @@ msgstr ""
 
 #. Name for jus
 msgid "Jumla Sign Language"
-msgstr ""
+msgstr "jumla viipekeel"
 
 #. Name for jut
 #, fuzzy
@@ -14552,7 +14545,7 @@ msgstr ""
 
 #. Name for kgi
 msgid "Selangor Sign Language"
-msgstr ""
+msgstr "selangori viipekeel"
 
 #. Name for kgj
 msgid "Gamale Kham"
@@ -16389,7 +16382,7 @@ msgstr ""
 
 #. Name for kvk
 msgid "Korean Sign Language"
-msgstr ""
+msgstr "korea viipekeel"
 
 #. Name for kvl
 #, fuzzy
@@ -17157,7 +17150,7 @@ msgstr ""
 
 #. Name for lbs
 msgid "Libyan Sign Language"
-msgstr ""
+msgstr "liibüa viipekeel"
 
 # src/trans.h:148
 #. Name for lbt
@@ -17473,10 +17466,8 @@ msgid "Lengo"
 msgstr ""
 
 #. Name for lgs
-#, fuzzy
-#| msgid "Hungarian Sign Language"
 msgid "Guinea-Bissau Sign Language"
-msgstr "ungari viipekeel"
+msgstr "guinea-bissau viipekeel"
 
 #. Name for lgt
 #, fuzzy
@@ -18268,16 +18259,12 @@ msgid "Lasgerdi"
 msgstr ""
 
 #. Name for lsb
-#, fuzzy
-#| msgid "Hungarian Sign Language"
 msgid "Burundian Sign Language"
-msgstr "ungari viipekeel"
+msgstr "burundi viipekeel"
 
 #. Name for lsc
-#, fuzzy
-#| msgid "Danish Sign Language"
 msgid "Albarradas Sign Language"
-msgstr "taani viipekeel"
+msgstr "albarrada viipekeel"
 
 #. Name for lsd
 #, fuzzy
@@ -18309,18 +18296,16 @@ msgid "Saamia"
 msgstr "seriifideta"
 
 #. Name for lsn
-#, fuzzy
-#| msgid "German Sign Language"
 msgid "Tibetan Sign Language"
-msgstr "saksa viipekeel"
+msgstr "tiibeti viipekeel"
 
 #. Name for lso
 msgid "Laos Sign Language"
-msgstr ""
+msgstr "laose viipekeel"
 
 #. Name for lsp
 msgid "Panamanian Sign Language"
-msgstr ""
+msgstr "panama viipekeel"
 
 #. Name for lsr
 msgid "Aruop"
@@ -18333,23 +18318,19 @@ msgstr "Ääred"
 
 #. Name for lst
 msgid "Trinidad and Tobago Sign Language"
-msgstr ""
+msgstr "trinidadi-tobago viipekeel"
 
 #. Name for lsv
-#, fuzzy
-#| msgid "Latvian Sign Language"
 msgid "Sivia Sign Language"
-msgstr "läti viipekeel"
+msgstr "sivia viipekeel"
 
 #. Name for lsw
-#, fuzzy
-#| msgid "French Sign Language"
 msgid "Seychelles Sign Language"
-msgstr "prantsuse viipekeel"
+msgstr "seišellide viipekeel"
 
 #. Name for lsy
 msgid "Mauritian Sign Language"
-msgstr ""
+msgstr "mauritiuse viipekeel"
 
 #. Name for ltc
 msgid "Late Middle Chinese"
@@ -18589,10 +18570,8 @@ msgid "Luwo"
 msgstr ""
 
 #. Name for lws
-#, fuzzy
-#| msgid "Latvian Sign Language"
 msgid "Malawian Sign Language"
-msgstr "läti viipekeel"
+msgstr "malawi viipekeel"
 
 #. Name for lwt
 msgid "Lewotobi"
@@ -19102,7 +19081,7 @@ msgstr ""
 
 #. Name for mdl
 msgid "Maltese Sign Language"
-msgstr ""
+msgstr "malta viipekeel"
 
 #. Name for mdm
 msgid "Mayogo"
@@ -19381,7 +19360,7 @@ msgstr "Ääred"
 
 #. Name for mfs
 msgid "Mexican Sign Language"
-msgstr ""
+msgstr "mehhiko viipekeel"
 
 #. Name for mft
 msgid "Mokerang"
@@ -20791,7 +20770,7 @@ msgstr ""
 
 #. Name for mre
 msgid "Martha's Vineyard Sign Language"
-msgstr ""
+msgstr "marthas-vineyardi viipekeel"
 
 #. Name for mrf
 msgid "Elseng"
@@ -20914,7 +20893,7 @@ msgstr ""
 
 #. Name for msd
 msgid "Yucatec Maya Sign Language"
-msgstr ""
+msgstr "yucateci maiade viipekeel"
 
 # src/trans.h:195
 #. Name for mse
@@ -20987,7 +20966,7 @@ msgstr ""
 
 #. Name for msr
 msgid "Mongolian Sign Language"
-msgstr ""
+msgstr "mongoli viipekeel"
 
 # src/trans.h:195
 #. Name for mss
@@ -21758,7 +21737,7 @@ msgstr ""
 
 #. Name for mzc
 msgid "Madagascar Sign Language"
-msgstr ""
+msgstr "madagaskari viipekeel"
 
 #. Name for mzd
 msgid "Malimba"
@@ -21771,7 +21750,7 @@ msgstr "Ääred"
 
 #. Name for mzg
 msgid "Monastic Sign Language"
-msgstr ""
+msgstr "kristlike munkade viipekeel"
 
 #. Name for mzh
 msgid "Wichí Lhamtés Güisnay"
@@ -21859,7 +21838,7 @@ msgstr ""
 
 #. Name for mzy
 msgid "Mozambican Sign Language"
-msgstr ""
+msgstr "mosambiigi viipekeel"
 
 #. Name for mzz
 msgid "Maiadomu"
@@ -22072,7 +22051,7 @@ msgstr "Saksa"
 
 #. Name for nbs
 msgid "Namibian Sign Language"
-msgstr ""
+msgstr "namiibia viipekeel"
 
 #. Name for nbt
 msgid "Na"
@@ -22206,7 +22185,7 @@ msgstr ""
 
 #. Name for ncs
 msgid "Nicaraguan Sign Language"
-msgstr ""
+msgstr "nikaraagua viipekeel"
 
 #. Name for nct
 msgid "Chothe Naga"
@@ -23846,7 +23825,7 @@ msgstr ""
 
 #. Name for nsi
 msgid "Nigerian Sign Language"
-msgstr ""
+msgstr "nigeeria viipekeel"
 
 #. Name for nsk
 #, fuzzy
@@ -23875,7 +23854,7 @@ msgstr ""
 
 #. Name for nsp
 msgid "Nepalese Sign Language"
-msgstr ""
+msgstr "nepaali viipekeel"
 
 #. Name for nsq
 msgid "Northern Sierra Miwok"
@@ -23887,7 +23866,7 @@ msgstr ""
 
 #. Name for nsr
 msgid "Maritime Sign Language"
-msgstr ""
+msgstr "merenduse viipekeel"
 
 #. Name for nss
 #, fuzzy
@@ -24414,7 +24393,7 @@ msgstr ""
 
 #. Name for nzs
 msgid "New Zealand Sign Language"
-msgstr ""
+msgstr "uus-meremaa viipekeel"
 
 #. Name for nzu
 msgid "Teke-Nzikou"
@@ -24769,13 +24748,12 @@ msgid "One, Kwamtim"
 msgstr ""
 
 #. Name for okl
-#, fuzzy
 msgid "Old Kentish Sign Language"
-msgstr "Korea"
+msgstr "vanakenti viipekeel"
 
 #. Inverted name for okl
 msgid "Kentish Sign Language, Old"
-msgstr ""
+msgstr "vanakenti viipekeel"
 
 #. Name for okm
 msgid "Middle Korean (10th-16th cent.)"
@@ -25956,9 +25934,8 @@ msgid "Pagu"
 msgstr ""
 
 #. Name for pgz
-#, fuzzy
 msgid "Papua New Guinean Sign Language"
-msgstr "Korea"
+msgstr "uusguinea viipekeel"
 
 #. Name for pha
 #, fuzzy
@@ -26177,7 +26154,7 @@ msgstr ""
 
 #. Name for pks
 msgid "Pakistan Sign Language"
-msgstr ""
+msgstr "pakistani viipekeel"
 
 # src/trans.h:195
 #. Name for pkt
@@ -26775,7 +26752,7 @@ msgstr ""
 
 #. Name for prl
 msgid "Peruvian Sign Language"
-msgstr ""
+msgstr "peruu viipekeel"
 
 #. Name for prm
 #, fuzzy
@@ -26828,7 +26805,7 @@ msgstr ""
 
 #. Name for prz
 msgid "Providencia Sign Language"
-msgstr ""
+msgstr "providencia viipekeel"
 
 #. Name for psa
 msgid "Asue Awyu"
@@ -26839,14 +26816,12 @@ msgid "Awyu, Asue"
 msgstr ""
 
 #. Name for psc
-#, fuzzy
-#| msgid "Latvian Sign Language"
 msgid "Iranian Sign Language"
-msgstr "läti viipekeel"
+msgstr "iraani viipekeel"
 
 #. Name for psd
 msgid "Plains Indian Sign Language"
-msgstr ""
+msgstr "indiaanlaste viipekeel"
 
 #. Name for pse
 msgid "Central Malay"
@@ -26859,7 +26834,7 @@ msgstr "Hiina"
 
 #. Name for psg
 msgid "Penang Sign Language"
-msgstr ""
+msgstr "penangi viipekeel"
 
 #. Name for psh
 #, fuzzy
@@ -26881,7 +26856,7 @@ msgstr ""
 
 #. Name for psl
 msgid "Puerto Rican Sign Language"
-msgstr ""
+msgstr "puertorico viipekeel"
 
 #. Name for psm
 #, fuzzy
@@ -26895,11 +26870,11 @@ msgstr "Ungari"
 
 #. Name for pso
 msgid "Polish Sign Language"
-msgstr ""
+msgstr "poola viipekeel"
 
 #. Name for psp
 msgid "Philippine Sign Language"
-msgstr ""
+msgstr "filipiini viipekeel"
 
 #. Name for psq
 #, fuzzy
@@ -26908,7 +26883,7 @@ msgstr "Poola"
 
 #. Name for psr
 msgid "Portuguese Sign Language"
-msgstr ""
+msgstr "portugali viipekeel"
 
 #. Name for pss
 msgid "Kaulong"
@@ -27157,7 +27132,7 @@ msgstr ""
 
 #. Name for pys
 msgid "Paraguayan Sign Language"
-msgstr ""
+msgstr "paraguai viipekeel"
 
 #. Name for pyu
 msgid "Puyuma"
@@ -27869,9 +27844,8 @@ msgid "Riang (India)"
 msgstr "Indoneesia"
 
 #. Name for rib
-#, fuzzy
 msgid "Bribri Sign Language"
-msgstr "Korea"
+msgstr "bribri viipekeel"
 
 #. Name for rif
 msgid "Tarifit"
@@ -28053,7 +28027,7 @@ msgstr ""
 
 #. Name for rms
 msgid "Romanian Sign Language"
-msgstr ""
+msgstr "rumeenia viipekeel"
 
 #. Name for rmt
 #, fuzzy
@@ -28105,10 +28079,8 @@ msgid "Marma"
 msgstr "Ääred"
 
 #. Name for rnb
-#, fuzzy
-#| msgid "French Sign Language"
 msgid "Brunca Sign Language"
-msgstr "prantsuse viipekeel"
+msgstr "brunca viipekeel"
 
 #. Name for rnd
 msgid "Ruund"
@@ -28257,18 +28229,15 @@ msgstr "leedu"
 
 #. Name for rsl
 msgid "Russian Sign Language"
-msgstr ""
+msgstr "vene viipekeel"
 
 #. Name for rsm
-#, fuzzy
 msgid "Miriwoong Sign Language"
-msgstr "Korea"
+msgstr "miriwoongi viipekeel"
 
 #. Name for rsn
-#, fuzzy
-#| msgid "Latvian Sign Language"
 msgid "Rwandan Sign Language"
-msgstr "läti viipekeel"
+msgstr "rwanda viipekeel"
 
 #. Name for rsw
 #, fuzzy
@@ -28853,7 +28822,7 @@ msgstr "Otsi"
 
 #. Name for sdl
 msgid "Saudi Arabian Sign Language"
-msgstr ""
+msgstr "saudiaraabia viipekeel"
 
 #. Name for sdn
 #, fuzzy
@@ -29052,7 +29021,7 @@ msgstr ""
 
 #. Name for sfb
 msgid "Langue des signes de Belgique Francophone"
-msgstr ""
+msgstr "frankofoonse belgia viipekeel"
 
 #. Name for sfe
 msgid "Eastern Subanen"
@@ -29073,7 +29042,7 @@ msgstr ""
 
 #. Name for sfs
 msgid "South African Sign Language"
-msgstr ""
+msgstr "lõuna-aafrika viipekeel"
 
 #. Name for sfw
 msgid "Sehwi"
@@ -29170,7 +29139,7 @@ msgstr ""
 
 #. Name for sgx
 msgid "Sierra Leone Sign Language"
-msgstr ""
+msgstr "sierra-leone viipekeel"
 
 #. Name for sgy
 #, fuzzy
@@ -29650,7 +29619,7 @@ msgstr ""
 
 #. Name for slf
 msgid "Swiss-Italian Sign Language"
-msgstr ""
+msgstr "šveitsiitaalia viipekeel"
 
 #. Name for slg
 msgid "Selungai Murut"
@@ -29711,7 +29680,7 @@ msgstr "seriifideta"
 
 #. Name for sls
 msgid "Singapore Sign Language"
-msgstr ""
+msgstr "singapuri viipekeel"
 
 #. Name for slt
 #, fuzzy
@@ -30223,7 +30192,7 @@ msgstr "albaania"
 
 #. Name for sqk
 msgid "Albanian Sign Language"
-msgstr ""
+msgstr "albaania viipekeel"
 
 #. Name for sqm
 #, fuzzy
@@ -30254,7 +30223,7 @@ msgstr "Araabia"
 
 #. Name for sqs
 msgid "Sri Lankan Sign Language"
-msgstr ""
+msgstr "srilanka viipekeel"
 
 #. Name for sqt
 msgid "Soqotri"
@@ -30266,10 +30235,8 @@ msgid "Squamish"
 msgstr "Hispaania"
 
 #. Name for sqx
-#, fuzzy
-#| msgid "Swiss-German Sign Language"
 msgid "Kufr Qassem Sign Language (KQSL)"
-msgstr "šveitsisaksa viipekeel"
+msgstr "kafr-qassemi viipekeel"
 
 #. Name for sra
 #, fuzzy
@@ -30479,7 +30446,7 @@ msgstr ""
 
 #. Name for ssp
 msgid "Spanish Sign Language"
-msgstr ""
+msgstr "hispaania viipekeel"
 
 #. Name for ssq
 #, fuzzy
@@ -30488,7 +30455,7 @@ msgstr "Slovakkia"
 
 #. Name for ssr
 msgid "Swiss-French Sign Language"
-msgstr ""
+msgstr "šveitsiprantsuse viipekeel"
 
 #. Name for sss
 msgid "Sô"
@@ -30759,7 +30726,7 @@ msgstr "Serbia"
 
 #. Name for svk
 msgid "Slovakian Sign Language"
-msgstr ""
+msgstr "slovaki viipekeel"
 
 #. Name for svm
 msgid "Slavomolisano"
@@ -31041,7 +31008,7 @@ msgstr "seriifideta"
 
 #. Name for syy
 msgid "Al-Sayyid Bedouin Sign Language"
-msgstr ""
+msgstr "alsayyiidi beduiini viipekeel"
 
 #. Name for sza
 msgid "Semelai"
@@ -31078,10 +31045,8 @@ msgid "Suabo"
 msgstr ""
 
 #. Name for szs
-#, fuzzy
-#| msgid "Icelandic Sign Language"
 msgid "Solomon Islands Sign Language"
-msgstr "islandi viipekeel"
+msgstr "saalomoni viipekeel"
 
 #. Name for szv
 msgid "Isu (Fako Division)"
@@ -32992,7 +32957,7 @@ msgstr "Eesti"
 
 #. Name for tse
 msgid "Tunisian Sign Language"
-msgstr ""
+msgstr "tuneesia viipekeel"
 
 #. Name for tsg
 msgid "Tausug"
@@ -33020,7 +32985,7 @@ msgstr ""
 
 #. Name for tsm
 msgid "Turkish Sign Language"
-msgstr ""
+msgstr "türgi viipekeel"
 
 #. Name for tsn
 msgid "Tswana"
@@ -33040,7 +33005,7 @@ msgstr ""
 
 #. Name for tsq
 msgid "Thai Sign Language"
-msgstr ""
+msgstr "tai viipekeel"
 
 #. Name for tsr
 msgid "Akei"
@@ -33048,7 +33013,7 @@ msgstr ""
 
 #. Name for tss
 msgid "Taiwan Sign Language"
-msgstr ""
+msgstr "taivani viipekeel"
 
 #. Name for tst
 msgid "Tondi Songway Kiini"
@@ -33078,7 +33043,7 @@ msgstr "Ääred"
 
 #. Name for tsy
 msgid "Tebul Sign Language"
-msgstr ""
+msgstr "tebuli viipekeel"
 
 #. Name for tsz
 msgid "Purepecha"
@@ -33653,7 +33618,7 @@ msgstr ""
 
 #. Name for tza
 msgid "Tanzanian Sign Language"
-msgstr ""
+msgstr "tansaania viipekeel"
 
 # src/trans.h:27
 #. Name for tzh
@@ -33795,7 +33760,7 @@ msgstr "Asukoht"
 
 #. Name for ugn
 msgid "Ugandan Sign Language"
-msgstr ""
+msgstr "uganda viipekeel"
 
 #. Name for ugo
 msgid "Ugong"
@@ -33803,7 +33768,7 @@ msgstr ""
 
 #. Name for ugy
 msgid "Uruguayan Sign Language"
-msgstr ""
+msgstr "uruguai viipekeel"
 
 #. Name for uha
 #, fuzzy
@@ -33855,7 +33820,7 @@ msgstr ""
 
 #. Name for ukl
 msgid "Ukrainian Sign Language"
-msgstr ""
+msgstr "ukraina viipekeel"
 
 #. Name for ukp
 msgid "Ukpe-Bayobiri"
@@ -33871,7 +33836,7 @@ msgstr "ukraina"
 
 #. Name for uks
 msgid "Urubú-Kaapor Sign Language"
-msgstr ""
+msgstr "urubu-kaapori viipekeel"
 
 #. Name for uku
 msgid "Ukue"
@@ -34728,11 +34693,11 @@ msgstr "Bulgaaria"
 
 #. Name for vsi
 msgid "Moldova Sign Language"
-msgstr ""
+msgstr "moldova viipekeel"
 
 #. Name for vsl
 msgid "Venezuelan Sign Language"
-msgstr ""
+msgstr "venetsueela viipekeel"
 
 # src/trans.h:99
 #. Name for vsn
@@ -34743,7 +34708,7 @@ msgstr "sanskriti"
 
 #. Name for vsv
 msgid "Valencian Sign Language"
-msgstr ""
+msgstr "valencia viipekeel"
 
 #. Name for vto
 msgid "Vitou"
@@ -34928,10 +34893,8 @@ msgid "Wagdi"
 msgstr ""
 
 #. Name for wbs
-#, fuzzy
-#| msgid "Estonian Sign Language"
 msgid "West Bengal Sign Language"
-msgstr "eesti viipekeel"
+msgstr "läänebengali viipekeel"
 
 #. Name for wbt
 #, fuzzy
@@ -36345,7 +36308,7 @@ msgstr ""
 
 #. Name for xki
 msgid "Kenyan Sign Language"
-msgstr ""
+msgstr "keenia viipekeel"
 
 #. Name for xkj
 #, fuzzy
@@ -36538,7 +36501,7 @@ msgstr "Makedoonia"
 
 #. Name for xml
 msgid "Malaysian Sign Language"
-msgstr ""
+msgstr "malai viipekeel"
 
 #. Name for xmm
 msgid "Manado Malay"
@@ -36575,7 +36538,7 @@ msgstr ""
 
 #. Name for xms
 msgid "Moroccan Sign Language"
-msgstr ""
+msgstr "maroko viipekeel"
 
 #. Name for xmt
 msgid "Matbat"
@@ -37773,9 +37736,8 @@ msgid "Yagaria"
 msgstr "Bulgaaria"
 
 #. Name for ygs
-#, fuzzy
 msgid "Yolŋu Sign Language"
-msgstr "Korea"
+msgstr "jolnju viipekeel"
 
 #. Name for ygu
 msgid "Yugul"
@@ -37814,9 +37776,8 @@ msgid "Phowa, Hlepho"
 msgstr ""
 
 #. Name for yhs
-#, fuzzy
 msgid "Yan-nhaŋu Sign Language"
-msgstr "Korea"
+msgstr "jan-nhanju viipekeel"
 
 #. Name for yia
 #, fuzzy
@@ -38388,13 +38349,11 @@ msgstr "Balti"
 
 #. Name for ysl
 msgid "Yugoslavian Sign Language"
-msgstr ""
+msgstr "jugoslaavia viipekeel"
 
 #. Name for ysm
-#, fuzzy
-#| msgid "Danish Sign Language"
 msgid "Myanmar Sign Language"
-msgstr "taani viipekeel"
+msgstr "myanmari viipekeel"
 
 # src/trans.h:99
 #. Name for ysn
@@ -39048,7 +39007,7 @@ msgstr ""
 
 #. Name for zib
 msgid "Zimbabwe Sign Language"
-msgstr ""
+msgstr "zimbabwe viipekeel"
 
 #. Name for zik
 msgid "Zimakani"
@@ -39625,7 +39584,7 @@ msgstr "Korea"
 
 #. Name for zsl
 msgid "Zambian Sign Language"
-msgstr ""
+msgstr "sambia viipekeel"
 
 #. Name for zsm
 #, fuzzy

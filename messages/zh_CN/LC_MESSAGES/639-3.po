@@ -11,22 +11,23 @@
 # SPDX-FileCopyrightText: 2020 tao wang <tonywang5@163.com>
 # SPDX-FileCopyrightText: 2022 yangyangdaji <1504305527@qq.com>
 # SPDX-FileCopyrightText: 2024 Tyson Tan <tysontanx@gmail.com>
+# lumingzh <lumingzh@qq.com>, 2026.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_639-3\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2025-11-18 11:09+0100\n"
-"PO-Revision-Date: 2024-01-15 15:46+0000\n"
-"Last-Translator: Tyson Tan <tysontanx@gmail.com>\n"
-"Language-Team: Chinese (Simplified) <https://hosted.weblate.org/projects/iso-"
-"codes/iso-639-3/zh_Hans/>\n"
+"PO-Revision-Date: 2026-07-19 03:21+0000\n"
+"Last-Translator: lumingzh <lumingzh@qq.com>\n"
+"Language-Team: Chinese (Simplified Han script) <https://hosted.weblate.org/"
+"projects/iso-codes/iso-639-3/zh_Hans/>\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.4-dev\n"
+"X-Generator: Weblate 2026.8.dev0\n"
 
 #. Name for aaa
 msgid "Ghotuo"
@@ -5580,11 +5581,11 @@ msgstr ""
 
 #. Name for cdo
 msgid "Min Dong Chinese"
-msgstr "汉语 (闽东话)"
+msgstr "闽东话中文"
 
 #. Inverted name for cdo
 msgid "Chinese, Min Dong"
-msgstr "汉语, 闽东话"
+msgstr "中文，闽东话"
 
 #. Name for cdr
 msgid "Cinda-Regi-Tiyal"
@@ -5920,11 +5921,11 @@ msgstr ""
 
 #. Name for cjy
 msgid "Jinyu Chinese"
-msgstr "汉语 (晋语)"
+msgstr "晋语中文"
 
 #. Inverted name for cjy
 msgid "Chinese, Jinyu"
-msgstr "汉语 (晋语)"
+msgstr "中文，晋语"
 
 #. Name for ckb
 msgid "Central Kurdish"
@@ -6116,11 +6117,11 @@ msgstr ""
 
 #. Name for cmn
 msgid "Mandarin Chinese"
-msgstr "汉语 (官话)"
+msgstr "普通话中文"
 
 #. Inverted name for cmn
 msgid "Chinese, Mandarin"
-msgstr "汉语 (官话)"
+msgstr "中文，普通话"
 
 #. Name for cmo
 msgid "Central Mnong"
@@ -6204,11 +6205,11 @@ msgstr ""
 
 #. Name for cnp
 msgid "Northern Ping Chinese"
-msgstr "汉语 (桂北平话)"
+msgstr "桂北平话中文"
 
 #. Inverted name for cnp
 msgid "Chinese, Northern Ping"
-msgstr "汉语 (桂北平话)"
+msgstr "中文，桂北平话"
 
 #. Name for cnq
 msgid "Chung"
@@ -6388,11 +6389,11 @@ msgstr "卡帕多细亚希腊语"
 
 #. Name for cpi
 msgid "Chinese Pidgin English"
-msgstr "汉语 (洋泾浜英语)"
+msgstr "中国洋泾浜英语"
 
 #. Inverted name for cpi
 msgid "Pidgin English, Chinese"
-msgstr "汉语 (洋泾浜英语)"
+msgstr "洋泾浜英语，中国"
 
 #. Name for cpn
 msgid "Cherepon"
@@ -6416,11 +6417,11 @@ msgstr ""
 
 #. Name for cpx
 msgid "Pu-Xian Chinese"
-msgstr "汉语 (莆仙话)"
+msgstr "莆仙话中文"
 
 #. Inverted name for cpx
 msgid "Chinese, Pu-Xian"
-msgstr "汉语 (莆仙话)"
+msgstr "中文，莆仙话"
 
 #. Name for cpy
 msgid "South Ucayali Ashéninka"
@@ -6664,11 +6665,11 @@ msgstr ""
 
 #. Name for csp
 msgid "Southern Ping Chinese"
-msgstr "汉语 (桂南平话)"
+msgstr "桂南平话中文"
 
 #. Inverted name for csp
 msgid "Chinese, Southern Ping"
-msgstr "汉语 (桂南平话)"
+msgstr "中文，桂南平话"
 
 #. Name for csq
 msgid "Croatia Sign Language"
@@ -6980,11 +6981,11 @@ msgstr ""
 
 #. Name for czh
 msgid "Huizhou Chinese"
-msgstr "汉语 (徽语)"
+msgstr "徽语中文"
 
 #. Inverted name for czh
 msgid "Chinese, Huizhou"
-msgstr "汉语 (徽语)"
+msgstr "中文，徽语"
 
 #. Name for czk
 msgid "Knaanic"
@@ -7000,11 +7001,11 @@ msgstr ""
 
 #. Name for czo
 msgid "Min Zhong Chinese"
-msgstr "汉语 (闽中话)"
+msgstr "闽中话中文"
 
 #. Inverted name for czo
 msgid "Chinese, Min Zhong"
-msgstr "汉语 (闽中话)"
+msgstr "中文，闽中话"
 
 #. Name for czt
 msgid "Zotung Chin"
@@ -9532,11 +9533,11 @@ msgstr ""
 
 #. Name for gan
 msgid "Gan Chinese"
-msgstr "汉语 (赣语)"
+msgstr "赣语中文"
 
 #. Inverted name for gan
 msgid "Chinese, Gan"
-msgstr "汉语 (赣语)"
+msgstr "中文，赣语"
 
 #. Name for gao
 msgid "Gants"
@@ -11100,11 +11101,11 @@ msgstr ""
 
 #. Name for hak
 msgid "Hakka Chinese"
-msgstr "汉语 (客家话)"
+msgstr "客家话中文"
 
 #. Inverted name for hak
 msgid "Chinese, Hakka"
-msgstr "汉语 (客家话)"
+msgstr "中文，客家话"
 
 #. Name for hal
 msgid "Halang"
@@ -11790,11 +11791,11 @@ msgstr "豪萨手语"
 
 #. Name for hsn
 msgid "Xiang Chinese"
-msgstr "汉语 (湘语)"
+msgstr "湘语中文"
 
 #. Inverted name for hsn
 msgid "Chinese, Xiang"
-msgstr "汉语 (湘语)"
+msgstr "中文，湘语"
 
 #. Name for hss
 msgid "Harsusi"
@@ -17538,11 +17539,11 @@ msgstr "毛里求斯手语"
 
 #. Name for ltc
 msgid "Late Middle Chinese"
-msgstr "中古汉语 (晚期)"
+msgstr "晚期中古汉语"
 
 #. Inverted name for ltc
 msgid "Chinese, Late Middle"
-msgstr "中古汉语 (晚期)"
+msgstr "中文，晚期中古"
 
 #. Name for ltg
 msgid "Latgalian"
@@ -17605,16 +17606,12 @@ msgid "Ganda"
 msgstr "干达语"
 
 #. Name for luh
-#, fuzzy
-#| msgid "Huizhou Chinese"
 msgid "Leizhou Chinese"
-msgstr "汉语 (徽语)"
+msgstr "雷州话中文"
 
 #. Inverted name for luh
-#, fuzzy
-#| msgid "Chinese, Huizhou"
 msgid "Chinese, Leizhou"
-msgstr "汉语 (徽语)"
+msgstr "中文，雷州话"
 
 #. Name for lui
 msgid "Luiseno"
@@ -17786,11 +17783,11 @@ msgstr ""
 
 #. Name for lzh
 msgid "Literary Chinese"
-msgstr "汉语 (文言文)"
+msgstr "文言中文"
 
 #. Inverted name for lzh
 msgid "Chinese, Literary"
-msgstr "汉语 (文言文)"
+msgstr "中文，文言文"
 
 #. Name for lzl
 msgid "Litzlitz"
@@ -19396,11 +19393,11 @@ msgstr ""
 
 #. Name for mnp
 msgid "Min Bei Chinese"
-msgstr "汉语 (闽北话)"
+msgstr "闽北话中文"
 
 #. Inverted name for mnp
 msgid "Chinese, Min Bei"
-msgstr "汉语 (闽北话)"
+msgstr "中文，闽北话"
 
 #. Name for mnq
 msgid "Minriq"
@@ -20828,11 +20825,11 @@ msgstr ""
 
 #. Name for nan
 msgid "Min Nan Chinese"
-msgstr "汉语 (闽南话)"
+msgstr "闽南话中文"
 
 #. Inverted name for nan
 msgid "Chinese, Min Nan"
-msgstr "汉语 (闽南话)"
+msgstr "中文，闽南话"
 
 #. Name for nao
 msgid "Naaba"
@@ -23272,7 +23269,7 @@ msgstr "上古汉语"
 
 #. Inverted name for och
 msgid "Chinese, Old"
-msgstr "上古汉语"
+msgstr "中文，上古"
 
 #. Name for oci
 msgid "Occitan (post 1500)"
@@ -27795,16 +27792,12 @@ msgid "Sajau Basap"
 msgstr ""
 
 #. Name for sjc
-#, fuzzy
-#| msgid "Xiang Chinese"
 msgid "Shaojiang Chinese"
-msgstr "汉语 (湘语)"
+msgstr "邵将语中文"
 
 #. Inverted name for sjc
-#, fuzzy
-#| msgid "Chinese, Xiang"
 msgid "Chinese, Shaojiang"
-msgstr "汉语 (湘语)"
+msgstr "中文，邵将语"
 
 #. Name for sjd
 msgid "Kildin Sami"
@@ -33682,11 +33675,11 @@ msgstr ""
 
 #. Name for wuu
 msgid "Wu Chinese"
-msgstr "汉语 (吴语)"
+msgstr "吴语中文"
 
 #. Inverted name for wuu
 msgid "Chinese, Wu"
-msgstr "汉语 (吴语)"
+msgstr "中文，吴语"
 
 #. Name for wuv
 msgid "Wuvulu-Aua"
@@ -36158,11 +36151,11 @@ msgstr ""
 
 #. Name for yue
 msgid "Yue Chinese"
-msgstr "汉语 (粤语)"
+msgstr "粤语中文"
 
 #. Inverted name for yue
 msgid "Chinese, Yue"
-msgstr "汉语 (粤语)"
+msgstr "中文，粤语"
 
 #. Name for yuf
 msgid "Havasupai-Walapai-Yavapai"
@@ -36674,7 +36667,7 @@ msgstr "壮语 (砚广)"
 
 #. Name for zho
 msgid "Chinese"
-msgstr "中文; 汉语; 华语"
+msgstr "中文"
 
 #. Name for zhw
 msgid "Zhoa"
