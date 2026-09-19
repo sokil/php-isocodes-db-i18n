@@ -7,13 +7,15 @@
 # SPDX-FileCopyrightText: 2001 Alastair McKinstry <mckinstry@debian.org>
 # SPDX-FileCopyrightText: 2000, 2005 Juan Carlos Castro y Castro <jcastro@vialink.com.br>
 # SPDX-FileCopyrightText: 2019, 2020 Rafael Fontenelle <rafaelff@gnome.org>
+# Mateus Liberale Gomes <sergiogomes209403@gmail.com>, 2025.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2026.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_639-3\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2025-11-18 11:09+0100\n"
-"PO-Revision-Date: 2020-05-06 01:11+0000\n"
+"PO-Revision-Date: 2026-03-20 18:09+0000\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Portuguese (Brazil) <https://hosted.weblate.org/projects/iso-"
 "codes/iso-639-3/pt_BR/>\n"
@@ -22,15 +24,15 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 4.1-dev\n"
+"X-Generator: Weblate 5.17-dev\n"
 
 #. Name for aaa
 msgid "Ghotuo"
-msgstr ""
+msgstr "Ghotuo"
 
 #. Name for aab
 msgid "Alumu-Tesu"
-msgstr ""
+msgstr "Alumu-Tesu"
 
 #. Name for aac
 msgid "Ari"
@@ -38,57 +40,55 @@ msgstr "Ari"
 
 #. Name for aad
 msgid "Amal"
-msgstr ""
+msgstr "Amal"
 
 #. Name for aae
 msgid "Arbëreshë Albanian"
-msgstr ""
+msgstr "Arbëreshë albanês"
 
 #. Inverted name for aae
 msgid "Albanian, Arbëreshë"
-msgstr ""
+msgstr "Albanês, Arbëreshë"
 
 #. Name for aaf
-#, fuzzy
 msgid "Aranadan"
-msgstr "Albanês"
+msgstr "Aranadan"
 
 #. Name for aag
-#, fuzzy
 msgid "Ambrak"
-msgstr "Árabe"
+msgstr "Ambrak"
 
 #. Name for aah
 msgid "Abu' Arapesh"
-msgstr ""
+msgstr "Arapesh abu'"
 
 #. Inverted name for aah
 msgid "Arapesh, Abu'"
-msgstr ""
+msgstr "Abu', Arapesh"
 
 #. Name for aai
 msgid "Arifama-Miniafia"
-msgstr ""
+msgstr "Arifama-Miniafia"
 
 #. Name for aak
 msgid "Ankave"
-msgstr ""
+msgstr "Ankave"
 
 #. Name for aal
 msgid "Afade"
-msgstr ""
+msgstr "Afade"
 
 #. Name for aan
 msgid "Anambé"
-msgstr ""
+msgstr "Anambé"
 
 #. Name for aao
 msgid "Algerian Saharan Arabic"
-msgstr ""
+msgstr "Árabe saariano argelino"
 
 #. Inverted name for aao
 msgid "Arabic, Algerian Saharan"
-msgstr ""
+msgstr "argelino, árabe saariano"
 
 #. Name for aap
 msgid "Pará Arára"

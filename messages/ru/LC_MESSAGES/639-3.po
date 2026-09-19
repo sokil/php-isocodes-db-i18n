@@ -14,23 +14,24 @@
 # Notes:
 # GOST 7.75-97
 # http://www.bibliography.ru/method/gosts/7-75/7_75.htm
+# Blueberry <igory.ygr200@gmail.com>, 2026.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_639-3\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2025-11-18 11:09+0100\n"
-"PO-Revision-Date: 2024-11-13 06:02+0000\n"
-"Last-Translator: kala Asi <maks-s15@mail.ru>\n"
-"Language-Team: Russian <https://hosted.weblate.org/projects/iso-codes/"
-"iso-639-3/ru/>\n"
+"PO-Revision-Date: 2026-03-01 20:09+0000\n"
+"Last-Translator: Blueberry <igory.ygr200@gmail.com>\n"
+"Language-Team: Russian <https://hosted.weblate.org/projects/iso-codes/iso-"
+"639-3/ru/>\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
-"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 5.9-dev\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Weblate 5.16.1-dev\n"
 
 #. Name for aaa
 msgid "Ghotuo"
@@ -6178,11 +6179,11 @@ msgstr ""
 
 #. Name for cco
 msgid "Comaltepec Chinantec"
-msgstr ""
+msgstr "комальтепекский диалект чинантекского"
 
 #. Inverted name for cco
 msgid "Chinantec, Comaltepec"
-msgstr ""
+msgstr "чинантекский, комальтепекский диалект"
 
 #. Name for ccp
 msgid "Chakma"
@@ -6390,11 +6391,11 @@ msgstr "Чинук жаргон"
 
 #. Name for chj
 msgid "Ojitlán Chinantec"
-msgstr ""
+msgstr "охитланский диалект чинантекского"
 
 #. Inverted name for chj
 msgid "Chinantec, Ojitlán"
-msgstr ""
+msgstr "чинантекский, охитланский диалект"
 
 #. Name for chk
 msgid "Chuukese"
@@ -6423,11 +6424,11 @@ msgstr "чипевианский"
 
 #. Name for chq
 msgid "Quiotepec Chinantec"
-msgstr ""
+msgstr "кьётепекский диалект чинантекского"
 
 #. Inverted name for chq
 msgid "Chinantec, Quiotepec"
-msgstr ""
+msgstr "чинантекский, кьётепекский диалект"
 
 #. Name for chr
 msgid "Cherokee"
@@ -6465,11 +6466,11 @@ msgstr "чейенн"
 
 #. Name for chz
 msgid "Ozumacín Chinantec"
-msgstr ""
+msgstr "осумасинский диалект чинантекского"
 
 #. Inverted name for chz
 msgid "Chinantec, Ozumacín"
-msgstr ""
+msgstr "чинантекский, осумасинский диалект"
 
 #. Name for cia
 msgid "Cia-Cia"
@@ -6499,7 +6500,7 @@ msgstr "Китайский"
 
 #. Name for cih
 msgid "Chinali"
-msgstr ""
+msgstr "чинальский диалект"
 
 #. Name for cik
 #, fuzzy
@@ -6711,11 +6712,11 @@ msgstr "новоарамейский, халдейский"
 
 #. Name for cle
 msgid "Lealao Chinantec"
-msgstr ""
+msgstr "леалаонский диалект чинантекского"
 
 #. Inverted name for cle
 msgid "Chinantec, Lealao"
-msgstr ""
+msgstr "чинантекский, леалаонский диалект"
 
 #. Name for clh
 msgid "Chilisso"
@@ -6911,11 +6912,11 @@ msgstr ""
 
 #. Name for cnl
 msgid "Lalana Chinantec"
-msgstr ""
+msgstr "лаланский диалект чинантекского"
 
 #. Inverted name for cnl
 msgid "Chinantec, Lalana"
-msgstr ""
+msgstr "чинантекский, лаланский диалект"
 
 #. Name for cno
 #, fuzzy
@@ -6951,11 +6952,11 @@ msgstr ""
 
 #. Name for cnt
 msgid "Tepetotutla Chinantec"
-msgstr ""
+msgstr "тепетотутланский диалект чинантекского"
 
 #. Inverted name for cnt
 msgid "Chinantec, Tepetotutla"
-msgstr ""
+msgstr "чинантекский, тепетотутланский диалект"
 
 #. Name for cnu
 msgid "Chenoua"
@@ -7094,11 +7095,11 @@ msgstr "Чеченский"
 
 #. Name for cpa
 msgid "Palantla Chinantec"
-msgstr ""
+msgstr "палантланский диалект чинантекского"
 
 #. Inverted name for cpa
 msgid "Chinantec, Palantla"
-msgstr ""
+msgstr "чинантекский, палантланский диалект"
 
 #. Name for cpb
 msgid "Ucayali-Yurúa Ashéninka"
@@ -7331,11 +7332,11 @@ msgstr ""
 
 #. Name for csa
 msgid "Chiltepec Chinantec"
-msgstr ""
+msgstr "чильтепекский диалект чинантекского"
 
 #. Inverted name for csa
 msgid "Chinantec, Chiltepec"
-msgstr ""
+msgstr "чинантекский, чильтепекский диалект"
 
 #. Name for csb
 msgid "Kashubian"
@@ -7416,11 +7417,11 @@ msgstr "Отомангские языки"
 
 #. Name for cso
 msgid "Sochiapam Chinantec"
-msgstr ""
+msgstr "сочиапамский диалект чинантекского"
 
 #. Inverted name for cso
 msgid "Chinantec, Sochiapam"
-msgstr ""
+msgstr "чинантекский, сочиапамский диалект"
 
 #. Name for csp
 #, fuzzy
@@ -7521,11 +7522,11 @@ msgstr ""
 
 #. Name for cte
 msgid "Tepinapa Chinantec"
-msgstr ""
+msgstr "тепинапский диалект чинантекского"
 
 #. Inverted name for cte
 msgid "Chinantec, Tepinapa"
-msgstr ""
+msgstr "чинантекский, тепинапский диалект"
 
 #. Name for ctg
 #, fuzzy
@@ -7543,11 +7544,11 @@ msgstr "Китайский"
 
 #. Name for ctl
 msgid "Tlacoatzintepec Chinantec"
-msgstr ""
+msgstr "тлакоацинтепекский диалект чинантекского"
 
 #. Inverted name for ctl
 msgid "Chinantec, Tlacoatzintepec"
-msgstr ""
+msgstr "чинантекский, тлакоацинтепекский диалект"
 
 #. Name for ctm
 #, fuzzy
@@ -7615,11 +7616,11 @@ msgstr ""
 
 #. Name for cuc
 msgid "Usila Chinantec"
-msgstr ""
+msgstr "усиланский диалект чинантекского"
 
 #. Inverted name for cuc
 msgid "Chinantec, Usila"
-msgstr ""
+msgstr "чинантекский, усиланский диалект"
 
 #. Name for cuh
 #, fuzzy
@@ -7706,11 +7707,11 @@ msgstr "Чибча"
 
 #. Name for cvn
 msgid "Valle Nacional Chinantec"
-msgstr ""
+msgstr "валье насьональский диалект чинантекского"
 
 #. Inverted name for cvn
 msgid "Chinantec, Valle Nacional"
-msgstr ""
+msgstr "чинантекский, валье насьональский диалект"
 
 #. Name for cwa
 #, fuzzy
@@ -12481,9 +12482,8 @@ msgid "Hebrew, Ancient"
 msgstr ""
 
 #. Name for hbs
-#, fuzzy
 msgid "Serbo-Croatian"
-msgstr "Хорватский"
+msgstr "сербохорватский"
 
 #. Name for hbu
 #, fuzzy
@@ -21340,7 +21340,7 @@ msgstr "Ория"
 
 #. Name for mkg
 msgid "Mak (China)"
-msgstr ""
+msgstr "мак (Китай)"
 
 #. Name for mki
 #, fuzzy
@@ -36829,9 +36829,8 @@ msgid "Vute"
 msgstr ""
 
 #. Name for vwa
-#, fuzzy
 msgid "Awa (China)"
-msgstr "Авадхи"
+msgstr "ава (Китай)"
 
 #. Name for waa
 #, fuzzy
@@ -40612,7 +40611,7 @@ msgstr "Санскрит"
 
 #. Name for yso
 msgid "Nisi (China)"
-msgstr ""
+msgstr "ниси (Китай)"
 
 #. Name for ysp
 msgid "Southern Lolopo"

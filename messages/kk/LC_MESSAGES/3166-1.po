@@ -7,21 +7,21 @@
 # SPDX-FileCopyrightText: 2004 Alastair McKinstry <mckinstry@debian.org>
 # SPDX-FileCopyrightText: 2006 Sairan Kikkarin <sairan@sci.kz>
 # SPDX-FileCopyrightText: 2009 Dauren Sarsenov <daur88@inbox.ru>
-# SPDX-FileCopyrightText: 2008-2011 Baurzhan Muftakhidinov <baurthefirst@gmail.com>
+# SPDX-FileCopyrightText: 2008-2026 Baurzhan Muftakhidinov <baurthefirst@gmail.com>
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-1\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2025-11-18 11:09+0100\n"
-"PO-Revision-Date: 2022-12-04 17:11+0600\n"
+"PO-Revision-Date: 2026-01-21 22:04+0500\n"
 "Last-Translator: Baurzhan Muftakhidinov <baurthefirst@gmail.com>\n"
 "Language-Team: Kazakh <kk_KZ@googlegroups.com>\n"
 "Language: kk\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 3.2.2\n"
+"X-Generator: Poedit 3.8\n"
 
 #. Name for ABW
 msgid "Aruba"
@@ -725,7 +725,7 @@ msgstr "Иран Ислам Республикасы"
 
 #. Common name for IRN
 msgid "Iran"
-msgstr ""
+msgstr "Иран"
 
 #. Name for IRQ
 msgid "Iraq"
@@ -845,7 +845,7 @@ msgstr "Лаос Халық Демократиялық Республикасы"
 
 #. Common name for LAO
 msgid "Laos"
-msgstr ""
+msgstr "Лаос"
 
 #. Name for LBN
 msgid "Lebanon"
@@ -1473,7 +1473,7 @@ msgstr "Сирия Араб Республикасы"
 
 #. Common name for SYR
 msgid "Syria"
-msgstr ""
+msgstr "Сирия"
 
 #. Name for TCA
 msgid "Turks and Caicos Islands"

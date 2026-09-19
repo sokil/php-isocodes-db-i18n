@@ -12,22 +12,23 @@
 # SPDX-FileCopyrightText: 2020 tao wang <tonywang5@163.com>
 # SPDX-FileCopyrightText: 2021 Dingzhong Chen <wsxy162@gmail.com>
 # SPDX-FileCopyrightText: 2024 Tyson Tan <tysontanx@gmail.com>
+# Ocyss_04 <git@ocyss.icu>, 2026.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-2\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2025-11-18 11:09+0100\n"
-"PO-Revision-Date: 2024-01-15 15:46+0000\n"
-"Last-Translator: Tyson Tan <tysontanx@gmail.com>\n"
-"Language-Team: Chinese (Simplified) <https://hosted.weblate.org/projects/iso-"
-"codes/iso-3166-2/zh_Hans/>\n"
+"PO-Revision-Date: 2026-02-27 11:09+0000\n"
+"Last-Translator: Ocyss_04 <git@ocyss.icu>\n"
+"Language-Team: Chinese (Simplified Han script) <https://hosted.weblate.org/"
+"projects/iso-codes/iso-3166-2/zh_Hans/>\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.4-dev\n"
+"X-Generator: Weblate 5.16.1-dev\n"
 
 #. Name for AD-02
 msgid "Canillo"
@@ -21269,9 +21270,8 @@ msgid "Đà Nẵng"
 msgstr "岘港"
 
 #. Name for VN-HN
-#, fuzzy
 msgid "Hà Nội"
-msgstr "河南省"
+msgstr "河内市"
 
 #. Name for VN-HP
 #, fuzzy

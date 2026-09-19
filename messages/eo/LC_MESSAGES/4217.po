@@ -4,22 +4,23 @@
 # SPDX-License-Identifier: LGPL-2.1-or-later
 # .
 # SPDX-FileCopyrightText: 2021 phlostically <phlostically@mailinator.com>
+# phlostically <phlostically@mailinator.com>, 2026.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_4217\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2025-11-18 11:09+0100\n"
-"PO-Revision-Date: 2021-12-13 10:15+0000\n"
+"POT-Creation-Date: 2026-01-01 21:08+0100\n"
+"PO-Revision-Date: 2026-05-06 08:31+0000\n"
 "Last-Translator: phlostically <phlostically@mailinator.com>\n"
-"Language-Team: Esperanto <https://hosted.weblate.org/projects/iso-codes/"
-"iso-4217/eo/>\n"
+"Language-Team: Esperanto <https://hosted.weblate.org/projects/iso-codes/iso-"
+"4217/eo/>\n"
 "Language: eo\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.10-dev\n"
+"X-Generator: Weblate 5.17.1\n"
 
 #. Name for AED
 msgid "UAE Dirham"
@@ -54,8 +55,6 @@ msgid "Aruban Florin"
 msgstr "Aruba floreno"
 
 #. Name for AZN
-#, fuzzy
-#| msgid "Azerbaijanian Manat"
 msgid "Azerbaijan Manat"
 msgstr "Azerbajĝana manato"
 
@@ -70,10 +69,6 @@ msgstr "Barbada dolaro"
 #. Name for BDT
 msgid "Taka"
 msgstr "Bangladeŝa tako"
-
-#. Name for BGN
-msgid "Bulgarian Lev"
-msgstr "Bulgaria levo"
 
 #. Name for BHD
 msgid "Bahraini Dinar"
@@ -132,24 +127,20 @@ msgid "Congolese Franc"
 msgstr "Konga franko"
 
 #. Name for CHE
-#, fuzzy
-#| msgid "Euro"
 msgid "WIR Euro"
-msgstr "Eŭro"
+msgstr "WIR-eŭro"
 
 #. Name for CHF
 msgid "Swiss Franc"
 msgstr "Svislanda franko"
 
 #. Name for CHW
-#, fuzzy
-#| msgid "Rwanda Franc"
 msgid "WIR Franc"
-msgstr "Ruanda franko"
+msgstr "WIR-franko"
 
 #. Name for CLF
 msgid "Unidad de Fomento"
-msgstr ""
+msgstr "Unuo de disvolviĝo"
 
 #. Name for CLP
 msgid "Chilean Peso"
@@ -165,7 +156,7 @@ msgstr "Kolombia peso"
 
 #. Name for COU
 msgid "Unidad de Valor Real"
-msgstr ""
+msgstr "Unuo de reala valoro"
 
 #. Name for CRC
 msgid "Costa Rican Colon"
@@ -244,8 +235,6 @@ msgid "Dalasi"
 msgstr ""
 
 #. Name for GNF
-#, fuzzy
-#| msgid "Guinea Franc"
 msgid "Guinean Franc"
 msgstr "Gvinea franko"
 
@@ -322,8 +311,6 @@ msgid "Riel"
 msgstr "Kamboĝa realo"
 
 #. Name for KMF
-#, fuzzy
-#| msgid "Comoro Franc"
 msgid "Comorian Franc"
 msgstr "Komora franko"
 
@@ -349,7 +336,7 @@ msgstr ""
 
 #. Name for LAK
 msgid "Lao Kip"
-msgstr ""
+msgstr "Laosa kipo"
 
 #. Name for LBP
 msgid "Lebanese Pound"
@@ -413,7 +400,7 @@ msgstr "Maldiva rupio"
 
 #. Name for MWK
 msgid "Malawi Kwacha"
-msgstr ""
+msgstr "Malavia kvaĉo"
 
 #. Name for MXN
 msgid "Mexican Peso"
@@ -421,7 +408,7 @@ msgstr "Meksika peso"
 
 #. Name for MXV
 msgid "Mexican Unidad de Inversion (UDI)"
-msgstr ""
+msgstr "Meksika unuo de investo (UDI)"
 
 #. Name for MYR
 msgid "Malaysian Ringgit"
@@ -429,7 +416,7 @@ msgstr "Malajzia ringito"
 
 #. Name for MZN
 msgid "Mozambique Metical"
-msgstr ""
+msgstr "Mozambika metikalo"
 
 #. Name for NAD
 msgid "Namibia Dollar"
@@ -616,14 +603,12 @@ msgid "US Dollar"
 msgstr "Usona dolaro"
 
 #. Name for USN
-#, fuzzy
-#| msgid "US Dollar"
 msgid "US Dollar (Next day)"
-msgstr "Usona dolaro"
+msgstr "Usona dolaro (sekvataga)"
 
 #. Name for UYI
 msgid "Uruguay Peso en Unidades Indexadas (UI)"
-msgstr ""
+msgstr "Urugvaja peso en unuoj indeksitaj (UI)"
 
 #. Name for UYU
 msgid "Peso Uruguayo"
@@ -631,7 +616,7 @@ msgstr "Urugvaja peso"
 
 #. Name for UYW
 msgid "Unidad Previsional"
-msgstr ""
+msgstr "Unuo provizora"
 
 #. Name for UZS
 msgid "Uzbekistan Sum"
@@ -639,7 +624,7 @@ msgstr "Uzbekia somo"
 
 #. Name for VED, Name for VES
 msgid "Bolívar Soberano"
-msgstr ""
+msgstr "Suverena bolivaro"
 
 #. Name for VND
 msgid "Dong"
@@ -654,10 +639,8 @@ msgid "Tala"
 msgstr "Samoa talo"
 
 #. Name for XAD
-#, fuzzy
-#| msgid "Jordanian Dinar"
 msgid "Arab Accounting Dinar"
-msgstr "Jordania dinaro"
+msgstr "Araba konta dinaro"
 
 #. Name for XAF
 msgid "CFA Franc BEAC"
@@ -692,10 +675,8 @@ msgid "East Caribbean Dollar"
 msgstr "Orient-Kariba dolaro"
 
 #. Name for XCG
-#, fuzzy
-#| msgid "East Caribbean Dollar"
 msgid "Caribbean Guilder"
-msgstr "Orient-Kariba dolaro"
+msgstr "Kariba guldeno"
 
 #. Name for XDR
 msgid "SDR (Special Drawing Right)"
@@ -743,10 +724,8 @@ msgstr "Sud-Afrika rando"
 
 #. Name for ZMW
 msgid "Zambian Kwacha"
-msgstr ""
+msgstr "Zambia kvaĉo"
 
 #. Name for ZWG
-#, fuzzy
-#| msgid "Zimbabwe Dollar"
 msgid "Zimbabwe Gold"
-msgstr "Zimbabva dolaro"
+msgstr "Zimbabva oro"

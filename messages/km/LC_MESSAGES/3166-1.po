@@ -8,14 +8,15 @@
 # SPDX-FileCopyrightText: 2006 eng vannak <evannak@khmeros.info>
 # SPDX-FileCopyrightText: 2006, 2010 Khoem Sokhem <khoemsokhem@khmeros.info>
 # SPDX-FileCopyrightText: 2023 កុសិនារា <kursinarapok@gmail.com>
+# SeyhaLite <sok123230@gmail.com>, 2026.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-1\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2025-11-18 11:09+0100\n"
-"PO-Revision-Date: 2023-12-23 10:29+0000\n"
-"Last-Translator: កុសិនារា <kursinarapok@gmail.com>\n"
+"PO-Revision-Date: 2026-09-12 13:51+0000\n"
+"Last-Translator: SeyhaLite <sok123230@gmail.com>\n"
 "Language-Team: Khmer (Central) <https://hosted.weblate.org/projects/iso-"
 "codes/iso-3166-1/km/>\n"
 "Language: km\n"
@@ -23,7 +24,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.4-dev\n"
+"X-Generator: Weblate 2026.10.dev0\n"
 "X-Language: km-KH\n"
 
 #. Name for ABW
@@ -1656,7 +1657,7 @@ msgstr "កោះ​វីជីនអង់គ្លេស"
 
 #. Name for VIR
 msgid "Virgin Islands, U.S."
-msgstr "កោះវីជីន (អាមេរិក)"
+msgstr "កោះវឺជីន ,នៃសហរដ្ឋអាមេរិក។"
 
 #. Official name for VIR
 msgid "Virgin Islands of the United States"

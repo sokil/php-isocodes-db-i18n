@@ -13,22 +13,24 @@
 # SPDX-FileCopyrightText: 2019 Mattias Münster <mattiasmun@gmail.com>
 # SPDX-FileCopyrightText: 2020 Luna Jernberg <droidbittin@gmail.com>
 # SPDX-FileCopyrightText: 2022 Chris Leonard <cjlhomeaddress@gmail.com>
+# Erik Palm <erik.p.palm@gmail.com>, 2025.
+# Anders Jonsson <anders.jonsson@norsjovallen.se>, 2026.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-2\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2025-11-18 11:09+0100\n"
-"PO-Revision-Date: 2022-11-06 20:30+0000\n"
-"Last-Translator: Chris Leonard <cjlhomeaddress@gmail.com>\n"
-"Language-Team: Swedish <https://hosted.weblate.org/projects/iso-codes/"
-"iso-3166-2/sv/>\n"
+"PO-Revision-Date: 2026-02-27 11:09+0000\n"
+"Last-Translator: Anders Jonsson <anders.jonsson@norsjovallen.se>\n"
+"Language-Team: Swedish <https://hosted.weblate.org/projects/iso-codes/iso-"
+"3166-2/sv/>\n"
 "Language: sv\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.14.2\n"
+"X-Generator: Weblate 5.16.1-dev\n"
 "X-Launchpad-Export-Date: 2015-08-18 09:08+0000\n"
 
 #. Name for AD-02
@@ -67,7 +69,7 @@ msgstr "'Ajman"
 
 #. Name for AE-AZ
 msgid "Abū Z̧aby"
-msgstr ""
+msgstr "Abu Dhabi"
 
 #. Name for AE-DU
 msgid "Dubayy"
@@ -20201,7 +20203,7 @@ msgstr "Florida"
 
 #. Name for US-GA
 msgid "Georgia"
-msgstr "Georgien"
+msgstr "Georgia"
 
 #. Name for US-GU
 msgid "Guam"
@@ -20352,10 +20354,8 @@ msgid "Virginia"
 msgstr "Virginia"
 
 #. Name for US-VI
-#, fuzzy
-#| msgid "Virgin Islands"
 msgid "Virgin Islands, U.S."
-msgstr "Jungfruöarna"
+msgstr "Jungfruöarna, Amerikanska"
 
 #. Name for US-VT
 msgid "Vermont"
