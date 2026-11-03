@@ -11,14 +11,15 @@
 # SPDX-FileCopyrightText: 2020, 2021 Gontzal Manuel Pujana Onaindia <thadahdenyse@gmail.com>
 # SPDX-FileCopyrightText: 2020, 2022 Gorka Azkarate Zubiaur <gorkaazkarate@gmail.com>
 # Valet <jeanvalet1212@outlook.fr>, 2026.
+# julen <julen@users.noreply.hosted.weblate.org>, 2026.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_639-3\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2025-11-18 11:09+0100\n"
-"PO-Revision-Date: 2026-04-14 16:10+0000\n"
-"Last-Translator: Valet <jeanvalet1212@outlook.fr>\n"
+"PO-Revision-Date: 2026-10-20 18:43+0000\n"
+"Last-Translator: julen <julen@users.noreply.hosted.weblate.org>\n"
 "Language-Team: Basque <https://hosted.weblate.org/projects/iso-codes/iso-639-"
 "3/eu/>\n"
 "Language: eu\n"
@@ -26,7 +27,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.17-dev\n"
+"X-Generator: Weblate 2026.11.dev0\n"
 "X-Bugs: Report translation errors to the Language-Team address.\n"
 
 #. Name for aaa
@@ -3059,9 +3060,8 @@ msgid "Bebeli"
 msgstr "Tailandiera"
 
 #. Name for bel
-#, fuzzy
 msgid "Belarusian"
-msgstr "Bulgariera"
+msgstr "Bielorrusiera"
 
 #. Name for bem
 msgid "Bemba (Zambia)"
@@ -9162,11 +9162,11 @@ msgstr ""
 
 #. Name for ell
 msgid "Modern Greek (1453-)"
-msgstr ""
+msgstr "Greziera modernoa (1453-)"
 
 #. Inverted name for ell
 msgid "Greek, Modern (1453-)"
-msgstr "Greko modernoa (1453tik aurrera)"
+msgstr "Greziera modernoa (1453-)"
 
 #. Name for elm
 msgid "Eleme"
@@ -9310,9 +9310,8 @@ msgid "Enets, Forest"
 msgstr ""
 
 #. Name for eng
-#, fuzzy
 msgid "English"
-msgstr "Ingelera - EB"
+msgstr "Ingelesa"
 
 #. Name for enh
 msgid "Tundra Enets"
@@ -10909,7 +10908,6 @@ msgid "Irish"
 msgstr "Irlandako gaelera"
 
 #. Name for glg
-#, fuzzy
 msgid "Galician"
 msgstr "Galiziera"
 
@@ -18826,7 +18824,7 @@ msgstr "Tailandiera"
 
 #. Name for lug
 msgid "Ganda"
-msgstr ""
+msgstr "Gandera"
 
 #. Name for luh
 #, fuzzy
@@ -22813,9 +22811,8 @@ msgid "Ná-Meo"
 msgstr ""
 
 #. Name for nep
-#, fuzzy
 msgid "Nepali (macrolanguage)"
-msgstr "Koreera"
+msgstr "Nepalera (makrohizkuntza)"
 
 #. Name for neq
 #, fuzzy
@@ -24001,9 +23998,8 @@ msgid "Naga, Phom"
 msgstr ""
 
 #. Name for npi
-#, fuzzy
 msgid "Nepali (individual language)"
-msgstr "Koreera"
+msgstr "Nepalera (bakarkako hizkuntza)"
 
 #. Name for npl
 msgid "Southeastern Puebla Nahuatl"
@@ -24932,7 +24928,7 @@ msgstr "Txinera"
 
 #. Name for oci
 msgid "Occitan (post 1500)"
-msgstr "Okzitaniera"
+msgstr "Okzitaniera (1500 ondorengokoa)"
 
 #. Name for ocm
 #, fuzzy
@@ -25898,7 +25894,7 @@ msgstr "pampangera"
 
 #. Name for pan
 msgid "Panjabi"
-msgstr ""
+msgstr "Punjabera"
 
 #. Name for pao
 #, fuzzy
@@ -26841,13 +26837,12 @@ msgid "Punan Bah-Biau"
 msgstr ""
 
 #. Name for pnb
-#, fuzzy
 msgid "Western Panjabi"
-msgstr "Ukrainiarra"
+msgstr "Mendebaldeko punjabera"
 
 #. Inverted name for pnb
 msgid "Panjabi, Western"
-msgstr ""
+msgstr "Punjabera, mendebalekoa"
 
 #. Name for pnc
 #, fuzzy
@@ -30436,11 +30431,11 @@ msgstr "Grekoa"
 
 #. Name for sot
 msgid "Southern Sotho"
-msgstr ""
+msgstr "Hego-sothoera"
 
 #. Inverted name for sot
 msgid "Sotho, Southern"
-msgstr "Hegoaldeko sothoera"
+msgstr "Sothoera, hegoaldekoa"
 
 #. Name for sou
 msgid "Southern Thai"
@@ -34214,7 +34209,7 @@ msgstr ""
 
 #. Name for ukl
 msgid "Ukrainian Sign Language"
-msgstr ""
+msgstr "Ukrainako zeinu hizkuntza"
 
 #. Name for ukp
 msgid "Ukpe-Bayobiri"
@@ -34225,9 +34220,8 @@ msgid "Ukwa"
 msgstr ""
 
 #. Name for ukr
-#, fuzzy
 msgid "Ukrainian"
-msgstr "Ukrainiarra"
+msgstr "Ukrainera"
 
 #. Name for uks
 msgid "Urubú-Kaapor Sign Language"
